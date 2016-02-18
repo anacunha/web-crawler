@@ -71,9 +71,9 @@ public class Crawler {
         // Save Graph
         saveGraph();
         // Save URLs
-        saveURLs();
+        // saveURLs();
         // Save Documents
-        saveDocuments();
+        // saveDocuments();
     }
 
     public String getNextPage() {
@@ -134,15 +134,16 @@ public class Crawler {
         return url.replace("https://en.wikipedia.org/wiki/", "");
     }
 
-    private void addIncomingLink(String page, String link) {
-        String pageID = getDocID(page);
-        String linkID = getDocID(link);
+    private void addIncomingLink(String destination, String source) {
+        String destinationID = getDocID(destination);
+        String sourceID = getDocID(source);
 
-        if(graph.containsKey(pageID) && !graph.get(pageID).contains(linkID)) {
-            graph.get(pageID).add(linkID);
+        if (graph.containsKey(destinationID)) {
+            if(!graph.get(destinationID).contains(sourceID))
+                graph.get(destinationID).add(sourceID);
         }
         else {
-            graph.put(pageID, new ArrayList<>(Collections.singletonList(linkID)));
+            graph.put(destinationID, new ArrayList<>(Collections.singletonList(sourceID)));
         }
     }
 
