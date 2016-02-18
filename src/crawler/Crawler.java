@@ -18,11 +18,13 @@ public class Crawler {
     private static final int MAX_DEPTH_TO_CRAWL = 5;
     private static final int MAX_PAGES_TO_CRAWL = 1000;
     private Map<String, String> crawledPages;
+    private Map<String, List<String>> graph;
     private List<String> requestQueue;
     private StringBuilder urlsList;
 
     public Crawler(String seed) {
         urlsList = new StringBuilder();
+        graph = new LinkedHashMap<>();
         crawledPages = new TreeMap<>(String.CASE_INSENSITIVE_ORDER);
         requestQueue = new LinkedList<>();
         requestQueue.add(seed);
@@ -43,7 +45,6 @@ public class Crawler {
                 // Add current page to tree of crawled pages
                 crawledPages.put(currentPage, document.html());
                 urlsList.append(currentPage).append("\n");
-                //System.out.println("Page Crawled: " + currentPage);
 
                 for(Element link : anchorElements) {
                     // Get the absolute URL from link
@@ -56,6 +57,9 @@ public class Crawler {
                         // Remove # from URLs
                         url = url.split("#")[0];
                         requestQueue.add(url);
+
+                        // Add incoming link to graph
+                        addIncomingLink(url.toLowerCase(), currentPage.toLowerCase());
                     }
                 }
             }
@@ -64,6 +68,8 @@ public class Crawler {
             }
         }
 
+        // Save Graph
+        saveGraph();
         // Save URLs
         saveURLs();
         // Save Documents
@@ -91,7 +97,7 @@ public class Crawler {
         }
     }
 
-    public void saveDocuments() {
+    private void saveDocuments() {
         FileWriter docsFile;
         BufferedWriter docsBuffer;
 
@@ -112,4 +118,45 @@ public class Crawler {
             e.printStackTrace();
         }
     }
+
+    private void saveGraph() {
+        try {
+            FileWriter urlsFile = new FileWriter("WG1.txt");
+            urlsFile.write(printGraph());
+            urlsFile.close();
+        }
+        catch(IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    private String getDocID(String url) {
+        return url.replace("https://en.wikipedia.org/wiki/", "");
+    }
+
+    private void addIncomingLink(String page, String link) {
+        String pageID = getDocID(page);
+        String linkID = getDocID(link);
+
+        if(graph.containsKey(pageID) && !graph.get(pageID).contains(linkID)) {
+            graph.get(pageID).add(linkID);
+        }
+        else {
+            graph.put(pageID, new ArrayList<>(Collections.singletonList(linkID)));
+        }
+    }
+
+    private String printGraph() {
+        StringBuilder graphString = new StringBuilder();
+
+        for (Map.Entry<String, List<String>> pairs : graph.entrySet()) {
+            graphString.append(pairs.getKey())
+                       .append(" ")
+                       .append(Arrays.toString(pairs.getValue().toArray()))
+                       .append("\n");
+        }
+
+        return graphString.toString().replace("[","").replace(",", "").replace("]","");
+    }
+
 }
