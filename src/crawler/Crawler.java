@@ -15,18 +15,21 @@ import java.util.regex.Pattern;
 
 public class Crawler {
 
-    protected static final int MAX_DEPTH_TO_CRAWL = 5;
-    protected static final int MAX_PAGES_TO_CRAWL = 1000;
+    private static final int MAX_DEPTH_TO_CRAWL = 5;
+    private static final int MAX_PAGES_TO_CRAWL = 1000;
     private Map<String, String> crawledPages;
     private List<String> requestQueue;
+    private StringBuilder urlsList;
 
     public Crawler(String seed) {
+        urlsList = new StringBuilder();
         crawledPages = new TreeMap<>(String.CASE_INSENSITIVE_ORDER);
         requestQueue = new LinkedList<>();
         requestQueue.add(seed);
+        crawl();
     }
 
-    public void crawl() {
+    private void crawl() {
         // Stop once you've crawled 1000 unique URLs
         while(crawledPages.size() < MAX_PAGES_TO_CRAWL) {
 
@@ -39,7 +42,8 @@ public class Crawler {
 
                 // Add current page to tree of crawled pages
                 crawledPages.put(currentPage, document.html());
-                System.out.println("Page Crawled: " + currentPage);
+                urlsList.append(currentPage).append("\n");
+                //System.out.println("Page Crawled: " + currentPage);
 
                 for(Element link : anchorElements) {
                     // Get the absolute URL from link
@@ -60,8 +64,10 @@ public class Crawler {
             }
         }
 
-        // Save Documents and its URLs
-        saveDocumentsURLs();
+        // Save URLs
+        saveURLs();
+        // Save Documents
+        saveDocuments();
     }
 
     public String getNextPage() {
@@ -74,28 +80,32 @@ public class Crawler {
         return nextPage;
     }
 
-    public void saveDocumentsURLs() {
-        FileWriter urlsFile;
+    private void saveURLs() {
+        try {
+            FileWriter urlsFile = new FileWriter("urls_task1.txt");
+            urlsFile.write(urlsList.toString());
+            urlsFile.close();
+        }
+        catch(IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    public void saveDocuments() {
         FileWriter docsFile;
-        BufferedWriter urlsBuffer;
         BufferedWriter docsBuffer;
 
         try {
-            urlsFile = new FileWriter("urls.txt");
-            urlsBuffer = new BufferedWriter(urlsFile);
-
-            docsFile = new FileWriter("docs.txt");
+            docsFile = new FileWriter("docs_task1.txt");
             docsBuffer = new BufferedWriter(docsFile);
 
             Iterator<Map.Entry<String, String>> iterator = crawledPages.entrySet().iterator();
 
             while (iterator.hasNext()) {
                 Map.Entry<String, String> pairs = iterator.next();
-                urlsBuffer.write(pairs.getKey() + "\n");
                 docsBuffer.write(pairs.getKey() + "\n");
                 docsBuffer.write(pairs.getValue() + "\n\n");
             }
-            urlsBuffer.close();
             docsBuffer.close();
         }
         catch (IOException e) {
