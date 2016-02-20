@@ -55,3 +55,6 @@ hs_err_pid*
 
 # Mac OS X
 .DS_Store
+
+# Output folder
+/output/

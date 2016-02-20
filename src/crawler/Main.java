@@ -3,16 +3,12 @@ package crawler;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Task 1: Crawling the documents");
-        System.out.println("...");
-        new Crawler("https://en.wikipedia.org/wiki/Sustainable_energy");
+        System.out.println("Task 1.A: Obtaining directed web graph from Crawler");
+        System.out.println("...\n");
+        //new Crawler("https://en.wikipedia.org/wiki/Sustainable_energy");
 
-//        System.out.println("\nTask 2: Focused Crawling BFS");
-//        System.out.println("...");
-//        new FocusedCrawler("https://en.wikipedia.org/wiki/Sustainable_energy", "solar");
-//
-//        System.out.println("\nTask 2: Focused Crawling DFS");
-//        System.out.println("...");
-//        new FocusedCrawlerDFS("https://en.wikipedia.org/wiki/Sustainable_energy", "solar");
+        System.out.println("Task 1.B: Obtaining directed web graph from WT2g");
+        System.out.println("...\n");
+        new InLinksFileReader("input/wt2g_inlinks.txt");
     }
 }
