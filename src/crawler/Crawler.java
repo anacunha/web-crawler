@@ -6,9 +6,7 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-import java.io.BufferedWriter;
-import java.io.FileWriter;
-import java.io.IOException;
+import java.io.*;
 import java.util.*;
 import java.util.regex.Pattern;
 
@@ -18,13 +16,15 @@ public class Crawler {
     private static final int MAX_DEPTH_TO_CRAWL = 5;
     private static final int MAX_PAGES_TO_CRAWL = 1000;
     private Map<String, String> crawledPages;
-    private Map<String, List<String>> graph;
+    private Map<String, List<String>> inLinks;
+    private Map<String, List<String>> outLinks;
     private List<String> requestQueue;
     private StringBuilder urlsList;
 
     public Crawler(String seed) {
         urlsList = new StringBuilder();
-        graph = new LinkedHashMap<>();
+        inLinks = new LinkedHashMap<>();
+        outLinks = new LinkedHashMap<>();
         crawledPages = new TreeMap<>(String.CASE_INSENSITIVE_ORDER);
         requestQueue = new LinkedList<>();
         requestQueue.add(seed);
@@ -60,6 +60,8 @@ public class Crawler {
 
                         // Add incoming link to graph
                         addIncomingLink(url.toLowerCase(), currentPage.toLowerCase());
+                        // Add outgoing link to graph
+                        addOutgoingLink(currentPage.toLowerCase(), url.toLowerCase());
                     }
                 }
             }
@@ -88,9 +90,10 @@ public class Crawler {
 
     private void saveURLs() {
         try {
-            FileWriter urlsFile = new FileWriter("urls_task1.txt");
-            urlsFile.write(urlsList.toString());
-            urlsFile.close();
+            FileWriter fileWriter = new FileWriter("output/urls_task1.txt");
+            BufferedWriter bufferedWriter = new BufferedWriter(fileWriter);
+            bufferedWriter.write(urlsList.toString());
+            bufferedWriter.close();
         }
         catch(IOException e) {
             e.printStackTrace();
@@ -98,21 +101,18 @@ public class Crawler {
     }
 
     private void saveDocuments() {
-        FileWriter docsFile;
-        BufferedWriter docsBuffer;
-
         try {
-            docsFile = new FileWriter("docs_task1.txt");
-            docsBuffer = new BufferedWriter(docsFile);
+            FileWriter fileWriter = new FileWriter("output/docs_task1.txt");
+            BufferedWriter bufferedWriter = new BufferedWriter(fileWriter);
 
             Iterator<Map.Entry<String, String>> iterator = crawledPages.entrySet().iterator();
 
             while (iterator.hasNext()) {
                 Map.Entry<String, String> pairs = iterator.next();
-                docsBuffer.write(pairs.getKey() + "\n");
-                docsBuffer.write(pairs.getValue() + "\n\n");
+                bufferedWriter.write(pairs.getKey() + "\n");
+                bufferedWriter.write(pairs.getValue() + "\n\n");
             }
-            docsBuffer.close();
+            bufferedWriter.close();
         }
         catch (IOException e) {
             e.printStackTrace();
@@ -121,9 +121,10 @@ public class Crawler {
 
     private void saveGraph() {
         try {
-            FileWriter urlsFile = new FileWriter("WG1.txt");
-            urlsFile.write(printGraph());
-            urlsFile.close();
+            FileWriter fileWriter = new FileWriter("output/WG1_.txt");
+            BufferedWriter bufferedWriter = new BufferedWriter(fileWriter);
+            bufferedWriter.write(printGraph());
+            bufferedWriter.close();
         }
         catch(IOException e) {
             e.printStackTrace();
@@ -138,19 +139,32 @@ public class Crawler {
         String destinationID = getDocID(destination);
         String sourceID = getDocID(source);
 
-        if (graph.containsKey(destinationID)) {
-            if(!graph.get(destinationID).contains(sourceID))
-                graph.get(destinationID).add(sourceID);
+        if (inLinks.containsKey(destinationID)) {
+            if (!inLinks.get(destinationID).contains(sourceID))
+                inLinks.get(destinationID).add(sourceID);
         }
         else {
-            graph.put(destinationID, new ArrayList<>(Collections.singletonList(sourceID)));
+            inLinks.put(destinationID, new ArrayList<>(Collections.singletonList(sourceID)));
+        }
+    }
+
+    private void addOutgoingLink(String destination, String source) {
+        String destinationID = getDocID(destination);
+        String sourceID = getDocID(source);
+
+        if (outLinks.containsKey(sourceID)) {
+            if (!outLinks.get(sourceID).contains(destinationID))
+                outLinks.get(sourceID).add(destinationID);
+        }
+        else {
+            outLinks.put(sourceID, new ArrayList<>(Collections.singletonList(destinationID)));
         }
     }
 
     private String printGraph() {
         StringBuilder graphString = new StringBuilder();
 
-        for (Map.Entry<String, List<String>> pairs : graph.entrySet()) {
+        for (Map.Entry<String, List<String>> pairs : inLinks.entrySet()) {
             graphString.append(pairs.getKey())
                        .append(" ")
                        .append(Arrays.toString(pairs.getValue().toArray()))
