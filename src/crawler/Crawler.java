@@ -13,21 +13,18 @@ import java.util.regex.Pattern;
 
 public class Crawler {
 
-    private static final int MAX_DEPTH_TO_CRAWL = 5;
     private static final int MAX_PAGES_TO_CRAWL = 1000;
     private Map<String, String> crawledPages;
-    private Map<String, List<String>> inLinks;
-    private Map<String, List<String>> outLinks;
     private List<String> requestQueue;
+    private WebGraph webGraph;
     private StringBuilder urlsList;
 
     public Crawler(String seed) {
         urlsList = new StringBuilder();
-        inLinks = new LinkedHashMap<>();
-        outLinks = new LinkedHashMap<>();
         crawledPages = new TreeMap<>(String.CASE_INSENSITIVE_ORDER);
         requestQueue = new LinkedList<>();
         requestQueue.add(seed);
+        webGraph = new WebGraph();
         crawl();
     }
 
@@ -45,6 +42,7 @@ public class Crawler {
                 // Add current page to tree of crawled pages
                 crawledPages.put(currentPage, document.html());
                 urlsList.append(currentPage).append("\n");
+                webGraph.addPage(getDocID(currentPage));
 
                 for(Element link : anchorElements) {
                     // Get the absolute URL from link
@@ -59,9 +57,11 @@ public class Crawler {
                         requestQueue.add(url);
 
                         // Add incoming link to graph
-                        addIncomingLink(url.toLowerCase(), currentPage.toLowerCase());
+                        webGraph.addIncomingLink(getDocID(url),
+                                                 getDocID(currentPage));
                         // Add outgoing link to graph
-                        addOutgoingLink(currentPage.toLowerCase(), url.toLowerCase());
+                        webGraph.addOutgoingLink(getDocID(url),
+                                                 getDocID(currentPage));
                     }
                 }
             }
@@ -70,10 +70,12 @@ public class Crawler {
             }
         }
 
+        // Clear incoming links not in pages
+        webGraph.cleanInLinks();
         // Save Graph
-        saveGraph();
+        webGraph.saveGraph("output/WG1");
         // Save URLs
-        // saveURLs();
+        saveURLs();
         // Save Documents
         // saveDocuments();
     }
@@ -90,7 +92,7 @@ public class Crawler {
 
     private void saveURLs() {
         try {
-            FileWriter fileWriter = new FileWriter("output/urls_task1.txt");
+            FileWriter fileWriter = new FileWriter("output/WG1_urls.txt");
             BufferedWriter bufferedWriter = new BufferedWriter(fileWriter);
             bufferedWriter.write(urlsList.toString());
             bufferedWriter.close();
@@ -102,15 +104,12 @@ public class Crawler {
 
     private void saveDocuments() {
         try {
-            FileWriter fileWriter = new FileWriter("output/docs_task1.txt");
+            FileWriter fileWriter = new FileWriter("output/WG1_docs.txt");
             BufferedWriter bufferedWriter = new BufferedWriter(fileWriter);
 
-            Iterator<Map.Entry<String, String>> iterator = crawledPages.entrySet().iterator();
-
-            while (iterator.hasNext()) {
-                Map.Entry<String, String> pairs = iterator.next();
-                bufferedWriter.write(pairs.getKey() + "\n");
-                bufferedWriter.write(pairs.getValue() + "\n\n");
+            for (Map.Entry<String, String> entry : crawledPages.entrySet()) {
+                bufferedWriter.write(entry.getKey() + "\n");
+                bufferedWriter.write(entry.getValue() + "\n\n");
             }
             bufferedWriter.close();
         }
@@ -119,59 +118,7 @@ public class Crawler {
         }
     }
 
-    private void saveGraph() {
-        try {
-            FileWriter fileWriter = new FileWriter("output/WG1_.txt");
-            BufferedWriter bufferedWriter = new BufferedWriter(fileWriter);
-            bufferedWriter.write(printGraph());
-            bufferedWriter.close();
-        }
-        catch(IOException e) {
-            e.printStackTrace();
-        }
-    }
-
     private String getDocID(String url) {
-        return url.replace("https://en.wikipedia.org/wiki/", "");
+        return url.replace("https://en.wikipedia.org/wiki/", "").toLowerCase();
     }
-
-    private void addIncomingLink(String destination, String source) {
-        String destinationID = getDocID(destination);
-        String sourceID = getDocID(source);
-
-        if (inLinks.containsKey(destinationID)) {
-            if (!inLinks.get(destinationID).contains(sourceID))
-                inLinks.get(destinationID).add(sourceID);
-        }
-        else {
-            inLinks.put(destinationID, new ArrayList<>(Collections.singletonList(sourceID)));
-        }
-    }
-
-    private void addOutgoingLink(String destination, String source) {
-        String destinationID = getDocID(destination);
-        String sourceID = getDocID(source);
-
-        if (outLinks.containsKey(sourceID)) {
-            if (!outLinks.get(sourceID).contains(destinationID))
-                outLinks.get(sourceID).add(destinationID);
-        }
-        else {
-            outLinks.put(sourceID, new ArrayList<>(Collections.singletonList(destinationID)));
-        }
-    }
-
-    private String printGraph() {
-        StringBuilder graphString = new StringBuilder();
-
-        for (Map.Entry<String, List<String>> pairs : inLinks.entrySet()) {
-            graphString.append(pairs.getKey())
-                       .append(" ")
-                       .append(Arrays.toString(pairs.getValue().toArray()))
-                       .append("\n");
-        }
-
-        return graphString.toString().replace("[","").replace(",", "").replace("]","");
-    }
-
 }
