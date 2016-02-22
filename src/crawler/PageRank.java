@@ -3,14 +3,12 @@ package crawler;
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
+import java.util.*;
 
 public class PageRank {
 
     private static final double D = 0.85;   /* Dumping Factor */
-    private HashMap<String, Double> pageRanks;
+    private Map<String, Double> pageRanks;
     private List<String> sinkPages;
     private WebGraph webGraph;
     private StringBuilder perplexities;
@@ -19,16 +17,16 @@ public class PageRank {
 
     public PageRank(WebGraph webGraph) {
         this.webGraph = webGraph;
-        processSinkPages();
+        sinkPages = webGraph.getSinkPages();
     }
 
-    public HashMap<String, Double> getPageRanks() {
+    public Map<String, Double> getPageRanks() {
 
         final int N = webGraph.getPages().size();
         HashMap<String, Double> newPageRanks = new HashMap<>();
         previousPerplexity = Integer.MAX_VALUE;
         perplexities = new StringBuilder();
-        pageRanks = new HashMap<>();
+        pageRanks = new LinkedHashMap<>();
         convergeCount = 0;
 
         // For each page p in P (set of all pages)
@@ -76,19 +74,8 @@ public class PageRank {
             }
         }
         savePerplexities();
+        sortPageRank();
         return pageRanks;
-    }
-
-    private void processSinkPages() {
-        sinkPages = new ArrayList<>();
-
-        // S is the set of sink pages
-        // (pages that have no out links)
-        for (String page : webGraph.getOutLinks().keySet()) {
-            if (webGraph.getOutLinks().get(page).isEmpty()) {
-                sinkPages.add(page);
-            }
-        }
     }
 
     private boolean hasConverged() {
@@ -133,6 +120,35 @@ public class PageRank {
         }
         catch(IOException e) {
             e.printStackTrace();
+        }
+    }
+
+    public void getTop50() {
+        int count = 1;
+
+        for (Map.Entry<String, Double> pageRank : pageRanks.entrySet()) {
+            System.out.println(count + ". " + pageRank.getKey() + " (" + pageRank.getValue() +")");
+            count++;
+
+            if(count > 50)
+                break;
+        }
+    }
+
+    private void sortPageRank() {
+        // Convert Map to List
+        List<Map.Entry<String, Double>> list = new LinkedList<>(pageRanks.entrySet());
+
+        // Sort list with comparator, to compare the Map values
+        Collections.sort(list, (o1, o2) -> (o1.getValue()).compareTo(o2.getValue()));
+
+        // Reverse to get descending order
+        Collections.reverse(list);
+
+        // Convert sorted map back to a Map
+        pageRanks = new LinkedHashMap<>();
+        for (Map.Entry<String, Double> entry : list) {
+            pageRanks.put(entry.getKey(), entry.getValue());
         }
     }
 
