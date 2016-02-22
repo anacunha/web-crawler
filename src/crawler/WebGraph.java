@@ -66,10 +66,6 @@ public class WebGraph {
         catch(IOException e) {
             e.printStackTrace();
         }
-
-        System.out.println("In links: " + inLinks.size());
-        System.out.println("Out links: " + outLinks.size());
-        System.out.println("Total Pages: " + pages.size());
     }
 
     private String printGraph(Map<String, List<String>> graph) {
@@ -123,5 +119,82 @@ public class WebGraph {
 
     public String getName() {
         return name;
+    }
+
+    public List<String> getSinkPages() {
+        // Sink Pages are pages with no out-links
+        ArrayList<String> sinkPages = new ArrayList<>();
+
+        for (String page : outLinks.keySet()) {
+            if (outLinks.get(page).isEmpty()) {
+                sinkPages.add(page);
+            }
+        }
+        return sinkPages;
+    }
+
+    public List<String> getSourcePages() {
+        // Source Pages are pages with no in-links
+        ArrayList<String> sourcePages = new ArrayList<>();
+
+        for (String page : inLinks.keySet()) {
+            if (inLinks.get(page).isEmpty()) {
+                sourcePages.add(page);
+            }
+        }
+        return sourcePages;
+    }
+
+    public HashMap<Integer, Integer> getInLinksDistribution() {
+        HashMap<Integer, Integer> dist = new HashMap<>();
+
+        // Number of in-link count vs. Number of pages
+        for (String page : inLinks.keySet()) {
+
+            int numInLinks = inLinks.get(page).size();
+
+            if (dist.containsKey(numInLinks)) {
+                // Increase number of pages by 1
+                dist.put(numInLinks, dist.get(numInLinks) + 1);
+            } else {
+                dist.put(numInLinks, 1);
+            }
+        }
+        return dist;
+    }
+
+    private void saveLinksDistribution() {
+        try {
+            FileWriter fileWriter = new FileWriter("output/" + name + ".csv");
+            BufferedWriter bufferedWriter = new BufferedWriter(fileWriter);
+            bufferedWriter.write("Number of Pages,In-link Count");
+
+            for (Map.Entry<Integer, Integer> entry : getInLinksDistribution().entrySet()) {
+                bufferedWriter.write("\n");
+                bufferedWriter.write(entry.getValue().toString());
+                bufferedWriter.write(",");
+                bufferedWriter.write(entry.getKey().toString());
+            }
+            bufferedWriter.close();
+        }
+        catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    public void getStatistics() {
+        double totalPages = pages.size();
+        System.out.println("Total Pages: " + (int) totalPages);
+
+        double sourcePages = getSourcePages().size();
+        System.out.println("Source Pages: " + (int) sourcePages);
+
+        double sinkPages = getSinkPages().size();
+        System.out.println("Sinks Pages: " + (int) sinkPages + "\n");
+
+        System.out.println("Proportion of Source Pages: " + (100 * sourcePages / totalPages) + "%");
+        System.out.println("Proportion of Sink Pages: " + (100 * sinkPages / totalPages) + "%\n");
+
+        saveLinksDistribution();
     }
 }
