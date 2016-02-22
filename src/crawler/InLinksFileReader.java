@@ -1,18 +1,11 @@
 package crawler;
 
 import java.io.*;
-import java.util.*;
 
 public class InLinksFileReader {
 
-    private WebGraph webGraph;
-
-    public InLinksFileReader(String fileName) {
-        webGraph = new WebGraph();
-        readFile(fileName);
-    }
-
-    private void readFile(String fileName) {
+    public static WebGraph readFile(String fileName) {
+        WebGraph webGraph = new WebGraph(fileName.replace(".txt", ""));
         String line;
 
         try {
@@ -31,10 +24,11 @@ public class InLinksFileReader {
                 }
             }
             bufferedReader.close();
-            webGraph.saveGraph("output/WG2");
+            webGraph.saveGraph();
         }
         catch (Exception e) {
             e.printStackTrace();
         }
+        return webGraph;
     }
 }

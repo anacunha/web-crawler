@@ -24,11 +24,10 @@ public class Crawler {
         crawledPages = new TreeMap<>(String.CASE_INSENSITIVE_ORDER);
         requestQueue = new LinkedList<>();
         requestQueue.add(seed);
-        webGraph = new WebGraph();
-        crawl();
+        webGraph = new WebGraph("WG1");
     }
 
-    private void crawl() {
+    public WebGraph crawl() {
         // Stop once you've crawled 1000 unique URLs
         while(crawledPages.size() < MAX_PAGES_TO_CRAWL) {
 
@@ -73,14 +72,16 @@ public class Crawler {
         // Clear incoming links not in pages
         webGraph.cleanInLinks();
         // Save Graph
-        webGraph.saveGraph("output/WG1");
+        webGraph.saveGraph();
         // Save URLs
         saveURLs();
         // Save Documents
-        // saveDocuments();
+        saveDocuments();
+
+        return webGraph;
     }
 
-    public String getNextPage() {
+    private String getNextPage() {
         String nextPage = requestQueue.remove(0);
 
         while(crawledPages.containsKey(nextPage)) {

@@ -10,11 +10,13 @@ public class WebGraph {
     private Map<String, List<String>> inLinks;
     private Map<String, List<String>> outLinks;
     private List<String> pages;
+    private String name;
 
-    public WebGraph() {
+    public WebGraph(String name) {
         inLinks = new LinkedHashMap<>();
         outLinks = new LinkedHashMap<>();
         pages = new ArrayList<>();
+        this.name = name;
     }
 
     public void addPage(String page) {
@@ -49,14 +51,14 @@ public class WebGraph {
         }
     }
 
-    public void saveGraph(String fileName) {
+    public void saveGraph() {
         try {
-            FileWriter fileWriter = new FileWriter(fileName + "_in.txt");
+            FileWriter fileWriter = new FileWriter("output/" + name + "_in.txt");
             BufferedWriter bufferedWriter = new BufferedWriter(fileWriter);
             bufferedWriter.write(printGraph(inLinks));
             bufferedWriter.close();
 
-            fileWriter = new FileWriter(fileName + "_out.txt");
+            fileWriter = new FileWriter("output/" + name + "_out.txt");
             bufferedWriter = new BufferedWriter(fileWriter);
             bufferedWriter.write(printGraph(outLinks));
             bufferedWriter.close();
@@ -65,9 +67,9 @@ public class WebGraph {
             e.printStackTrace();
         }
 
-        System.out.println("In links " + inLinks.size());
-        System.out.println("Out links " + outLinks.size());
-        System.out.println("Total Pages " + pages.size());
+        System.out.println("In links: " + inLinks.size());
+        System.out.println("Out links: " + outLinks.size());
+        System.out.println("Total Pages: " + pages.size());
     }
 
     private String printGraph(Map<String, List<String>> graph) {
@@ -105,5 +107,21 @@ public class WebGraph {
                 }
             }
         }
+    }
+
+    public List<String> getPages() {
+        return pages;
+    }
+
+    public Map<String, List<String>> getOutLinks() {
+        return outLinks;
+    }
+
+    public Map<String, List<String>> getInLinks() {
+        return inLinks;
+    }
+
+    public String getName() {
+        return name;
     }
 }
