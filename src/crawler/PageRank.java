@@ -7,7 +7,8 @@ import java.util.*;
 
 public class PageRank {
 
-    private static final double D = 0.85;   /* Dumping Factor */
+    //private static final double D = 0.85;   /* Dumping Factor */
+    private final double D;
     private Map<String, Double> pageRanks;
     private List<String> sinkPages;
     private WebGraph webGraph;
@@ -15,8 +16,9 @@ public class PageRank {
     private double previousPerplexity;
     private int convergeCount;
 
-    public PageRank(WebGraph webGraph) {
+    public PageRank(WebGraph webGraph, double dumpingFactor) {
         this.webGraph = webGraph;
+        this.D = dumpingFactor;
         sinkPages = webGraph.getSinkPages();
     }
 
@@ -123,16 +125,21 @@ public class PageRank {
         }
     }
 
-    public void getTop50() {
+    public ArrayList<String> getTop50() {
+
+        ArrayList<String> list = new ArrayList<>();
         int count = 1;
 
         for (Map.Entry<String, Double> pageRank : pageRanks.entrySet()) {
             System.out.println(count + ". " + pageRank.getKey() + " (" + pageRank.getValue() +")");
+            list.add(pageRank.getKey());
             count++;
 
             if(count > 50)
                 break;
         }
+
+        return list;
     }
 
     private void sortPageRank() {

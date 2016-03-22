@@ -9,10 +9,12 @@ public class WebGraph {
 
     private Map<String, List<String>> inLinks;
     private Map<String, List<String>> outLinks;
+    private Map<String, Integer> inLinkCount;
     private List<String> pages;
     private String name;
 
     public WebGraph(String name) {
+        inLinkCount = new LinkedHashMap<>();
         inLinks = new LinkedHashMap<>();
         outLinks = new LinkedHashMap<>();
         pages = new ArrayList<>();
@@ -53,15 +55,15 @@ public class WebGraph {
 
     public void saveGraph() {
         try {
-            FileWriter fileWriter = new FileWriter("output/" + name + "_in.txt");
+            FileWriter fileWriter = new FileWriter("output/" + name + ".txt");
             BufferedWriter bufferedWriter = new BufferedWriter(fileWriter);
             bufferedWriter.write(printGraph(inLinks));
             bufferedWriter.close();
 
-            fileWriter = new FileWriter("output/" + name + "_out.txt");
-            bufferedWriter = new BufferedWriter(fileWriter);
-            bufferedWriter.write(printGraph(outLinks));
-            bufferedWriter.close();
+//            fileWriter = new FileWriter("output/" + name + "_out.txt");
+//            bufferedWriter = new BufferedWriter(fileWriter);
+//            bufferedWriter.write(printGraph(outLinks));
+//            bufferedWriter.close();
         }
         catch(IOException e) {
             e.printStackTrace();
@@ -196,5 +198,47 @@ public class WebGraph {
         System.out.println("Proportion of Sink Pages: " + (100 * sinkPages / totalPages) + "%\n");
 
         saveLinksDistribution();
+    }
+
+    private void getInLinkCount() {
+        for (Map.Entry<String, List<String>> entry : inLinks.entrySet()) {
+            inLinkCount.put(entry.getKey(), entry.getValue().size());
+        }
+    }
+
+    private void sortInLinkCount() {
+        // Convert Map to List
+        List<Map.Entry<String, Integer>> list = new LinkedList<>(inLinkCount.entrySet());
+
+        // Sort list with comparator, to compare the Map values
+        Collections.sort(list, (o1, o2) -> (o1.getValue()).compareTo(o2.getValue()));
+
+        // Reverse to get descending order
+        Collections.reverse(list);
+
+        // Convert sorted map back to a Map
+        inLinkCount = new LinkedHashMap<>();
+        for (Map.Entry<String, Integer> entry : list) {
+            inLinkCount.put(entry.getKey(), entry.getValue());
+        }
+    }
+
+    public List<String> getTop50InLink() {
+        getInLinkCount();
+        sortInLinkCount();
+
+        ArrayList<String> list = new ArrayList<>();
+        int count = 1;
+
+        for (Map.Entry<String, Integer> e : inLinkCount.entrySet()) {
+            System.out.println(count + ". " + e.getKey() + " (" + e.getValue() +")");
+            list.add(e.getKey());
+            count++;
+
+            if(count > 50)
+                break;
+        }
+
+        return list;
     }
 }
