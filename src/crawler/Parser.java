@@ -42,8 +42,27 @@ public class Parser {
         // Title
         parsedDoc.append(doc.select("h1#firstHeading").text()).append("\n");
 
+        // Remove table of contents
+        doc.getElementsByClass("toc").remove();
+
+        // Remove edit links
+        doc.getElementsByClass("mw-editsection").remove();
+
+        // Remove tables
+        // Selecionar o contrario?
+        // Tables que não são da classe wikitable ???
+        doc.select("table").remove();
+
+        // Remove references
+        doc.getElementsByClass("reference").remove();
+
+        // Remove thumbnails
+        doc.getElementsByClass("thumb").remove();
+
         // Plain Textual Content
         parsedDoc.append(doc.select("div#mw-content-text").text());
+
+
 
         System.out.println(parsedDoc.toString());
     }
