@@ -1,0 +1,428 @@
+https://en.wikipedia.org/wiki/Andrew_Delmar_Hopkins
+<!doctype html>
+<html lang="en" dir="ltr" class="client-nojs">
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Andrew Delmar Hopkins - Wikipedia, the free encyclopedia</title> 
+  <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script> 
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Andrew_Delmar_Hopkins","wgTitle":"Andrew Delmar Hopkins","wgCurRevisionId":659821806,"wgRevisionId":659821806,"wgArticleId":14807258,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles with VIAF identifiers","American entomologists","Sustainable building","1857 births","1948 deaths","People from Jackson County, West Virginia","Scientists from West Virginia","People from Wood County, West Virginia","West Virginia University alumni","West Virginia University faculty","United States Department of Agriculture officials","Writers from West Virginia","American science writers","Farmers from West Virginia"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Andrew_Delmar_Hopkins","wgRelevantArticleId":14807258,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCentralAuthMobileDomain":false,"wgWikibaseItemId":"Q4756788","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script> 
+  <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script> 
+  <meta name="generator" content="MediaWiki 1.27.0-wmf.17"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Andrew_Delmar_Hopkins"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Andrew_Delmar_Hopkins&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Andrew_Delmar_Hopkins&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Andrew_Delmar_Hopkins"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Andrew_Delmar_Hopkins skin-vector action-view"> 
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> 
+   <a id="top"></a> 
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Andrew Delmar Hopkins</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="jump-to-nav" class="mw-jump">
+      Jump to: 
+     <a href="#mw-head">navigation</a>, 
+     <a href="#p-search">search</a> 
+    </div> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <p><b>Andrew Delmar Hopkins</b> (August 20, 1857 – September 22, 1948) was an <a href="/wiki/United_States" title="United States">American</a> <a href="/wiki/Entomologist" title="Entomologist" class="mw-redirect">entomologist</a> of the late 19th and early 20th centuries. Though self-taught, his scientific understanding of forest entomology was exceptional. He received an honorary doctorate from West Virginia University and in 1902 he went to work for the <a href="/wiki/US_Department_of_Agriculture" title="US Department of Agriculture" class="mw-redirect">US Department of Agriculture</a>. He was subsequently named head of the newly created Division of Forest Insect Investigations. He became a specialist in the bark beetle family <a href="/wiki/Scolytidae" title="Scolytidae" class="mw-redirect">Scolytidae</a>, especially the genus <a href="/wiki/Dendroctonus" title="Dendroctonus">Dendroctonus</a>, species of which are the most destructive insects in coniferous forests of North America. His taxonomic monographs on these beetles are classics. He proposed the <a href="/w/index.php?title=Law_of_Bioclimatics&amp;action=edit&amp;redlink=1" class="new" title="Law of Bioclimatics (page does not exist)">Law of Bioclimatics</a> and he also developed the <a href="/wiki/Hopkins_Notes_and_Records_System" title="Hopkins Notes and Records System">Hopkins Notes and Records System</a>, a system he brought into the federal government when he first came to work for the Division of Entomology in the late 1890s. Hopkins’ research is one of the cornerstones of entomology on the North American continent and he is often referred to as the “father of North American forest entomology.”</p> 
+     <p></p> 
+     <div id="toc" class="toc"> 
+      <div id="toctitle"> 
+       <h2>Contents</h2> 
+      </div> 
+      <ul> 
+       <li class="toclevel-1 tocsection-1"><a href="#Life_History"><span class="tocnumber">1</span> <span class="toctext">Life History</span></a></li> 
+       <li class="toclevel-1 tocsection-2"><a href="#Achievements"><span class="tocnumber">2</span> <span class="toctext">Achievements</span></a></li> 
+       <li class="toclevel-1 tocsection-3"><a href="#Areas_of_Study"><span class="tocnumber">3</span> <span class="toctext">Areas of Study</span></a> 
+        <ul> 
+         <li class="toclevel-2 tocsection-4"><a href="#Bioclimatics"><span class="tocnumber">3.1</span> <span class="toctext">Bioclimatics</span></a></li> 
+         <li class="toclevel-2 tocsection-5"><a href="#Spring_Time_Law"><span class="tocnumber">3.2</span> <span class="toctext">Spring Time Law</span></a></li> 
+        </ul> </li> 
+       <li class="toclevel-1 tocsection-6"><a href="#Bark_Beetle_Research"><span class="tocnumber">4</span> <span class="toctext">Bark Beetle Research</span></a></li> 
+       <li class="toclevel-1 tocsection-7"><a href="#Legacy"><span class="tocnumber">5</span> <span class="toctext">Legacy</span></a></li> 
+       <li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li> 
+       <li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li> 
+       <li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li> 
+      </ul> 
+     </div> 
+     <p></p> 
+     <h2><span class="mw-headline" id="Life_History">Life History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andrew_Delmar_Hopkins&amp;action=edit&amp;section=1" title="Edit section: Life History">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>A.D. Hopkins was born in Jackson County, <a href="/wiki/Virginia" title="Virginia">Virginia</a> (later <a href="/wiki/Jackson_County,_West_Virginia" title="Jackson County, West Virginia">Jackson County</a>, <a href="/wiki/West_Virginia" title="West Virginia">West Virginia</a>). His took an interest in nature from childhood, and by the age of twelve, he was collecting insects. This curiosity would eventually be channeled into an intense desire to study forest insects and the changes they effected in woodlands. Yet even though Hopkins was seminal in developing the scope of forest entomology in <a href="/wiki/North_America" title="North America">North America</a>, his only formal education was in the county schools of West Virginia. After his schooling and at the age of 17, he took the reins of his grandfather's farm. His work organizing one of the first farm cooperatives during that period brought him to the attention of the <a href="/w/index.php?title=West_Virginia_Agricultural_Experiment_Station&amp;action=edit&amp;redlink=1" class="new" title="West Virginia Agricultural Experiment Station (page does not exist)">West Virginia Agricultural Experiment Station</a>. The State was looking for an entomologist and Hopkins volunteered, making it clear that the pay was not important to him, and asking only that he be allowed to work from his home. To alleviate the Station's concern that he wasn't professionally trained, he sent the director the manuscript he'd written about a local agricultural pest complete with his original drawings.<sup id="cite_ref-Furniss1_1-0" class="reference"><a href="#cite_note-Furniss1-1">[1]</a></sup></p> 
+     <p>His work gradually shifted from farming to scientific research. He started his investigations for the Station by determining which insects were causing the most damage in West Virginia. He traveled throughout the state, gathering the data he needed by interviewing farmers. On one of those trips, he and a co-worker discovered a major bark beetle outbreak in the eastern highlands, on <a href="/wiki/Cheat_Mountain" title="Cheat Mountain">Cheat Mountain</a>. The beetles, along with the <a href="/wiki/Hessian_fly" title="Hessian fly">Hessian fly</a>'s effects on wheat, then became the main focus of his early work. Both helped build his reputation, given the scientific understanding they brought to entomology.</p> 
+     <p>Hopkins also taught Economic Entomology at the University of West Virginia, where he'd received an honorary doctorate. Through the 1890s and into the 20th century, he would acquire ever-greater expertise in his chosen field. That expertise increased his stature in the scientific community. His increased status meant that he was given the opportunity to excel in his professional role as other entomologists elaborated on his work. He eventually left his position as vice-director of the West Virginia Agricultural Experiment Station to resume his work with the US Department of Agriculture, where he stayed for the rest of his career.</p> 
+     <p>He had originally worked for the Department as a special agent, with most of his work in the Western United States studying the impact of bark beetles on Western conifers. By 1904 after his return, he rose to become head of the newly formed Division of Forest Insects (Bureau of Entomology) in <a href="/wiki/Washington_D.C." title="Washington D.C." class="mw-redirect">Washington D.C.</a>. Hopkins retired in 1923, and he returned home to his farm in <a href="/wiki/Wood_County,_West_Virginia" title="Wood County, West Virginia">Wood County, West Virginia</a>, where he'd started his career He continued developing his ideas on <a href="/wiki/Bioclimatics" title="Bioclimatics" class="mw-redirect">bioclimatics</a>, and the Department of Agriculture established a field station which was given the title "the Kanawha Farms Intercontinental Base Station for Bioclimatic Research." He also took up plant breeding once again, an avocation that had first gotten him noticed during his earliest days with the farm cooperative he'd helped start. He died from unknown causes in 1948.</p> 
+     <h2><span class="mw-headline" id="Achievements">Achievements</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andrew_Delmar_Hopkins&amp;action=edit&amp;section=2" title="Edit section: Achievements">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>During his lifetime, he was a member of many scientific organizations and held leadership positions in many of them. He was a fellow of the American Academy for the Advancement of Science, having become a member in 1893, and an emeritus member in 1938, a fellow of the Entomological Society of America, a member of the <a href="/wiki/American_Association_of_Economic_Entomologists" title="American Association of Economic Entomologists" class="mw-redirect">American Association of Economic Entomologists</a> (vice-president in 1900 and president in 1902), first president of the West Virginia Academy of Sciences, president of the Entomological Society of Washington, president in 1920 of the <a href="/wiki/Biological_Society_of_Washington" title="Biological Society of Washington">Biological Society of Washington</a>, vice president of the Washington Academy of the Sciences, life member of the American Meteorological Society, honorary member of the Society of Economic Biologists of England, and member of the Cosmos Club. Andrew was elected to the Washington Biologists’ Field Club in 1904 and ended his membership in 1912.</p> 
+     <h2><span class="mw-headline" id="Areas_of_Study">Areas of Study</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andrew_Delmar_Hopkins&amp;action=edit&amp;section=3" title="Edit section: Areas of Study">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <h3><span class="mw-headline" id="Bioclimatics">Bioclimatics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andrew_Delmar_Hopkins&amp;action=edit&amp;section=4" title="Edit section: Bioclimatics">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>During his time as an entomologist, Andrew Delmar Hopkins’ personal study also included bioclimatics. Hopkins described bioclimatics as the attempt to correlate phenological phenomena of plants and animals with the various elements which make up the climate of the region. In 1889, Hopkins formulated the relationship of elevation, latitude and longitude to seasonal events such as the coming of spring. The relationship was coined the “Hopkins Law of Bioclimatics”. Many horticulturalists and other plant enthusiasts use this law to determine a planting schedule.</p> 
+     <h3><span class="mw-headline" id="Spring_Time_Law">Spring Time Law</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andrew_Delmar_Hopkins&amp;action=edit&amp;section=5" title="Edit section: Spring Time Law">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>While living in West Virginia in 1889, A.D. Hopkins discovered that spring advances one day for every 15 minutes of latitude northward, 1.25&nbsp;days for each degree of longitude westward, and one day for every 100 feet higher in elevation. Thus, for a site located 15 minutes of latitude north, one degree west and 200 meters higher than another chosen site, spring should arrive 4.25&nbsp;days later. For example, according to the Hopkins Law, flowers should bloom, trees should bud, and geese should appear around 11&nbsp;days later in Omaha, Neb. than in Kansas City, Kansas. The calculation is expressed in the appendix.</p> 
+     <h2><span class="mw-headline" id="Bark_Beetle_Research">Bark Beetle Research</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andrew_Delmar_Hopkins&amp;action=edit&amp;section=6" title="Edit section: Bark Beetle Research">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>Many of Hopkins early research consisted of qualitative observations of the beetle family. Hopkins most famous bark beetle observation was coined the Hopkins' host-selection principle (HHSP), which refers to the observation that many adult insects demonstrate a preference for the host species on which they themselves developed as larvae. However, the practicality of HHSP has been debated significantly since its first proposal in 1916. Many modern scientists have even discounted the evidence that supports HHSP as speculation. Although he has written dozens of well renowned publications, Hopkins most popular on bark beetles include the “Catalog of West Virginia Scolytidae (Bark Beetles) and Their Enemies" and "Catalog of West Virginia Forest and Shade Tree Insects."</p> 
+     <h2><span class="mw-headline" id="Legacy">Legacy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andrew_Delmar_Hopkins&amp;action=edit&amp;section=7" title="Edit section: Legacy">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>The diversity and volume of publications that Hopkins produced is unmatched by any other entomologist. Hopkins’ breakthrough research on North American beetles and quantifying Hopkins Law are still highly regarded in today’s scientific community.</p> 
+     <p><b>Published Works</b></p> 
+     <ul> 
+      <li><a rel="nofollow" class="external text" href="http://books.google.com/books/about/The_Redwood.html?id=DvantgAACAAJ">Hopkins, A. D. The Redwood: III. Insect Enemies of the Redwood. Bulletin of the Department of Agriculture, Forest Division 38. USDA, 1903.</a></li> 
+      <li>Black Holes in Wood, By Andrew Hopkins</li> 
+      <li><a rel="nofollow" class="external text" href="http://books.google.com/books?id=XrEZAAAAYAAJ&amp;pg=PA197&amp;lpg=PA197&amp;dq=Report+on+Investigations+to+Determine+the+Cause+of+Unhealthy+Conditions+of+the+Spruce+and+Pine+from+1880%E2%80%931893&amp;source=bl&amp;ots=oYlBtrQNnv&amp;sig=KUJohWUFaClKuk-96fQ4EdzzDUo&amp;hl=en&amp;sa=X&amp;ei=uIABUeKQIurWiwKx74GABw&amp;ved=0CEgQ6AEwAw">Report on Investigations to Determine the Cause of Unhealthy Conditions of the Spruce and Pine from 1880–1893, By Andrew Hopkins</a></li> 
+      <li>Hopkins, A. D. Apr-1891. Preliminary investigation of insect ravages. Yellow Locust. Agricultural Experiment Station, Morgantown, West Virginia, United States.</li> 
+      <li>Hopkins, A. D. Feb-1894. Black Holes in Wood. Entomological Department, United States.</li> 
+      <li>Hopkins, A. D. Apr-1899. Report on Investigations to Determine the Cause of Unhealthy Conditions of the Spruce and Pine from 1880–1893. Agricultural Experiment Station, Morgantown, West Virginia, United States.</li> 
+      <li><a rel="nofollow" class="external text" href="http://books.google.com/books?id=OLnPAAAAMAAJ&amp;lpg=PA7&amp;ots=JTKbyiPlfV&amp;dq=Preliminary%20report%20on%20the%20insect%20enemies%20of%20forests%20in%20the%20Northwest&amp;pg=PA7#v=onepage&amp;q&amp;f=false">Hopkins, A. D. 1899. Preliminary report on the insect enemies of forests in the Northwest&nbsp;: an account of the results gained from a reconnaissance trip made in the spring and early summer of 1899. Division of Entomology, United States.</a></li> 
+      <li>Hopkins, A. D. 1901. Insect enemies of the spruce in the Northeast&nbsp;: a popular account of results of special investigations, with recommendations for preventing losses. Division of Entomology, United States.</li> 
+      <li>Hopkins, A. D. Jun-1902. On the study of forest entomology in America. Division of Entomology, United States.</li> 
+      <li>Hopkins, A. D. 1902. Insect enemies of the pine in the Black Hills Forest Reserve: an account of results of special investigations, with recommendations for preventing losses. Division of Entomology, United States.</li> 
+      <li>Hopkins, A. D. 1902. Some of the principal insect enemies of coniferous forests in the United States. Dept. of Agriculture, United States.</li> 
+      <li>Hopkins, A. D. 1903. Insect injuries to hardwood forest trees. Dept. of Agriculture, United States.</li> 
+      <li>Hopkins, A. D. 1903. The redwood. Bureau of Forestry, United States.</li> 
+      <li><a rel="nofollow" class="external text" href="http://books.google.com/books?id=8EU723_LoJ0C&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false">Hopkins, A. D. Nov-1903. Powder-post injury to seasoned wood products. Division of Entomology, United States.</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://naldc.nal.usda.gov/catalog/IND43645396">Hopkins, A. D. 1904. Insect injuries to forest products. Bureau of Entomology, United States.</a></li> 
+      <li>Hopkins, A. D. 1904. Catalogue of exhibits of insect enemies of forests and forest products at the Louisiana Purchase Exposition, St. Louis, Mo., 1904. Division of Entomology, United States.</li> 
+      <li>Hopkins, A. D. May-1905. Black check in western hemlock. Bureau of Entomology, United States.</li> 
+      <li>Hopkins, A. D. 1905. Insect enemies of forest reproduction. Dept. of Agriculture, United States.</li> 
+      <li>Hopkins, A. D. 1905. The Black Hills beetle. Bureau of Entomology, United States.</li> 
+      <li>Hopkins, A. D. 1906. Some insects injurious to forests. pt. I, The locust borer. Bureau of Entomology, United States.</li> 
+      <li>Hopkins, A. D. Jan-1907. Pinhole injury to girdled cypress in the South Atlantic and Gulf states. Bureau of Entomology, United States.</li> 
+      <li>Hopkins, A. D. Feb-1907. The locust borer and methods for its control. Bureau of Entomology, United States.</li> 
+      <li>Hopkins, A. D. Mar-1907. Some insects injurious to forests. pt. III, Additional data on the locust borer. Bureau of Entomology, United States.</li> 
+      <li>Hopkins, A. D. Jun-1907. The Whitepine Weevil. Bureau of Entomology, United States.</li> 
+      <li>Hopkins, A. D. 1907. Notable depredations by forest insects. Dept. of Agriculture, United States.</li> 
+      <li><a rel="nofollow" class="external text" href="https://archive.org/details/contributionstow01hopkrich">Hopkins, A. D. 1909-15. Contributions toward a monograph of the scolytid beetles. Bureau of Entomology, United States.</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://books.google.com/books?id=ObAZAAAAYAAJ&amp;pg=PA10&amp;lpg=PA10&amp;dq=The+Dying+of+Pine+in+the+Southern+States&amp;source=bl&amp;ots=JF1vYX_Txo&amp;sig=nnT8u2x-UGQ4t3MePWFUy-qLY9A&amp;hl=en&amp;sa=X&amp;ei=UaANULStO6bs2QX574GoBQ&amp;ved=0CEQQ6AEwAg#v=onepage&amp;q=The%20Dying%20of%20Pine%20in%20the%20Southern%20States&amp;f=false">Hopkins, A. D. 1911. The dying of pine in the southern States: Cause, Extent, and Remedy. Department of Agriculture, United States.</a></li> 
+      <li>Hopkins, A. D. 1915. List of generic names and their type-species in the coleopterous superfamily Scolytoidea. United States National Museum, United States.</li> 
+      <li>Hopkins, A. D. and Snyder, T. E. Jan-1917. Powder-Post Damage by Lyctus Beetles to Seasoned Hardwood. Department of Agriculture, United States.</li> 
+      <li><a rel="nofollow" class="external text" href="http://agricola.nal.usda.gov/cgi-bin/Pwebrecon.cgi?Search_Arg=CAT87202898&amp;DB=local&amp;CNT=25&amp;Search_Code=GKEY&amp;STARTDB=NALDB">Hopkins, A. D. Mar-1921. The Southern Pine Beetle; A Menace to the Pine Timber of the Southern States. Department of Agriculture, United States.</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://books.google.com/books?id=lxNDAAAAYAAJ&amp;pg=PR1#v=onepage&amp;q&amp;f=false">Hopkins, A. D. Bioclimatics: a science of life and climate relations. (U.S. Dept. of Agriculture: 1938).</a></li> 
+     </ul> 
+     <p>Appendix</p> 
+     <p><b>Example Calculations using Hopkins Time Law</b></p> 
+     <p>If you were to travel from <a href="/wiki/Kansas_City,_Kansas" title="Kansas City, Kansas">Kansas City</a> (1000&nbsp;ft elevation, 39.11 degrees N latitude, -94.63 longitude) to <a href="/wiki/Omaha,_Nebraska" title="Omaha, Nebraska">Omaha, Nebraska</a> (1034&nbsp;feet elevation, 41.26 degrees N latitude, -95.93 longitude), the delay in the coming of spring would be…</p> 
+     <p>[((1034&nbsp;ft - 1000&nbsp;ft)/100&nbsp;ft * 1.25&nbsp;days) + ((41.26 degrees - 39.11 degrees)* 4&nbsp;days) + ((-95.93 degrees - -94.63 degrees ) * 1.25&nbsp;days)] =</p> 
+     <p>(34&nbsp;ft /100&nbsp;ft * 1.25&nbsp;days) + (2.15 degrees * 4&nbsp;days) + (1.3 degrees * 1.25&nbsp;days) = 8.5&nbsp;days + 2.6875&nbsp;days + 1.625&nbsp;days = 10.65 Days</p> 
+     <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andrew_Delmar_Hopkins&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <ul> 
+      <li><a href="/wiki/Bioclimatic_architecture" title="Bioclimatic architecture" class="mw-redirect">Bioclimatic architecture</a></li> 
+      <li><a href="/wiki/Genus" title="Genus">Genus</a></li> 
+      <li><a href="/wiki/Holdridge_life_zones" title="Holdridge life zones">Holdridge life zones</a></li> 
+     </ul> 
+     <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andrew_Delmar_Hopkins&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <ol class="references"> 
+      <li id="cite_note-Furniss1-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Furniss1_1-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.ingentaconnect.com/content/esa/ae/2010/00000056/00000002/art00006">[1]</a>, Furniss, M. M. Beginnings of American Forest Entomology: The Role of Andrew Delmar Hopkins (1857-1948). American Entomologist 56, 78–87 (2010)</span></li> 
+     </ol> 
+     <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andrew_Delmar_Hopkins&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <ul> 
+      <li><a rel="nofollow" class="external text" href="http://www.sfiwc.org/hopkins.html">Andrew Delmar Hopkins - Southern Forest Insect Work Conference</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.entsoc.org/PDF/Pubs/Periodicals/AE/AE-2003/summer/Furniss-Heritage.pdf">Forest Entomology in the Northern Rocky Mountains: 1909-1917, as Reflected in the Correspondence between Josef Brunner and A. D. Hopkins</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://pathfinderscience.net/phenology/cbackground.cfm">Pathfinder Science: Phenology - Hopkins' Law of Bioclimatics</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.pwrc.usgs.gov/resshow/perry/bios/hopkinsandrew.htm">Pawtuxent Wildlife Research Center: Andrew Delmar Hopkins</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.globalbioclimatics.org">World Bioclimatic Classification System</a></li> 
+     </ul> 
+     <table class="navbox" style="border-spacing:0"> 
+      <tbody>
+       <tr> 
+        <td style="padding:2px"> 
+         <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"> 
+          <tbody>
+           <tr> 
+            <th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th> 
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/containsVIAFID/23314127">WorldCat</a></li> 
+               <li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/23314127">23314127</a></span></li> 
+               <li><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.idref.fr/161361668">161361668</a></span></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+          </tbody>
+         </table> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <table id="persondata" class="persondata noprint" style="border:1px solid #aaa; display:none; speak:none;"> 
+      <tbody>
+       <tr> 
+        <th colspan="2"><a href="/wiki/Wikipedia:Persondata" title="Wikipedia:Persondata">Persondata</a></th> 
+       </tr> 
+       <tr> 
+        <td class="persondata-label" style="color:#aaa;">Name</td> 
+        <td>Hopkins, Andrew Delmar</td> 
+       </tr> 
+       <tr> 
+        <td class="persondata-label" style="color:#aaa;">Alternative names</td> 
+        <td>Hopkins, A. D.</td> 
+       </tr> 
+       <tr> 
+        <td class="persondata-label" style="color:#aaa;">Short description</td> 
+        <td>Father of forest entomology in North America</td> 
+       </tr> 
+       <tr> 
+        <td class="persondata-label" style="color:#aaa;">Date of birth</td> 
+        <td>August 20, 1857</td> 
+       </tr> 
+       <tr> 
+        <td class="persondata-label" style="color:#aaa;">Place of birth</td> 
+        <td>Evans, West Virginia, USA</td> 
+       </tr> 
+       <tr> 
+        <td class="persondata-label" style="color:#aaa;">Date of death</td> 
+        <td>September 22, 1948</td> 
+       </tr> 
+       <tr> 
+        <td class="persondata-label" style="color:#aaa;">Place of death</td> 
+        <td>Parkersburg, West Virginia, USA</td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <!-- 
+NewPP limit report
+Parsed by mw1147
+Cached time: 20160322095711
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.071 seconds
+Real time usage: 0.264 seconds
+Preprocessor visited node count: 179/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 2482/2097152 bytes
+Template argument size: 169/2097152 bytes
+Highest expansion depth: 4/40
+Expensive parser function count: 0/500
+Lua time usage: 0.023/10.000 seconds
+Lua memory usage: 739 KB/50 MB
+Number of Wikibase entities loaded: 1--> 
+     <!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  233.003      1 - -total
+ 98.69%  229.957      1 - Template:Authority_control
+  1.25%    2.902      1 - Template:Persondata
+--> 
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:14807258-0!*!0!!en!*!* and timestamp 20160322095711 and revision id 659821806
+ --> 
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript>
+    </div> 
+    <div class="printfooter">
+      Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Andrew_Delmar_Hopkins&amp;oldid=659821806">https://en.wikipedia.org/w/index.php?title=Andrew_Delmar_Hopkins&amp;oldid=659821806</a>" 
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:American_entomologists" title="Category:American entomologists">American entomologists</a></li>
+       <li><a href="/wiki/Category:Sustainable_building" title="Category:Sustainable building">Sustainable building</a></li>
+       <li><a href="/wiki/Category:1857_births" title="Category:1857 births">1857 births</a></li>
+       <li><a href="/wiki/Category:1948_deaths" title="Category:1948 deaths">1948 deaths</a></li>
+       <li><a href="/wiki/Category:People_from_Jackson_County,_West_Virginia" title="Category:People from Jackson County, West Virginia">People from Jackson County, West Virginia</a></li>
+       <li><a href="/wiki/Category:Scientists_from_West_Virginia" title="Category:Scientists from West Virginia">Scientists from West Virginia</a></li>
+       <li><a href="/wiki/Category:People_from_Wood_County,_West_Virginia" title="Category:People from Wood County, West Virginia">People from Wood County, West Virginia</a></li>
+       <li><a href="/wiki/Category:West_Virginia_University_alumni" title="Category:West Virginia University alumni">West Virginia University alumni</a></li>
+       <li><a href="/wiki/Category:West_Virginia_University_faculty" title="Category:West Virginia University faculty">West Virginia University faculty</a></li>
+       <li><a href="/wiki/Category:United_States_Department_of_Agriculture_officials" title="Category:United States Department of Agriculture officials">United States Department of Agriculture officials</a></li>
+       <li><a href="/wiki/Category:Writers_from_West_Virginia" title="Category:Writers from West Virginia">Writers from West Virginia</a></li>
+       <li><a href="/wiki/Category:American_science_writers" title="Category:American science writers">American science writers</a></li>
+       <li><a href="/wiki/Category:Farmers_from_West_Virginia" title="Category:Farmers from West Virginia">Farmers from West Virginia</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li>
+      </ul>
+     </div>
+    </div> 
+    <div class="visualClear"></div> 
+   </div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> 
+    <div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label"> 
+     <h3 id="p-personal-label">Personal tools</h3> 
+     <ul> 
+      <li id="pt-anonuserpage">Not logged in</li>
+      <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+      <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+      <li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Andrew+Delmar+Hopkins&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+      <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Andrew+Delmar+Hopkins" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li> 
+     </ul> 
+    </div> 
+    <div id="left-navigation"> 
+     <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label"> 
+      <h3 id="p-namespaces-label">Namespaces</h3> 
+      <ul> 
+       <li id="ca-nstab-main" class="selected"><span><a href="/wiki/Andrew_Delmar_Hopkins" title="View the content page [c]" accesskey="c">Article</a></span></li> 
+       <li id="ca-talk"><span><a href="/wiki/Talk:Andrew_Delmar_Hopkins" title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span><a href="#"></a> </h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="right-navigation"> 
+     <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label"> 
+      <h3 id="p-views-label">Views</h3> 
+      <ul> 
+       <li id="ca-view" class="selected"><span><a href="/wiki/Andrew_Delmar_Hopkins">Read</a></span></li> 
+       <li id="ca-edit"><span><a href="/w/index.php?title=Andrew_Delmar_Hopkins&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li> 
+       <li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Andrew_Delmar_Hopkins&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch"> 
+        <input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput">
+        <input type="hidden" value="Special:Search" name="title">
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton">
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a>
+    </div> 
+    <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label"> 
+     <h3 id="p-navigation-label">Navigation</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+       <li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label"> 
+     <h3 id="p-interaction-label">Interaction</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label"> 
+     <h3 id="p-tb-label">Tools</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Andrew_Delmar_Hopkins" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Andrew_Delmar_Hopkins" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Andrew_Delmar_Hopkins&amp;oldid=659821806" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Andrew_Delmar_Hopkins&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q4756788" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Andrew_Delmar_Hopkins&amp;id=659821806" title="Information on how to cite this page">Cite this page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label"> 
+     <h3 id="p-coll-print_export-label">Print/export</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Andrew+Delmar+Hopkins">Create a book</a></li>
+       <li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Andrew+Delmar+Hopkins&amp;returnto=Andrew+Delmar+Hopkins&amp;oldid=659821806&amp;writer=rdf2latex">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Andrew_Delmar_Hopkins&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label"> 
+     <h3 id="p-wikibase-otherprojects-label">In other projects</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="wb-otherproject-link wb-otherproject-species"><a href="https://species.wikimedia.org/wiki/Andrew_Delmar_Hopkins" hreflang="en">Wikispecies</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label"> 
+     <h3 id="p-lang-label">Languages</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="uls-p-lang-dummy"><a href="#"></a></li> 
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-add wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q4756788#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span>
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last modified on 29 April 2015, at 06:46.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-cookiestatement"><a href="//wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Andrew_Delmar_Hopkins&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"> <a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"></a> </li> 
+    <li id="footer-poweredbyico"> <a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"></a> </li> 
+   </ul> 
+   <div style="clear:both"></div> 
+  </div> 
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","ext.wikimediaEvents","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script>
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.config.set({"wgBackendResponseTime":122,"wgHostname":"mw1087"}); /* @nomin */
+} );</script>   
+ </body>
+</html>

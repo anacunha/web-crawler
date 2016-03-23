@@ -1,0 +1,483 @@
+https://en.wikipedia.org/wiki/Slinky
+<!doctype html>
+<html lang="en" dir="ltr" class="client-nojs">
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Slinky - Wikipedia, the free encyclopedia</title> 
+  <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script> 
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Slinky","wgTitle":"Slinky","wgCurRevisionId":705306295,"wgRevisionId":705306295,"wgArticleId":215108,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from September 2012","All pages needing factual verification","Wikipedia articles needing factual verification from June 2013","Articles with unsourced statements from June 2009","Commons category with page title same as on Wikidata","Educational toys","1945 introductions","Goods manufactured in the United States","Springs (mechanical)","Toy companies of the United States","1940s toys","Metal toys"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Slinky","wgRelevantArticleId":215108,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCentralAuthMobileDomain":false,"wgWikibaseItemId":"Q1118802","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script> 
+  <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.math.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script> 
+  <meta name="generator" content="MediaWiki 1.27.0-wmf.17"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Slinky"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Slinky&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Slinky&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Slinky"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Slinky skin-vector action-view"> 
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> 
+   <a id="top"></a> 
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Slinky</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="jump-to-nav" class="mw-jump">
+      Jump to: 
+     <a href="#mw-head">navigation</a>, 
+     <a href="#p-search">search</a> 
+    </div> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:352px;">
+       <a href="/wiki/File:2006-02-04_Metal_spiral.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/2006-02-04_Metal_spiral.jpg/350px-2006-02-04_Metal_spiral.jpg" width="350" height="276" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/2006-02-04_Metal_spiral.jpg/525px-2006-02-04_Metal_spiral.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/2006-02-04_Metal_spiral.jpg/700px-2006-02-04_Metal_spiral.jpg 2x" data-file-width="2464" data-file-height="1944"></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:2006-02-04_Metal_spiral.jpg" class="internal" title="Enlarge"></a>
+        </div> Slinky
+       </div> 
+      </div> 
+     </div> 
+     <p><b>Slinky</b> is a <a href="/wiki/Toy" title="Toy">toy</a>; a precompressed <a href="/wiki/Helix" title="Helix">helical</a> <a href="/wiki/Spring_(device)" title="Spring (device)">spring</a> invented by <a href="/wiki/Richard_T._James" title="Richard T. James">Richard James</a> in the early 1940s. It can perform a number of tricks, including travelling down a flight of steps end-over-end as it stretches and re-forms itself with the aid of gravity and its own momentum, or appear to levitate for a period of time after it has been dropped. These interesting characteristics have contributed to its success as a toy in its home country of <a href="/wiki/USA" title="USA" class="mw-redirect">USA</a>, resulting in many popular toys with slinky components in a wide range of countries.</p> 
+     <p></p> 
+     <div id="toc" class="toc"> 
+      <div id="toctitle"> 
+       <h2>Contents</h2> 
+      </div> 
+      <ul> 
+       <li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a> 
+        <ul> 
+         <li class="toclevel-2 tocsection-2"><a href="#Creation"><span class="tocnumber">1.1</span> <span class="toctext">Creation</span></a></li> 
+         <li class="toclevel-2 tocsection-3"><a href="#Subsequent_developments"><span class="tocnumber">1.2</span> <span class="toctext">Subsequent developments</span></a></li> 
+        </ul> </li> 
+       <li class="toclevel-1 tocsection-4"><a href="#Physical_properties"><span class="tocnumber">2</span> <span class="toctext">Physical properties</span></a> 
+        <ul> 
+         <li class="toclevel-2 tocsection-5"><a href="#Period_of_oscillation"><span class="tocnumber">2.1</span> <span class="toctext">Period of oscillation</span></a></li> 
+         <li class="toclevel-2 tocsection-6"><a href="#Equilibrium"><span class="tocnumber">2.2</span> <span class="toctext">Equilibrium</span></a></li> 
+         <li class="toclevel-2 tocsection-7"><a href="#Phenomenon"><span class="tocnumber">2.3</span> <span class="toctext">Phenomenon</span></a> 
+          <ul> 
+           <li class="toclevel-3 tocsection-8"><a href="#Flight_of_stairs"><span class="tocnumber">2.3.1</span> <span class="toctext">Flight of stairs</span></a></li> 
+           <li class="toclevel-3 tocsection-9"><a href="#Changing_strength"><span class="tocnumber">2.3.2</span> <span class="toctext">Changing strength</span></a></li> 
+           <li class="toclevel-3 tocsection-10"><a href="#Levitation"><span class="tocnumber">2.3.3</span> <span class="toctext">Levitation</span></a></li> 
+          </ul> </li> 
+        </ul> </li> 
+       <li class="toclevel-1 tocsection-11"><a href="#Commercial_history"><span class="tocnumber">3</span> <span class="toctext">Commercial history</span></a> 
+        <ul> 
+         <li class="toclevel-2 tocsection-12"><a href="#Jingle"><span class="tocnumber">3.1</span> <span class="toctext">Jingle</span></a></li> 
+         <li class="toclevel-2 tocsection-13"><a href="#Slinky_Dog"><span class="tocnumber">3.2</span> <span class="toctext">Slinky Dog</span></a></li> 
+         <li class="toclevel-2 tocsection-14"><a href="#Plastic_Slinky"><span class="tocnumber">3.3</span> <span class="toctext">Plastic Slinky</span></a></li> 
+        </ul> </li> 
+       <li class="toclevel-1 tocsection-15"><a href="#Awards_and_honors"><span class="tocnumber">4</span> <span class="toctext">Awards and honors</span></a></li> 
+       <li class="toclevel-1 tocsection-16"><a href="#Other_uses"><span class="tocnumber">5</span> <span class="toctext">Other uses</span></a></li> 
+       <li class="toclevel-1 tocsection-17"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li> 
+       <li class="toclevel-1 tocsection-18"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li> 
+      </ul> 
+     </div> 
+     <p></p> 
+     <h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Slinky&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>The toy was invented and developed by naval engineer <a href="/wiki/Richard_T._James" title="Richard T. James">Richard T. James</a> in 1943 and demonstrated at <a href="/wiki/Gimbels" title="Gimbels">Gimbels</a> department store in <a href="/wiki/Philadelphia" title="Philadelphia">Philadelphia</a> in November 1945. The toy was a hit, selling its entire inventory of 400 units in ninety minutes. James and his wife <a href="/wiki/Betty_James" title="Betty James">Betty</a> formed James Industries in <a href="/wiki/Clifton_Heights,_Pennsylvania" title="Clifton Heights, Pennsylvania">Clifton Heights, Pennsylvania</a> to manufacture Slinky and several related toys such as the Slinky Dog and Suzie, the Slinky Worm. In 1960, James' wife Betty became president of James Industries, and, in 1964, moved the operation to <a href="/wiki/Hollidaysburg,_Pennsylvania" title="Hollidaysburg, Pennsylvania">Hollidaysburg, Pennsylvania</a>. In 1998, Betty James sold the company to Poof Products, Inc..</p> 
+     <p>Slinky was originally priced at $1, but many paid much more due to price increases of spring steel throughout the state of Pennsylvania, and has remained modestly priced throughout its history as a result of Betty James' concern about the toy's affordability for financially disadvantaged customers. Slinky has seen uses other than as a toy in the playroom: it has appeared in the classroom as a teaching tool, in wartime as a radio antenna, and in physics experiments with NASA. Slinky was inducted into the <a href="/wiki/National_Toy_Hall_of_Fame" title="National Toy Hall of Fame">National Toy Hall of Fame</a> at <a href="/wiki/The_Strong" title="The Strong">The Strong</a> in <a href="/wiki/Rochester,_New_York" title="Rochester, New York">Rochester, New York</a>, in 2000. In 2002, Slinky became Pennsylvania's official state toy, and, in 2003, was named to the <a href="/wiki/Toy_Industry_Association" title="Toy Industry Association">Toy Industry Association</a>'s "<a rel="nofollow" class="external text" href="http://web.archive.org/web/20030401214230/http://www.toy-tia.org/industry/news/press/tf03_centuryoftoys.html">Century of Toys List</a>." In its first 60 years Slinky has sold 300 million units.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (September 2012)">citation needed</span></a></i>]</sup></p> 
+     <h3><span class="mw-headline" id="Creation">Creation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Slinky&amp;action=edit&amp;section=2" title="Edit section: Creation">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:222px;">
+       <a href="/wiki/File:Slinky_ad_1946.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/2/2b/Slinky_ad_1946.jpg/220px-Slinky_ad_1946.jpg" width="220" height="318" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/2/2b/Slinky_ad_1946.jpg/330px-Slinky_ad_1946.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/2/2b/Slinky_ad_1946.jpg/440px-Slinky_ad_1946.jpg 2x" data-file-width="519" data-file-height="750"></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Slinky_ad_1946.jpg" class="internal" title="Enlarge"></a>
+        </div> Slinky (1946)
+       </div> 
+      </div> 
+     </div> 
+     <p>In 1943, <a href="/wiki/Richard_T._James" title="Richard T. James">Richard James</a>, a naval mechanical engineer stationed at the <a href="/wiki/William_Cramp_and_Sons" title="William Cramp and Sons" class="mw-redirect">William Cramp and Sons</a> shipyards in Philadelphia, was developing springs that could support and stabilize sensitive instruments aboard ships in rough seas.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> James accidentally knocked one of the springs from a shelf, and watched as the spring "stepped" in a series of arcs to a stack of books, to a tabletop, and to the floor, where it re-coiled itself and stood upright.<sup id="cite_ref-MIT_3-0" class="reference"><a href="#cite_note-MIT-3">[3]</a></sup><sup id="cite_ref-Walsh_4-0" class="reference"><a href="#cite_note-Walsh-4">[4]</a></sup> James' wife Betty later recalled, "He came home and said, 'I think if I got the right property of steel and the right tension; I could make it walk.'"<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> James experimented with different types of steel wire over the next year, and finally found a spring that would walk. Betty was dubious at first, but changed her mind after the toy was fine-tuned and neighborhood children expressed an excited interest in it.<sup id="cite_ref-Walsh_4-1" class="reference"><a href="#cite_note-Walsh-4">[4]</a></sup> She dubbed the toy Slinky (meaning "sleek and graceful"), after finding the word in a dictionary,<sup id="cite_ref-MIT_3-1" class="reference"><a href="#cite_note-MIT-3">[3]</a></sup><sup id="cite_ref-Walsh_4-2" class="reference"><a href="#cite_note-Walsh-4">[4]</a></sup> and deciding that the word aptly described the sound of a metal spring expanding and collapsing.<sup id="cite_ref-NYTimes3_6-0" class="reference"><a href="#cite_note-NYTimes3-6">[6]</a></sup></p> 
+     <p>With a <a href="/wiki/United_States_dollar" title="United States dollar">US$</a>500 loan, the couple formed James Industries (originally James Spring &amp; Wire Company), had 400 Slinky units made by a local machine shop, hand-wrapped each in yellow paper, and priced them at $1 a piece.<sup id="cite_ref-Walsh_4-3" class="reference"><a href="#cite_note-Walsh-4">[4]</a></sup> Each was 2<span class="frac nowrap"><sup>1</sup>⁄<sub>2</sub></span>" tall, and included 98 coils of high-grade blue-black Swedish steel.<sup id="cite_ref-Rich_7-0" class="reference"><a href="#cite_note-Rich-7">[7]</a></sup> The Jameses had difficulty selling Slinky to toy stores but, in November 1945, they were granted permission to set up an <a href="/wiki/Inclined_plane" title="Inclined plane">inclined plane</a> in the toy section of <a href="/wiki/Gimbels" title="Gimbels">Gimbels</a> department store in Philadelphia to demonstrate the toy. Slinky was a hit, and the first 400 units were sold within ninety minutes.<sup id="cite_ref-Walsh_4-4" class="reference"><a href="#cite_note-Walsh-4">[4]</a></sup><sup id="cite_ref-Rich_7-1" class="reference"><a href="#cite_note-Rich-7">[7]</a></sup> In 1946, Slinky was introduced at the <a href="/wiki/American_International_Toy_Fair" title="American International Toy Fair">American Toy Fair</a>.</p> 
+     <h3><span class="mw-headline" id="Subsequent_developments">Subsequent developments</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Slinky&amp;action=edit&amp;section=3" title="Edit section: Subsequent developments">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>Richard James opened shop in Albany, New York after developing a machine that could produce a Slinky within seconds.<sup id="cite_ref-MIT_3-2" class="reference"><a href="#cite_note-MIT-3">[3]</a></sup><sup id="cite_ref-Rich_7-2" class="reference"><a href="#cite_note-Rich-7">[7]</a></sup> The toy was packaged in a black-lettered box, and advertising saturated America. James often appeared on television shows to promote Slinky. In 1952, the Slinky Dog debuted. Other Slinky toys introduced in the 1950s included the Slinky train Loco, the Slinky worm Suzie, and the Slinky Crazy Eyes, a pair of glasses that uses Slinkys over the eyeholes attached to plastic eyeballs. James Industries licensed the patent to several other manufacturers including Wilkening Mfg. Co. of Philadelphia and Toronto which produced spring-centered toys such as Mr. Wiggle's Leap Frog and Mr. Wiggle's Cowboy.<sup id="cite_ref-Rich_7-3" class="reference"><a href="#cite_note-Rich-7">[7]</a></sup> In its first 2 years, James Industries sold 100 million Slinkys (At $1 apiece, that would be the equivalent to $1 Billion, adjusted for inflation, in gross revenue over those 2 years).<sup id="cite_ref-Walsh_4-5" class="reference"><a href="#cite_note-Walsh-4">[4]</a></sup></p> 
+     <p>In 1960, Richard James left the company after his wife filed for divorce and he became an evangelical missionary in <a href="/wiki/Bolivia" title="Bolivia">Bolivia</a> with <a href="/wiki/Wycliffe_Bible_Translators" title="Wycliffe Bible Translators" class="mw-redirect">Wycliffe Bible Translators</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Betty James managed the company, juggled creditors, and in 1964 moved the company to <a href="/wiki/Hollidaysburg,_Pennsylvania" title="Hollidaysburg, Pennsylvania">Hollidaysburg, Pennsylvania</a>. Richard James died in 1974. The company and its product line expanded under Betty James' leadership.<sup id="cite_ref-Walsh_4-6" class="reference"><a href="#cite_note-Walsh-4">[4]</a></sup> In 1995, she explained the toy's success to the <a href="/wiki/Associated_Press" title="Associated Press">Associated Press</a> by saying, "It's the simplicity of it."<sup id="cite_ref-Betty_9-0" class="reference"><a href="#cite_note-Betty-9">[9]</a></sup></p> 
+     <p>Betty James insisted upon keeping the original Slinky affordable. In 1996, when the price ranged from $1.89 to $2.69, she told <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i>: “So many children can't have expensive toys, and I feel a real obligation to them. I'm appalled when I go Christmas shopping and $60 to $80 for a toy is nothing." In 2008, Slinkys cost $4 to $5, and Slinky Dogs about $20.<sup id="cite_ref-NYTimes_10-0" class="reference"><a href="#cite_note-NYTimes-10">[10]</a></sup></p> 
+     <p>In 1998, James Industries was sold to Poof Products, Inc. of <a href="/wiki/Plymouth,_Michigan" title="Plymouth, Michigan">Plymouth, Michigan</a>, a manufacturer of foam sports balls.<sup id="cite_ref-Walsh_4-7" class="reference"><a href="#cite_note-Walsh-4">[4]</a></sup><sup id="cite_ref-NYTimes_10-1" class="reference"><a href="#cite_note-NYTimes-10">[10]</a></sup> Slinky continued production in Hollidaysburg.<sup id="cite_ref-Walsh_4-8" class="reference"><a href="#cite_note-Walsh-4">[4]</a></sup> In 2003, James Industries merged with Poof Products, Inc. to create Poof-Slinky, Inc.</p> 
+     <p>Betty James died of <a href="/wiki/Congestive_heart_failure" title="Congestive heart failure" class="mw-redirect">congestive heart failure</a> in November 2008, aged 90, after having served as president of James Industries from 1960 to 1998.<sup id="cite_ref-NYTimes_10-2" class="reference"><a href="#cite_note-NYTimes-10">[10]</a></sup> Over 300 million Slinkys have been sold between 1945 and 2005, and the original Slinky is still a bestseller.<sup id="cite_ref-Walsh_4-9" class="reference"><a href="#cite_note-Walsh-4">[4]</a></sup><sup id="cite_ref-Rich_7-4" class="reference"><a href="#cite_note-Rich-7">[7]</a></sup></p> 
+     <h2><span class="mw-headline" id="Physical_properties">Physical properties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Slinky&amp;action=edit&amp;section=4" title="Edit section: Physical properties">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>The rules that govern the mechanics of a slinky are due to <a href="/wiki/Hooke%27s_law" title="Hooke's law">Hooke's law</a> and the effects of <a href="/wiki/Gravitation" title="Gravitation" class="mw-redirect">gravitation</a>.</p> 
+     <h3><span class="mw-headline" id="Period_of_oscillation">Period of oscillation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Slinky&amp;action=edit&amp;section=5" title="Edit section: Period of oscillation">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>Due to <a href="/wiki/Simple_harmonic_motion" title="Simple harmonic motion">simple harmonic motion</a> the period of oscillation of a dangling slinky is</p> 
+     <dl> 
+      <dd>
+       <img class="mwe-math-fallback-image-inline tex" alt="T = 2\pi \sqrt{\frac{m}{k}}." src="//upload.wikimedia.org/math/f/e/e/fee6809cefc85d3f7924bf6a7d0a8d94.png">
+      </dd> 
+     </dl> 
+     <p>Where T is the time of the period of oscillation, m is the mass of the slinky and k is the <a href="/wiki/Spring_constant" title="Spring constant" class="mw-redirect">spring constant</a> of the slinky.</p> 
+     <h3><span class="mw-headline" id="Equilibrium">Equilibrium</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Slinky&amp;action=edit&amp;section=6" title="Edit section: Equilibrium">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>In the state of equilibrium of a slinky, all net force is cancelled throughout the entire slinky. This results in a stationary slinky with zero velocity. As the positions of each part of the slinky is governed by the slinky's mass, the force of gravity and the spring constant, various other properties of the slinky may be induced. The length of a perfect slinky with zero length when extended is</p> 
+     <dl> 
+      <dd>
+       <img class="mwe-math-fallback-image-inline tex" alt="L = \frac{W}{2k}." src="//upload.wikimedia.org/math/1/e/f/1ef5ba940bbf4c4b90ae7d23d855320e.png">
+      </dd> 
+     </dl> 
+     <p>Where L is the length of the slinky, W is the weight of the slinky, and k is the spring constant of the slinky.</p> 
+     <p>Due to the forces of gravity, the slinky appears bunched up towards the bottom end, as the function of the position of a slinky is</p> 
+     <dl> 
+      <dd>
+       <img class="mwe-math-fallback-image-inline tex" alt="p(n) = L(n-1)^2." src="//upload.wikimedia.org/math/c/6/e/c6e296908897812d40d6474929c91fe0.png">
+      </dd> 
+     </dl> 
+     <p>Where n is the dimensionless variable ranging from 0 to 1, 0 being the top and 1 being the bottom of the slinky, and each number between is the percentage of the slinky's mass above point n, and p(n) gives the position that n is above the bottom of the slinky.</p> 
+     <p>This quadratic equation means that rather than the center of mass being at the middle of the slinky, it lies one quarter of the length above the bottom end,</p> 
+     <dl> 
+      <dd>
+       <img class="mwe-math-fallback-image-inline tex" alt="p(0.5) = L(0.5-1)^2=0.25*L." src="//upload.wikimedia.org/math/f/e/4/fe41292b0b713ffed589fe0a7c8b9291.png">
+      </dd> 
+     </dl> 
+     <h3><span class="mw-headline" id="Phenomenon">Phenomenon</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Slinky&amp;action=edit&amp;section=7" title="Edit section: Phenomenon">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <h4><span class="mw-headline" id="Flight_of_stairs">Flight of stairs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Slinky&amp;action=edit&amp;section=8" title="Edit section: Flight of stairs">edit</a><span class="mw-editsection-bracket">]</span></span></h4> 
+     <p>When set in motion on a stepped platform such as a stairway, the slinky transfers energy along its length in a longitudinal wave. The whole spring descends end over end in a periodical motion, as if it were somersaulting down one step at a time.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p> 
+     <h4><span class="mw-headline" id="Changing_strength">Changing strength</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Slinky&amp;action=edit&amp;section=9" title="Edit section: Changing strength">edit</a><span class="mw-editsection-bracket">]</span></span></h4> 
+     <p>When any slinky is shortened, by means of cutting the slinky (or simply by holding a large portion of the top), the result is a stronger spring strength. Through observation of the length and position equations this becomes apparent because by removing three quarters the length, only half the mass is removed. The result is a spring constant twice as high as the original strength, and the effects can be easily observed through the effects on the period of oscillation.</p> 
+     <h4><span class="mw-headline" id="Levitation">Levitation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Slinky&amp;action=edit&amp;section=10" title="Edit section: Levitation">edit</a><span class="mw-editsection-bracket">]</span></span></h4> 
+     <p>When the top end of the Slinky is dropped, the information of the tension change must propagate to the bottom end before both sides begin to fall; the top of an extended Slinky will drop while the bottom initially remains in its original position, compressing the spring.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> This creates a suspension time of ~0.3 s for an original Slinky,<sup id="cite_ref-arXiv.free_13-0" class="reference"><a href="#cite_note-arXiv.free-13">[13]</a></sup><sup id="cite_ref-Journal.abstract_14-0" class="reference"><a href="#cite_note-Journal.abstract-14">[14]</a></sup> but has potential to create a much larger suspension time.</p> 
+     <h2><span class="mw-headline" id="Commercial_history">Commercial history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Slinky&amp;action=edit&amp;section=11" title="Edit section: Commercial history">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <h3><span class="mw-headline" id="Jingle">Jingle</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Slinky&amp;action=edit&amp;section=12" title="Edit section: Jingle">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>The famous jingle for the SLINKY television commercial was created in Columbia, South Carolina in 1962 with Johnny McCullough and Homer Fesperman writing the music and Charles Weagly penning the lyrics. It became the longest-running jingle in advertising history.<sup id="cite_ref-Walsh_4-10" class="reference"><a href="#cite_note-Walsh-4">[4]</a></sup></p> 
+     <p>The jingle has itself been parodied and referenced in popular culture. It is seen in the "Log" commercial on <i><a href="/wiki/The_Ren_%26_Stimpy_Show" title="The Ren &amp; Stimpy Show">The Ren &amp; Stimpy Show</a></i> and sung by actor <a href="/wiki/Jim_Carrey" title="Jim Carrey">Jim Carrey</a> in <i><a href="/wiki/Ace_Ventura:_When_Nature_Calls" title="Ace Ventura: When Nature Calls">Ace Ventura: When Nature Calls</a></i>. The song is also referenced in the movie <i><a href="/wiki/Lords_of_Dogtown" title="Lords of Dogtown">Lords of Dogtown</a></i>, where it is sung in full by <a href="/wiki/Emile_Hirsch" title="Emile Hirsch">Emile Hirsch</a>, and is sung by <a href="/wiki/Eddie_Murphy" title="Eddie Murphy">Eddie Murphy</a> as part of the final routine in the stand-up comedy film <i><a href="/wiki/Eddie_Murphy_Raw" title="Eddie Murphy Raw">Eddie Murphy Raw</a></i>.</p> 
+     <h3><span class="mw-headline" id="Slinky_Dog">Slinky Dog</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Slinky&amp;action=edit&amp;section=13" title="Edit section: Slinky Dog">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>Early in the history of James Industries, Helen (Herrick) Malsed of the state of <a href="/wiki/Washington_(U.S._state)" title="Washington (U.S. state)" class="mw-redirect">Washington</a> sent the company a letter and drawings for developing Slinky pull-toys. The company liked her ideas, and Slinky Dog and Slinky Train were added to the company's product line. Slinky Dog, a small plastic dog whose front and rear ends were joined by a metal Slinky, debuted in 1952. Malsed received royalties of $60,000 to $70,000 annually for 17 years on her patent for the Slinky pull-toy idea, but never visited the plant.<sup id="cite_ref-NYTimes2_15-0" class="reference"><a href="#cite_note-NYTimes2-15">[15]</a></sup></p> 
+     <p>In 1995, the Slinky Dog was redesigned for all of <a href="/wiki/Pixar" title="Pixar">Pixar</a>'s <i><a href="/wiki/Toy_Story_(franchise)" title="Toy Story (franchise)">Toy Story</a></i>. James Industries had discontinued their Slinky Dog a few years previously. Betty James approved of the new Slinky Dog, telling the press, "[The earlier Slinky Dog] wasn't nearly as cute as this one." The molds used in manufacturing the new toy created problems for James Industries so the plastic front and rear ends were manufactured in China with James Industries doing the assembly and packaging. The entire run of 825,000 redesigned Slinky Dogs sold out well before Christmas 1995.<sup id="cite_ref-NYTimes1_16-0" class="reference"><a href="#cite_note-NYTimes1-16">[16]</a></sup></p> 
+     <h3><span class="mw-headline" id="Plastic_Slinky">Plastic Slinky</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Slinky&amp;action=edit&amp;section=14" title="Edit section: Plastic Slinky">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:222px;">
+       <a href="/wiki/File:Slinky_rainbow.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Slinky_rainbow.jpg/220px-Slinky_rainbow.jpg" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Slinky_rainbow.jpg/330px-Slinky_rainbow.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Slinky_rainbow.jpg/440px-Slinky_rainbow.jpg 2x" data-file-width="1600" data-file-height="1067"></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Slinky_rainbow.jpg" class="internal" title="Enlarge"></a>
+        </div> Rainbow colored plastic Slinky toy
+       </div> 
+      </div> 
+     </div> 
+     <p>Plastic Slinkys are also available. They can be made in different colors. Many of them are made with the colors of the rainbow in rainbow order. They were marketed in the 1970s as a safer alternative to metal slinkys as they did not present a hazard when inserted into electrical sockets. The plastic spring toy, known as the Plastic Slinky was invented by Donald James Reum, Sr. of Master Mark Plastics in Albany, Minnesota. Mr. Reum came up with the idea as he was playing with different techniques to produce a spiral hose for watering plants. However, as it came off the assembly line, according to his children, it looked more like a "Slinky". He worked at it until it came out perfectly and then went to Betty James with his prototype. Mr. Reum manufactured the Plastic Slinky for Betty James for several years. Eventually Betty James decided to manufacture the product exclusively through James manufacturing effectively ending the production of the toy by the small Minnesota company. Reum's patent number, 4120929 was filed on Dec 28, 1976 and issued by the US Patent Office on Oct 17, 1978.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></p> 
+     <h2><span class="mw-headline" id="Awards_and_honors">Awards and honors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Slinky&amp;action=edit&amp;section=15" title="Edit section: Awards and honors">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>In 1999, the United States Postal Service issued a Slinky postage stamp.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> The Slinky was inducted into the <a href="/wiki/Toy_Hall_of_Fame" title="Toy Hall of Fame" class="mw-redirect">Toy Hall of Fame</a> in 2000 in their <a href="/wiki/Celebrate_the_Century" title="Celebrate the Century">Celebrate the Century</a> stamp series. A bill to nominate the slinky as the <a href="/wiki/List_of_U.S._state_toys" title="List of U.S. state toys" class="mw-redirect">state toy</a> of <a href="/wiki/Pennsylvania" title="Pennsylvania">Pennsylvania</a> was introduced by <a href="/wiki/Richard_Geist" title="Richard Geist">Richard Geist</a> in 2001 but not enacted.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> The same year, Betty James was inducted into the <a href="/wiki/Toy_Industry_Association" title="Toy Industry Association">Toy Industry Association</a>'s Hall of Fame.<sup id="cite_ref-NYTimes_10-3" class="reference"><a href="#cite_note-NYTimes-10">[10]</a></sup> In 2003, Slinky was named to the Toy Industry Association's "Century of Toys List", a roll call of the 100 most memorable and most creative toys of the twentieth century.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></p> 
+     <h2><span class="mw-headline" id="Other_uses">Other uses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Slinky&amp;action=edit&amp;section=16" title="Edit section: Other uses">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>High school teachers and college professors have used Slinkys to simulate the properties of <a href="/wiki/Wave" title="Wave">waves</a>,<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> United States troops in the <a href="/wiki/Vietnam_War" title="Vietnam War">Vietnam War</a> used them as mobile radio antennas<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability"><span title="The material near this tag needs to be fact-checked with the cited source(s). (June 2013)">verification needed</span></a></i>]</sup>(as have amateur radio operators<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup>), and <a href="/wiki/NASA" title="NASA">NASA</a> has used them in zero-gravity physics experiments in the <a href="/wiki/Space_Shuttle" title="Space Shuttle">Space Shuttle</a>.<sup id="cite_ref-MIT_3-3" class="reference"><a href="#cite_note-MIT-3">[3]</a></sup></p> 
+     <p>Slinkys and similar springs can be used to create a 'laser gun' like sound effect.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup> This is done by holding up a slinky in the air and striking one end, resulting in a metallic tone which sharply lowers in pitch. This is due to the properties of the metal; higher frequencies travel faster than the lower ones, so as to the listener the high-pitched sound is heard first, then gets progressively lower.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2009)">citation needed</span></a></i>]</sup> The effect can be amplified by attaching a plastic cup to one end of the Slinky.</p> 
+     <p>In 1959, <a href="/wiki/John_Cage" title="John Cage">John Cage</a> composed an avant garde work called <i>Sounds of Venice</i> scored for (among other things) a piano, a slab of marble and Venetian broom, a birdcage of canaries, and an amplified Slinky.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup></p> 
+     <p>In 1985 in conjunction with the <a href="/wiki/Johnson_Space_Center" title="Johnson Space Center" class="mw-redirect">Johnson Space Center</a> and the <a href="/wiki/Houston_Museum_of_Natural_Science" title="Houston Museum of Natural Science">Houston Museum of Natural Science</a>, Discovery astronauts created a video demonstrating how familiar toys behave in space. "It won't slink at all," Dr. M. Rhea Seddon said of Slinky, "It sort of droops." The video was prepared to stimulate interest in school children about the basic principles of physics and the phenomenon of weightlessness.<sup id="cite_ref-NYTimes4_27-0" class="reference"><a href="#cite_note-NYTimes4-27">[27]</a></sup></p> 
+     <p>In 1992, the <a href="/wiki/Bishop_Museum" title="Bishop Museum">Bishop Museum</a> in <a href="/wiki/Honolulu,_Hawaii" title="Honolulu, Hawaii" class="mw-redirect">Honolulu, Hawaii</a>, hosted an interactive traveling exhibit developed by the <a href="/wiki/Franklin_Institute" title="Franklin Institute">Franklin Institute</a> of <a href="/wiki/Philadelphia" title="Philadelphia">Philadelphia</a>, called "What Makes Music?" Among other things, visitors could examine what makes musical sound by creating waves on an eight-foot-long version of a Slinky toy.<sup id="cite_ref-NYTimes5_28-0" class="reference"><a href="#cite_note-NYTimes5-28">[28]</a></sup></p> 
+     <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Slinky&amp;action=edit&amp;section=17" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;"> 
+      <ol class="references"> 
+       <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">Dow, Sheila; Noce, Jaime E., eds. (2002). <i>Business Leader Profiles for Students</i> <b>2</b>. Detroit: Gale. pp.&nbsp;238–241. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0-7876-6615-6" title="Special:BookSources/978-0-7876-6615-6">978-0-7876-6615-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASlinky&amp;rft.btitle=Business+Leader+Profiles+for+Students&amp;rft.date=2002&amp;rft.genre=book&amp;rft.isbn=978-0-7876-6615-6&amp;rft.pages=238-241&amp;rft.place=Detroit&amp;rft.pub=Gale&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book">Hunter, Ron; Waddell, Michael E. (2008). <a rel="nofollow" class="external text" href="http://books.google.com/?id=oXIXhzaK-mMC&amp;pg=PA22&amp;dq=slinky+history+navy&amp;cd=2#v=onepage"><i>Toy Box Leadership: Leadership Lessons from the Toys You Loved as a Child</i></a>. Nashville, Tennessee: Thomas Nelson. p.&nbsp;22. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0-7852-2740-3" title="Special:BookSources/978-0-7852-2740-3">978-0-7852-2740-3</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2010-02-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASlinky&amp;rft.aufirst=Ron&amp;rft.aulast=Hunter&amp;rft.au=Waddell%2C+Michael+E.&amp;rft.btitle=Toy+Box+Leadership%3A+Leadership+Lessons+from+the+Toys+You+Loved+as+a+Child&amp;rft.date=2008&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2F%3Fid%3DoXIXhzaK-mMC%26pg%3DPA22%26dq%3Dslinky%2Bhistory%2Bnavy%26cd%3D2%23v%3Donepage&amp;rft.isbn=978-0-7852-2740-3&amp;rft.pages=22&amp;rft.place=Nashville%2C+Tennessee&amp;rft.pub=Thomas+Nelson&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-MIT-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-MIT_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-MIT_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-MIT_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-MIT_3-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://web.mit.edu/Invent/iow/slinky.html">"Inventor of the Week: The Slinky"</a>. <a href="/wiki/MIT_School_of_Engineering" title="MIT School of Engineering" class="mw-redirect">MIT School of Engineering</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-02-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASlinky&amp;rft.btitle=Inventor+of+the+Week%3A+The+Slinky&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fweb.mit.edu%2FInvent%2Fiow%2Fslinky.html&amp;rft.pub=MIT+School+of+Engineering&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-Walsh-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Walsh_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Walsh_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Walsh_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Walsh_4-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Walsh_4-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Walsh_4-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Walsh_4-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-Walsh_4-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-Walsh_4-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-Walsh_4-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-Walsh_4-10"><sup><i><b>k</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Walsh, Tim (2005). <i>Timeless Toys: Classic Toys and the Playmakers Who Created Them</i>. <a href="/wiki/Andrews_McMeel_Publishing" title="Andrews McMeel Publishing">Andrews McMeel Publishing</a>. pp.&nbsp;62–65. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0-7407-5571-2" title="Special:BookSources/978-0-7407-5571-2">978-0-7407-5571-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASlinky&amp;rft.aufirst=Tim&amp;rft.aulast=Walsh&amp;rft.btitle=Timeless+Toys%3A+Classic+Toys+and+the+Playmakers+Who+Created+Them&amp;rft.date=2005&amp;rft.genre=book&amp;rft.isbn=978-0-7407-5571-2&amp;rft.pages=62-65&amp;rft.pub=Andrews+McMeel+Publishing&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation news">Przybys, John (March 1, 1998). <a rel="nofollow" class="external text" href="http://www.reviewjournal.com/lvrj_home/1998/Mar-01-Sun-1998/lifestyles/7021869.html">"Novel Ideas"</a>. <i>Las Vegas Review-Journal</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2010-02-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASlinky&amp;rft.atitle=Novel+Ideas&amp;rft.aufirst=John&amp;rft.aulast=Przybys&amp;rft.date=1998-03-01&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.reviewjournal.com%2Flvrj_home%2F1998%2FMar-01-Sun-1998%2Flifestyles%2F7021869.html&amp;rft.jtitle=Las+Vegas+Review-Journal&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-NYTimes3-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-NYTimes3_6-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Barnes, Julian E. (2001-01-28). <a rel="nofollow" class="external text" href="http://query.nytimes.com/gst/fullpage.html?res=9401E5D7123FF93BA15752C0A9679C8B63">"A Name, a Name, Destined for Fame"</a>. <a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-02-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASlinky&amp;rft.atitle=A+Name%2C+a+Name%2C+Destined+for+Fame&amp;rft.aufirst=Julian+E.&amp;rft.aulast=Barnes&amp;rft.date=2001-01-28&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fquery.nytimes.com%2Fgst%2Ffullpage.html%3Fres%3D9401E5D7123FF93BA15752C0A9679C8B63&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-Rich-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Rich_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Rich_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Rich_7-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Rich_7-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Rich_7-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Rich, Mark (2005). <i>Warman's 101 Greatest Baby Boomer Toys</i>. Iola, Wisconsin: KP Books. pp.&nbsp;58–59. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/0-89689-220-4" title="Special:BookSources/0-89689-220-4">0-89689-220-4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASlinky&amp;rft.aufirst=Mark&amp;rft.aulast=Rich&amp;rft.btitle=Warman%27s+101+Greatest+Baby+Boomer+Toys&amp;rft.date=2005&amp;rft.genre=book&amp;rft.isbn=0-89689-220-4&amp;rft.pages=58-59&amp;rft.place=Iola%2C+Wisconsin&amp;rft.pub=KP+Books&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.newspapers.com/newspage/19524766/">"<span style="padding-left:0.2em;">'</span>Slinky' brainchild"</a>. <a href="/wiki/Delaware_County_Daily_Times" title="Delaware County Daily Times">Delaware County Daily Times</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2014-01-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASlinky&amp;rft.btitle=%27Slinky%27+brainchild&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.newspapers.com%2Fnewspage%2F19524766%2F&amp;rft.pub=Delaware+County+Daily+Times&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-Betty-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Betty_9-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.kxmb.com/getArticle.asp?ArticleId=300881">"Betty James, who cofounded Slinky company, dies"</a>. <a href="/wiki/KXMB-TV" title="KXMB-TV">KXMB-TV</a>. <a href="/wiki/Associated_Press" title="Associated Press">Associated Press</a>. 2008-11-22<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-02-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASlinky&amp;rft.atitle=Betty+James%2C+who+cofounded+Slinky+company%2C+dies&amp;rft.date=2008-11-22&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.kxmb.com%2FgetArticle.asp%3FArticleId%3D300881&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-NYTimes-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-NYTimes_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-NYTimes_10-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-NYTimes_10-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-NYTimes_10-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Hevesi, Dennis (2008-11-25). <a rel="nofollow" class="external text" href="http://www.nytimes.com/2008/11/25/business/25james.html">"Betty James, Who Named the Slinky Toy, Is Dead at 90"</a>. <a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-02-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASlinky&amp;rft.atitle=Betty+James%2C+Who+Named+the+Slinky+Toy%2C+Is+Dead+at+90&amp;rft.aufirst=Dennis&amp;rft.aulast=Hevesi&amp;rft.date=2008-11-25&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nytimes.com%2F2008%2F11%2F25%2Fbusiness%2F25james.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Ikenson, Ben. Patents: Ingenious Inventions&nbsp;: How They Work and How They Came to Be.</span></li> 
+       <li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation audio-visual"><a rel="nofollow" class="external text" href="http://blogs.discovermagazine.com/badastronomy/2011/09/26/slinky-drop-physics/"><i>Slinky drop physics - video of extended Slinky being dropped</i></a>. Discover magazine. 26 September 2011.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASlinky&amp;rft.btitle=Slinky+drop+physics+-+video+of+extended+Slinky+being+dropped&amp;rft.date=2011-09-26&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fblogs.discovermagazine.com%2Fbadastronomy%2F2011%2F09%2F26%2Fslinky-drop-physics%2F&amp;rft.pub=Discover+magazine&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-arXiv.free-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-arXiv.free_13-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Cross, Rod C.; Wheatland, Mike S. (22 Aug 2012). <a rel="nofollow" class="external text" href="http://arxiv.org/abs/1208.4629">"Modeling a falling slinky"</a>. <i>arXiv:1208.4629 [physics.pop-ph]</i>. Cornell University Library<span class="reference-accessdate">. Retrieved <span class="nowrap">20 February</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASlinky&amp;rft.atitle=Modeling+a+falling+slinky&amp;rft.aufirst=Rod+C.&amp;rft.aulast=Cross&amp;rft.au=Wheatland%2C+Mike+S.&amp;rft.date=2012-08-22&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Farxiv.org%2Fabs%2F1208.4629&amp;rft.jtitle=arXiv%3A1208.4629+%5Bphysics.pop-ph%5D&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-Journal.abstract-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-Journal.abstract_14-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Cross, Rod C.; Wheatland, Mike S. (2012). "Modeling a falling slinky". <i>American Journal of Physics</i> (American Association of Physics Teachers) <b>80</b> (12): 1051. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1119%2F1.4750489">10.1119/1.4750489</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASlinky&amp;rft.atitle=Modeling+a+falling+slinky&amp;rft.aufirst=Rod+C.&amp;rft.aulast=Cross&amp;rft.au=Wheatland%2C+Mike+S.&amp;rft.date=2012&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1119%2F1.4750489&amp;rft.issue=12&amp;rft.jtitle=American+Journal+of+Physics&amp;rft.pages=1051&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=80" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-NYTimes2-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-NYTimes2_15-0">^</a></b></span> <span class="reference-text"><cite class="citation news">McDowell, Edwin (1998-11-28). <a rel="nofollow" class="external text" href="http://query.nytimes.com/gst/fullpage.html?res=9E03E3DB1139F93AA15752C1A96E958260">"Helen H. Malsed, 88, Creator of Slinky Toys"</a>. <a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-02-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASlinky&amp;rft.atitle=Helen+H.+Malsed%2C+88%2C+Creator+of+Slinky+Toys&amp;rft.aufirst=Edwin&amp;rft.aulast=McDowell&amp;rft.date=1998-11-28&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fquery.nytimes.com%2Fgst%2Ffullpage.html%3Fres%3D9E03E3DB1139F93AA15752C1A96E958260&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-NYTimes1-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-NYTimes1_16-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Witchel, Alex (1996-02-21). <a rel="nofollow" class="external text" href="http://query.nytimes.com/gst/fullpage.html?res=9C00E1D61339F932A15751C0A960958260">"Talking Toys with Betty James; Persevering for Family and Slinky"</a>. <a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-02-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASlinky&amp;rft.atitle=Talking+Toys+with+Betty+James%3B+Persevering+for+Family+and+Slinky&amp;rft.aufirst=Alex&amp;rft.aulast=Witchel&amp;rft.date=1996-02-21&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fquery.nytimes.com%2Fgst%2Ffullpage.html%3Fres%3D9C00E1D61339F932A15751C0A960958260&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><span class="citation patent" id="CITEREFReum.2C_Donald_James1978"><a rel="nofollow" class="external text" href="http://worldwide.espacenet.com/textdoc?DB=EPODOC&amp;IDX=US4120929">US patent 4120929</a>, Reum, Donald James, "Method for producing a spirally wound plastic article", issued 17 October 1978</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Apatent&amp;rft.number=4120929&amp;rft.cc=US&amp;rft.title=Method+for+producing+a+spirally+wound+plastic+article&amp;rft.inventor=Reum%2C+Donald+James&amp;rft.date=17 October 1978&amp;rft.appldate=28 December 1976"><span style="display: none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation book"><a rel="nofollow" class="external text" href="http://books.google.com/?id=qO0s0Z52IYYC&amp;pg=PA106&amp;dq=Slinky+postage+stamp"><i>Sourcebook for Receptive and Expressive Language</i></a>. Detroit, Michigan: Wayne State University Press. 2006. p.&nbsp;106. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/0-8143-3314-1" title="Special:BookSources/0-8143-3314-1">0-8143-3314-1</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-02-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASlinky&amp;rft.btitle=Sourcebook+for+Receptive+and+Expressive+Language&amp;rft.date=2006&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2F%3Fid%3DqO0s0Z52IYYC%26pg%3DPA106%26dq%3DSlinky%2Bpostage%2Bstamp&amp;rft.isbn=0-8143-3314-1&amp;rft.pages=106&amp;rft.place=Detroit%2C+Michigan&amp;rft.pub=Wayne+State+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.legis.state.pa.us/cfdocs/billinfo/billinfo.cfm?syear=2001&amp;sind=0&amp;body=H&amp;type=B&amp;BN=1893">"Regular Session 2001–2002, House Bill 1893"</a>. <a href="/wiki/Pennsylvania_General_Assembly" title="Pennsylvania General Assembly">Pennsylvania General Assembly</a><span class="reference-accessdate">. Retrieved <span class="nowrap">31 March</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASlinky&amp;rft.btitle=Regular+Session+2001%932002%2C+House+Bill+1893&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.legis.state.pa.us%2Fcfdocs%2Fbillinfo%2Fbillinfo.cfm%3Fsyear%3D2001%26sind%3D0%26body%3DH%26type%3DB%26BN%3D1893&amp;rft.pub=Pennsylvania+General+Assembly&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="http://www.allbusiness.com/manufacturing/miscellaneous-mfg-doll-toy-games-games/5673984-1.html">"Toy Industry Association Announces Its Century of Toys List"</a> (Press release). <a href="/wiki/Business_Wire" title="Business Wire">Business Wire</a> for <a href="/wiki/Toy_Industry_Association" title="Toy Industry Association">Toy Industry Association</a>. 2003-01-21<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-02-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASlinky&amp;rft.btitle=Toy+Industry+Association+Announces+Its+Century+of+Toys+List&amp;rft.date=2003-01-21&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.allbusiness.com%2Fmanufacturing%2Fmiscellaneous-mfg-doll-toy-games-games%2F5673984-1.html&amp;rft.pub=Business+Wire+for+Toy+Industry+Association&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://alex.state.al.us/lesson_view.php?id=24112">http://alex.state.al.us/lesson_view.php?id=24112</a></span></li> 
+       <li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://essap.tamu.edu/e3/docs/lesson-docs/waves_en.doc">http://essap.tamu.edu/e3/docs/lesson-docs/waves_en.doc</a></span></li> 
+       <li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.nonstopsystems.com/radio/frank_radio_antenna.htm">http://www.nonstopsystems.com/radio/frank_radio_antenna.htm</a></span></li> 
+       <li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://mw5hoc.4t.com/custom2.html">http://mw5hoc.4t.com/custom2.html</a></span></li> 
+       <li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.abc.net.au/science/experimentals/experiments/episode19_2.htm"><i>The Experimentals</i> Episode 19</a>, <a href="/wiki/Australian_Broadcasting_Corporation" title="Australian Broadcasting Corporation">Australian Broadcasting Corporation</a></span></li> 
+       <li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation book">Fetterman, William (1996). <a rel="nofollow" class="external text" href="http://books.google.com/?id=2QEWa2Ptfq8C&amp;pg=PA36&amp;dq=John+Cage+Slinky"><i>John Cage's Theatre Pieces</i></a>. Routledge. p.&nbsp;36. <a href="/wiki/Special:BookSources/3718656426" class="internal mw-magiclink-isbn">ISBN 3-7186-5642-6</a> (hbk); <a href="/wiki/Special:BookSources/3718656434" class="internal mw-magiclink-isbn">ISBN 3-7186-5643-4</a> (pbk).</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASlinky&amp;rft.aufirst=William&amp;rft.aulast=Fetterman&amp;rft.btitle=John+Cage%27s+Theatre+Pieces&amp;rft.date=1996&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2F%3Fid%3D2QEWa2Ptfq8C%26pg%3DPA36%26dq%3DJohn%2BCage%2BSlinky&amp;rft.pages=36&amp;rft.pub=Routledge&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-NYTimes4-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-NYTimes4_27-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://query.nytimes.com/gst/fullpage.html?sec=health&amp;res=9B07E3DC1239F935A25757C0A963948260">"Toy Time in Space"</a>. <a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a>. 1985-04-16<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-02-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASlinky&amp;rft.atitle=Toy+Time+in+Space&amp;rft.date=1985-04-16&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fquery.nytimes.com%2Fgst%2Ffullpage.html%3Fsec%3Dhealth%26res%3D9B07E3DC1239F935A25757C0A963948260&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-NYTimes5-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-NYTimes5_28-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://query.nytimes.com/gst/fullpage.html?res=9E0CE4D8133FF931A3575BC0A964958260">"Honolulu Exhibit Makes Music"</a>. <a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a>. 1992-08-02<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-02-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASlinky&amp;rft.atitle=Honolulu+Exhibit+Makes+Music&amp;rft.date=1992-08-02&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fquery.nytimes.com%2Fgst%2Ffullpage.html%3Fres%3D9E0CE4D8133FF931A3575BC0A964958260&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+      </ol> 
+     </div> 
+     <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Slinky&amp;action=edit&amp;section=18" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9"> 
+      <tbody>
+       <tr> 
+        <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></td> 
+        <td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="//commons.wikimedia.org/wiki/Category:Slinky" class="extiw" title="commons:Category:Slinky">Slinky</a></b></i>.</td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <ul> 
+      <li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.poof-slinky.com/">Official website</a></span></span></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=uiyMuHuCFo4&amp;list=EC16649CCE7EFA8B2F">Veritasium</a> - levitation phenomenon and popular culture</li> 
+      <li><a rel="nofollow" class="external text" href="http://sydney.edu.au/news/84.html?newsstoryid=10758">University of Sydney</a> - home institution of Slinky physics researchers</li> 
+     </ul> 
+     <!-- 
+NewPP limit report
+Parsed by mw1249
+Cached time: 20160322154532
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.249 seconds
+Real time usage: 0.327 seconds
+Preprocessor visited node count: 2185/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 40965/2097152 bytes
+Template argument size: 2368/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 3/500
+Lua time usage: 0.098/10.000 seconds
+Lua memory usage: 3.33 MB/50 MB
+Number of Wikibase entities loaded: 1--> 
+     <!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  289.933      1 - -total
+ 52.36%  151.811      1 - Template:Reflist
+ 16.76%   48.602      2 - Template:Citation_needed
+ 16.12%   46.749      6 - Template:Cite_book
+ 12.30%   35.672      3 - Template:Fix
+ 10.94%   31.729      5 - Template:Category_handler
+ 10.31%   29.892      8 - Template:Cite_news
+  7.09%   20.549      1 - Template:Commons_category
+  5.90%   17.111      1 - Template:Commons
+  5.33%   15.462      1 - Template:Sister_project
+--> 
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:215108-0!*!0!!en!4!*!math=0 and timestamp 20160322154531 and revision id 705306295
+ --> 
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript>
+    </div> 
+    <div class="printfooter">
+      Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Slinky&amp;oldid=705306295">https://en.wikipedia.org/w/index.php?title=Slinky&amp;oldid=705306295</a>" 
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Educational_toys" title="Category:Educational toys">Educational toys</a></li>
+       <li><a href="/wiki/Category:1945_introductions" title="Category:1945 introductions">1945 introductions</a></li>
+       <li><a href="/wiki/Category:Goods_manufactured_in_the_United_States" title="Category:Goods manufactured in the United States">Goods manufactured in the United States</a></li>
+       <li><a href="/wiki/Category:Springs_(mechanical)" title="Category:Springs (mechanical)">Springs (mechanical)</a></li>
+       <li><a href="/wiki/Category:Toy_companies_of_the_United_States" title="Category:Toy companies of the United States">Toy companies of the United States</a></li>
+       <li><a href="/wiki/Category:1940s_toys" title="Category:1940s toys">1940s toys</a></li>
+       <li><a href="/wiki/Category:Metal_toys" title="Category:Metal toys">Metal toys</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li>
+       <li><a href="/wiki/Category:Articles_with_unsourced_statements_from_September_2012" title="Category:Articles with unsourced statements from September 2012">Articles with unsourced statements from September 2012</a></li>
+       <li><a href="/wiki/Category:All_pages_needing_factual_verification" title="Category:All pages needing factual verification">All pages needing factual verification</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_needing_factual_verification_from_June_2013" title="Category:Wikipedia articles needing factual verification from June 2013">Wikipedia articles needing factual verification from June 2013</a></li>
+       <li><a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2009" title="Category:Articles with unsourced statements from June 2009">Articles with unsourced statements from June 2009</a></li>
+       <li><a href="/wiki/Category:Commons_category_with_page_title_same_as_on_Wikidata" title="Category:Commons category with page title same as on Wikidata">Commons category with page title same as on Wikidata</a></li>
+      </ul>
+     </div>
+    </div> 
+    <div class="visualClear"></div> 
+   </div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> 
+    <div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label"> 
+     <h3 id="p-personal-label">Personal tools</h3> 
+     <ul> 
+      <li id="pt-anonuserpage">Not logged in</li>
+      <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+      <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+      <li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Slinky&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+      <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Slinky" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li> 
+     </ul> 
+    </div> 
+    <div id="left-navigation"> 
+     <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label"> 
+      <h3 id="p-namespaces-label">Namespaces</h3> 
+      <ul> 
+       <li id="ca-nstab-main" class="selected"><span><a href="/wiki/Slinky" title="View the content page [c]" accesskey="c">Article</a></span></li> 
+       <li id="ca-talk"><span><a href="/wiki/Talk:Slinky" title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span><a href="#"></a> </h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="right-navigation"> 
+     <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label"> 
+      <h3 id="p-views-label">Views</h3> 
+      <ul> 
+       <li id="ca-view" class="selected"><span><a href="/wiki/Slinky">Read</a></span></li> 
+       <li id="ca-edit"><span><a href="/w/index.php?title=Slinky&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li> 
+       <li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Slinky&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch"> 
+        <input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput">
+        <input type="hidden" value="Special:Search" name="title">
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton">
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a>
+    </div> 
+    <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label"> 
+     <h3 id="p-navigation-label">Navigation</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+       <li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label"> 
+     <h3 id="p-interaction-label">Interaction</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label"> 
+     <h3 id="p-tb-label">Tools</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Slinky" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Slinky" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Slinky&amp;oldid=705306295" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Slinky&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q1118802" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Slinky&amp;id=705306295" title="Information on how to cite this page">Cite this page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label"> 
+     <h3 id="p-coll-print_export-label">Print/export</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Slinky">Create a book</a></li>
+       <li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Slinky&amp;returnto=Slinky&amp;oldid=705306295&amp;writer=rdf2latex">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Slinky&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label"> 
+     <h3 id="p-wikibase-otherprojects-label">In other projects</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Slinky" hreflang="en">Wikimedia Commons</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label"> 
+     <h3 id="p-lang-label">Languages</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="interlanguage-link interwiki-als"><a href="//als.wikipedia.org/wiki/Slinky" title="Slinky – Alemannisch" lang="als" hreflang="als">Alemannisch</a></li>
+       <li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%B3%D9%84%D8%A7%D9%86%D9%83%D9%8A" title="سلانكي – Arabic" lang="ar" hreflang="ar">العربية</a></li>
+       <li class="interlanguage-link interwiki-zh-min-nan"><a href="//zh-min-nan.wikipedia.org/wiki/Slinky" title="Slinky – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan">Bân-lâm-gú</a></li>
+       <li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Slinky" title="Slinky – Catalan" lang="ca" hreflang="ca">Català</a></li>
+       <li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/Slinky" title="Slinky – Danish" lang="da" hreflang="da">Dansk</a></li>
+       <li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Slinky" title="Slinky – German" lang="de" hreflang="de">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Slinky_(muelle)" title="Slinky (muelle) – Spanish" lang="es" hreflang="es">Español</a></li>
+       <li class="interlanguage-link interwiki-eo"><a href="//eo.wikipedia.org/wiki/Slinky" title="Slinky – Esperanto" lang="eo" hreflang="eo">Esperanto</a></li>
+       <li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%A7%D8%B3%D9%84%DB%8C%D9%86%DA%A9%DB%8C" title="اسلینکی – Persian" lang="fa" hreflang="fa">فارسی</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Slinky" title="Slinky – French" lang="fr" hreflang="fr">Français</a></li>
+       <li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%A1%D7%9C%D7%99%D7%A0%D7%A7%D7%99" title="סלינקי – Hebrew" lang="he" hreflang="he">עברית</a></li>
+       <li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Slinky_(speelgoed)" title="Slinky (speelgoed) – Dutch" lang="nl" hreflang="nl">Nederlands</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AA%E3%83%B3%E3%82%AD%E3%83%BC" title="スリンキー – Japanese" lang="ja" hreflang="ja">日本語</a></li>
+       <li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Trappetroll" title="Trappetroll – Norwegian" lang="no" hreflang="no">Norsk bokmål</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A1%D0%BB%D0%B8%D0%BD%D0%BA%D0%B8" title="Слинки – Russian" lang="ru" hreflang="ru">Русский</a></li>
+       <li class="interlanguage-link interwiki-simple"><a href="//simple.wikipedia.org/wiki/Slinky" title="Slinky – Simple English" lang="simple" hreflang="simple">Simple English</a></li>
+       <li class="interlanguage-link interwiki-sl"><a href="//sl.wikipedia.org/wiki/Slinkyjeva_spirala" title="Slinkyjeva spirala – Slovenian" lang="sl" hreflang="sl">Slovenščina</a></li>
+       <li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Slinky" title="Slinky – Swedish" lang="sv" hreflang="sv">Svenska</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%A1%D0%BB%D1%96%D0%BD%D0%BA%D1%96" title="Слінкі – Ukrainian" lang="uk" hreflang="uk">Українська</a></li>
+       <li class="interlanguage-link interwiki-vi"><a href="//vi.wikipedia.org/wiki/Slinky" title="Slinky – Vietnamese" lang="vi" hreflang="vi">Tiếng Việt</a></li>
+       <li class="interlanguage-link interwiki-zh-yue"><a href="//zh-yue.wikipedia.org/wiki/%E5%BD%88%E5%BC%93_(%E7%8E%A9%E5%85%B7)" title="彈弓 (玩具) – Cantonese" lang="zh-yue" hreflang="zh-yue">粵語</a></li>
+       <li class="uls-p-lang-dummy"><a href="#"></a></li> 
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q1118802#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last modified on 16 February 2016, at 19:03.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-cookiestatement"><a href="//wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Slinky&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"> <a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"></a> </li> 
+    <li id="footer-poweredbyico"> <a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"></a> </li> 
+   </ul> 
+   <div style="clear:both"></div> 
+  </div> 
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.wikimediaEvents","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script>
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.config.set({"wgBackendResponseTime":60,"wgHostname":"mw1247"}); /* @nomin */
+} );</script>   
+ </body>
+</html>

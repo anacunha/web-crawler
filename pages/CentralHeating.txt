@@ -1,0 +1,902 @@
+https://en.wikipedia.org/wiki/Central_heating
+<!doctype html>
+<html lang="en" dir="ltr" class="client-nojs">
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Central heating - Wikipedia, the free encyclopedia</title> 
+  <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script> 
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Central_heating","wgTitle":"Central heating","wgCurRevisionId":706592886,"wgRevisionId":706592886,"wgArticleId":792685,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with Russian-language external links","Articles needing additional references from December 2010","All articles needing additional references","Articles with inconsistent citation formats","Plumbing","Residential heating"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Central_heating","wgRelevantArticleId":792685,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCentralAuthMobileDomain":false,"wgWikibaseItemId":"Q843596","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script> 
+  <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script> 
+  <meta name="generator" content="MediaWiki 1.27.0-wmf.17"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Central_heating"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Central_heating&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Central_heating&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Central_heating"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Central_heating skin-vector action-view"> 
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> 
+   <a id="top"></a> 
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Central heating</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="jump-to-nav" class="mw-jump">
+      Jump to: 
+     <a href="#mw-head">navigation</a>, 
+     <a href="#p-search">search</a> 
+    </div> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <table class="metadata plainlinks ambox ambox-content ambox-Refimprove" role="presentation"> 
+      <tbody>
+       <tr> 
+        <td class="mbox-image"> 
+         <div style="width:52px">
+          <a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="262" data-file-height="204"></a>
+         </div> </td> 
+        <td class="mbox-text"><span class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Central_heating&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(December 2010)</i></small></span></td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:222px;">
+       <a href="/wiki/File:Panna.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Panna.jpg/220px-Panna.jpg" width="220" height="435" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Panna.jpg/330px-Panna.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/f/f6/Panna.jpg 2x" data-file-width="405" data-file-height="800"></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Panna.jpg" class="internal" title="Enlarge"></a>
+        </div> Wood-fired central heating unit
+       </div> 
+      </div> 
+     </div> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:222px;">
+       <a href="/wiki/File:Pelletkessel_in_Wohnhaus.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Pelletkessel_in_Wohnhaus.JPG/220px-Pelletkessel_in_Wohnhaus.JPG" width="220" height="293" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Pelletkessel_in_Wohnhaus.JPG/330px-Pelletkessel_in_Wohnhaus.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Pelletkessel_in_Wohnhaus.JPG/440px-Pelletkessel_in_Wohnhaus.JPG 2x" data-file-width="2136" data-file-height="2848"></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Pelletkessel_in_Wohnhaus.JPG" class="internal" title="Enlarge"></a>
+        </div> Hot water central heating unit, using wood as fuel
+       </div> 
+      </div> 
+     </div> 
+     <p>A <b>central heating system</b> provides warmth to the whole interior of a building (or portion of a building) from one point to multiple <a href="/wiki/Room_(architecture)" title="Room (architecture)" class="mw-redirect">rooms</a>. When combined with other systems in order to control the building <a href="/wiki/Climate" title="Climate">climate</a>, the whole system may be an <a href="/wiki/HVAC" title="HVAC">HVAC</a> (<a href="/wiki/Heating" title="Heating" class="mw-redirect">heating</a>, <a href="/wiki/Ventilation_(architecture)" title="Ventilation (architecture)">ventilation</a> and <a href="/wiki/Air_Conditioning" title="Air Conditioning" class="mw-redirect">air conditioning</a>) system.</p> 
+     <p></p> 
+     <div id="toc" class="toc"> 
+      <div id="toctitle"> 
+       <h2>Contents</h2> 
+      </div> 
+      <ul> 
+       <li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li> 
+       <li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a> 
+        <ul> 
+         <li class="toclevel-2 tocsection-3"><a href="#Ancient_Rome_And_Greece"><span class="tocnumber">2.1</span> <span class="toctext">Ancient Rome And Greece</span></a></li> 
+         <li class="toclevel-2 tocsection-4"><a href="#Modern_central_heating_systems"><span class="tocnumber">2.2</span> <span class="toctext">Modern central heating systems</span></a> 
+          <ul> 
+           <li class="toclevel-3 tocsection-5"><a href="#Hot_air"><span class="tocnumber">2.2.1</span> <span class="toctext">Hot air</span></a></li> 
+           <li class="toclevel-3 tocsection-6"><a href="#Steam"><span class="tocnumber">2.2.2</span> <span class="toctext">Steam</span></a></li> 
+           <li class="toclevel-3 tocsection-7"><a href="#Hot_water"><span class="tocnumber">2.2.3</span> <span class="toctext">Hot water</span></a></li> 
+          </ul> </li> 
+        </ul> </li> 
+       <li class="toclevel-1 tocsection-8"><a href="#Energy_sources"><span class="tocnumber">3</span> <span class="toctext">Energy sources</span></a></li> 
+       <li class="toclevel-1 tocsection-9"><a href="#Water_heating"><span class="tocnumber">4</span> <span class="toctext">Water heating</span></a></li> 
+       <li class="toclevel-1 tocsection-10"><a href="#Steam_heating"><span class="tocnumber">5</span> <span class="toctext">Steam heating</span></a></li> 
+       <li class="toclevel-1 tocsection-11"><a href="#Electric_heaters"><span class="tocnumber">6</span> <span class="toctext">Electric heaters</span></a></li> 
+       <li class="toclevel-1 tocsection-12"><a href="#Heat_pumps"><span class="tocnumber">7</span> <span class="toctext">Heat pumps</span></a></li> 
+       <li class="toclevel-1 tocsection-13"><a href="#Environmental_aspects"><span class="tocnumber">8</span> <span class="toctext">Environmental aspects</span></a></li> 
+       <li class="toclevel-1 tocsection-14"><a href="#See_also"><span class="tocnumber">9</span> <span class="toctext">See also</span></a></li> 
+       <li class="toclevel-1 tocsection-15"><a href="#References"><span class="tocnumber">10</span> <span class="toctext">References</span></a></li> 
+       <li class="toclevel-1 tocsection-16"><a href="#Further_reading"><span class="tocnumber">11</span> <span class="toctext">Further reading</span></a></li> 
+       <li class="toclevel-1 tocsection-17"><a href="#Sources"><span class="tocnumber">12</span> <span class="toctext">Sources</span></a></li> 
+       <li class="toclevel-1 tocsection-18"><a href="#External_links"><span class="tocnumber">13</span> <span class="toctext">External links</span></a></li> 
+      </ul> 
+     </div> 
+     <p></p> 
+     <h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Central_heating&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>Central heating differs from <a href="/wiki/Space_heater" title="Space heater">space heating</a> in that the heat generation occurs in one place, such as a <a href="/wiki/Furnace_room" title="Furnace room">furnace room</a> in a house or a <a href="/wiki/Mechanical_room" title="Mechanical room">mechanical room</a> in a large building (though not necessarily at the "central" geometric point). The heat is distributed throughout the building, typically by <a href="/wiki/Forced-air" title="Forced-air">forced-air</a> through ductwork, by water circulating through pipes, or by steam fed through pipes.</p> 
+     <p>The most common method of heat generation involves the combustion of <a href="/wiki/Fossil_fuel" title="Fossil fuel">fossil fuel</a> in a <a href="/wiki/Furnace" title="Furnace">furnace</a> or <a href="/wiki/Boiler" title="Boiler">boiler</a>. Increasingly, buildings utilize solar-powered heat sources, in which case the distribution system normally uses water circulation.</p> 
+     <p>In much of the <a href="/wiki/Temperate_climate" title="Temperate climate">temperate climate</a> zone, most new housing has come with central heating installed since the Second World War, at least. Such areas normally use <a href="/wiki/Gas_heater" title="Gas heater">gas heaters</a>, <a href="/wiki/District_heating" title="District heating">district heating</a>, or a <a href="/wiki/Heating_oil" title="Heating oil">oil-fired</a> system, often using <a href="/wiki/Forced-air" title="Forced-air">forced-air</a> systems. Steam-heating systems, fired by coal, oil or gas, are also used, primarily for larger buildings. <a href="/wiki/Electric_heating" title="Electric heating">Electrical heating systems</a> occur less commonly and are practical only with low-cost electricity or when <a href="/wiki/Ground_source_heat_pump" title="Ground source heat pump" class="mw-redirect">ground source heat pumps</a> are used. Considering the combined system of central generating plant and electric resistance heating, the overall efficiency will be less than for direct use of fossil fuel for space heating.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></p> 
+     <h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Central_heating&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <h3><span class="mw-headline" id="Ancient_Rome_And_Greece">Ancient Rome And Greece</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Central_heating&amp;action=edit&amp;section=3" title="Edit section: Ancient Rome And Greece">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:222px;">
+       <a href="/wiki/File:Villa_Romana_La_Olmeda_030_Pedrosa_De_La_Vega_-_Salda%C3%B1a_(Palencia).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Villa_Romana_La_Olmeda_030_Pedrosa_De_La_Vega_-_Salda%C3%B1a_%28Palencia%29.jpg/220px-Villa_Romana_La_Olmeda_030_Pedrosa_De_La_Vega_-_Salda%C3%B1a_%28Palencia%29.jpg" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Villa_Romana_La_Olmeda_030_Pedrosa_De_La_Vega_-_Salda%C3%B1a_%28Palencia%29.jpg/330px-Villa_Romana_La_Olmeda_030_Pedrosa_De_La_Vega_-_Salda%C3%B1a_%28Palencia%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/Villa_Romana_La_Olmeda_030_Pedrosa_De_La_Vega_-_Salda%C3%B1a_%28Palencia%29.jpg/440px-Villa_Romana_La_Olmeda_030_Pedrosa_De_La_Vega_-_Salda%C3%B1a_%28Palencia%29.jpg 2x" data-file-width="1936" data-file-height="1296"></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Villa_Romana_La_Olmeda_030_Pedrosa_De_La_Vega_-_Salda%C3%B1a_(Palencia).jpg" class="internal" title="Enlarge"></a>
+        </div> Ruins of the hypocaust under the floor of a Roman villa at 
+        <a href="/wiki/La_Olmeda" title="La Olmeda">La Olmeda</a>, 
+        <a href="/wiki/Province_of_Palencia" title="Province of Palencia">Province of Palencia</a> (
+        <a href="/wiki/Castile_and_Le%C3%B3n" title="Castile and León">Castile and León</a>, Spain).
+       </div> 
+      </div> 
+     </div> 
+     <p>The ancient Greeks originally developed central heating. The <a href="/wiki/Temple_of_Ephesus" title="Temple of Ephesus" class="mw-redirect">Temple of Ephesus</a> was heated by <a href="/wiki/Flues" title="Flues" class="mw-redirect">Flues</a> planted in the ground and circulating the heat which was generated by fire. Some buildings in the Roman Empire used central heating systems, conducting air heated by <a href="/wiki/Furnaces" title="Furnaces" class="mw-redirect">furnaces</a> through empty spaces under the floors and out of <a href="/wiki/Pipe_(material)" title="Pipe (material)" class="mw-redirect">pipes</a> in the walls—a system known as a <i><a href="/wiki/Hypocaust" title="Hypocaust">hypocaust</a></i>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></p> 
+     <p>The Roman hypocaust continued to be used on a smaller scale during <a href="/wiki/Late_Antiquity" title="Late Antiquity">late Antiquity</a> and by the <a href="/wiki/Umayyad" title="Umayyad" class="mw-redirect">Umayyad</a> <a href="/wiki/Caliphate" title="Caliphate">caliphate</a>, while later Muslim builders employed a simpler system of <a href="/wiki/Underfloor_heating" title="Underfloor heating">underfloor pipes</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></p> 
+     <p>After the collapse of the <a href="/wiki/Roman_Empire" title="Roman Empire">Roman Empire</a>, overwhelmingly across Europe, heating reverted to more primitive fireplaces for almost a thousand years.</p> 
+     <p>In the early medieval Alpine upland, a simpler central heating system where heat travelled through underfloor channels from the furnace room replaced the Roman hypocaust at some places. In <a href="/wiki/Reichenau_Abbey" title="Reichenau Abbey" class="mw-redirect">Reichenau Abbey</a> a network of interconnected underfloor channels heated the 300 m² large assembly room of the monks during the winter months. The degree of efficiency of the system has been calculated at 90%.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></p> 
+     <p>In the 13th century, the <a href="/wiki/Cistercian" title="Cistercian" class="mw-redirect">Cistercian</a> <a href="/wiki/Monk" title="Monk">monks</a> revived central heating in <a href="/wiki/Christendom" title="Christendom">Christian Europe</a> using river diversions combined with indoor wood-fired furnaces. The well-preserved <a href="/wiki/Real_Monasterio_de_Nuestra_Senora_de_Rueda" title="Real Monasterio de Nuestra Senora de Rueda" class="mw-redirect">Royal Monastery of Our Lady of the Wheel</a> (founded 1202) on the <a href="/wiki/Ebro_River" title="Ebro River" class="mw-redirect">Ebro River</a> in the <a href="/wiki/Aragon" title="Aragon">Aragon</a> region of <a href="/wiki/Spain" title="Spain">Spain</a> provides an excellent example of such an application.</p> 
+     <h3><span class="mw-headline" id="Modern_central_heating_systems">Modern central heating systems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Central_heating&amp;action=edit&amp;section=4" title="Edit section: Modern central heating systems">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>The three main methods of central heating were developed in the late 18th to mid-19th centuries.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></p> 
+     <h4><span class="mw-headline" id="Hot_air">Hot air</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Central_heating&amp;action=edit&amp;section=5" title="Edit section: Hot air">edit</a><span class="mw-editsection-bracket">]</span></span></h4> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:170px;">
+       <a href="/wiki/File:Sylvester_stove_cutaway.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Sylvester_stove_cutaway.JPG/168px-Sylvester_stove_cutaway.JPG" width="168" height="190" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Sylvester_stove_cutaway.JPG/252px-Sylvester_stove_cutaway.JPG 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Sylvester_stove_cutaway.JPG/336px-Sylvester_stove_cutaway.JPG 2x" data-file-width="617" data-file-height="698"></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Sylvester_stove_cutaway.JPG" class="internal" title="Enlarge"></a>
+        </div> Sylvester's warm-air stove, 1819
+       </div> 
+      </div> 
+     </div> 
+     <p><a href="/wiki/William_Strutt_(inventor)" title="William Strutt (inventor)">William Strutt</a> designed a new mill building in <a href="/wiki/Derby" title="Derby">Derby</a> with a central hot air furnace in 1793, although the idea had been already proposed by <a href="/wiki/John_Evelyn" title="John Evelyn">John Evelyn</a> almost a hundred years earlier. Strutt's design consisted of a large stove that heated air brought from the outside by a large underground passage. The air was ventilated through the building by large central ducts.</p> 
+     <p>In 1807, he collaborated with another eminent engineer, <a href="/wiki/Charles_Sylvester" title="Charles Sylvester">Charles Sylvester</a>, on the construction of a new building to house Derby's Royal Infirmary. Sylvester was instrumental in applying Strutt's novel heating system for the new hospital. He published his ideas in <i>The Philosophy of Domestic Economy; as exemplified in the mode of Warming, Ventilating, Washing, Drying, &amp; Cooking, ... in the Derbyshire General Infirmary</i> in 1819. Sylvester documented the new ways of heating hospitals that were included in the design, and the healthier features such as self-cleaning and air-refreshing toilets.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup> The infirmary's novel heating system allowed the patients to breathe fresh heated air whilst old air was channeled up to a glass and iron dome at the centre.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></p> 
+     <p>Their designs proved very influential. They were widely copied in the new mills of the <a href="/wiki/The_Midlands,_England" title="The Midlands, England" class="mw-redirect">Midlands</a> and were constantly improved, reaching maturity with the work of de Chabannes on the ventilation of the <a href="/wiki/House_of_Commons_of_the_United_Kingdom" title="House of Commons of the United Kingdom">House of Commons</a> in the 1810s. This system remained the standard for heating small buildings for the rest of the century.</p> 
+     <h4><span class="mw-headline" id="Steam">Steam</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Central_heating&amp;action=edit&amp;section=6" title="Edit section: Steam">edit</a><span class="mw-editsection-bracket">]</span></span></h4> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:171px;">
+       <a href="/wiki/File:Thomas_Tredgold.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Thomas_Tredgold.jpg/169px-Thomas_Tredgold.jpg" width="169" height="200" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Thomas_Tredgold.jpg/253px-Thomas_Tredgold.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/6/67/Thomas_Tredgold.jpg 2x" data-file-width="332" data-file-height="393"></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Thomas_Tredgold.jpg" class="internal" title="Enlarge"></a>
+        </div> 
+        <a href="/wiki/Thomas_Tredgold" title="Thomas Tredgold">Thomas Tredgold</a>, a noted engineer and authority on central heating systems in the early 19th century.
+       </div> 
+      </div> 
+     </div> 
+     <p>The English writer <a href="/wiki/Hugh_Plat" title="Hugh Plat">Hugh Plat</a> proposed a steam based central heating system for a greenhouse in 1594, although this was an isolated occurrence and was not followed up until the 18th century. Colonel Coke devised a system of pipes that would carry steam around the house from a central boiler, but it was <a href="/wiki/James_Watt" title="James Watt">James Watt</a> the Scottish inventor who was the first to build a working system in his house.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup></p> 
+     <p>A central boiler supplied high-pressure steam that then distributed the heat within the building through a system of pipes embedded in the columns. He implemented the system on a much larger scale at a textile factory in <a href="/wiki/Manchester" title="Manchester">Manchester</a>. <a href="/wiki/Robertson_Buchanan" title="Robertson Buchanan">Robertson Buchanan</a> wrote the definitive description of these installations in his treatises published in 1807 and 1815. <a href="/wiki/Thomas_Tredgold" title="Thomas Tredgold">Thomas Tredgold</a>'s work <i>Principles of Warming and Ventilating Public Buildings</i>, delineated the method of the application of hot steam heating to smaller, non-industrial buildings. This method had superseded the hot air systems by the late 19th century.</p> 
+     <h4><span class="mw-headline" id="Hot_water">Hot water</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Central_heating&amp;action=edit&amp;section=7" title="Edit section: Hot water">edit</a><span class="mw-editsection-bracket">]</span></span></h4> 
+     <div class="thumb tleft"> 
+      <div class="thumbinner" style="width:222px;">
+       <a href="/wiki/File:Spb_06-2012_Summer_Garden_02.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Spb_06-2012_Summer_Garden_02.jpg/220px-Spb_06-2012_Summer_Garden_02.jpg" width="220" height="173" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Spb_06-2012_Summer_Garden_02.jpg/330px-Spb_06-2012_Summer_Garden_02.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Spb_06-2012_Summer_Garden_02.jpg/440px-Spb_06-2012_Summer_Garden_02.jpg 2x" data-file-width="3322" data-file-height="2612"></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Spb_06-2012_Summer_Garden_02.jpg" class="internal" title="Enlarge"></a>
+        </div> The 
+        <a href="/wiki/Summer_Palace_(Saint_Petersburg)" title="Summer Palace (Saint Petersburg)" class="mw-redirect">Summer Palace</a> in 
+        <a href="/wiki/St._Petersburg" title="St. Petersburg" class="mw-redirect">St. Petersburg</a> had an early system of 
+        <a href="/wiki/Central_heating#Water_heating" title="Central heating">hydrologic central heating</a>.
+       </div> 
+      </div> 
+     </div> 
+     <p>Early hot water systems were used in <a href="/wiki/Russia" title="Russia">Russia</a> for central heating of the <a href="/wiki/Summer_Palace_of_Peter_the_Great" title="Summer Palace of Peter the Great">Summer Palace</a> (1710–1714) of <a href="/wiki/Peter_the_Great" title="Peter the Great">Peter the Great</a> in <a href="/wiki/Saint_Petersburg" title="Saint Petersburg">Saint Petersburg</a>. Slightly later, in 1716, came the first use of water in Sweden to distribute heating in buildings. <a href="/wiki/M%C3%A5rten_Triewald" title="Mårten Triewald">Mårten Triewald</a>, a Swedish engineer, used this method for a <a href="/wiki/Greenhouse" title="Greenhouse">greenhouse</a> at <a href="/wiki/Newcastle_upon_Tyne" title="Newcastle upon Tyne">Newcastle upon Tyne</a>. Jean Simon Bonnemain (1743–1830), a French architect,<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup> introduced the technique to industry on a <a href="/wiki/Cooperative" title="Cooperative">cooperative</a>, at Château du Pêcq, near <a href="/wiki/Paris" title="Paris">Paris</a>.</p> 
+     <p>However, these scattered attempts were isolated and mainly confined in their application to <a href="/wiki/Greenhouse" title="Greenhouse">greenhouses</a>. Tredgold originally dismissed its use as impractical, but changed his mind in 1836, when the technology went into a phase of rapid development.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup></p> 
+     <p>Early systems had used low pressure water systems, which required very large pipes. One of the first modern hot water central heating systems to remedy this deficiency were installed by <a href="/wiki/Angier_March_Perkins" title="Angier March Perkins">Angier March Perkins</a> in <a href="/wiki/London" title="London">London</a> in the 1830s. At that time central heating was coming into fashion in Britain, with steam or hot air systems generally being used.</p> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:222px;">
+       <a href="/wiki/File:Perkins_furnace_and_expansion_tube.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fe/Perkins_furnace_and_expansion_tube.jpg/220px-Perkins_furnace_and_expansion_tube.jpg" width="220" height="172" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fe/Perkins_furnace_and_expansion_tube.jpg/330px-Perkins_furnace_and_expansion_tube.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fe/Perkins_furnace_and_expansion_tube.jpg/440px-Perkins_furnace_and_expansion_tube.jpg 2x" data-file-width="980" data-file-height="768"></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Perkins_furnace_and_expansion_tube.jpg" class="internal" title="Enlarge"></a>
+        </div> Details of furnace and expansion tube from 
+        <a href="/wiki/Angier_March_Perkins" title="Angier March Perkins">Perkins'</a> 
+        <a rel="nofollow" class="external text" href="http://www.google.com/patents?id=QGI_AAAAEBAJ">1838 Patent</a>.
+       </div> 
+      </div> 
+     </div> 
+     <p>Perkins' 1832 apparatus distributed water at 200 degrees <a href="/wiki/Celsius" title="Celsius">Celsius</a> (392&nbsp;°F) through small diameter pipes at high pressure. A crucial invention to make the system viable was the thread screwed joint, that allowed the joint between the pipes to bear a similar pressure to the pipe itself. He also separated the boiler from the heat source to reduce the risk of explosion. The first unit was installed in the home of <a href="/wiki/Governor_of_the_Bank_of_England" title="Governor of the Bank of England">Governor of the Bank of England</a> <a href="/wiki/John_Horsley_Palmer" title="John Horsley Palmer">John Horsley Palmer</a> so that he could grow <a href="/wiki/Grape" title="Grape">grapes</a> in <a href="/wiki/England" title="England">England</a>'s cold climate.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></p> 
+     <p>His systems were installed in factories and churches across the country, many of them remaining in usable condition for over 150 years. His system was also adapted for use by bakers in the heating of their ovens and in the making of paper from wood pulp.</p> 
+     <p><a href="/wiki/Franz_San_Galli" title="Franz San Galli">Franz San Galli</a>, a Prussian-born Russian businessman living in <a href="/wiki/St._Petersburg" title="St. Petersburg" class="mw-redirect">St. Petersburg</a>, invented the <a href="/wiki/Radiator" title="Radiator">radiator</a> between 1855 and 1857, which was a major step in the final shaping of modern central heating.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup> The Victorian <a href="/wiki/Cast_iron" title="Cast iron">cast iron</a> radiator became widespread by the end of the 19th century.</p> 
+     <h2><span class="mw-headline" id="Energy_sources">Energy sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Central_heating&amp;action=edit&amp;section=8" title="Edit section: Energy sources">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>The energy source selected for a central heating system varies by region. The primary energy source is selected on the basis of cost, convenience, efficiency and reliability. The energy cost of heating is one of the main costs of operating a building in a cold climate. Some central heating plants can switch fuels for reasons of economy and convenience; for example, a home owner may install a wood-fired furnace with electrical backup for occasional unattended operation.</p> 
+     <p><a href="/wiki/Solid_fuel" title="Solid fuel">Solid fuels</a> such as <a href="/wiki/Wood_fuel" title="Wood fuel">wood</a>, <a href="/wiki/Peat" title="Peat">peat</a> or <a href="/wiki/Coal" title="Coal">coal</a> can be stockpiled at the point of use, but are inconvenient to handle and difficult to automatically control. Wood fuel is still used where the supply is plentiful and the occupants of the building don't mind the work involved in hauling in fuel, removing ashes, and tending the fire. Pellet fuel systems can automatically stoke the fire, but still need manual removal of ash. Coal was once an important residential heating fuel but today is rarely found.</p> 
+     <p>Liquid fuels are petroleum product such as <a href="/wiki/Heating_oil" title="Heating oil">heating oil</a> and <a href="/wiki/Kerosene" title="Kerosene">kerosene</a>. These are still widely applied where other heat sources are unavailable. Fuel oil can be automatically fired in a central heating system and requires no ash removal and little maintenance of the combustion system. However, the variable price of oil on world markets leads to erratic and high prices compared to some other energy sources. Institutional heating systems (office buildings or schools, for example) can use low-grade, inexpensive <a href="/wiki/Bunker_fuel" title="Bunker fuel" class="mw-redirect">bunker fuel</a> to run their heating plants, but capital cost is high compared to more easily managed liquid fuels.</p> 
+     <p><a href="/wiki/Natural_gas" title="Natural gas">Natural gas</a> is a widespread heating fuel in North America and northern Europe. Gas burners are automatically controlled and require no ash removal and little maintenance. However, not all areas have access to a natural gas distribution system. Liquified petroleum gas or propane can be stored at the point of use and periodically replenished by a truck-mounted mobile tank.</p> 
+     <p>Some areas have low cost electric power, making electric heating economically practical. Electric heating can either be purely resistance-type heating or make use of a <a href="/wiki/Heat_pump" title="Heat pump">heat pump</a> system to take advantage of low-grade heat in the air or ground.</p> 
+     <p>A <a href="/wiki/District_heating" title="District heating">district heating</a> system uses centrally located boilers or water heaters and circulates heat energy to individual customers by circulating hot water or steam. This has the advantage of a central highly efficient energy converter than can use the best available pollution controls, and that is professionally operated. The district heating system can use heat sources impractical to deploy to individual homes, such as heavy oil, wood byproducts, or (hypothetically) nuclear fission. The distribution network is more costly to build than for gas or electric heating, and so is only found in densely populated areas or compact communities.</p> 
+     <p>Not all central heating systems require purchased energy. A few buildings are served by local geothermal heat, using hot water or steam from a local well to provide building heat. Such areas are uncommon. A <a href="/wiki/Passive_solar" title="Passive solar" class="mw-redirect">passive solar</a> system requires no purchased fuel but needs to be carefully designed for the site.</p> 
+     <h2><span class="mw-headline" id="Water_heating">Water heating</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Central_heating&amp;action=edit&amp;section=9" title="Edit section: Water heating">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:222px;">
+       <a href="/wiki/File:Active_Indirect_Water_Heater_Diagram.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Active_Indirect_Water_Heater_Diagram.svg/220px-Active_Indirect_Water_Heater_Diagram.svg.png" width="220" height="263" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Active_Indirect_Water_Heater_Diagram.svg/330px-Active_Indirect_Water_Heater_Diagram.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/46/Active_Indirect_Water_Heater_Diagram.svg/440px-Active_Indirect_Water_Heater_Diagram.svg.png 2x" data-file-width="732" data-file-height="874"></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Active_Indirect_Water_Heater_Diagram.svg" class="internal" title="Enlarge"></a>
+        </div> Active indirect water heater
+       </div> 
+      </div> 
+     </div> 
+     <div role="note" class="hatnote relarticle mainarticle">
+      Main article: 
+      <a href="/wiki/Water_heating" title="Water heating">Water heating</a>
+     </div> 
+     <p>Circulating hot water can be used for central heating. Sometimes these systems are called <a href="/wiki/Hydronics" title="Hydronics">hydronic heating systems</a>.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup></p> 
+     <p>Common components of a central heating system using water-circulation include:</p> 
+     <ul> 
+      <li>A supply of fuel, electric power or <a href="/wiki/District_heating" title="District heating">district heating</a> supply lines</li> 
+      <li>A <a href="/wiki/Boiler" title="Boiler">Boiler</a> (or a <a href="/wiki/Heat_exchanger" title="Heat exchanger">heat exchanger</a> for district heating) which heats water in the system</li> 
+      <li><a href="/wiki/Pump" title="Pump">Pump</a> to circulate the water</li> 
+      <li><a href="/wiki/Radiator_(heating)" title="Radiator (heating)">Radiators</a> which are wall-mounted panels through which the heated water passes in order to release heat into rooms.</li> 
+     </ul> 
+     <p>The circulating water systems use a closed loop; the same water is heated and then reheated. A sealed system provides a form of central heating in which the water used for heating circulates independently of the building's normal water supply.</p> 
+     <p>An <a href="/wiki/Expansion_tank" title="Expansion tank">expansion tank</a> contains compressed gas, separated from the sealed-system water by a diaphragm. This allows for normal variations of pressure in the system. A <a href="/wiki/Safety_valve" title="Safety valve">safety valve</a> allows water to escape from the system when pressure becomes too high, and a valve can open to replenish water from the normal water supply if the pressure drops too low. Sealed systems offer an alternative to open-vent systems, in which steam can escape from the system, and gets replaced from the building's water supply via a feed and central storage system.</p> 
+     <p>Heating systems in the United Kingdom and in other parts of Europe commonly combine the needs of space heating with domestic hot-water heating. These systems occur less commonly in the USA. In this case, the heated water in a sealed system flows through a <a href="/wiki/Heat_exchanger" title="Heat exchanger">heat exchanger</a> in a hot-water tank or <a href="/wiki/Hot_water_cylinder" title="Hot water cylinder" class="mw-redirect">hot-water cylinder</a> where it heats water from the regular potable water supply for use at hot-water <a href="/wiki/Tap_(valve)" title="Tap (valve)">taps</a> or <a href="/wiki/Major_appliance" title="Major appliance">appliances</a> such as <a href="/wiki/Washing_machine" title="Washing machine">washing machines</a> or <a href="/wiki/Dishwasher" title="Dishwasher">dishwashers</a>.</p> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:222px;">
+       <a href="/wiki/File:Expansion_tank.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Expansion_tank.jpg/220px-Expansion_tank.jpg" width="220" height="293" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Expansion_tank.jpg/330px-Expansion_tank.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Expansion_tank.jpg/440px-Expansion_tank.jpg 2x" data-file-width="1950" data-file-height="2600"></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Expansion_tank.jpg" class="internal" title="Enlarge"></a>
+        </div> Expansion tank in a sealed system
+       </div> 
+      </div> 
+     </div> 
+     <p>Hydronic radiant floor heating systems use a boiler or district heating to heat water and a pump to circulate the hot water in plastic pipes installed in a concrete slab. The pipes, embedded in the floor, carry heated water that conducts warmth to the surface of the floor, where it broadcasts heat energy to the room above. Hydronic heating systems are also used with antifreeze solutions in ice and snow melt systems for walkways, parking lots and streets. They are more commonly used in commercial and whole house radiant floor heat projects, whereas electric radiant heat systems are more commonly used in smaller "spot warming" applications.</p> 
+     <h2><span class="mw-headline" id="Steam_heating">Steam heating</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Central_heating&amp;action=edit&amp;section=10" title="Edit section: Steam heating">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>A steam heating system takes advantage of the high <a href="/wiki/Latent_heat" title="Latent heat">latent heat</a> which is given off when steam condenses to liquid water. In a steam heating system, each room is equipped with a so-called "radiator" which is connected to a source of low-pressure steam (a boiler). Steam entering the radiator condenses and gives up its latent heat, returning to liquid water. The radiator in turn heats the air of the room, and provides some direct <a href="/wiki/Radiant_heat" title="Radiant heat" class="mw-redirect">radiant heat</a>. The condensate water returns to the boiler either by gravity or with the assistance of a pump. Some systems use only a single pipe for combined steam and condensate return. Since trapped air prevents proper circulation, such systems have vent valves to allow air to be purged. In domestic and small commercial buildings, the steam is generated at relatively low pressure, less than 15 psig (200 kPa).</p> 
+     <p>Steam heating systems are rarely installed in new single-family residential construction owing to the cost of the piping installation. Pipes must be carefully sloped to prevent trapped condensate blockage. Compared to other methods of heating, it is more difficult to control the output of a steam system. However, steam can be sent, for example, between buildings on a campus to allow use of an efficient central boiler and low cost fuel. Tall buildings take advantage of the low density of steam to avoid the excessive pressure required to circulate hot water from a basement mounted boiler. In industrial systems, process steam used for power generation or other purposes can also be tapped for space heating. Steam for heating systems may also be obtained from heat recovery boilers using otherwise wasted heat from industrial processes.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup></p> 
+     <h2><span class="mw-headline" id="Electric_heaters">Electric heaters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Central_heating&amp;action=edit&amp;section=11" title="Edit section: Electric heaters">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>Electric heating or resistance heating converts electricity directly to heat. Electric heat is often more expensive than heat produced by combustion appliances like natural gas, propane, and oil. Electric resistance heat can be provided by baseboard heaters, space heaters, radiant heaters, furnaces, wall heaters, or thermal storage systems.</p> 
+     <p>Electric heaters are usually part of a fan oil which is part of a central air conditioner. They circulate heat by blowing air across the heating element which is supplied to the furnace through return air ducts. Blowers in electric furnaces move air over one to five resistance coils or elements which are usually rated at five kilowatts. The heating elements activate one at a time to avoid overloading the electrical system. Overheating is prevented by a safety switch called a limit controller or limit switch. This limit controller may shut the furnace off if the blower fails or if something is blocking the air flow. The heated air is then sent back through the home through supply ducts.</p> 
+     <p>In larger commercial applications, central heating is provided through an <a href="/wiki/Air_handler" title="Air handler">air handler</a> which incorporates similar components as a furnace but on a larger scale.</p> 
+     <h2><span class="mw-headline" id="Heat_pumps">Heat pumps</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Central_heating&amp;action=edit&amp;section=12" title="Edit section: Heat pumps">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <div role="note" class="hatnote relarticle mainarticle">
+      Main article: 
+      <a href="/wiki/Heat_pump" title="Heat pump">Heat pump</a>
+     </div> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:222px;">
+       <a href="/wiki/File:Heat_Pump.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Heat_Pump.jpg/220px-Heat_Pump.jpg" width="220" height="146" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Heat_Pump.jpg/330px-Heat_Pump.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Heat_Pump.jpg/440px-Heat_Pump.jpg 2x" data-file-width="2680" data-file-height="1776"></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Heat_Pump.jpg" class="internal" title="Enlarge"></a>
+        </div> Outdoor components of a residential air-source heat pump
+       </div> 
+      </div> 
+     </div> 
+     <p>In mild climates a <a href="/wiki/Air_source_heat_pumps" title="Air source heat pumps">air source heat pump</a> can be used to air condition the building during hot weather, and to warm the building using heat extracted from outdoor air in cold weather. Air-source heat pumps are generally uneconomic for outdoor temperatures much below freezing. In colder climates, <a href="/wiki/Geothermal_heat_pump" title="Geothermal heat pump">geothermal heat pumps</a> can be used to extract heat from the ground. For economy, these systems are designed for average low winter temperatures and use supplemental heating for extreme low temperature conditions. The advantage of the heat pump is that it reduces the purchased energy required for building heating; often geothermal source systems also supply domestic hot water. Even in places where fossil fuels provide most electricity, a geothermal system may offset <a href="/wiki/Greenhouse_gas" title="Greenhouse gas">greenhouse gas</a> production since most of the heat is supplied from the surrounding environment, with only 15–30% as electrical consumption.</p> 
+     <h2><span class="mw-headline" id="Environmental_aspects">Environmental aspects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Central_heating&amp;action=edit&amp;section=13" title="Edit section: Environmental aspects">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>From an energy-efficiency standpoint considerable heat gets lost or goes to waste if only a single room needs heating, since central heating has distribution losses and (in the case of forced-air systems particularly) may heat some unoccupied rooms without need. In such buildings which require isolated heating, one may wish to consider non-central systems such as individual room heaters, fireplaces or other devices. Alternatively, architects can design new buildings which can virtually eliminate the need for heating, such as those built to the <a href="/wiki/Passive_House" title="Passive House" class="mw-redirect">Passive House</a> standard.</p> 
+     <p>However, if a building does need full heating, combustion central heating offers a more <a href="/wiki/Environmentally_friendly" title="Environmentally friendly">environmentally friendly</a> solution than electric-air central heating or than other direct <a href="/wiki/Electric_heating" title="Electric heating">electric heating</a> devices. This stems from the fact that most electricity originates remotely using <a href="/wiki/Fossil_fuels" title="Fossil fuels" class="mw-redirect">fossil fuels</a>, with up to two-thirds of the energy in the fuel lost (unless utilized for <a href="/wiki/District_heating" title="District heating">district heating</a>) at the <a href="/wiki/Power_station" title="Power station">power station</a> and in <a href="/wiki/Electric_power_transmission" title="Electric power transmission">transmission losses</a>. In Sweden proposals exist to phase out direct electric heating for this reason (see <a href="/wiki/Oil_phase-out_in_Sweden" title="Oil phase-out in Sweden" class="mw-redirect">oil phase-out in Sweden</a>). Nuclear and hydroelectric sources reduce this factor.</p> 
+     <p>In contrast, hot-water central heating systems can use water heated in or close to the building using high-efficiency <a href="/wiki/Condensing_boiler" title="Condensing boiler">condensing boilers</a>, <a href="/wiki/Biofuel" title="Biofuel">biofuels</a>, or <a href="/wiki/District_heating" title="District heating">district heating</a>. Wet <a href="/wiki/Underfloor_heating" title="Underfloor heating">underfloor heating</a> has proven ideal. This offers the option of relatively easy conversion in the future to use developing technologies such as <a href="/wiki/Heat_pump" title="Heat pump">heat pumps</a> and <a href="/wiki/Solar_combisystem" title="Solar combisystem">solar combisystems</a>, thereby also providing <a href="/wiki/Future-proof" title="Future-proof" class="mw-redirect">future-proofing</a>.</p> 
+     <p>Typical efficiencies for central heating (measured at the customer's purchase of energy) are: 65-97% for gas fired heating; 80-89% for oil-fired, and 45-60% for coal-fired heating.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup></p> 
+     <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Central_heating&amp;action=edit&amp;section=14" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;"> 
+      <ul> 
+       <li><a href="/wiki/District_heating" title="District heating">District heating</a></li> 
+       <li><a href="/wiki/Energy_conservation" title="Energy conservation">Energy conservation</a></li> 
+       <li><a href="/wiki/Forced_air" title="Forced air" class="mw-redirect">Forced air</a></li> 
+       <li><a href="/wiki/Forced-air_gas" title="Forced-air gas">Forced-air gas</a></li> 
+       <li><a href="/wiki/Geothermal_Systems" title="Geothermal Systems" class="mw-redirect">Geothermal Systems</a></li> 
+       <li><a href="/wiki/Hearth" title="Hearth">Hearth</a></li> 
+       <li><a href="/wiki/Hydronics" title="Hydronics">Hydronics</a></li> 
+       <li><a href="/wiki/HVAC" title="HVAC">HVAC</a></li> 
+       <li><a href="/wiki/Oil_heater" title="Oil heater">Oil heater</a></li> 
+       <li><a href="/wiki/OpenTherm" title="OpenTherm">OpenTherm</a></li> 
+       <li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a></li> 
+       <li><a href="/wiki/Solar_combisystem" title="Solar combisystem">Solar combisystem</a></li> 
+       <li><a href="/wiki/Thermostat" title="Thermostat">Thermostat</a></li> 
+       <li><a href="/wiki/Underfloor_heating" title="Underfloor heating">Underfloor heating</a></li> 
+       <li><a href="/wiki/Water_heating" title="Water heating">Water heating</a></li> 
+       <li><a href="/wiki/Wind_energy" title="Wind energy" class="mw-redirect">Wind energy</a></li> 
+      </ul> 
+     </div> 
+     <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Central_heating&amp;action=edit&amp;section=15" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <div class="reflist" style="list-style-type: decimal;"> 
+      <ol class="references"> 
+       <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://energy.gov/energysaver/articles/electric-resistance-heating">"energy.og - Electrical Resistance Heating"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-01-15</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACentral+heating&amp;rft.btitle=energy.og+-+Electrical+Resistance+Heating&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fenergy.gov%2Fenergysaver%2Farticles%2Felectric-resistance-heating&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.bbc.co.uk/schools/romans/tech.shtml">"BBC - Romans - Technology"</a>. <a href="/wiki/BBC" title="BBC">BBC</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2008-03-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACentral+heating&amp;rft.btitle=BBC+-+Romans+-+Technology&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Fschools%2Fromans%2Ftech.shtml&amp;rft.pub=BBC&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.britannica.com/EBchecked/topic/279869/hypocaust">"Hypocaust"</a>. <i>Encyclopedic</i>. Britannica Online. 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-01-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACentral+heating&amp;rft.atitle=Hypocaust&amp;rft.date=2009&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.britannica.com%2FEBchecked%2Ftopic%2F279869%2Fhypocaust&amp;rft.jtitle=Encyclopedic&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite id="CITEREFHugh_N._Kennedy1985" class="citation journal"><a href="/wiki/Hugh_N._Kennedy" title="Hugh N. Kennedy">Hugh N. Kennedy</a>, Hugh (1985). "From Polis To Madina: Urban Change In Late Antique And Early Islamic Syria". <i><a href="/wiki/Past_%26_Present_(journal)" title="Past &amp; Present (journal)">Past &amp; Present</a></i> (<a href="/wiki/Oxford_University_Press" title="Oxford University Press">Oxford University Press</a>) <b>106</b> (1): 3–27 [10–1]. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1093%2Fpast%2F106.1.3">10.1093/past/106.1.3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACentral+heating&amp;rft.atitle=From+Polis+To+Madina%3A+Urban+Change+In+Late+Antique+And+Early+Islamic+Syria&amp;rft.aufirst=Hugh&amp;rft.aulast=Hugh+N.+Kennedy&amp;rft.date=1985&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1093%2Fpast%2F106.1.3&amp;rft.issue=1&amp;rft.jtitle=Past+%26+Present&amp;rft.pages=3-27+10-1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=106" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a href="#CITEREFH.C3.A4germannSchneider1997">Hägermann &amp; Schneider 1997</a>, pp.&nbsp;456–459</span></li> 
+       <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">Robert Bruegmann. <a rel="nofollow" class="external text" href="http://isites.harvard.edu/fs/docs/icb.topic753413.files/8_Engineers%20Contractors%20and%20Industrial%20Construction/Bruegmann_Central.pdf">"Central Heating and Ventilation:Origins and Effects on Architectural Design"</a> <span style="font-size:85%;">(PDF)</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACentral+heating&amp;rft.au=Robert+Bruegmann&amp;rft.btitle=Central+Heating+and+Ventilation%3AOrigins+and+Effects+on+Architectural+Design&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fisites.harvard.edu%2Ffs%2Fdocs%2Ficb.topic753413.files%2F8_Engineers%2520Contractors%2520and%2520Industrial%2520Construction%2FBruegmann_Central.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation book">Sylvester, Charles (1819). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=9joAAAAAQAAJ"><i>The philosophy of domestic economy: as exemplified in the mode of warming ... p.48 et al</i></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACentral+heating&amp;rft.aufirst=Charles&amp;rft.aulast=Sylvester&amp;rft.btitle=The+philosophy+of+domestic+economy%3A+as+exemplified+in+the+mode+of+warming+...+p.48+et+al&amp;rft.date=1819&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D9joAAAAAQAAJ&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">Elliott, Paul (2000). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1044459">"The Derbyshire General Infirmary and the Derby Philosophers: The Application of Industrial Architecture and Technology to Medical Institutions in Early-Nineteenth-Century England"</a>. <i>Medical History</i> <b>46</b>: 65–92. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1017%2FS0025727300068745">10.1017/S0025727300068745</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&nbsp;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1044459">1044459</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&nbsp;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/11877984">11877984</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACentral+heating&amp;rft.atitle=The+Derbyshire+General+Infirmary+and+the+Derby+Philosophers%3A+The+Application+of+Industrial+Architecture+and+Technology+to+Medical+Institutions+in+Early-Nineteenth-Century+England&amp;rft.aufirst=Paul&amp;rft.aulast=Elliott&amp;rft.date=2000&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1044459&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1044459&amp;rft_id=info%3Adoi%2F10.1017%2FS0025727300068745&amp;rft_id=info%3Apmid%2F11877984&amp;rft.jtitle=Medical+History&amp;rft.pages=65-92&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=46" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation book">Patrick Mitchell (2008). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=S64mLfBs2vAC&amp;source=gbs_navlinks_s"><i>Central Heating, Installation, Maintenance and Repair</i></a>. WritersPrintShop. p.&nbsp;5.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACentral+heating&amp;rft.au=Patrick+Mitchell&amp;rft.btitle=Central+Heating%2C+Installation%2C+Maintenance+and+Repair&amp;rft.date=2008&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DS64mLfBs2vAC%26source%3Dgbs_navlinks_s&amp;rft.pages=5&amp;rft.pub=WritersPrintShop&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Emmanuelle Gallo: "Jean Simon Bonnemain (1743–1830) and the Origins of Hot Water Central Heating" in <i>Proceedings of the Second International Congress on Construction History</i> (2006-06-17), pages 1043–1060; retrieved from <a rel="nofollow" class="external free" href="http://halshs.archives-ouvertes.fr/halshs-00080479/en/">http://halshs.archives-ouvertes.fr/halshs-00080479/en/</a> on 2007-02-05</span></li> 
+       <li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation book">Adam Gopnik (2012). "1". <a rel="nofollow" class="external text" href="https://books.google.com/books?id=Ia8CPd1oXe8C"><i>Winter: Five Windows on the Season</i></a>. Quercus.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACentral+heating&amp;rft.atitle=1&amp;rft.au=Adam+Gopnik&amp;rft.btitle=Winter%3A+Five+Windows+on+the+Season&amp;rft.date=2012&amp;rft.genre=bookitem&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DIa8CPd1oXe8C&amp;rft.pub=Quercus&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">McConnell, A. (2004). "<a rel="nofollow" class="external text" href="http://www.oxforddnb.com/view/article/21967">Perkins, Angier March (1799–1881)</a>". <i><a href="/wiki/Oxford_Dictionary_of_National_Biography" title="Oxford Dictionary of National Biography" class="mw-redirect">Oxford Dictionary of National Biography</a></i>. Oxford University Press. Accessed 14 August 2007 (subscription required).</span></li> 
+       <li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.gruner-fam.de/SanGalli-E.html">Family Sangalli / San Galli</a></span></li> 
+       <li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.votgk.com/press/energyhistory/sangalli/">The hot boxes of San Galli</a> <span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(Russian)</span></span></li> 
+       <li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><i>2012 ASHRAE Handbook: Heating, Refrigeration, and Air Conditioning.</i> 2012, <a href="/wiki/Special:BookSources/9781936504251" class="internal mw-magiclink-isbn">ISBN 978 1936 504 251</a>: Page 13.1</span></li> 
+       <li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><i>2012 ASHRAE Handbook: Heating, Refrigeration, and Air Conditioning.</i> 2012, <a href="/wiki/Special:BookSources/9781936504251" class="internal mw-magiclink-isbn">ISBN 978 1936 504 251</a>: chapter 11</span></li> 
+       <li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.eere.energy.gov/consumer/your_home/space_heating_cooling/index.cfm/mytopic=12330">EERE Consumer's Guide: Selecting Heating Fuel and System Types</a></span></li> 
+      </ol> 
+     </div> 
+     <h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Central_heating&amp;action=edit&amp;section=16" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <ul> 
+      <li>Adams, Sean Patrick. <i>Home Fires: How Americans Kept Warm in the 19th Century</i> (Johns Hopkins University Press, 2014), 183 pp</li> 
+     </ul> 
+     <p><a rel="nofollow" class="external text" href="https://www.mrcentralheating.co.uk/blog/top-six-myths-central-heating">6 Myths abouth Central Heating</a></p> 
+     <h2><span class="mw-headline" id="Sources">Sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Central_heating&amp;action=edit&amp;section=17" title="Edit section: Sources">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <ul> 
+      <li><cite id="CITEREFH.C3.A4germannSchneider1997" class="citation book">Hägermann, Dieter; Schneider, Helmuth (1997). <i>Propyläen Technikgeschichte. Landbau und Handwerk, 750 v. Chr. bis 1000 n. Chr</i> (2nd ed.). Berlin. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/3-549-05632-X" title="Special:BookSources/3-549-05632-X">3-549-05632-X</a></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACentral+heating&amp;rft.aufirst=Dieter&amp;rft.aulast=H%C3%A4germann&amp;rft.au=Schneider%2C+Helmuth&amp;rft.btitle=Propyl%C3%A4en+Technikgeschichte.+Landbau+und+Handwerk%2C+750+v.+Chr.+bis+1000+n.+Chr&amp;rft.date=1997&amp;rft.edition=2nd&amp;rft.genre=book&amp;rft.isbn=3-549-05632-X&amp;rft.place=Berlin&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></li> 
+     </ul> 
+     <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Central_heating&amp;action=edit&amp;section=18" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <ul> 
+      <li><a rel="nofollow" class="external text" href="http://www.bbc.co.uk/wales/history/media//pages/welsh_children_life_before_central_heating_16x9.shtml">BBC Wales History - Life before central heating</a></li> 
+     </ul> 
+     <table class="navbox" style="border-spacing:0;vertical-align: middle;"> 
+      <tbody>
+       <tr> 
+        <td style="padding:2px"> 
+         <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"> 
+          <tbody>
+           <tr> 
+            <th scope="col" class="navbox-title" colspan="2"> 
+             <div class="plainlinks hlist navbar mini"> 
+              <ul> 
+               <li class="nv-view"><a href="/wiki/Template:HVAC" title="Template:HVAC"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li> 
+               <li class="nv-talk"><a href="/wiki/Template_talk:HVAC" title="Template talk:HVAC"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li> 
+               <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:HVAC&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li> 
+              </ul> 
+             </div> 
+             <div style="font-size:114%">
+              <a href="/wiki/HVAC" title="HVAC">HVAC</a> (Heating, Ventilation, and Air Conditioning)
+             </div> </th> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Fundamental concepts</th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align: middle;"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/Air_changes_per_hour" title="Air changes per hour">Air changes per hour</a></li> 
+               <li><a href="/wiki/Building_envelope" title="Building envelope">Building envelope</a></li> 
+               <li><a href="/wiki/Convection" title="Convection">Convection</a></li> 
+               <li><a href="/wiki/Dilution_(equation)" title="Dilution (equation)">Dilution (equation)</a></li> 
+               <li><a href="/wiki/Domestic_energy_consumption" title="Domestic energy consumption">Domestic energy consumption</a></li> 
+               <li><a href="/wiki/Enthalpy" title="Enthalpy">Enthalpy</a></li> 
+               <li><a href="/wiki/Fluid_dynamics" title="Fluid dynamics">Fluid dynamics</a></li> 
+               <li><a href="/wiki/Gas_compressor" title="Gas compressor">Gas compressor</a></li> 
+               <li><a href="/wiki/Heat_pump_and_refrigeration_cycle" title="Heat pump and refrigeration cycle">Heat pump and refrigeration cycle</a></li> 
+               <li><a href="/wiki/Heat_transfer" title="Heat transfer">Heat transfer</a></li> 
+               <li><a href="/wiki/Infiltration_(HVAC)" title="Infiltration (HVAC)">Infiltration (HVAC)</a></li> 
+               <li><a href="/wiki/Noise_control" title="Noise control">Noise control</a></li> 
+               <li><a href="/wiki/Psychrometrics" title="Psychrometrics">Psychrometrics</a></li> 
+               <li><a href="/wiki/Stack_effect" title="Stack effect">Stack effect</a></li> 
+               <li><a href="/wiki/Thermal_comfort" title="Thermal comfort">Thermal comfort</a></li> 
+               <li><a href="/wiki/Thermal_destratification" title="Thermal destratification">Thermal destratification</a></li> 
+               <li><a href="/wiki/Thermodynamics" title="Thermodynamics">Thermodynamics</a></li> 
+               <li><a href="/wiki/Vapor_pressure_of_water" title="Vapor pressure of water" class="mw-redirect">Vapor pressure of water</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Technology</th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align: middle;"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/Absorption_refrigerator" title="Absorption refrigerator">Absorption refrigerator</a></li> 
+               <li><a href="/wiki/Air_barrier" title="Air barrier">Air barrier</a></li> 
+               <li><a href="/wiki/Air_conditioning" title="Air conditioning">Air conditioning</a></li> 
+               <li><a href="/wiki/Antifreeze" title="Antifreeze">Antifreeze</a></li> 
+               <li><a href="/wiki/Automobile_air_conditioning" title="Automobile air conditioning">Automobile air conditioning</a></li> 
+               <li><a href="/wiki/Autonomous_building" title="Autonomous building">Autonomous building</a></li> 
+               <li><a href="/wiki/Building_insulation_materials" title="Building insulation materials">Building insulation materials</a></li> 
+               <li><strong class="selflink">Central heating</strong></li> 
+               <li><a href="/wiki/Central_solar_heating" title="Central solar heating">Central solar heating</a></li> 
+               <li><a href="/wiki/Chilled_beam" title="Chilled beam">Chilled beam</a></li> 
+               <li><a href="/wiki/Chilled_water" title="Chilled water">Chilled water</a></li> 
+               <li><a href="/wiki/Constant_air_volume" title="Constant air volume">Constant air volume</a></li> 
+               <li><a href="/wiki/Coolant" title="Coolant">Coolant</a></li> 
+               <li><a href="/wiki/Dedicated_outdoor_air_system" title="Dedicated outdoor air system">Dedicated outdoor air system</a></li> 
+               <li><a href="/wiki/Deep_water_source_cooling" title="Deep water source cooling">Deep water source cooling</a></li> 
+               <li><a href="/wiki/Demand-controlled_ventilation" title="Demand-controlled ventilation" class="mw-redirect">Demand-controlled ventilation</a></li> 
+               <li><a href="/wiki/Displacement_ventilation" title="Displacement ventilation">Displacement ventilation</a></li> 
+               <li><a href="/wiki/District_cooling" title="District cooling">District cooling</a></li> 
+               <li><a href="/wiki/District_heating" title="District heating">District heating</a></li> 
+               <li><a href="/wiki/Electric_heating" title="Electric heating">Electric heating</a></li> 
+               <li><a href="/wiki/Energy_recovery_ventilation" title="Energy recovery ventilation">Energy recovery ventilation</a></li> 
+               <li><a href="/wiki/Forced-air" title="Forced-air">Forced-air</a></li> 
+               <li><a href="/wiki/Forced-air_gas" title="Forced-air gas">Forced-air gas</a></li> 
+               <li><a href="/wiki/Free_cooling" title="Free cooling">Free cooling</a></li> 
+               <li><a href="/wiki/Heat_recovery_ventilation" title="Heat recovery ventilation">Heat recovery ventilation</a></li> 
+               <li><a href="/wiki/Hydronics" title="Hydronics">Hydronics</a></li> 
+               <li><a href="/wiki/HVAC" title="HVAC">HVAC</a></li> 
+               <li><a href="/wiki/Ice_storage_air_conditioning" title="Ice storage air conditioning">Ice storage air conditioning</a></li> 
+               <li><a href="/wiki/Kitchen_ventilation" title="Kitchen ventilation">Kitchen ventilation</a></li> 
+               <li><a href="/wiki/Mixed-mode_ventilation" title="Mixed-mode ventilation">Mixed-mode ventilation</a></li> 
+               <li><a href="/wiki/Microgeneration" title="Microgeneration">Microgeneration</a></li> 
+               <li><a href="/wiki/Natural_ventilation" title="Natural ventilation">Natural ventilation</a></li> 
+               <li><a href="/wiki/Passive_cooling" title="Passive cooling">Passive cooling</a></li> 
+               <li><a href="/wiki/Passive_house" title="Passive house">Passive house</a></li> 
+               <li><a href="/wiki/Radiant_cooling" title="Radiant cooling">Radiant cooling</a></li> 
+               <li><a href="/wiki/Radiant_heating" title="Radiant heating">Radiant heating</a></li> 
+               <li><a href="/wiki/Radon_mitigation" title="Radon mitigation">Radon mitigation</a></li> 
+               <li><a href="/wiki/Refrigeration" title="Refrigeration">Refrigeration</a></li> 
+               <li><a href="/wiki/Renewable_heat" title="Renewable heat">Renewable heat</a></li> 
+               <li><a href="/wiki/Room_air_distribution" title="Room air distribution">Room air distribution</a></li> 
+               <li><a href="/wiki/Solar_air_heat" title="Solar air heat">Solar air heat</a></li> 
+               <li><a href="/wiki/Solar_combisystem" title="Solar combisystem">Solar combisystem</a></li> 
+               <li><a href="/wiki/Solar_cooling" title="Solar cooling" class="mw-redirect">Solar cooling</a></li> 
+               <li><a href="/wiki/Solar_heating" title="Solar heating" class="mw-redirect">Solar heating</a></li> 
+               <li><a href="/wiki/Thermal_insulation" title="Thermal insulation">Thermal insulation</a></li> 
+               <li><a href="/wiki/Thermal_mass" title="Thermal mass">Thermal mass</a></li> 
+               <li><a href="/wiki/Underfloor_air_distribution" title="Underfloor air distribution">Underfloor air distribution</a></li> 
+               <li><a href="/wiki/Underfloor_heating" title="Underfloor heating">Underfloor heating</a></li> 
+               <li><a href="/wiki/Vapor_barrier" title="Vapor barrier">Vapor barrier</a></li> 
+               <li><a href="/wiki/Vapor-compression_refrigeration" title="Vapor-compression refrigeration">Vapor-compression refrigeration</a></li> 
+               <li><a href="/wiki/Variable_air_volume" title="Variable air volume">Variable air volume</a></li> 
+               <li><a href="/wiki/Variable_refrigerant_flow" title="Variable refrigerant flow">Variable refrigerant flow</a></li> 
+               <li><a href="/wiki/Ventilation_(architecture)" title="Ventilation (architecture)">Ventilation (architecture)</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Components</th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align: middle;"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/Air_conditioner_inverter" title="Air conditioner inverter">Air conditioner inverter</a></li> 
+               <li><a href="/wiki/Air_filter" title="Air filter">Air filter</a></li> 
+               <li><a href="/wiki/Air_handler" title="Air handler">Air handler</a></li> 
+               <li><a href="/wiki/Air_ionizer" title="Air ionizer" class="mw-redirect">Air ionizer</a></li> 
+               <li><a href="/wiki/Air-mixing_plenum" title="Air-mixing plenum">Air-mixing plenum</a></li> 
+               <li><a href="/wiki/Air_purifier" title="Air purifier">Air purifier</a></li> 
+               <li><a href="/wiki/Air_source_heat_pumps" title="Air source heat pumps">Air source heat pumps</a></li> 
+               <li><a href="/wiki/Back_boiler" title="Back boiler">Back boiler</a></li> 
+               <li><a href="/wiki/Barrier_pipe" title="Barrier pipe">Barrier pipe</a></li> 
+               <li><a href="/wiki/Blast_damper" title="Blast damper">Blast damper</a></li> 
+               <li><a href="/wiki/Boiler" title="Boiler">Boiler</a></li> 
+               <li><a href="/wiki/Centrifugal_fan" title="Centrifugal fan">Centrifugal fan</a></li> 
+               <li><a href="/wiki/Chiller" title="Chiller">Chiller</a></li> 
+               <li><a href="/wiki/Condensate_pump" title="Condensate pump">Condensate pump</a></li> 
+               <li><a href="/wiki/Condenser_(heat_transfer)" title="Condenser (heat transfer)">Condenser (heat transfer)</a></li> 
+               <li><a href="/wiki/Condensing_boiler" title="Condensing boiler">Condensing boiler</a></li> 
+               <li><a href="/wiki/Convection_heater" title="Convection heater">Convection heater</a></li> 
+               <li><a href="/wiki/Cooling_tower" title="Cooling tower">Cooling tower</a></li> 
+               <li><a href="/wiki/Damper_(flow)" title="Damper (flow)">Damper (flow)</a></li> 
+               <li><a href="/wiki/Dehumidifier" title="Dehumidifier">Dehumidifier</a></li> 
+               <li><a href="/wiki/Duct_(flow)" title="Duct (flow)">Duct (flow)</a></li> 
+               <li><a href="/wiki/Durable_elbow_support" title="Durable elbow support">Durable elbow support</a></li> 
+               <li><a href="/wiki/Economizer" title="Economizer">Economizer</a></li> 
+               <li><a href="/wiki/Electrostatic_precipitator" title="Electrostatic precipitator">Electrostatic precipitator</a></li> 
+               <li><a href="/wiki/Evaporative_cooler" title="Evaporative cooler">Evaporative cooler</a></li> 
+               <li><a href="/wiki/Evaporator" title="Evaporator">Evaporator</a></li> 
+               <li><a href="/wiki/Exhaust_hood" title="Exhaust hood">Exhaust hood</a></li> 
+               <li><a href="/wiki/Expansion_tank" title="Expansion tank">Expansion tank</a></li> 
+               <li><a href="/wiki/Fan_coil_unit" title="Fan coil unit">Fan coil unit</a></li> 
+               <li><a href="/wiki/Fan_heater" title="Fan heater">Fan heater</a></li> 
+               <li><a href="/wiki/Fire_damper" title="Fire damper">Fire damper</a></li> 
+               <li><a href="/wiki/Fireplace" title="Fireplace">Fireplace</a></li> 
+               <li><a href="/wiki/Fireplace_insert" title="Fireplace insert">Fireplace insert</a></li> 
+               <li><a href="/wiki/Firestop" title="Firestop">Firestop</a></li> 
+               <li><a href="/wiki/Freeze_stat" title="Freeze stat">Freeze stat</a></li> 
+               <li><a href="/wiki/Flue" title="Flue">Flue</a></li> 
+               <li><a href="/wiki/Freon" title="Freon">Freon</a></li> 
+               <li><a href="/wiki/Fume_hood" title="Fume hood">Fume hood</a></li> 
+               <li><a href="/wiki/Furnace" title="Furnace">Furnace</a></li> 
+               <li><a href="/wiki/Furnace_room" title="Furnace room">Furnace room</a></li> 
+               <li><a href="/wiki/Gas_compressor" title="Gas compressor">Gas compressor</a></li> 
+               <li><a href="/wiki/Gas_heater" title="Gas heater">Gas heater</a></li> 
+               <li><a href="/wiki/Geothermal_heat_pump" title="Geothermal heat pump">Geothermal heat pump</a></li> 
+               <li><a href="/wiki/Grease_duct" title="Grease duct">Grease duct</a></li> 
+               <li><a href="/wiki/Grille" title="Grille">Grille</a></li> 
+               <li><a href="/wiki/Ground-coupled_heat_exchanger" title="Ground-coupled heat exchanger">Ground-coupled heat exchanger</a></li> 
+               <li><a href="/wiki/Heat_exchanger" title="Heat exchanger">Heat exchanger</a></li> 
+               <li><a href="/wiki/Heat_pipe" title="Heat pipe">Heat pipe</a></li> 
+               <li><a href="/wiki/Heat_pump" title="Heat pump">Heat pump</a></li> 
+               <li><a href="/wiki/Heating_film" title="Heating film">Heating film</a></li> 
+               <li><a href="/wiki/Heating_system" title="Heating system">Heating system</a></li> 
+               <li><a href="/wiki/High_efficiency_glandless_circulating_pump" title="High efficiency glandless circulating pump">High efficiency glandless circulating pump</a></li> 
+               <li><a href="/wiki/High-efficiency_particulate_air" title="High-efficiency particulate air" class="mw-redirect">High-efficiency particulate air</a> (HEPA)</li> 
+               <li><a href="/wiki/High_pressure_cut_off_switch" title="High pressure cut off switch">High pressure cut off switch</a></li> 
+               <li><a href="/wiki/Humidifier" title="Humidifier">Humidifier</a></li> 
+               <li><a href="/wiki/Hybrid_heat" title="Hybrid heat">Hybrid heat</a></li> 
+               <li><a href="/wiki/Infrared_heater" title="Infrared heater">Infrared heater</a></li> 
+               <li><a href="/wiki/Inverter_compressor" title="Inverter compressor">Inverter compressor</a></li> 
+               <li><a href="/wiki/Louver" title="Louver">Louver</a></li> 
+               <li><a href="/wiki/Mechanical_fan" title="Mechanical fan">Mechanical fan</a></li> 
+               <li><a href="/wiki/Mechanical_room" title="Mechanical room">Mechanical room</a></li> 
+               <li><a href="/wiki/Oil_heater" title="Oil heater">Oil heater</a></li> 
+               <li><a href="/wiki/Packaged_terminal_air_conditioner" title="Packaged terminal air conditioner">Packaged terminal air conditioner</a></li> 
+               <li><a href="/wiki/Plenum_space" title="Plenum space">Plenum space</a></li> 
+               <li><a href="/wiki/Pressurisation_ductwork" title="Pressurisation ductwork">Pressurisation ductwork</a></li> 
+               <li><a href="/wiki/Radiator_(heating)" title="Radiator (heating)">Radiator (heating)</a></li> 
+               <li><a href="/wiki/Radiator_reflector" title="Radiator reflector">Radiator reflector</a></li> 
+               <li><a href="/wiki/Recuperator" title="Recuperator">Recuperator</a></li> 
+               <li><a href="/wiki/Refrigerant" title="Refrigerant">Refrigerant</a></li> 
+               <li><a href="/wiki/Register_(air_and_heating)" title="Register (air and heating)">Register</a></li> 
+               <li><a href="/wiki/Reversing_valve" title="Reversing valve">Reversing valve</a></li> 
+               <li><a href="/wiki/Run-around_coil" title="Run-around coil">Run-around coil</a></li> 
+               <li><a href="/wiki/Scroll_compressor" title="Scroll compressor">Scroll compressor</a></li> 
+               <li><a href="/wiki/Solar_chimney" title="Solar chimney">Solar chimney</a></li> 
+               <li><a href="/wiki/Space_heater" title="Space heater">Space heater</a></li> 
+               <li><a href="/wiki/Smoke_exhaust_ductwork" title="Smoke exhaust ductwork">Smoke exhaust ductwork</a></li> 
+               <li><a href="/wiki/Thermal_expansion_valve" title="Thermal expansion valve">Thermal expansion valve</a></li> 
+               <li><a href="/wiki/Thermal_wheel" title="Thermal wheel">Thermal wheel</a></li> 
+               <li><a href="/wiki/Thermosiphon" title="Thermosiphon">Thermosiphon</a></li> 
+               <li><a href="/wiki/Thermostatic_radiator_valve" title="Thermostatic radiator valve">Thermostatic radiator valve</a></li> 
+               <li><a href="/wiki/Trickle_vent" title="Trickle vent">Trickle vent</a></li> 
+               <li><a href="/wiki/Trombe_wall" title="Trombe wall">Trombe wall</a></li> 
+               <li><a href="/wiki/Turning_vanes_(HVAC)" title="Turning vanes (HVAC)">Turning vanes (HVAC)</a></li> 
+               <li><a href="/wiki/Ultra-low_particulate_air" title="Ultra-low particulate air">Ultra-low particulate air</a> (ULPA)</li> 
+               <li><a href="/wiki/Whole-house_fan" title="Whole-house fan">Whole-house fan</a></li> 
+               <li><a href="/wiki/Windcatcher" title="Windcatcher">Windcatcher</a></li> 
+               <li><a href="/wiki/Wood-burning_stove" title="Wood-burning stove">Wood-burning stove</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Measurement and control</th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align: middle;"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/Air_flow_meter" title="Air flow meter">Air flow meter</a></li> 
+               <li><a href="/wiki/Aquastat" title="Aquastat">Aquastat</a></li> 
+               <li><a href="/wiki/BACnet" title="BACnet">BACnet</a></li> 
+               <li><a href="/wiki/Blower_door" title="Blower door">Blower door</a></li> 
+               <li><a href="/wiki/Building_automation" title="Building automation">Building automation</a></li> 
+               <li><a href="/wiki/Clean_Air_Delivery_Rate" title="Clean Air Delivery Rate">Clean Air Delivery Rate</a> (CADR)</li> 
+               <li><a href="/wiki/Gas_sensor" title="Gas sensor" class="mw-redirect">Gas sensor</a></li> 
+               <li><a href="/wiki/Home_energy_monitor" title="Home energy monitor">Home energy monitor</a></li> 
+               <li><a href="/wiki/Humidistat" title="Humidistat">Humidistat</a></li> 
+               <li><a href="/wiki/HVAC_control_system" title="HVAC control system">HVAC control system</a></li> 
+               <li><a href="/wiki/Intelligent_buildings" title="Intelligent buildings" class="mw-redirect">Intelligent buildings</a></li> 
+               <li><a href="/wiki/LonWorks" title="LonWorks">LonWorks</a></li> 
+               <li><a href="/wiki/Minimum_efficiency_reporting_value" title="Minimum efficiency reporting value">Minimum efficiency reporting value</a> (MERV)</li> 
+               <li><a href="/wiki/OpenTherm" title="OpenTherm">OpenTherm</a></li> 
+               <li><a href="/wiki/Programmable_communicating_thermostat" title="Programmable communicating thermostat">Programmable communicating thermostat</a></li> 
+               <li><a href="/wiki/Programmable_thermostat" title="Programmable thermostat">Programmable thermostat</a></li> 
+               <li><a href="/wiki/Psychrometrics" title="Psychrometrics">Psychrometrics</a></li> 
+               <li><a href="/wiki/Room_temperature" title="Room temperature">Room temperature</a></li> 
+               <li><a href="/wiki/Smart_thermostat" title="Smart thermostat">Smart thermostat</a></li> 
+               <li><a href="/wiki/Thermostat" title="Thermostat">Thermostat</a></li> 
+               <li><a href="/wiki/Thermostatic_radiator_valve" title="Thermostatic radiator valve">Thermostatic radiator valve</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Professions, trades, and services</th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align: middle;"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/Architectural_acoustics" title="Architectural acoustics">Architectural acoustics</a></li> 
+               <li><a href="/wiki/Architectural_engineering" title="Architectural engineering">Architectural engineering</a></li> 
+               <li><a href="/wiki/Architectural_technologist" title="Architectural technologist">Architectural technologist</a></li> 
+               <li><a href="/wiki/Building_services_engineering" title="Building services engineering">Building services engineering</a></li> 
+               <li><a href="/wiki/Building_information_modeling" title="Building information modeling">BIM</a></li> 
+               <li><a href="/wiki/Deep_energy_retrofit" title="Deep energy retrofit">Deep energy retrofit</a></li> 
+               <li><a href="/wiki/Duct_leakage_testing" title="Duct leakage testing">Duct leakage testing</a></li> 
+               <li><a href="/wiki/Environmental_engineering" title="Environmental engineering">Environmental engineering</a></li> 
+               <li><a href="/wiki/Hydronic_balancing" title="Hydronic balancing">Hydronic balancing</a></li> 
+               <li><a href="/wiki/Kitchen_exhaust_cleaning" title="Kitchen exhaust cleaning">Kitchen exhaust cleaning</a></li> 
+               <li><a href="/wiki/Mechanical_engineering" title="Mechanical engineering">Mechanical engineering</a></li> 
+               <li><a href="/wiki/Mechanical,_electrical,_and_plumbing" title="Mechanical, electrical, and plumbing">Mechanical, electrical, and plumbing</a></li> 
+               <li><a href="/wiki/Mold_growth,_assessment,_and_remediation" title="Mold growth, assessment, and remediation">Mold growth, assessment, and remediation</a></li> 
+               <li><a href="/wiki/Refrigerant_reclamation" title="Refrigerant reclamation">Refrigerant reclamation</a></li> 
+               <li><a href="/wiki/Testing,_adjusting,_balancing" title="Testing, adjusting, balancing">Testing, adjusting, balancing</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Industry organizations</th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align: middle;"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/Air_Conditioning_Contractors_of_America" title="Air Conditioning Contractors of America">ACCA</a></li> 
+               <li><a href="/wiki/Air_Movement_and_Control_Association" title="Air Movement and Control Association">AMCA</a></li> 
+               <li><a href="/wiki/ASHRAE" title="ASHRAE">ASHRAE</a></li> 
+               <li><a href="/wiki/ASTM_International" title="ASTM International">ASTM International</a></li> 
+               <li><a href="/wiki/Building_Research_Establishment" title="Building Research Establishment">BRE</a></li> 
+               <li><a href="/wiki/BSRIA" title="BSRIA">BSRIA</a></li> 
+               <li><a href="/wiki/Chartered_Institution_of_Building_Services_Engineers" title="Chartered Institution of Building Services Engineers">CIBSE</a></li> 
+               <li><a href="/wiki/Leadership_in_Energy_and_Environmental_Design" title="Leadership in Energy and Environmental Design">LEED</a></li> 
+               <li><a href="/wiki/Sheet_Metal_and_Air_Conditioning_Contractors%27_National_Association" title="Sheet Metal and Air Conditioning Contractors' National Association">SMACNA</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Health and safety</th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align: middle;"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/Indoor_air_quality" title="Indoor air quality">Indoor air quality</a></li> 
+               <li><a href="/wiki/Passive_smoking" title="Passive smoking">Passive smoking</a></li> 
+               <li><a href="/wiki/Sick_building_syndrome" title="Sick building syndrome">Sick building syndrome</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">See also</th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align: middle;"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/ASHRAE_Handbook" title="ASHRAE Handbook">ASHRAE Handbook</a></li> 
+               <li><a href="/wiki/Building_science" title="Building science">Building science</a></li> 
+               <li><a href="/wiki/Fireproofing" title="Fireproofing">Fireproofing</a></li> 
+               <li><a href="/wiki/Glossary_of_HVAC_terms" title="Glossary of HVAC terms">Glossary of HVAC terms</a></li> 
+               <li><a href="/wiki/Template:Home_automation" title="Template:Home automation">Template:Home automation</a></li> 
+               <li><a href="/wiki/Template:Solar_energy" title="Template:Solar energy">Template:Solar energy</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+          </tbody>
+         </table> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <!-- 
+NewPP limit report
+Parsed by mw1114
+Cached time: 20160224045137
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.388 seconds
+Real time usage: 0.468 seconds
+Preprocessor visited node count: 1189/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 46385/2097152 bytes
+Template argument size: 24/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 2/500
+Lua time usage: 0.141/10.000 seconds
+Lua memory usage: 2.96 MB/50 MB
+Number of Wikibase entities loaded: 0--> 
+     <!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  311.377      1 - -total
+ 51.15%  159.258      1 - Template:Reflist
+ 21.41%   66.655      4 - Template:Cite_web
+ 20.39%   63.496      1 - Template:Refimprove
+ 12.86%   40.037      1 - Template:Ambox
+ 10.89%   33.898      1 - Template:HVAC
+  9.67%   30.120      4 - Template:Cite_book
+  8.14%   25.344      1 - Template:Navbox
+  6.55%   20.394      2 - Template:Cite_journal
+  5.08%   15.819      2 - Template:Main
+--> 
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:792685-0!*!0!!en!4!* and timestamp 20160224045146 and revision id 706592886
+ --> 
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript>
+    </div> 
+    <div class="printfooter">
+      Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Central_heating&amp;oldid=706592886">https://en.wikipedia.org/w/index.php?title=Central_heating&amp;oldid=706592886</a>" 
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Plumbing" title="Category:Plumbing">Plumbing</a></li>
+       <li><a href="/wiki/Category:Residential_heating" title="Category:Residential heating">Residential heating</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Articles_with_Russian-language_external_links" title="Category:Articles with Russian-language external links">Articles with Russian-language external links</a></li>
+       <li><a href="/wiki/Category:Articles_needing_additional_references_from_December_2010" title="Category:Articles needing additional references from December 2010">Articles needing additional references from December 2010</a></li>
+       <li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li>
+       <li><a href="/wiki/Category:Articles_with_inconsistent_citation_formats" title="Category:Articles with inconsistent citation formats">Articles with inconsistent citation formats</a></li>
+      </ul>
+     </div>
+    </div> 
+    <div class="visualClear"></div> 
+   </div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> 
+    <div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label"> 
+     <h3 id="p-personal-label">Personal tools</h3> 
+     <ul> 
+      <li id="pt-anonuserpage">Not logged in</li>
+      <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+      <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+      <li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Central+heating&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+      <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Central+heating" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li> 
+     </ul> 
+    </div> 
+    <div id="left-navigation"> 
+     <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label"> 
+      <h3 id="p-namespaces-label">Namespaces</h3> 
+      <ul> 
+       <li id="ca-nstab-main" class="selected"><span><a href="/wiki/Central_heating" title="View the content page [c]" accesskey="c">Article</a></span></li> 
+       <li id="ca-talk"><span><a href="/wiki/Talk:Central_heating" title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span><a href="#"></a> </h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="right-navigation"> 
+     <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label"> 
+      <h3 id="p-views-label">Views</h3> 
+      <ul> 
+       <li id="ca-view" class="selected"><span><a href="/wiki/Central_heating">Read</a></span></li> 
+       <li id="ca-edit"><span><a href="/w/index.php?title=Central_heating&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li> 
+       <li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Central_heating&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch"> 
+        <input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput">
+        <input type="hidden" value="Special:Search" name="title">
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton">
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a>
+    </div> 
+    <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label"> 
+     <h3 id="p-navigation-label">Navigation</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+       <li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label"> 
+     <h3 id="p-interaction-label">Interaction</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label"> 
+     <h3 id="p-tb-label">Tools</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Central_heating" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Central_heating" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Central_heating&amp;oldid=706592886" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Central_heating&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q843596" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Central_heating&amp;id=706592886" title="Information on how to cite this page">Cite this page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label"> 
+     <h3 id="p-coll-print_export-label">Print/export</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Central+heating">Create a book</a></li>
+       <li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Central+heating&amp;returnto=Central+heating&amp;oldid=706592886&amp;writer=rdf2latex">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Central_heating&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label"> 
+     <h3 id="p-wikibase-otherprojects-label">In other projects</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Heating" hreflang="en">Wikimedia Commons</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label"> 
+     <h3 id="p-lang-label">Languages</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%AA%D8%AF%D9%81%D8%A6%D8%A9_%D9%85%D8%B1%D9%83%D8%B2%D9%8A%D8%A9" title="تدفئة مركزية – Arabic" lang="ar" hreflang="ar">العربية</a></li>
+       <li class="interlanguage-link interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%BD%D0%BE_%D0%BE%D1%82%D0%BE%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5" title="Парно отопление – Bulgarian" lang="bg" hreflang="bg">Български</a></li>
+       <li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Calefacci%C3%B3" title="Calefacció – Catalan" lang="ca" hreflang="ca">Català</a></li>
+       <li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/%C3%9Ast%C5%99edn%C3%AD_topen%C3%AD" title="Ústřední topení – Czech" lang="cs" hreflang="cs">Čeština</a></li>
+       <li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Geb%C3%A4udeheizung#Zentralheizung" title="Gebäudeheizung – German" lang="de" hreflang="de">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-el"><a href="//el.wikipedia.org/wiki/%CE%9A%CE%B5%CE%BD%CF%84%CF%81%CE%B9%CE%BA%CE%AE_%CE%B8%CE%AD%CF%81%CE%BC%CE%B1%CE%BD%CF%83%CE%B7" title="Κεντρική θέρμανση – Greek" lang="el" hreflang="el">Ελληνικά</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Calefacci%C3%B3n_centralizada" title="Calefacción centralizada – Spanish" lang="es" hreflang="es">Español</a></li>
+       <li class="interlanguage-link interwiki-eo"><a href="//eo.wikipedia.org/wiki/Centra_hejtado" title="Centra hejtado – Esperanto" lang="eo" hreflang="eo">Esperanto</a></li>
+       <li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%B4%D9%88%D9%81%D8%A7%DA%98" title="شوفاژ – Persian" lang="fa" hreflang="fa">فارسی</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Chauffage_central" title="Chauffage central – French" lang="fr" hreflang="fr">Français</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EC%A4%91%EC%95%99_%EB%82%9C%EB%B0%A9" title="중앙 난방 – Korean" lang="ko" hreflang="ko">한국어</a></li>
+       <li class="interlanguage-link interwiki-hi"><a href="//hi.wikipedia.org/wiki/%E0%A4%95%E0%A5%87%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%A4%E0%A4%BE%E0%A4%AA%E0%A4%A8" title="केन्द्रीय तापन – Hindi" lang="hi" hreflang="hi">हिन्दी</a></li>
+       <li class="interlanguage-link interwiki-hr"><a href="//hr.wikipedia.org/wiki/Centralno_grijanje" title="Centralno grijanje – Croatian" lang="hr" hreflang="hr">Hrvatski</a></li>
+       <li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%94%D7%A1%D7%A7%D7%94_%D7%9E%D7%A8%D7%9B%D7%96%D7%99%D7%AA" title="הסקה מרכזית – Hebrew" lang="he" hreflang="he">עברית</a></li>
+       <li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Centrale_verwarming" title="Centrale verwarming – Dutch" lang="nl" hreflang="nl">Nederlands</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%83%92%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0" title="セントラルヒーティング – Japanese" lang="ja" hreflang="ja">日本語</a></li>
+       <li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Calefa%C3%A7%C3%A3o" title="Calefação – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+       <li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/%C3%8Enc%C4%83lzire_central%C4%83" title="Încălzire centrală – Romanian" lang="ro" hreflang="ro">Română</a></li>
+       <li class="interlanguage-link interwiki-sk"><a href="//sk.wikipedia.org/wiki/%C3%9Astredn%C3%A9_k%C3%BArenie" title="Ústredné kúrenie – Slovak" lang="sk" hreflang="sk">Slovenčina</a></li>
+       <li class="interlanguage-link interwiki-sr"><a href="//sr.wikipedia.org/wiki/Grejanje" title="Grejanje – Serbian" lang="sr" hreflang="sr">Српски / srpski</a></li>
+       <li class="interlanguage-link interwiki-sh"><a href="//sh.wikipedia.org/wiki/Centralno_grijanje" title="Centralno grijanje – Serbo-Croatian" lang="sh" hreflang="sh">Srpskohrvatski / српскохрватски</a></li>
+       <li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Ilmanvaihtokone" title="Ilmanvaihtokone – Finnish" lang="fi" hreflang="fi">Suomi</a></li>
+       <li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Centralv%C3%A4rme" title="Centralvärme – Swedish" lang="sv" hreflang="sv">Svenska</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%B2%D0%B0_%D0%BC%D0%B5%D1%80%D0%B5%D0%B6%D0%B0" title="Теплова мережа – Ukrainian" lang="uk" hreflang="uk">Українська</a></li>
+       <li class="interlanguage-link interwiki-yi"><a href="//yi.wikipedia.org/wiki/%D7%A6%D7%A2%D7%A0%D7%98%D7%A8%D7%90%D7%9C-%D7%94%D7%99%D7%99%D7%A6%D7%95%D7%A0%D7%92" title="צענטראל-הייצונג – Yiddish" lang="yi" hreflang="yi">ייִדיש</a></li>
+       <li class="uls-p-lang-dummy"><a href="#"></a></li> 
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q843596#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last modified on 24 February 2016, at 04:51.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-cookiestatement"><a href="//wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Central_heating&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"> <a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"></a> </li> 
+    <li id="footer-poweredbyico"> <a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"></a> </li> 
+   </ul> 
+   <div style="clear:both"></div> 
+  </div> 
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.wikimediaEvents","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script>
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.config.set({"wgBackendResponseTime":71,"wgHostname":"mw1244"}); /* @nomin */
+} );</script>   
+ </body>
+</html>

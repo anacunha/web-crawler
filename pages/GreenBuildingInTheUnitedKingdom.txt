@@ -1,0 +1,668 @@
+https://en.wikipedia.org/wiki/Green_building_in_the_United_Kingdom
+<!doctype html>
+<html lang="en" dir="ltr" class="client-nojs">
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Green building in the United Kingdom - Wikipedia, the free encyclopedia</title> 
+  <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script> 
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Green_building_in_the_United_Kingdom","wgTitle":"Green building in the United Kingdom","wgCurRevisionId":643466390,"wgRevisionId":643466390,"wgArticleId":25017870,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing cleanup from November 2009","All pages needing cleanup","Articles with sections that need to be turned into prose from November 2009","Sustainable building in the United Kingdom"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Green_building_in_the_United_Kingdom","wgRelevantArticleId":25017870,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCentralAuthMobileDomain":false,"wgWikibaseItemId":"Q5603477","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script> 
+  <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script> 
+  <meta name="generator" content="MediaWiki 1.27.0-wmf.17"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Green_building_in_the_United_Kingdom"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Green_building_in_the_United_Kingdom&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Green_building_in_the_United_Kingdom&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Green_building_in_the_United_Kingdom"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Green_building_in_the_United_Kingdom skin-vector action-view"> 
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> 
+   <a id="top"></a> 
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Green building in the United Kingdom</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="jump-to-nav" class="mw-jump">
+      Jump to: 
+     <a href="#mw-head">navigation</a>, 
+     <a href="#p-search">search</a> 
+    </div> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <table class="metadata plainlinks ambox ambox-style ambox-Prose" role="presentation"> 
+      <tbody>
+       <tr> 
+        <td class="mbox-image"> 
+         <div style="width:52px">
+          <img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48">
+         </div> </td> 
+        <td class="mbox-text"><span class="mbox-text-span">This article <b>is in a list format that may be better presented using <a href="/wiki/Wikipedia:Prose" title="Wikipedia:Prose" class="mw-redirect">prose</a>.</b> <span class="hide-when-compact">You can help by converting this article to prose, if <a href="/wiki/Wikipedia:Embedded_list" title="Wikipedia:Embedded list" class="mw-redirect">appropriate</a>. <a href="/wiki/Help:Editing" title="Help:Editing">Editing help</a> is available.</span> <small><i>(November 2009)</i></small></span></td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <p><b><a href="/wiki/Green_building" title="Green building">Green building</a></b> in the <b><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></b></p> 
+     <p>The <a href="/wiki/Association_for_Environment_Conscious_Building" title="Association for Environment Conscious Building">Association for Environment Conscious Building</a> (AECB) has promoted sustainable building in the UK since 1989.</p> 
+     <p>The UK <a href="/wiki/Building_regulations_in_the_United_Kingdom" title="Building regulations in the United Kingdom">Building Regulations</a> set requirements for <a href="/wiki/Thermal_insulation" title="Thermal insulation">insulation</a> levels and other aspects of sustainability in building construction.</p> 
+     <p>In Wales, advice on and access to sustainable building is available from a not-for-profit organisation called Rounded Developments Enterprises.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> They run a Sustainable Building Centre in Cardiff.</p> 
+     <p>One of the best known green buildings in the UK is the Media Centres' Friendly Street Building.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></p> 
+     <p>Under the Energy Performance of Building Directive (EPBD) Europe has made a mandatory energy certification since January 4, 2009. A mandatory certificate called the Building Energy Rating system (BER) and a certification Energy Performance Certificate is needed by all buildings that measure more than 1000 Sq mts in all the European nations. According to the UK Green Building Council, existing buildings account for 17% of the UK's total carbon emissions.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></p> 
+     <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_building_in_the_United_Kingdom&amp;action=edit&amp;section=1" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <ul> 
+      <li><a href="/wiki/UK_Green_Building_Council" title="UK Green Building Council">UK Green Building Council</a></li> 
+      <li><a href="/wiki/Energy_efficiency_in_British_housing" title="Energy efficiency in British housing">Energy efficiency in British housing</a></li> 
+      <li><a href="/wiki/BREEAM" title="BREEAM">BREEAM</a></li> 
+      <li><a href="/wiki/Hockerton_Housing_Project" title="Hockerton Housing Project">Hockerton Housing Project</a></li> 
+      <li><a href="/wiki/Energy_in_the_United_Kingdom" title="Energy in the United Kingdom">Energy in the United Kingdom</a></li> 
+      <li><a href="/wiki/INTEGER_Millennium_House" title="INTEGER Millennium House">INTEGER Millennium House</a></li> 
+     </ul> 
+     <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_building_in_the_United_Kingdom&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <div class="reflist" style="list-style-type: decimal;"> 
+      <ol class="references"> 
+       <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.rounded-developments.org.uk">Rounded Developments Enterprises</a></span></li> 
+       <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://the-media-centre.co.uk/offices-friendly-street.php">Friendly Street Building</a></span></li> 
+       <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ascinfo.co.uk/news/02449/monodraught-sunpipes-help-durham-store">UK Green Council</a></span></li> 
+      </ol> 
+     </div> 
+     <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_building_in_the_United_Kingdom&amp;action=edit&amp;section=3" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <ul> 
+      <li><a rel="nofollow" class="external text" href="http://www.breeam.org/">BREEAM (BRE Environmental Assessment Method)</a></li> 
+     </ul> 
+     <ul> 
+      <li><a rel="nofollow" class="external text" href="http://www.greenspec.co.uk/">GreenSpec</a></li> 
+     </ul> 
+     <table class="navbox" style="border-spacing:0"> 
+      <tbody>
+       <tr> 
+        <td style="padding:2px"> 
+         <table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"> 
+          <tbody>
+           <tr> 
+            <th scope="col" class="navbox-title" colspan="2"> 
+             <div class="plainlinks hlist navbar mini"> 
+              <ul> 
+               <li class="nv-view"><a href="/wiki/Template:Construction_industry_of_the_United_Kingdom" title="Template:Construction industry of the United Kingdom"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li> 
+               <li class="nv-talk"><a href="/wiki/Template_talk:Construction_industry_of_the_United_Kingdom" title="Template talk:Construction industry of the United Kingdom"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li> 
+               <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Construction_industry_of_the_United_Kingdom&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li> 
+              </ul> 
+             </div> 
+             <div style="font-size:114%">
+              <a href="/wiki/Construction_industry_of_the_United_Kingdom" title="Construction industry of the United Kingdom">Construction industry of the United Kingdom</a>
+             </div> </th> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <td class="navbox-abovebelow" colspan="2"> 
+             <div> 
+              <ul> 
+               <li><a href="/wiki/Construction" title="Construction">Construction</a></li> 
+               <li><a href="/wiki/Economy_of_the_United_Kingdom" title="Economy of the United Kingdom">Economy of the United Kingdom</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group" style="text-align: left;"><a href="/wiki/Category:Construction_and_civil_engineering_companies_of_the_United_Kingdom" title="Category:Construction and civil engineering companies of the United Kingdom">Companies</a></th> 
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+             <div style="padding:0em 0.25em"></div> 
+             <table class="nowraplinks navbox-subgroup" style="border-spacing:0"> 
+              <tbody>
+               <tr> 
+                <th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;text-align: left;background-color: #eee;"> 
+                 <div style="padding:0em 0.75em;">
+                  Consultancies and
+                  <br> support services
+                 </div> </th> 
+                <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+                 <div style="padding:0em 0.25em"> 
+                  <ul> 
+                   <li><a href="/wiki/AMEC" title="AMEC" class="mw-redirect">AMEC</a></li> 
+                   <li><a href="/wiki/Amey_plc" title="Amey plc">Amey</a></li> 
+                   <li><a href="/wiki/Arcadis_NV" title="Arcadis NV">Arcadis</a></li> 
+                   <li><a href="/wiki/Category:Architecture_firms_of_the_United_Kingdom" title="Category:Architecture firms of the United Kingdom">Architecture firms</a></li> 
+                   <li><a href="/wiki/Arup_Group_Limited" title="Arup Group Limited" class="mw-redirect">Arup</a></li> 
+                   <li><a href="/wiki/Atkins_(company)" title="Atkins (company)">Atkins</a> 
+                    <ul> 
+                     <li><a href="/wiki/Faithful%2BGould" title="Faithful+Gould">Faithful+Gould</a></li> 
+                    </ul> </li> 
+                   <li><a href="/wiki/Buro_Happold" title="Buro Happold" class="mw-redirect">Buro Happold</a></li> 
+                   <li><a href="/wiki/Capita" title="Capita">Capita</a></li> 
+                   <li><a href="/wiki/Cundall_Johnston_and_Partners" title="Cundall Johnston and Partners">Cundall</a></li> 
+                   <li><a href="/wiki/Davis_Langdon" title="Davis Langdon">Davis Langdon</a></li> 
+                   <li><a href="/wiki/Elliott_Wood_Partnership" title="Elliott Wood Partnership">Elliott Wood</a></li> 
+                   <li><a href="/wiki/Expedition_Engineering" title="Expedition Engineering">Expedition Engineering</a></li> 
+                   <li><a href="/wiki/Flint_%26_Neill" title="Flint &amp; Neill">Flint &amp; Neill</a></li> 
+                   <li><a href="/wiki/Gifford_(company)" title="Gifford (company)">Gifford</a></li> 
+                   <li><a href="/wiki/Halcrow_Group" title="Halcrow Group">Halcrow</a></li> 
+                   <li><a href="/wiki/Hoare_Lea" title="Hoare Lea">Hoare Lea</a></li> 
+                   <li><a href="/wiki/Interserve" title="Interserve">Interserve</a></li> 
+                   <li><a href="/wiki/Mace_(company)" title="Mace (company)">Mace</a></li> 
+                   <li><a href="/wiki/MITIE_Group" title="MITIE Group" class="mw-redirect">MITIE Group</a></li> 
+                   <li><a href="/wiki/Mott_MacDonald" title="Mott MacDonald">Mott MacDonald</a></li> 
+                   <li><a href="/wiki/Mouchel" title="Mouchel">Mouchel</a></li> 
+                   <li><a href="/wiki/RPS_Group" title="RPS Group">RPS</a></li> 
+                   <li><a href="/wiki/Scott_Wilson_Group" title="Scott Wilson Group">Scott Wilson</a></li> 
+                   <li><a href="/wiki/Sweett_Group" title="Sweett Group">Sweett Group</a></li> 
+                   <li><a href="/wiki/WSP_Group" title="WSP Group" class="mw-redirect">WSP</a></li> 
+                  </ul> 
+                 </div> </td> 
+               </tr> 
+               <tr style="height:2px"> 
+                <td colspan="2"></td> 
+               </tr> 
+               <tr> 
+                <th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;text-align: left;background-color: #eee;"> 
+                 <div style="padding:0em 0.75em;">
+                  <a href="/wiki/Category:Housebuilding_companies_of_the_United_Kingdom" title="Category:Housebuilding companies of the United Kingdom">Housebuilders</a>
+                 </div> </th> 
+                <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+                 <div style="padding:0em 0.25em"></div> 
+                 <table class="nowraplinks navbox-subgroup" style="border-spacing:0"> 
+                  <tbody>
+                   <tr> 
+                    <th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;text-align: left;background-color: #eee;"> 
+                     <div style="padding:0em 0.75em;">
+                      Current
+                     </div> </th> 
+                    <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+                     <div style="padding:0em 0.25em"> 
+                      <ul> 
+                       <li><a href="/wiki/Barratt_Developments" title="Barratt Developments">Barratt</a></li> 
+                       <li><a href="/wiki/Bellway" title="Bellway">Bellway</a></li> 
+                       <li><a href="/wiki/Berkeley_Group_Holdings" title="Berkeley Group Holdings">Berkeley</a></li> 
+                       <li><a href="/wiki/Bloor_Homes" title="Bloor Homes">Bloor</a></li> 
+                       <li><a href="/wiki/Henry_Boot_plc" title="Henry Boot plc">Boot</a></li> 
+                       <li><a href="/wiki/Bovis_Homes_Group" title="Bovis Homes Group">Bovis</a></li> 
+                       <li><a href="/wiki/Countryside_Properties" title="Countryside Properties">Countryside Properties</a></li> 
+                       <li><a href="/wiki/Crest_Nicholson" title="Crest Nicholson">Crest Nicholson</a></li> 
+                       <li><a href="/wiki/Keepmoat" title="Keepmoat">Keepmoat</a></li> 
+                       <li><a href="/wiki/Lend_Lease_Residential_Development" title="Lend Lease Residential Development">Lend Lease</a></li> 
+                       <li><a href="/wiki/McCarthy_%26_Stone" title="McCarthy &amp; Stone">McCarthy &amp; Stone</a></li> 
+                       <li><a href="/wiki/Miller_Homes" title="Miller Homes">Miller</a></li> 
+                       <li><a href="/wiki/Muir_Homes" title="Muir Homes">Muir</a></li> 
+                       <li><a href="/wiki/Persimmon_plc" title="Persimmon plc">Persimmon</a></li> 
+                       <li><a href="/wiki/Redrow_plc" title="Redrow plc">Redrow</a></li> 
+                       <li><a href="/wiki/Taylor_Wimpey" title="Taylor Wimpey">Taylor Wimpey</a></li> 
+                       <li><a href="/wiki/United_House" title="United House" class="mw-redirect">United House</a></li> 
+                      </ul> 
+                     </div> </td> 
+                   </tr> 
+                   <tr style="height:2px"> 
+                    <td colspan="2"></td> 
+                   </tr> 
+                   <tr> 
+                    <th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;text-align: left;background-color: #eee;"> 
+                     <div style="padding:0em 0.75em;">
+                      Defunct
+                     </div> </th> 
+                    <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+                     <div style="padding:0em 0.25em"> 
+                      <ul> 
+                       <li><a href="/wiki/Ashtons" title="Ashtons">Ashtons</a></li> 
+                       <li><a href="/wiki/Beazer" title="Beazer">Beazer</a></li> 
+                       <li><a href="/wiki/Broseley_Estates_Limited" title="Broseley Estates Limited">Broseley</a></li> 
+                       <li><a href="/wiki/Bryant_Homes" title="Bryant Homes">Bryant Homes</a></li> 
+                       <li><a href="/wiki/Comben_Homes" title="Comben Homes">Comben Homes</a></li> 
+                       <li><a href="/wiki/George_Wimpey" title="George Wimpey">George Wimpey</a></li> 
+                       <li><a href="/wiki/Ideal_Homes_(UK_housebuilder)" title="Ideal Homes (UK housebuilder)">Ideal Homes</a></li> 
+                       <li><a href="/wiki/McLean_Homes" title="McLean Homes">McLean Homes</a></li> 
+                       <li><a href="/wiki/Taylor_Woodrow" title="Taylor Woodrow">Taylor Woodrow</a></li> 
+                       <li><a href="/wiki/Westbury_(housebuilder)" title="Westbury (housebuilder)">Westbury</a></li> 
+                       <li><a href="/wiki/William_Leech_PLC" title="William Leech PLC">William Leech</a></li> 
+                       <li><a href="/wiki/Wilson_Bowden" title="Wilson Bowden">Wilson Bowden</a></li> 
+                      </ul> 
+                     </div> </td> 
+                   </tr> 
+                  </tbody>
+                 </table> </td> 
+               </tr> 
+               <tr style="height:2px"> 
+                <td colspan="2"></td> 
+               </tr> 
+               <tr> 
+                <th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;text-align: left;background-color: #eee;"> 
+                 <div style="padding:0em 0.75em;">
+                  Integrated
+                  <br> construction
+                 </div> </th> 
+                <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+                 <div style="padding:0em 0.25em"> 
+                  <ul> 
+                   <li><a href="/wiki/Balfour_Beatty" title="Balfour Beatty">Balfour Beatty</a></li> 
+                   <li><a href="/wiki/BAM_Nuttall" title="BAM Nuttall">BAM Nuttall</a></li> 
+                   <li><a href="/wiki/Barr_Construction" title="Barr Construction">Barr</a></li> 
+                   <li><a href="/wiki/Carillion" title="Carillion">Carillion</a></li> 
+                   <li><a href="/wiki/Cleveland_Bridge_%26_Engineering_Company" title="Cleveland Bridge &amp; Engineering Company">Cleveland Bridge &amp; Engineering</a></li> 
+                   <li><a href="/wiki/Clugston_Group" title="Clugston Group">Clugston</a></li> 
+                   <li><a href="/wiki/Costain_Group" title="Costain Group">Costain</a></li> 
+                   <li><a href="/wiki/Galliford_Try" title="Galliford Try">Galliford Try</a></li> 
+                   <li><a href="/wiki/M_J_Gleeson" title="M J Gleeson">Gleeson</a></li> 
+                   <li><a href="/wiki/Interserve" title="Interserve">Interserve</a></li> 
+                   <li><a href="/wiki/Kier_Group" title="Kier Group">Kier</a></li> 
+                   <li><a href="/wiki/Laing_O%27Rourke" title="Laing O'Rourke">Laing O'Rourke</a></li> 
+                   <li><a href="/wiki/Lend_Lease_Project_Management_%26_Construction" title="Lend Lease Project Management &amp; Construction">Lend Lease</a></li> 
+                   <li><a href="/wiki/Linford_Group" title="Linford Group">Linford</a></li> 
+                   <li><a href="/wiki/Mace_(company)" title="Mace (company)">Mace</a></li> 
+                   <li><a href="/wiki/Morgan_Sindall_Group" title="Morgan Sindall Group">Morgan Sindall</a></li> 
+                   <li><a href="/wiki/Shepherd_Building_Group" title="Shepherd Building Group">Shepherd</a></li> 
+                   <li><a href="/wiki/Sir_Robert_McAlpine" title="Sir Robert McAlpine">Sir Robert McAlpine</a></li> 
+                   <li><a href="/wiki/Wates_Group" title="Wates Group">Wates</a></li> 
+                   <li><a href="/wiki/Willmott_Dixon" title="Willmott Dixon">Willmott Dixon</a></li> 
+                  </ul> 
+                 </div> </td> 
+               </tr> 
+               <tr style="height:2px"> 
+                <td colspan="2"></td> 
+               </tr> 
+               <tr> 
+                <th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;text-align: left;background-color: #eee;"> 
+                 <div style="padding:0em 0.75em;">
+                  Suppliers
+                 </div> </th> 
+                <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+                 <div style="padding:0em 0.25em"></div> 
+                 <table class="nowraplinks navbox-subgroup" style="border-spacing:0"> 
+                  <tbody>
+                   <tr> 
+                    <th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;text-align: left;background-color: #eee;"> 
+                     <div style="padding:0em 0.75em;">
+                      Current
+                     </div> </th> 
+                    <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+                     <div style="padding:0em 0.25em"> 
+                      <ul> 
+                       <li><a href="/wiki/Aggregate_Industries" title="Aggregate Industries">Aggregate Industries</a></li> 
+                       <li><a href="/wiki/Artex_Ltd." title="Artex Ltd.">Artex Ltd.</a></li> 
+                       <li><a href="/wiki/Ashtead_Group" title="Ashtead Group">Ashtead</a></li> 
+                       <li><a href="/wiki/Brogan_Group" title="Brogan Group">Brogan</a></li> 
+                       <li><a href="/wiki/Cemex" title="Cemex">Cemex UK</a></li> 
+                       <li><a href="/wiki/Hanson_plc" title="Hanson plc">Hanson</a> 
+                        <ul> 
+                         <li><a href="/wiki/London_Brick_Company" title="London Brick Company">London Brick</a></li> 
+                        </ul> </li> 
+                       <li><a href="/wiki/HSS_Hire" title="HSS Hire">HSS Hire</a></li> 
+                       <li><a href="/wiki/Jewson" title="Jewson">Jewson</a></li> 
+                       <li><a href="/wiki/Kingspan_Group" title="Kingspan Group">Kingspan</a> 
+                        <ul> 
+                         <li><a href="/wiki/Kingspan_Off-Site" title="Kingspan Off-Site">Kingspan Off-Site</a></li> 
+                        </ul> </li> 
+                       <li><a href="/wiki/Mero-Schmidlin" title="Mero-Schmidlin">Mero-Schmidlin</a></li> 
+                       <li><a href="/wiki/Pilkington" title="Pilkington">Pilkington</a></li> 
+                       <li><a href="/wiki/RMD_Kwikform" title="RMD Kwikform">RMD Kwikform</a></li> 
+                       <li><a href="/wiki/SIG_plc" title="SIG plc">SIG</a></li> 
+                       <li><a href="/wiki/Speedy_Hire" title="Speedy Hire">Speedy Hire</a></li> 
+                       <li><a href="/wiki/Tarmac_(CRH_subsidiary)" title="Tarmac (CRH subsidiary)" class="mw-redirect">Tarmac</a> 
+                        <ul> 
+                         <li><a href="/wiki/Tarmac_Building_Products" title="Tarmac Building Products">Tarmac Building Products</a></li> 
+                        </ul> </li> 
+                       <li><a href="/wiki/Tata_Steel_Europe" title="Tata Steel Europe">Tata Steel Europe</a></li> 
+                       <li><a href="/wiki/Travis_Perkins" title="Travis Perkins">Travis Perkins</a></li> 
+                       <li><a href="/wiki/Wolseley_plc" title="Wolseley plc">Wolseley</a></li> 
+                      </ul> 
+                     </div> </td> 
+                   </tr> 
+                   <tr style="height:2px"> 
+                    <td colspan="2"></td> 
+                   </tr> 
+                   <tr> 
+                    <th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;text-align: left;background-color: #eee;"> 
+                     <div style="padding:0em 0.75em;">
+                      Defunct
+                     </div> </th> 
+                    <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+                     <div style="padding:0em 0.25em"> 
+                      <ul> 
+                       <li><a href="/wiki/Blue_Circle_Industries" title="Blue Circle Industries">Blue Circle Industries</a></li> 
+                       <li><a href="/wiki/Redland_plc" title="Redland plc">Redland</a></li> 
+                       <li><a href="/wiki/RMC_Group" title="RMC Group">RMC Group</a></li> 
+                       <li><a href="/wiki/Tarmac_Group" title="Tarmac Group">Tarmac Group</a></li> 
+                      </ul> 
+                     </div> </td> 
+                   </tr> 
+                  </tbody>
+                 </table> </td> 
+               </tr> 
+              </tbody>
+             </table> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group" style="text-align: left;">Government and<br> regulatory bodies</th> 
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/Department_for_Communities_and_Local_Government" title="Department for Communities and Local Government">Department for Communities and Local Government</a></li> 
+               <li><a href="/wiki/Department_for_Business,_Innovation_and_Skills" title="Department for Business, Innovation and Skills">Department for Business, Innovation and Skills</a></li> 
+               <li><a href="/wiki/Health_and_Safety_Executive" title="Health and Safety Executive">Health and Safety Executive</a></li> 
+               <li><a href="/wiki/Local_planning_authority" title="Local planning authority">Local planning authority</a></li> 
+               <li><a href="/wiki/Planning_Inspectorate" title="Planning Inspectorate">Planning Inspectorate</a></li> 
+               <li><a href="/wiki/Chief_Construction_Adviser_to_UK_Government" title="Chief Construction Adviser to UK Government">Chief Construction Adviser to UK Government</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group" style="text-align: left;"><a href="/wiki/Category:Construction_trade_groups_based_in_the_United_Kingdom" title="Category:Construction trade groups based in the United Kingdom">Industry bodies</a></th> 
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/British_Constructional_Steelwork_Association" title="British Constructional Steelwork Association">British Constructional Steelwork Association</a></li> 
+               <li><a href="/wiki/BSRIA" title="BSRIA">BSRIA</a></li> 
+               <li><a href="/wiki/Build_UK" title="Build UK">Build UK</a></li> 
+               <li><a href="/wiki/Chartered_Institute_of_Building" title="Chartered Institute of Building">CIOB</a></li> 
+               <li><a href="/wiki/Civil_Engineering_Contractors_Association" title="Civil Engineering Contractors Association">Civil Engineering Contractors Association</a></li> 
+               <li><a href="/wiki/Construction_Clients%27_Group" title="Construction Clients' Group">Construction Clients' Group</a></li> 
+               <li><a href="/wiki/Construction_Industry_Council" title="Construction Industry Council">Construction Industry Council</a></li> 
+               <li><a href="/wiki/CIRIA" title="CIRIA">CIRIA</a></li> 
+               <li><a href="/wiki/CITB" title="CITB">CITB</a></li> 
+               <li><a href="/wiki/Constructing_Excellence" title="Constructing Excellence">Constructing Excellence</a></li> 
+               <li><a href="/wiki/Electrical_Safety_Council" title="Electrical Safety Council" class="mw-redirect">Electrical Safety Council</a></li> 
+               <li><a href="/wiki/Federation_of_Master_Builders" title="Federation of Master Builders">Federation of Master Builders</a></li> 
+               <li><a href="/wiki/Home_Builders_Federation" title="Home Builders Federation">HBF</a></li> 
+               <li><a href="/wiki/Institution_of_Civil_Engineers" title="Institution of Civil Engineers">Institution of Civil Engineers</a></li> 
+               <li><a href="/wiki/Institution_of_Structural_Engineers" title="Institution of Structural Engineers">Institution of Structural Engineers</a></li> 
+               <li><a href="/wiki/National_Access_and_Scaffolding_Confederation" title="National Access and Scaffolding Confederation">National Access and Scaffolding Confederation</a></li> 
+               <li><a href="/wiki/National_Federation_of_Builders" title="National Federation of Builders">National Federation of Builders</a></li> 
+               <li><a href="/wiki/National_Federation_of_Demolition_Contractors" title="National Federation of Demolition Contractors">National Federation of Demolition Contractors</a></li> 
+               <li><a href="/wiki/National_House_Building_Council" title="National House Building Council">National House Building Council</a></li> 
+               <li><a href="/wiki/Refined_Bitumen_Association" title="Refined Bitumen Association">Refined Bitumen Association</a></li> 
+               <li><a href="/wiki/Royal_Institution_of_Chartered_Surveyors" title="Royal Institution of Chartered Surveyors">Royal Institution of Chartered Surveyors</a></li> 
+               <li><a href="/wiki/Scottish_Building_Federation" title="Scottish Building Federation">Scottish Building Federation</a></li> 
+               <li><a href="/wiki/SELECT_(Electrical_Contractors%27_Association_of_Scotland)" title="SELECT (Electrical Contractors' Association of Scotland)">SELECT (Electrical Contractors' Association of Scotland)</a></li> 
+               <li><a href="/wiki/Specialist_Engineering_Contractors_Group" title="Specialist Engineering Contractors Group">Specialist Engineering Contractors Group</a></li> 
+               <li><a href="/wiki/Strategic_Forum_for_Construction" title="Strategic Forum for Construction">Strategic Forum for Construction</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group" style="text-align: left;"><strong class="selflink">Sustainability</strong></th> 
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/Association_for_Environment_Conscious_Building" title="Association for Environment Conscious Building">Association for Environment Conscious Building</a></li> 
+               <li><a href="/wiki/BREEAM" title="BREEAM">BREEAM</a></li> 
+               <li><a href="/wiki/Code_for_Sustainable_Homes" title="Code for Sustainable Homes">Code for Sustainable Homes</a></li> 
+               <li><a href="/wiki/EcoHomes" title="EcoHomes">EcoHomes</a></li> 
+               <li><a href="/wiki/Energy_efficiency_in_British_housing" title="Energy efficiency in British housing">Energy efficiency in British housing</a></li> 
+               <li><a href="/wiki/Good_Homes_Alliance" title="Good Homes Alliance">Good Homes Alliance</a></li> 
+               <li><a href="/wiki/UK_Green_Building_Council" title="UK Green Building Council">UK Green Building Council</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group" style="text-align: left;">Other</th> 
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/British_Construction_Industry_Awards" title="British Construction Industry Awards">British Construction Industry Awards</a></li> 
+               <li><i><a href="/wiki/Building_(magazine)" title="Building (magazine)">Building</a></i></li> 
+               <li><a href="/wiki/Building_regulations_in_the_United_Kingdom" title="Building regulations in the United Kingdom">Building regulations in the United Kingdom</a></li> 
+               <li><a href="/wiki/Building_regulations_approval" title="Building regulations approval">Building regulations approval</a></li> 
+               <li><i><a href="/wiki/Construction_News" title="Construction News">Construction News</a></i></li> 
+               <li><a href="/wiki/Development_control_in_the_United_Kingdom" title="Development control in the United Kingdom">Development control in the United Kingdom</a></li> 
+               <li><i><a href="/wiki/New_Civil_Engineer" title="New Civil Engineer">New Civil Engineer</a></i></li> 
+               <li><a href="/wiki/Planning_permission" title="Planning permission">Planning permission</a></li> 
+               <li><a href="/wiki/Town_and_country_planning_in_the_United_Kingdom" title="Town and country planning in the United Kingdom">Town and country planning in the United Kingdom</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <td class="navbox-abovebelow" colspan="2"> 
+             <div>
+              <img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31"> 
+              <b><a href="/wiki/Category:Construction_industry_of_the_United_Kingdom" title="Category:Construction industry of the United Kingdom">Category</a></b>
+             </div> </td> 
+           </tr> 
+          </tbody>
+         </table> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <!-- 
+NewPP limit report
+Parsed by mw1257
+Cached time: 20160305154233
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.123 seconds
+Real time usage: 0.169 seconds
+Preprocessor visited node count: 1435/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 63985/2097152 bytes
+Template argument size: 6117/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Lua time usage: 0.046/10.000 seconds
+Lua memory usage: 1.5 MB/50 MB
+Number of Wikibase entities loaded: 0--> 
+     <!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  127.334      1 - -total
+ 61.90%   78.814      4 - Template:Navbox
+ 50.03%   63.700      1 - Template:Prose
+ 42.93%   54.661      1 - Template:Construction_industry_in_the_United_Kingdom
+ 34.64%   44.103      1 - Template:Ambox
+ 28.74%   36.601      3 - Template:Navbox_subgroup
+  6.68%    8.511      1 - Template:Icon
+  4.43%    5.637      1 - Template:Reflist
+--> 
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:25017870-0!*!0!!*!4!* and timestamp 20160305154233 and revision id 643466390
+ --> 
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript>
+    </div> 
+    <div class="printfooter">
+      Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Green_building_in_the_United_Kingdom&amp;oldid=643466390">https://en.wikipedia.org/w/index.php?title=Green_building_in_the_United_Kingdom&amp;oldid=643466390</a>" 
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Sustainable_building_in_the_United_Kingdom" title="Category:Sustainable building in the United Kingdom">Sustainable building in the United Kingdom</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Articles_needing_cleanup_from_November_2009" title="Category:Articles needing cleanup from November 2009">Articles needing cleanup from November 2009</a></li>
+       <li><a href="/wiki/Category:All_pages_needing_cleanup" title="Category:All pages needing cleanup">All pages needing cleanup</a></li>
+       <li><a href="/wiki/Category:Articles_with_sections_that_need_to_be_turned_into_prose_from_November_2009" title="Category:Articles with sections that need to be turned into prose from November 2009">Articles with sections that need to be turned into prose from November 2009</a></li>
+      </ul>
+     </div>
+    </div> 
+    <div class="visualClear"></div> 
+   </div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> 
+    <div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label"> 
+     <h3 id="p-personal-label">Personal tools</h3> 
+     <ul> 
+      <li id="pt-anonuserpage">Not logged in</li>
+      <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+      <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+      <li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Green+building+in+the+United+Kingdom&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+      <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Green+building+in+the+United+Kingdom" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li> 
+     </ul> 
+    </div> 
+    <div id="left-navigation"> 
+     <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label"> 
+      <h3 id="p-namespaces-label">Namespaces</h3> 
+      <ul> 
+       <li id="ca-nstab-main" class="selected"><span><a href="/wiki/Green_building_in_the_United_Kingdom" title="View the content page [c]" accesskey="c">Article</a></span></li> 
+       <li id="ca-talk"><span><a href="/wiki/Talk:Green_building_in_the_United_Kingdom" title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span><a href="#"></a> </h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="right-navigation"> 
+     <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label"> 
+      <h3 id="p-views-label">Views</h3> 
+      <ul> 
+       <li id="ca-view" class="selected"><span><a href="/wiki/Green_building_in_the_United_Kingdom">Read</a></span></li> 
+       <li id="ca-edit"><span><a href="/w/index.php?title=Green_building_in_the_United_Kingdom&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li> 
+       <li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Green_building_in_the_United_Kingdom&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch"> 
+        <input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput">
+        <input type="hidden" value="Special:Search" name="title">
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton">
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a>
+    </div> 
+    <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label"> 
+     <h3 id="p-navigation-label">Navigation</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+       <li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label"> 
+     <h3 id="p-interaction-label">Interaction</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label"> 
+     <h3 id="p-tb-label">Tools</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Green_building_in_the_United_Kingdom" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Green_building_in_the_United_Kingdom" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Green_building_in_the_United_Kingdom&amp;oldid=643466390" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Green_building_in_the_United_Kingdom&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q5603477" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Green_building_in_the_United_Kingdom&amp;id=643466390" title="Information on how to cite this page">Cite this page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label"> 
+     <h3 id="p-coll-print_export-label">Print/export</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Green+building+in+the+United+Kingdom">Create a book</a></li>
+       <li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Green+building+in+the+United+Kingdom&amp;returnto=Green+building+in+the+United+Kingdom&amp;oldid=643466390&amp;writer=rdf2latex">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Green_building_in_the_United_Kingdom&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label"> 
+     <h3 id="p-lang-label">Languages</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="uls-p-lang-dummy"><a href="#"></a></li> 
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-add wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q5603477#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span>
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last modified on 21 January 2015, at 03:06.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-cookiestatement"><a href="//wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Green_building_in_the_United_Kingdom&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"> <a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"></a> </li> 
+    <li id="footer-poweredbyico"> <a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"></a> </li> 
+   </ul> 
+   <div style="clear:both"></div> 
+  </div> 
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.wikimediaEvents","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script>
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.config.set({"wgBackendResponseTime":88,"wgHostname":"mw1112"}); /* @nomin */
+} );</script>   
+ </body>
+</html>

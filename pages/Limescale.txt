@@ -1,0 +1,348 @@
+https://en.wikipedia.org/wiki/Limescale
+<!doctype html>
+<html lang="en" dir="ltr" class="client-nojs">
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Limescale - Wikipedia, the free encyclopedia</title> 
+  <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script> 
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Limescale","wgTitle":"Limescale","wgCurRevisionId":704244534,"wgRevisionId":704244534,"wgArticleId":1224314,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All accuracy disputes","Articles with disputed statements from October 2014","Water","Fouling","Limestone"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Limescale","wgRelevantArticleId":1224314,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCentralAuthMobileDomain":false,"wgWikibaseItemId":"Q747404","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script> 
+  <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script> 
+  <meta name="generator" content="MediaWiki 1.27.0-wmf.17"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Limescale"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Limescale&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Limescale&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Limescale"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Limescale skin-vector action-view"> 
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> 
+   <a id="top"></a> 
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Limescale</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="jump-to-nav" class="mw-jump">
+      Jump to: 
+     <a href="#mw-head">navigation</a>, 
+     <a href="#p-search">search</a> 
+    </div> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:252px;">
+       <a href="/wiki/File:Kesselstein_k.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Kesselstein_k.jpg/250px-Kesselstein_k.jpg" width="250" height="322" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Kesselstein_k.jpg/375px-Kesselstein_k.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Kesselstein_k.jpg/500px-Kesselstein_k.jpg 2x" data-file-width="571" data-file-height="735"></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Kesselstein_k.jpg" class="internal" title="Enlarge"></a>
+        </div> Limescale (
+        <a href="/wiki/Scanning_electron_microscopy" title="Scanning electron microscopy" class="mw-redirect">scanning electron microscopy</a> micrograph, field of view 64 x 90 µm)
+       </div> 
+      </div> 
+     </div> 
+     <p><b>Limescale</b> is the hard, off-white, chalky deposit found in kettles, hot-water boilers and the inside of inadequately maintained hot-water central heating systems.</p> 
+     <p>It is also often found as a similar deposit on the inner surface of old pipes and other surfaces where "<a href="/wiki/Hard_water" title="Hard water">hard water</a>" has evaporated. In addition to being unsightly and hard to clean, limescale seriously impairs the operation or damages various components.<sup id="cite_ref-Ullmann_1-0" class="reference"><a href="#cite_note-Ullmann-1"><span>[</span>1<span>]</span></a></sup></p> 
+     <p>The type found deposited on the heating elements of water heaters has a main component of <a href="/wiki/Calcium_carbonate" title="Calcium carbonate">calcium carbonate</a>. Hard water contains <a href="/wiki/Calcium" title="Calcium">calcium</a> (and often <a href="/wiki/Magnesium" title="Magnesium">magnesium</a>) <a href="/wiki/Bicarbonate" title="Bicarbonate">bicarbonate</a> or similar ions. Calcium salts, such as <a href="/wiki/Calcium_bicarbonate" title="Calcium bicarbonate">calcium bicarbonate</a> and <a href="/wiki/Calcium_carbonate" title="Calcium carbonate">calcium carbonate</a> are both more soluble in hot water than cold water.<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Disputed_statement" title="Wikipedia:Disputed statement" class="mw-redirect"><span title="The material near this tag is possibly inaccurate or nonfactual. (October 2014)">dubious</span></a> <span class="metadata">– <a href="/wiki/Talk:Limescale#Dubious" title="Talk:Limescale">discuss</a></span></i>]</sup> Thus, heating water does not cause calcium carbonate to precipitate per se. However, there is an equilibrium between dissolved calcium bicarbonate and dissolved calcium carbonate:</p> 
+     <p>Ca<sup>2+</sup> + 2HCO<sub>3</sub><sup>−</sup> ⇋ Ca<sup>2+</sup> + CO<sub>3</sub><sup>2−</sup> + CO<sub>2</sub> + H<sub>2</sub>O</p> 
+     <p>where the equilibrium is driven by the carbonate/bicarbonate, not the calcium. Note that the CO<sub>2</sub> is dissolved in the water.</p> 
+     <p>There is also an equilibrium of carbon dioxide between dissolved in water (dis) and the gaseous state (g): CO<sub>2(dis)</sub> ⇋ CO<sub>2(g)</sub></p> 
+     <p>The equilibrium of CO<sub>2</sub> also moves to the right towards gaseous CO<sub>2</sub> when the water temperature rises. When water that contains dissolved calcium carbonate is warmed, CO<sub>2</sub> is removed from the water as gas causing the equilibrium of bicarbonate and carbonate to shift to the right, increasing the concentration of dissolved carbonate. As the concentration of carbonate increases, calcium carbonate precipitates as the salt: Ca<sup>2+</sup> + CO<sub>3</sub><sup>2−</sup> ⇋ CaCO<sub>3</sub>.</p> 
+     <p>As new cold water with dissolved calcium carbonate/bicarbonate is added and heated, CO<sub>2</sub> gas is removed, carbonate concentration increases, and more calcium carbonate precipitates.</p> 
+     <p><a href="/wiki/Descaling_agent" title="Descaling agent">Descaling agents</a> are used to remove scale. Prevention of scale build-up relies on the technologies of <a href="/wiki/Water_softening" title="Water softening">water softening</a>.</p> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:222px;">
+       <a href="/wiki/File:Limescale-in-pipe.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Limescale-in-pipe.jpg/220px-Limescale-in-pipe.jpg" width="220" height="190" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Limescale-in-pipe.jpg/330px-Limescale-in-pipe.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Limescale-in-pipe.jpg/440px-Limescale-in-pipe.jpg 2x" data-file-width="936" data-file-height="807"></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Limescale-in-pipe.jpg" class="internal" title="Enlarge"></a>
+        </div> Limescale buildup inside a pipe reduces both liquid flow through the pipe and thermal conduction from the liquid to the outer pipe shell. Both effects will reduce the pipe's overall thermal efficiency when used as a 
+        <a href="/wiki/Heat_exchanger" title="Heat exchanger">heat exchanger</a>.
+       </div> 
+      </div> 
+     </div> 
+     <p></p> 
+     <div id="toc" class="toc"> 
+      <div id="toctitle"> 
+       <h2>Contents</h2> 
+      </div> 
+      <ul> 
+       <li class="toclevel-1 tocsection-1"><a href="#Related_materials"><span class="tocnumber">1</span> <span class="toctext">Related materials</span></a> 
+        <ul> 
+         <li class="toclevel-2 tocsection-2"><a href="#Soap_scum"><span class="tocnumber">1.1</span> <span class="toctext">Soap scum</span></a></li> 
+         <li class="toclevel-2 tocsection-3"><a href="#Iron_components_of_scale"><span class="tocnumber">1.2</span> <span class="toctext">Iron components of scale</span></a></li> 
+        </ul> </li> 
+       <li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">2</span> <span class="toctext">See also</span></a></li> 
+       <li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li> 
+      </ul> 
+     </div> 
+     <p></p> 
+     <h2><span class="mw-headline" id="Related_materials">Related materials</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Limescale&amp;action=edit&amp;section=1" title="Edit section: Related materials">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <h3><span class="mw-headline" id="Soap_scum">Soap scum</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Limescale&amp;action=edit&amp;section=2" title="Edit section: Soap scum">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>Calcium <a href="/wiki/Cation" title="Cation" class="mw-redirect">cations</a> from hard water can also combine with <a href="/wiki/Soap" title="Soap">soap</a>, which would dissolve in soft water. This combination often forms <a href="/wiki/Soap_scum" title="Soap scum">soap scum</a> which precipitates out in a thin film on the interior surfaces of baths, sinks, and drainage pipes.</p> 
+     <h3><span class="mw-headline" id="Iron_components_of_scale">Iron components of scale</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Limescale&amp;action=edit&amp;section=3" title="Edit section: Iron components of scale">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>Scale is often coloured because of the presence of iron-containing compounds. The three main iron compounds are <a href="/wiki/Wustite" title="Wustite" class="mw-redirect">wustite</a> (FeO), <a href="/wiki/Hematite" title="Hematite">hematite</a> (Fe<sub>2</sub>O<sub>3</sub>), and <a href="/wiki/Magnetite" title="Magnetite">magnetite</a> (Fe<sub>3</sub>O<sub>4</sub>).</p> 
+     <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Limescale&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <ul> 
+      <li><a href="/wiki/Fouling" title="Fouling">Fouling</a></li> 
+      <li><a href="/wiki/Limestone" title="Limestone">Limestone</a></li> 
+      <li><a href="/wiki/Water_softening" title="Water softening">Water softening</a></li> 
+     </ul> 
+     <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Limescale&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <ol class="references"> 
+      <li id="cite_note-Ullmann-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Ullmann_1-0">^</a></b></span> <span class="reference-text"><a href="/wiki/Hermann_Weing%C3%A4rtner" title="Hermann Weingärtner">Hermann Weingärtner</a>, "Water" in <i><a href="/wiki/Ullmann%27s_Encyclopedia_of_Industrial_Chemistry" title="Ullmann's Encyclopedia of Industrial Chemistry">Ullmann's Encyclopedia of Industrial Chemistry</a></i>, December 2006, Wiley–VCH, Weinheim. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2F14356007.a28_001">10.1002/14356007.a28_001</a></span></li> 
+     </ol> 
+     <!-- 
+NewPP limit report
+Parsed by mw1211
+Cached time: 20160316212805
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.069 seconds
+Real time usage: 0.099 seconds
+Preprocessor visited node count: 257/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 2584/2097152 bytes
+Template argument size: 821/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Lua time usage: 0.016/10.000 seconds
+Lua memory usage: 661 KB/50 MB
+Number of Wikibase entities loaded: 0--> 
+     <!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   71.975      1 - -total
+ 77.60%   55.855      1 - Template:Dubious
+ 49.54%   35.654      1 - Template:Fix
+ 42.81%   30.815      1 - Template:Category_handler
+ 16.91%   12.168      1 - Template:DOI
+  7.39%    5.316      2 - Template:Hide_in_print
+  6.22%    4.477      1 - Template:Fix/category
+  3.58%    2.576      3 - Template:Unicode
+  3.50%    2.516      1 - Template:Str_left
+  2.88%    2.076      1 - Template:Only_in_print
+--> 
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:1224314-0!*!0!!en!4!* and timestamp 20160316212805 and revision id 704244534
+ --> 
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript>
+    </div> 
+    <div class="printfooter">
+      Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Limescale&amp;oldid=704244534">https://en.wikipedia.org/w/index.php?title=Limescale&amp;oldid=704244534</a>" 
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Water" title="Category:Water">Water</a></li>
+       <li><a href="/wiki/Category:Fouling" title="Category:Fouling">Fouling</a></li>
+       <li><a href="/wiki/Category:Limestone" title="Category:Limestone">Limestone</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:All_accuracy_disputes" title="Category:All accuracy disputes">All accuracy disputes</a></li>
+       <li><a href="/wiki/Category:Articles_with_disputed_statements_from_October_2014" title="Category:Articles with disputed statements from October 2014">Articles with disputed statements from October 2014</a></li>
+      </ul>
+     </div>
+    </div> 
+    <div class="visualClear"></div> 
+   </div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> 
+    <div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label"> 
+     <h3 id="p-personal-label">Personal tools</h3> 
+     <ul> 
+      <li id="pt-anonuserpage">Not logged in</li>
+      <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+      <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+      <li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Limescale&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+      <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Limescale" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li> 
+     </ul> 
+    </div> 
+    <div id="left-navigation"> 
+     <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label"> 
+      <h3 id="p-namespaces-label">Namespaces</h3> 
+      <ul> 
+       <li id="ca-nstab-main" class="selected"><span><a href="/wiki/Limescale" title="View the content page [c]" accesskey="c">Article</a></span></li> 
+       <li id="ca-talk"><span><a href="/wiki/Talk:Limescale" title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span><a href="#"></a> </h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="right-navigation"> 
+     <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label"> 
+      <h3 id="p-views-label">Views</h3> 
+      <ul> 
+       <li id="ca-view" class="selected"><span><a href="/wiki/Limescale">Read</a></span></li> 
+       <li id="ca-edit"><span><a href="/w/index.php?title=Limescale&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li> 
+       <li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Limescale&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch"> 
+        <input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput">
+        <input type="hidden" value="Special:Search" name="title">
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton">
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a>
+    </div> 
+    <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label"> 
+     <h3 id="p-navigation-label">Navigation</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+       <li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label"> 
+     <h3 id="p-interaction-label">Interaction</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label"> 
+     <h3 id="p-tb-label">Tools</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Limescale" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Limescale" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Limescale&amp;oldid=704244534" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Limescale&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q747404" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Limescale&amp;id=704244534" title="Information on how to cite this page">Cite this page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label"> 
+     <h3 id="p-coll-print_export-label">Print/export</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Limescale">Create a book</a></li>
+       <li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Limescale&amp;returnto=Limescale&amp;oldid=704244534&amp;writer=rdf2latex">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Limescale&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label"> 
+     <h3 id="p-lang-label">Languages</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%B1%D9%88%D8%A7%D8%B3%D8%A8_%D9%83%D9%84%D8%B3%D9%8A%D8%A9" title="رواسب كلسية – Arabic" lang="ar" hreflang="ar">العربية</a></li>
+       <li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Vodn%C3%AD_k%C3%A1men" title="Vodní kámen – Czech" lang="cs" hreflang="cs">Čeština</a></li>
+       <li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Kesselstein" title="Kesselstein – German" lang="de" hreflang="de">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-et"><a href="//et.wikipedia.org/wiki/Katlakivi" title="Katlakivi – Estonian" lang="et" hreflang="et">Eesti</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Tartre_(eau)" title="Tartre (eau) – French" lang="fr" hreflang="fr">Français</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EA%B4%80%EC%84%9D" title="관석 – Korean" lang="ko" hreflang="ko">한국어</a></li>
+       <li class="interlanguage-link interwiki-hr"><a href="//hr.wikipedia.org/wiki/Kamenac_(kotao)" title="Kamenac (kotao) – Croatian" lang="hr" hreflang="hr">Hrvatski</a></li>
+       <li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Incrostazione_calcarea" title="Incrostazione calcarea – Italian" lang="it" hreflang="it">Italiano</a></li>
+       <li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%90%D7%91%D7%A0%D7%99%D7%AA" title="אבנית – Hebrew" lang="he" hreflang="he">עברית</a></li>
+       <li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/V%C3%ADzk%C5%91" title="Vízkő – Hungarian" lang="hu" hreflang="hu">Magyar</a></li>
+       <li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Ketelsteen" title="Ketelsteen – Dutch" lang="nl" hreflang="nl">Nederlands</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E6%B0%B4%E5%9E%A2" title="水垢 – Japanese" lang="ja" hreflang="ja">日本語</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Kamie%C5%84_kot%C5%82owy" title="Kamień kotłowy – Polish" lang="pl" hreflang="pl">Polski</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9D%D0%B0%D0%BA%D0%B8%D0%BF%D1%8C" title="Накипь – Russian" lang="ru" hreflang="ru">Русский</a></li>
+       <li class="interlanguage-link interwiki-sk"><a href="//sk.wikipedia.org/wiki/Vodn%C3%BD_kame%C5%88" title="Vodný kameň – Slovak" lang="sk" hreflang="sk">Slovenčina</a></li>
+       <li class="interlanguage-link interwiki-sr"><a href="//sr.wikipedia.org/wiki/Kamenac_(naslaga)" title="Kamenac (naslaga) – Serbian" lang="sr" hreflang="sr">Српски / srpski</a></li>
+       <li class="interlanguage-link interwiki-sh"><a href="//sh.wikipedia.org/wiki/Kamenac_(naslaga)" title="Kamenac (naslaga) – Serbo-Croatian" lang="sh" hreflang="sh">Srpskohrvatski / српскохрватски</a></li>
+       <li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Pannsten" title="Pannsten – Swedish" lang="sv" hreflang="sv">Svenska</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%9D%D0%B0%D0%BA%D0%B8%D0%BF_(%D0%BA%D0%B0%D0%BC%D1%96%D0%BD%D1%8C)" title="Накип (камінь) – Ukrainian" lang="uk" hreflang="uk">Українська</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E6%B0%B4%E5%9E%A2" title="水垢 – Chinese" lang="zh" hreflang="zh">中文</a></li>
+       <li class="uls-p-lang-dummy"><a href="#"></a></li> 
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q747404#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last modified on 10 February 2016, at 12:50.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-cookiestatement"><a href="//wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Limescale&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"> <a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"></a> </li> 
+    <li id="footer-poweredbyico"> <a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"></a> </li> 
+   </ul> 
+   <div style="clear:both"></div> 
+  </div> 
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.wikimediaEvents","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script>
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.config.set({"wgBackendResponseTime":79,"wgHostname":"mw1171"}); /* @nomin */
+} );</script>   
+ </body>
+</html>

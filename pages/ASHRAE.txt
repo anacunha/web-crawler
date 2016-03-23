@@ -1,0 +1,393 @@
+https://en.wikipedia.org/wiki/ASHRAE
+<!doctype html>
+<html lang="en" dir="ltr" class="client-nojs">
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>ASHRAE - Wikipedia, the free encyclopedia</title> 
+  <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script> 
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"ASHRAE","wgTitle":"ASHRAE","wgCurRevisionId":706665607,"wgRevisionId":706665607,"wgArticleId":42883317,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with a promotional tone from December 2014","All articles with a promotional tone","Articles needing additional references from August 2009","All articles needing additional references","Articles needing additional references from October 2015","Heating, ventilating, and air conditioning","American engineering organizations","Construction industry of the United States"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"ASHRAE","wgRelevantArticleId":42883317,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCentralAuthMobileDomain":false,"wgWikibaseItemId":"Q466899","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script> 
+  <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script> 
+  <meta name="generator" content="MediaWiki 1.27.0-wmf.17"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/ASHRAE"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=ASHRAE&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=ASHRAE&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/ASHRAE"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-ASHRAE skin-vector action-view"> 
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> 
+   <a id="top"></a> 
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">ASHRAE</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="jump-to-nav" class="mw-jump">
+      Jump to: 
+     <a href="#mw-head">navigation</a>, 
+     <a href="#p-search">search</a> 
+    </div> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <table class="metadata plainlinks ambox ambox-content ambox-Advert" role="presentation"> 
+      <tbody>
+       <tr> 
+        <td class="mbox-image"> 
+         <div style="width:52px">
+          <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40">
+         </div> </td> 
+        <td class="mbox-text"><span class="mbox-text-span">This article <b>contains content that is written like <a href="/wiki/Wikipedia:What_Wikipedia_is_not#Wikipedia_is_not_a_soapbox_or_means_of_promotion" title="Wikipedia:What Wikipedia is not">an advertisement</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=ASHRAE&amp;action=edit">improve it</a> by removing <a href="/wiki/Wikipedia:Spam" title="Wikipedia:Spam">promotional content</a> and inappropriate <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">external links</a>, and by adding encyclopedic content written from a <a href="/wiki/Wikipedia:Neutral_point_of_view" title="Wikipedia:Neutral point of view">neutral point of view</a>.</span> <small><i>(December 2014)</i></small></span></td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <table class="metadata plainlinks ambox ambox-content ambox-Refimprove" role="presentation"> 
+      <tbody>
+       <tr> 
+        <td class="mbox-image"> 
+         <div style="width:52px">
+          <a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="262" data-file-height="204"></a>
+         </div> </td> 
+        <td class="mbox-text"><span class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=ASHRAE&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(August 2009)</i></small></span></td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:202px;">
+       <a href="/wiki/File:American_Society_of_Heating,_Refrigerating_and_Air-Conditioning_Engineers_logo.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/e/e9/American_Society_of_Heating%2C_Refrigerating_and_Air-Conditioning_Engineers_logo.jpg/200px-American_Society_of_Heating%2C_Refrigerating_and_Air-Conditioning_Engineers_logo.jpg" width="200" height="139" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/e/e9/American_Society_of_Heating%2C_Refrigerating_and_Air-Conditioning_Engineers_logo.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/e/e9/American_Society_of_Heating%2C_Refrigerating_and_Air-Conditioning_Engineers_logo.jpg 2x" data-file-width="270" data-file-height="187"></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:American_Society_of_Heating,_Refrigerating_and_Air-Conditioning_Engineers_logo.jpg" class="internal" title="Enlarge"></a>
+        </div> ASHRAE logo
+       </div> 
+      </div> 
+     </div> 
+     <p><b>ASHRAE</b> (sometimes pronounced ash-ray), stands for the <b>American Society of Heating, Refrigerating, and Air-Conditioning Engineers</b>. Founded in 1894, it is a global society advancing human well-being through sustainable technology for the built environment. The Society and its more than 50,000 members worldwide focus on building systems, energy efficiency, indoor air quality, refrigeration and sustainability.</p> 
+     <p></p> 
+     <div id="toc" class="toc"> 
+      <div id="toctitle"> 
+       <h2>Contents</h2> 
+      </div> 
+      <ul> 
+       <li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li> 
+       <li class="toclevel-1 tocsection-2"><a href="#Publications"><span class="tocnumber">2</span> <span class="toctext">Publications</span></a></li> 
+       <li class="toclevel-1 tocsection-3"><a href="#Legislation"><span class="tocnumber">3</span> <span class="toctext">Legislation</span></a></li> 
+       <li class="toclevel-1 tocsection-4"><a href="#Headquarters_renewal"><span class="tocnumber">4</span> <span class="toctext">Headquarters renewal</span></a></li> 
+       <li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li> 
+       <li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li> 
+       <li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li> 
+      </ul> 
+     </div> 
+     <p></p> 
+     <h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ASHRAE&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>The ASHRAE was founded in 1894 at a meeting of <a href="/wiki/Engineers" title="Engineers" class="mw-redirect">engineers</a> in <a href="/wiki/New_York_City" title="New York City">New York City</a>, formerly headquartered at 345 East <a href="/wiki/47th_Street_(Manhattan)" title="47th Street (Manhattan)">47th Street</a>, and has held an annual meeting since 1895.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> Until 1954 it was known as the American Society of Heating and Ventilating Engineers (ASHVE); in that year it changed its name to the American Society of Heating and Air-Conditioning Engineers (ASHAE).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> Its current name and organization came from the 1959 merger of ASHAE and the American Society of Refrigerating Engineers (ASRE). The result, ASHRAE, despite having 'American' in its name, is an influential international organization.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> Amongst other international activities, it helps organize international events.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> In 2012, ASHRAE rebranded itself with a new logo and tagline: "Shaping Tomorrow’s Built Environment Today". As of 2015, ASHRAE has more than 50,000 members.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup><a rel="nofollow" class="external free" href="http://hpac.com/archive/ashrae-rebranding-itself-reflect-expanding-role">http://hpac.com/archive/ashrae-rebranding-itself-reflect-expanding-role</a></p> 
+     <h2><span class="mw-headline" id="Publications">Publications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ASHRAE&amp;action=edit&amp;section=2" title="Edit section: Publications">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>The <a href="/wiki/ASHRAE_Handbook" title="ASHRAE Handbook">ASHRAE Handbook</a> is a four-volume resource for <a href="/wiki/HVAC" title="HVAC">HVAC</a>&amp;<a href="/wiki/Refrigeration" title="Refrigeration">R</a> technology and is available in both print and electronic versions. The volumes are <i>Fundamentals</i>, <i>HVAC Applications</i>, <i>HVAC Systems and Equipment</i>, and <i>Refrigeration</i>. One of the four volumes is updated each year.</p> 
+     <p>ASHRAE also publishes a well recognized series of <a href="/wiki/Standardization" title="Standardization">standards</a> and guidelines relating to HVAC systems and issues. These standards are often referenced in <a href="/wiki/Building_code" title="Building code">building codes</a>, and are considered useful standards for use by consulting engineers, mechanical contractors, architects, and government agencies.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup> These are legally unenforceable, except when referenced as mandatory provisions in building codes, but are commonly accepted standards for architects and engineers.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></p> 
+     <p>Examples of some ASHRAE Standards are:</p> 
+     <ul> 
+      <li>Standard 34 – Designation and Safety Classification of <a href="/wiki/Refrigerant" title="Refrigerant">Refrigerants</a></li> 
+      <li><a href="/wiki/ASHRAE_55" title="ASHRAE 55">Standard 55</a> – <a href="/wiki/Thermal_comfort" title="Thermal comfort">Thermal Environmental Conditions for Human Occupancy</a></li> 
+      <li>Standard 62.1 – Ventilation for Acceptable <a href="/wiki/Indoor_air_quality" title="Indoor air quality">Indoor Air Quality</a> (versions: 2001 and earlier as "62", 2004 and beyond as "62.1")</li> 
+      <li>Standard 62.2 – Ventilation and Acceptable Indoor Air Quality in Low-Rise Residential Buildings</li> 
+      <li><a href="/wiki/ASHRAE_90.1" title="ASHRAE 90.1">Standard 90.1</a> – Energy Standard for Buildings Except Low-Rise Residential Buildings – The <a href="/wiki/IESNA" title="IESNA" class="mw-redirect">IESNA</a> is a joint sponsor of this standard.</li> 
+      <li>Standard 135 – <a href="/wiki/BACnet" title="BACnet">BACnet</a> - A Data Communication Protocol for Building Automation and Control Networks</li> 
+      <li>Standard 189.1 – Standard for the Design of High Performance, <a href="/wiki/Green_Building" title="Green Building" class="mw-redirect">Green Buildings</a> Except Low-Rise Residential Buildings<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup></li> 
+     </ul> 
+     <p>These, and many other ASHRAE Standards, are periodically reviewed, revised and published, so the year of publication of a particular standard is important for code compliance.</p> 
+     <p>The <b>ASHRAE Journal</b> is a monthly <a href="/wiki/Magazine" title="Magazine">magazine</a> published by ASHRAE. It includes peer-reviewed articles on the practical application of HVAC&amp;R technology, information on upcoming meetings and <a href="/wiki/Trade_show" title="Trade show" class="mw-redirect">product shows</a>, classified and display advertising, and editorials. www.ashrae.org/ashraejournal. Members of ASHRAE receive the magazine and the current year's volume of the <i>ASHRAE Handbook</i> as membership benefits.</p> 
+     <p>ASHRAE also publishes 'High Performing Buildings Magazine' – a quarterly magazine is read by building owners, facility managers, architects and engineers who work on sustainable and efficient building projects. Each issue features case studies of the best performing buildings in the world. The authors, all of whom worked on the project, cover the benefits of the building’s innovative technologies and measured performance. What sets HPB apart is that all case studies provide at least one year’s worth of operational data to show if the building is performing at expected levels.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></p> 
+     <p>ASHRAE also publishes many books, 'ASHRAE Transactions', and the 'International Journal of HVAC&amp;R Research'.</p> 
+     <h2><span class="mw-headline" id="Legislation">Legislation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ASHRAE&amp;action=edit&amp;section=3" title="Edit section: Legislation">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>ASHRAE supported the <a href="/wiki/Streamlining_Energy_Efficiency_for_Schools_Act_of_2014_(H.R._4092;_113th_Congress)" title="Streamlining Energy Efficiency for Schools Act of 2014 (H.R. 4092; 113th Congress)" class="mw-redirect">Streamlining Energy Efficiency for Schools Act of 2014 (H.R. 4092; 113th Congress)</a>, a bill that would require the <a href="/wiki/United_States_Department_of_Energy" title="United States Department of Energy">United States Department of Energy</a> to establish a centralized clearinghouse to disseminate information on federal programs, incentives, and mechanisms for financing energy-efficient retrofits and upgrades at schools.<sup id="cite_ref-cbo4092_11-0" class="reference"><a href="#cite_note-cbo4092-11"><span>[</span>11<span>]</span></a></sup><sup id="cite_ref-SBCmagCommVote_12-0" class="reference"><a href="#cite_note-SBCmagCommVote-12"><span>[</span>12<span>]</span></a></sup></p> 
+     <h2><span class="mw-headline" id="Headquarters_renewal">Headquarters renewal</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ASHRAE&amp;action=edit&amp;section=4" title="Edit section: Headquarters renewal">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <table class="metadata plainlinks ambox ambox-content ambox-Unreferenced" role="presentation"> 
+      <tbody>
+       <tr> 
+        <td class="mbox-image"> 
+         <div style="width:52px">
+          <a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="262" data-file-height="204"></a>
+         </div> </td> 
+        <td class="mbox-text"><span class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>. <span class="hide-when-compact">Please help improve this section by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(October 2015)</i></small></span></td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <p>To "walk the walk" and demonstrate the Society’s commitment to sustainability, ASHRAE renovated its existing headquarters building in Atlanta, Ga. When the project was completed in June 2008, ASHRAE had succeeded in creating a healthy, productive facility that will serve as a sustainable showcase for years to come.</p> 
+     <p>After the renovation and occupancy, the building has received an A- (Very Good) As Designed rating and an A- (Very Good) As Operated rating from ASHRAE’s Building Energy Quotient (bEQ) program.</p> 
+     <p>The building received an ENERGY STAR rating from the U.S. Environmental Protection Agency in 2012 with a score of 95. The current site energy use intensity (EUI) is 35.8 kBtu/Sqft (411 MJ/m2). The EUI is a 60 percent reduction from the pre-renovation value of 81.9 kBtu/Sqft (941 MJ/m2) when the building had an ENERGY STAR rating of 36.</p> 
+     <p>ASHRAE also was awarded Platinum Certification under the New Construction Version 2.2 rating system from USGBC’s LEED program. ASHRAE earned 54 points of an attempted 55, with 69 points possible.</p> 
+     <p>Sustainable measures include reduced annual energy usage through use of a dedicated outdoor air supply (DOAS) system with energy recovery and humidity control for building ventilation; a ground-source heat pump system (GSHP) serving the second floor; and variable refrigerant flow systems with heat recovery serving the first floor. A 52.3 percent reduction in water consumption was achieved by using low-flow fixtures and waterless urinals in the building and by eliminating an outdoor irrigation system and chiller. The overall energy savings were achieved even though outside air delivered to each space was increased by 30 percent beyond minimum rates specified in ASHRAE’s Standard 62.1.</p> 
+     <p>In keeping with ASHRAE's commitment to science and education, our headquarters building now serves as a "living lab", offering researchers the opportunity to use the building as a live case study. A Web-based user interface allows researchers around the world to extract more than 1,300 trended points of data from a working building to study factors such as energy use and electric power demand, water consumption and indoor air quality.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup></p> 
+     <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ASHRAE&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <ul> 
+      <li><a href="/wiki/Building_services_engineering" title="Building services engineering">Building services engineering</a></li> 
+      <li><a href="/wiki/Chartered_Institution_of_Building_Services_Engineers" title="Chartered Institution of Building Services Engineers">Chartered Institution of Building Services Engineers</a></li> 
+      <li><a href="/wiki/Ralph_G._Nevins" title="Ralph G. Nevins">Ralph G. Nevins</a></li> 
+      <li><a href="/wiki/Sick_building_syndrome" title="Sick building syndrome">Sick building syndrome</a></li> 
+     </ul> 
+     <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ASHRAE&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <ol class="references"> 
+      <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://query.nytimes.com/gst/abstract.html?res=9A03E1DB123DE433A25750C2A9679C94649ED7CF">"PURE AIR FOR TENEMENTS; THE SUGGESTIONS OF E.P. BATES TO FELLOW ENGINEERS."</a>. The New York Times. 23 January 1895<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-08-15</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AASHRAE&amp;rft.atitle=PURE+AIR+FOR+TENEMENTS%3B+THE+SUGGESTIONS+OF+E.P.+BATES+TO+FELLOW+ENGINEERS.&amp;rft.date=1895-01-23&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fquery.nytimes.com%2Fgst%2Fabstract.html%3Fres%3D9A03E1DB123DE433A25750C2A9679C94649ED7CF&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+      <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://select.nytimes.com/gst/abstract.html?res=FA0F14FE3959177B93C4AB178AD95F408585F9">"Trade Group Changes Name"</a>. The New York Times (subscription required). 26 November 1954<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-08-15</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AASHRAE&amp;rft.atitle=Trade+Group+Changes+Name&amp;rft.date=1954-11-26&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fselect.nytimes.com%2Fgst%2Fabstract.html%3Fres%3DFA0F14FE3959177B93C4AB178AD95F408585F9&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+      <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation news">Wong, Albert (18 August 2006). <a rel="nofollow" class="external text" href="http://www.thestandard.com.hk/news_detail.asp?pp_cat=11&amp;art_id=25321&amp;sid=9370486&amp;con_type=1">"Bus air-con gives medics the chills"</a>. <a href="/wiki/The_Standard_(Hong_Kong)" title="The Standard (Hong Kong)">The Standard</a>, Hong Kong<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-08-15</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AASHRAE&amp;rft.atitle=Bus+air-con+gives+medics+the+chills&amp;rft.aufirst=Albert&amp;rft.aulast=Wong&amp;rft.date=2006-08-18&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.thestandard.com.hk%2Fnews_detail.asp%3Fpp_cat%3D11%26art_id%3D25321%26sid%3D9370486%26con_type%3D1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+      <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation news">Pradesh, Andhra (6 May 2007). <a rel="nofollow" class="external text" href="http://www.hindu.com/2007/05/06/stories/2007050615460200.htm">"Workshop on `Green Buildings<span style="padding-right:0.2em;">'</span>"</a>. <a href="/wiki/The_Hindu" title="The Hindu">The Hindu</a>, India<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-08-15</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AASHRAE&amp;rft.atitle=Workshop+on+%60Green+Buildings%27&amp;rft.aufirst=Andhra&amp;rft.aulast=Pradesh&amp;rft.date=2007-05-06&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.hindu.com%2F2007%2F05%2F06%2Fstories%2F2007050615460200.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+      <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.thehindubusinessline.com/2008/02/14/stories/2008021452112300.htm">"Heating industry aims zero ozone depletion"</a>. The Hindu <a href="/wiki/Business_Line" title="Business Line">Business Line</a>, India. 14 February 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-08-15</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AASHRAE&amp;rft.atitle=Heating+industry+aims+zero+ozone+depletion&amp;rft.date=2008-02-14&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.thehindubusinessline.com%2F2008%2F02%2F14%2Fstories%2F2008021452112300.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+      <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">Miller, Mark. <a rel="nofollow" class="external text" href="http://www.andservices.com/blog/overview-of-ashrae/">"Overview of ASHRAE"</a>. And Services<span class="reference-accessdate">. Retrieved <span class="nowrap">14 October</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AASHRAE&amp;rft.aufirst=Mark&amp;rft.aulast=Miller&amp;rft.btitle=Overview+of+ASHRAE&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.andservices.com%2Fblog%2Foverview-of-ashrae%2F&amp;rft.pub=And+Services&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+      <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://news.google.com/newspapers?id=-OIPAAAAIBAJ&amp;sjid=SosDAAAAIBAJ&amp;pg=4917,3439679&amp;dq=american-society-of-heating-refrigerating-and-air-conditioning-engineers">"Energy efficiency traps moisture"</a>. <a href="/wiki/The_Free_Lance%E2%80%93Star" title="The Free Lance–Star">The Free Lance–Star</a>, Indiana, USA. 22 September 1983<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-08-15</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AASHRAE&amp;rft.atitle=Energy+efficiency+traps+moisture&amp;rft.date=1983-09-22&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.google.com%2Fnewspapers%3Fid%3D-OIPAAAAIBAJ%26sjid%3DSosDAAAAIBAJ%26pg%3D4917%2C3439679%26dq%3Damerican-society-of-heating-refrigerating-and-air-conditioning-engineers&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+      <li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation news">Charles, Eleonor (12 August 1990). <a rel="nofollow" class="external text" href="http://www.nytimes.com/1990/08/12/realestate/in-the-region-connecticut-and-westchester-the-problem-of-sick-building-syndrome.html?pagewanted=2">"In the Region: Connecticut and Westchester; The Problem of 'Sick Building Syndrome<span style="padding-right:0.2em;">'</span>"</a>. <a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-08-15</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AASHRAE&amp;rft.atitle=In+the+Region%3A+Connecticut+and+Westchester%3B+The+Problem+of+%27Sick+Building+Syndrome%27&amp;rft.aufirst=Eleonor&amp;rft.aulast=Charles&amp;rft.date=1990-08-12&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nytimes.com%2F1990%2F08%2F12%2Frealestate%2Fin-the-region-connecticut-and-westchester-the-problem-of-sick-building-syndrome.html%3Fpagewanted%3D2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+      <li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://contractingbusiness.com/news/ashrae_standard_189_published_0124/">"ASHRAE Standard 189.1 Published"</a>. Contracting Business News. 24 January 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-11-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AASHRAE&amp;rft.atitle=ASHRAE+Standard+189.1+Published&amp;rft.date=2010-01-24&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fcontractingbusiness.com%2Fnews%2Fashrae_standard_189_published_0124%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+      <li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.hpbmagazine.org/">hpbmagazine.org</a></span></li> 
+      <li id="cite_note-cbo4092-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-cbo4092_11-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://cbo.gov/publication/45388">"CBO - H.R. 4092"</a>. Congressional Budget Office<span class="reference-accessdate">. Retrieved <span class="nowrap">22 June</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AASHRAE&amp;rft.btitle=CBO+-+H.R.+4092&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fcbo.gov%2Fpublication%2F45388&amp;rft.pub=Congressional+Budget+Office&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+      <li id="cite_note-SBCmagCommVote-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-SBCmagCommVote_12-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.sbcmag.info/news/2014/may/house-committee-unanimously-approves-energy-efficiency-schools-act">"House Committee Unanimously Approves Energy Efficiency for Schools Act"</a>. SBC Magazine. 5 May 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">23 June</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AASHRAE&amp;rft.btitle=House+Committee+Unanimously+Approves+Energy+Efficiency+for+Schools+Act&amp;rft.date=2014-05-05&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.sbcmag.info%2Fnews%2F2014%2Fmay%2Fhouse-committee-unanimously-approves-energy-efficiency-schools-act&amp;rft.pub=SBC+Magazine&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+      <li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ashrae.org/building">ashrae.org</a></span></li> 
+     </ol> 
+     <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ASHRAE&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <ul> 
+      <li><a rel="nofollow" class="external text" href="http://www.ashrae.org/">ASHRAE Web site</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.ashrae.org/bookstore">ASHRAE publications</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.ahrexpo.com/">The AHR Expo - Co-Sponsored by ASHRAE and ARI</a></li> 
+      <li><a rel="nofollow" class="external text" href="https://www.ashrae.org/resources--publications/free-resources/ashrae-terminology-landing-page/">ASHRAE Terminology</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.buildingenergyquotient.org/">ASHRAE Building Energy Quotient Program</a></li> 
+     </ul> 
+     <!-- 
+NewPP limit report
+Parsed by mw1075
+Cached time: 20160226052631
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.216 seconds
+Real time usage: 0.260 seconds
+Preprocessor visited node count: 722/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 26729/2097152 bytes
+Template argument size: 43/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 3/500
+Lua time usage: 0.107/10.000 seconds
+Lua memory usage: 2.99 MB/50 MB
+Number of Wikibase entities loaded: 0--> 
+     <!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  201.936      1 - -total
+ 40.29%   81.357      8 - Template:Cite_news
+ 30.11%   60.811      1 - Template:Advert
+ 23.63%   47.712      3 - Template:Ambox
+  8.93%   18.042      3 - Template:Cite_web
+  4.91%    9.919      1 - Template:Unreferenced_section
+  4.91%    9.907      1 - Template:Refimprove
+--> 
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:42883317-0!*!0!!en!4!* and timestamp 20160226052630 and revision id 706665607
+ --> 
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript>
+    </div> 
+    <div class="printfooter">
+      Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=ASHRAE&amp;oldid=706665607">https://en.wikipedia.org/w/index.php?title=ASHRAE&amp;oldid=706665607</a>" 
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Heating,_ventilating,_and_air_conditioning" title="Category:Heating, ventilating, and air conditioning">Heating, ventilating, and air conditioning</a></li>
+       <li><a href="/wiki/Category:American_engineering_organizations" title="Category:American engineering organizations">American engineering organizations</a></li>
+       <li><a href="/wiki/Category:Construction_industry_of_the_United_States" title="Category:Construction industry of the United States">Construction industry of the United States</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Articles_with_a_promotional_tone_from_December_2014" title="Category:Articles with a promotional tone from December 2014">Articles with a promotional tone from December 2014</a></li>
+       <li><a href="/wiki/Category:All_articles_with_a_promotional_tone" title="Category:All articles with a promotional tone">All articles with a promotional tone</a></li>
+       <li><a href="/wiki/Category:Articles_needing_additional_references_from_August_2009" title="Category:Articles needing additional references from August 2009">Articles needing additional references from August 2009</a></li>
+       <li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li>
+       <li><a href="/wiki/Category:Articles_needing_additional_references_from_October_2015" title="Category:Articles needing additional references from October 2015">Articles needing additional references from October 2015</a></li>
+      </ul>
+     </div>
+    </div> 
+    <div class="visualClear"></div> 
+   </div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> 
+    <div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label"> 
+     <h3 id="p-personal-label">Personal tools</h3> 
+     <ul> 
+      <li id="pt-anonuserpage">Not logged in</li>
+      <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+      <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+      <li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=ASHRAE&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+      <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=ASHRAE" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li> 
+     </ul> 
+    </div> 
+    <div id="left-navigation"> 
+     <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label"> 
+      <h3 id="p-namespaces-label">Namespaces</h3> 
+      <ul> 
+       <li id="ca-nstab-main" class="selected"><span><a href="/wiki/ASHRAE" title="View the content page [c]" accesskey="c">Article</a></span></li> 
+       <li id="ca-talk"><span><a href="/wiki/Talk:ASHRAE" title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span><a href="#"></a> </h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="right-navigation"> 
+     <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label"> 
+      <h3 id="p-views-label">Views</h3> 
+      <ul> 
+       <li id="ca-view" class="selected"><span><a href="/wiki/ASHRAE">Read</a></span></li> 
+       <li id="ca-edit"><span><a href="/w/index.php?title=ASHRAE&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li> 
+       <li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=ASHRAE&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch"> 
+        <input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput">
+        <input type="hidden" value="Special:Search" name="title">
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton">
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a>
+    </div> 
+    <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label"> 
+     <h3 id="p-navigation-label">Navigation</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+       <li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label"> 
+     <h3 id="p-interaction-label">Interaction</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label"> 
+     <h3 id="p-tb-label">Tools</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/ASHRAE" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/ASHRAE" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=ASHRAE&amp;oldid=706665607" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=ASHRAE&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q466899" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=ASHRAE&amp;id=706665607" title="Information on how to cite this page">Cite this page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label"> 
+     <h3 id="p-coll-print_export-label">Print/export</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=ASHRAE">Create a book</a></li>
+       <li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=ASHRAE&amp;returnto=ASHRAE&amp;oldid=706665607&amp;writer=rdf2latex">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=ASHRAE&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label"> 
+     <h3 id="p-lang-label">Languages</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D9%8A%D8%A9_%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9_%D9%84%D9%85%D9%87%D9%86%D8%AF%D8%B3%D9%8A_%D8%A7%D9%84%D8%AA%D8%A8%D8%B1%D9%8A%D8%AF_%D9%88%D8%A7%D9%84%D8%AA%D8%AF%D9%81%D8%A6%D8%A9_%D9%88%D8%AA%D9%83%D9%8A%D9%8A%D9%81_%D8%A7%D9%84%D9%87%D9%88%D8%A7%D8%A1" title="الجمعية الأمريكية لمهندسي التبريد والتدفئة وتكييف الهواء – Arabic" lang="ar" hreflang="ar">العربية</a></li>
+       <li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/American_Society_of_Heating,_Refrigerating_and_Air_Conditioning_Engineers" title="American Society of Heating, Refrigerating and Air Conditioning Engineers – Danish" lang="da" hreflang="da">Dansk</a></li>
+       <li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/American_Society_of_Heating,_Refrigerating_and_Air-Conditioning_Engineers" title="American Society of Heating, Refrigerating and Air-Conditioning Engineers – German" lang="de" hreflang="de">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%A7%D8%B4%D8%B1%DB%8C" title="اشری – Persian" lang="fa" hreflang="fa">فارسی</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/American_Society_of_Heating,_Refrigerating_and_Air-Conditioning_Engineers" title="American Society of Heating, Refrigerating and Air-Conditioning Engineers – French" lang="fr" hreflang="fr">Français</a></li>
+       <li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/ASHRAE" title="ASHRAE – Dutch" lang="nl" hreflang="nl">Nederlands</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E6%9A%96%E6%88%BF%E5%86%B7%E5%87%8D%E7%A9%BA%E8%AA%BF%E5%AD%A6%E4%BC%9A" title="アメリカ暖房冷凍空調学会 – Japanese" lang="ja" hreflang="ja">日本語</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Ameryka%C5%84skie_Stowarzyszenie_In%C5%BCynier%C3%B3w_Ogrzewnictwa,_Ch%C5%82odnictwa_i_Klimatyzacji" title="Amerykańskie Stowarzyszenie Inżynierów Ogrzewnictwa, Chłodnictwa i Klimatyzacji – Polish" lang="pl" hreflang="pl">Polski</a></li>
+       <li class="uls-p-lang-dummy"><a href="#"></a></li> 
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q466899#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last modified on 24 February 2016, at 16:20.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-cookiestatement"><a href="//wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=ASHRAE&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"> <a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"></a> </li> 
+    <li id="footer-poweredbyico"> <a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"></a> </li> 
+   </ul> 
+   <div style="clear:both"></div> 
+  </div> 
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.wikimediaEvents","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script>
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.config.set({"wgBackendResponseTime":58,"wgHostname":"mw1240"}); /* @nomin */
+} );</script>   
+ </body>
+</html>

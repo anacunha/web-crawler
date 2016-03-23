@@ -1,0 +1,810 @@
+https://en.wikipedia.org/wiki/Electric_heating
+<!doctype html>
+<html lang="en" dir="ltr" class="client-nojs">
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Electric heating - Wikipedia, the free encyclopedia</title> 
+  <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script> 
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Electric_heating","wgTitle":"Electric heating","wgCurRevisionId":705460770,"wgRevisionId":705460770,"wgArticleId":3508315,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from January 2013","All articles needing additional references","Electric heating"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Electric_heating","wgRelevantArticleId":3508315,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCentralAuthMobileDomain":false,"wgWikibaseItemId":"Q13221754","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script> 
+  <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script> 
+  <meta name="generator" content="MediaWiki 1.27.0-wmf.17"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Electric_heating"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Electric_heating&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Electric_heating&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Electric_heating"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Electric_heating skin-vector action-view"> 
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> 
+   <a id="top"></a> 
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Electric heating</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="jump-to-nav" class="mw-jump">
+      Jump to: 
+     <a href="#mw-head">navigation</a>, 
+     <a href="#p-search">search</a> 
+    </div> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <table class="metadata plainlinks ambox ambox-content ambox-Refimprove" role="presentation"> 
+      <tbody>
+       <tr> 
+        <td class="mbox-image"> 
+         <div style="width:52px">
+          <a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="262" data-file-height="204"></a>
+         </div> </td> 
+        <td class="mbox-text"><span class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Electric_heating&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(January 2013)</i></small></span></td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:302px;">
+       <a href="/wiki/File:30kw_resistance_heating_coil.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/30kw_resistance_heating_coil.JPG/300px-30kw_resistance_heating_coil.JPG" width="300" height="225" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/30kw_resistance_heating_coil.JPG/450px-30kw_resistance_heating_coil.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1d/30kw_resistance_heating_coil.JPG/600px-30kw_resistance_heating_coil.JPG 2x" data-file-width="3648" data-file-height="2736"></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:30kw_resistance_heating_coil.JPG" class="internal" title="Enlarge"></a>
+        </div> 30&nbsp;kW resistance heating coils
+       </div> 
+      </div> 
+     </div> 
+     <p><b>Electric heating</b> is any process in which <a href="/wiki/Electrical_energy" title="Electrical energy">electrical energy</a> is converted to <a href="/wiki/Heat" title="Heat">heat</a>. Common applications include <a href="/wiki/Space_heating" title="Space heating" class="mw-redirect">space heating</a>, <a href="/wiki/Cooking" title="Cooking">cooking</a>, <a href="/wiki/Water_heating" title="Water heating">water heating</a> and industrial processes. An <b>electric heater</b> is an <a href="/wiki/Electricity" title="Electricity">electrical</a> device that converts electric current to heat.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> The <a href="/wiki/Heating_element" title="Heating element">heating element</a> inside every electric heater is an electrical <a href="/wiki/Resistor" title="Resistor">resistor</a>, and works on the principle of <a href="/wiki/Joule_heating" title="Joule heating">Joule heating</a>: an <a href="/wiki/Electric_current" title="Electric current">electric current</a> passing through a resistor will convert that electrical energy into heat energy. Most modern electric heating devices use <a href="/wiki/Nichrome" title="Nichrome">nichrome</a> wire as the active element; the heating element, depicted on the right, uses nichrome wire supported by ceramic insulators.</p> 
+     <p>Alternatively, a <a href="/wiki/Heat_pump" title="Heat pump">heat pump</a> uses an <a href="/wiki/Electric_motor" title="Electric motor">electric motor</a> to drive a <a href="/wiki/Refrigeration_cycle" title="Refrigeration cycle" class="mw-redirect">refrigeration cycle</a>, that draws heat energy from a source such as the ground or outside air and directs that heat into the space to be warmed. Some systems can be reversed so that the interior space is cooled and the warm air is discharged outside or into the ground. Heat pumps can deliver three or four units of heating energy for every unit of electricity purchased, with the amount of heating energy delivered being a function of equipment efficiency as well as the temperature difference between the ground (or outdoor air) and the building interior.</p> 
+     <p></p> 
+     <div id="toc" class="toc"> 
+      <div id="toctitle"> 
+       <h2>Contents</h2> 
+      </div> 
+      <ul> 
+       <li class="toclevel-1 tocsection-1"><a href="#Space_heating"><span class="tocnumber">1</span> <span class="toctext">Space heating</span></a> 
+        <ul> 
+         <li class="toclevel-2 tocsection-2"><a href="#Radiant_heaters"><span class="tocnumber">1.1</span> <span class="toctext">Radiant heaters</span></a></li> 
+         <li class="toclevel-2 tocsection-3"><a href="#Convection_heaters"><span class="tocnumber">1.2</span> <span class="toctext">Convection heaters</span></a></li> 
+         <li class="toclevel-2 tocsection-4"><a href="#Fan_heaters"><span class="tocnumber">1.3</span> <span class="toctext">Fan heaters</span></a></li> 
+         <li class="toclevel-2 tocsection-5"><a href="#Storage_heating"><span class="tocnumber">1.4</span> <span class="toctext">Storage heating</span></a></li> 
+         <li class="toclevel-2 tocsection-6"><a href="#Domestic_electrical_underfloor_heating"><span class="tocnumber">1.5</span> <span class="toctext">Domestic electrical underfloor heating</span></a></li> 
+         <li class="toclevel-2 tocsection-7"><a href="#Lighting_system"><span class="tocnumber">1.6</span> <span class="toctext">Lighting system</span></a></li> 
+         <li class="toclevel-2 tocsection-8"><a href="#Heat_pumps"><span class="tocnumber">1.7</span> <span class="toctext">Heat pumps</span></a></li> 
+        </ul> </li> 
+       <li class="toclevel-1 tocsection-9"><a href="#Liquid_heating"><span class="tocnumber">2</span> <span class="toctext">Liquid heating</span></a> 
+        <ul> 
+         <li class="toclevel-2 tocsection-10"><a href="#Immersion_heater"><span class="tocnumber">2.1</span> <span class="toctext">Immersion heater</span></a> 
+          <ul> 
+           <li class="toclevel-3 tocsection-11"><a href="#Domestic_immersion_heaters"><span class="tocnumber">2.1.1</span> <span class="toctext">Domestic immersion heaters</span></a></li> 
+           <li class="toclevel-3 tocsection-12"><a href="#Industrial_immersion_heaters"><span class="tocnumber">2.1.2</span> <span class="toctext">Industrial immersion heaters</span></a></li> 
+          </ul> </li> 
+         <li class="toclevel-2 tocsection-13"><a href="#Direct_electric_heat_exchangers_.28DEHE.29"><span class="tocnumber">2.2</span> <span class="toctext">Direct electric heat exchangers (DEHE)</span></a></li> 
+         <li class="toclevel-2 tocsection-14"><a href="#Electrode_heater"><span class="tocnumber">2.3</span> <span class="toctext">Electrode heater</span></a></li> 
+        </ul> </li> 
+       <li class="toclevel-1 tocsection-15"><a href="#Environmental_and_efficiency_aspects"><span class="tocnumber">3</span> <span class="toctext">Environmental and efficiency aspects</span></a></li> 
+       <li class="toclevel-1 tocsection-16"><a href="#Economic_aspects"><span class="tocnumber">4</span> <span class="toctext">Economic aspects</span></a></li> 
+       <li class="toclevel-1 tocsection-17"><a href="#Industrial_electric_heating"><span class="tocnumber">5</span> <span class="toctext">Industrial electric heating</span></a></li> 
+       <li class="toclevel-1 tocsection-18"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li> 
+       <li class="toclevel-1 tocsection-19"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li> 
+      </ul> 
+     </div> 
+     <p></p> 
+     <h2><span class="mw-headline" id="Space_heating">Space heating</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electric_heating&amp;action=edit&amp;section=1" title="Edit section: Space heating">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:152px;">
+       <a href="/wiki/File:Carbon_heater.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Carbon_heater.jpg/150px-Carbon_heater.jpg" width="150" height="361" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Carbon_heater.jpg/225px-Carbon_heater.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Carbon_heater.jpg/300px-Carbon_heater.jpg 2x" data-file-width="330" data-file-height="794"></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Carbon_heater.jpg" class="internal" title="Enlarge"></a>
+        </div> An electric radiative 
+        <a href="/wiki/Space_heating" title="Space heating" class="mw-redirect">space heater</a>
+       </div> 
+      </div> 
+     </div> 
+     <p>Space heating is used to warm the interiors of buildings. <a href="/wiki/Space_heater" title="Space heater">Space heaters</a> are useful in places where air-handling is difficult, such as in laboratories. Several methods of electric space heating are used.</p> 
+     <h3><span class="mw-headline" id="Radiant_heaters">Radiant heaters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electric_heating&amp;action=edit&amp;section=2" title="Edit section: Radiant heaters">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>Electric <a href="/wiki/Radiant_heating" title="Radiant heating">radiant heating</a> uses heating elements that reach a high temperature. The element is usually packaged inside a <a href="/wiki/Glass" title="Glass">glass</a> envelope resembling a <a href="/wiki/Light_bulb" title="Light bulb" class="mw-redirect">light bulb</a> and with a reflector to direct the energy output away from the body of the heater. The element emits <a href="/wiki/Infrared_radiation" title="Infrared radiation" class="mw-redirect">infrared radiation</a> that travels through air or space until it hits an absorbing surface, where it is partially converted to heat and partially reflected. This heat directly warms people and objects in the room, rather than warming the air. This style of heater is particularly useful in areas through which unheated air flows. They are also ideal for basements and garages where spot heating is desired. More generally, they are an excellent choice for task-specific heating.</p> 
+     <p>Radiant heaters operate silently and present the greatest potential danger of ignition of nearby furnishings due to the focused intensity of their output and lack of overheat protection. In the United Kingdom, these appliances are sometimes called electric fires, because they were originally used to replace open fires.</p> 
+     <p>The active medium of the heater depicted at the right is a coil of nichrome resistance wire inside a fused silica tube, open to the atmosphere at the ends, although models exist where the fused silica is sealed at the ends and the resistance alloy is not nichrome.</p> 
+     <h3><span class="mw-headline" id="Convection_heaters">Convection heaters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electric_heating&amp;action=edit&amp;section=3" title="Edit section: Convection heaters">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <div role="note" class="hatnote relarticle mainarticle">
+      Main article: 
+      <a href="/wiki/Convection_heater" title="Convection heater">Convection heater</a>
+     </div> 
+     <p>In a convection heater, the heating element heats the air in contact with it by <a href="/wiki/Thermal_conduction" title="Thermal conduction">thermal conduction</a>. Hot air is less <a href="/wiki/Density" title="Density">dense</a> than cool air, so it rises due to <a href="/wiki/Buoyancy" title="Buoyancy">buoyancy</a>, allowing more cool air to flow in to take its place. This sets up a <a href="/wiki/Convection" title="Convection">convection</a> current of hot air that rises from the heater, heats up the surrounding space, cools and then repeats the cycle. These heaters are sometimes <a href="/wiki/Oil_heater" title="Oil heater">filled with oil</a>. They are ideally suited for heating a closed space. They operate silently and have a lower risk of ignition hazard if they make unintended contact with furnishings compared to radiant electric heaters.</p> 
+     <h3><span class="mw-headline" id="Fan_heaters">Fan heaters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electric_heating&amp;action=edit&amp;section=4" title="Edit section: Fan heaters">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <div role="note" class="hatnote relarticle mainarticle">
+      Main article: 
+      <a href="/wiki/Fan_heater" title="Fan heater">Fan heater</a>
+     </div> 
+     <p>A fan heater, also called a forced convection heater, is a variety of convection heater that includes an <a href="/wiki/Fan_(mechanical)" title="Fan (mechanical)" class="mw-redirect">electric fan</a> to speed up the airflow. They operate with considerable noise caused by the fan. They have a moderate risk of ignition hazard if they make unintended contact with furnishings. Their advantage is that they are more compact than heaters that use natural convection.</p> 
+     <h3><span class="mw-headline" id="Storage_heating">Storage heating</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electric_heating&amp;action=edit&amp;section=5" title="Edit section: Storage heating">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <div role="note" class="hatnote relarticle mainarticle">
+      Main article: 
+      <a href="/wiki/Storage_heater" title="Storage heater">Storage heater</a>
+     </div> 
+     <p>A storage heating system takes advantage of cheaper electricity prices, sold during low demand periods such as overnight. In the United Kingdom, this is branded as Economy 7. The storage heater stores heat in clay bricks, then releases it during the day when required. Newer storage heaters are able to be used with various tariffs. Whilst they can still be used with economy 7, they can be used with day-time tariffs. This is in thanks to the modern design features that are added during manufacturing. Alongside new designs the use of a thermostat or sensor has improved the efficiency of the storage heater. A thermostat or sensor is able to read the temperature of the room, and change the output of the heater accordingly.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></p> 
+     <p>Water can also be used as a heat-storage medium.</p> 
+     <h3><span class="mw-headline" id="Domestic_electrical_underfloor_heating">Domestic electrical underfloor heating</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electric_heating&amp;action=edit&amp;section=6" title="Edit section: Domestic electrical underfloor heating">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <div role="note" class="hatnote relarticle mainarticle">
+      Main article: 
+      <a href="/wiki/Underfloor_heating" title="Underfloor heating">Underfloor heating</a>
+     </div> 
+     <p>An electric <a href="/wiki/Underfloor_heating" title="Underfloor heating">underfloor heating</a> system has heating cables embedded in the floor. Current flows through a <a href="/wiki/Conductive" title="Conductive" class="mw-redirect">conductive</a> heating material, supplied either directly from the line voltage (120 or 240 volts) or at low voltage from a transformer. The heated cables warm the flooring until it reaches the right temperature set by the floor <a href="/wiki/Thermostat" title="Thermostat">thermostat</a>. The flooring then heats the adjacent air, which circulates, heating other objects in the room (tables, chairs, people) by <a href="/wiki/Convection" title="Convection">convection</a>. As it rises, the heated air will warm the room and all its contents up to the ceiling. This form of heating gives the most consistent room temperature from floor to ceiling compared to any other heating system. A variation of this principle uses tubes filled with circulating hot water.</p> 
+     <h3><span class="mw-headline" id="Lighting_system">Lighting system</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electric_heating&amp;action=edit&amp;section=7" title="Edit section: Lighting system">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>In large office towers, the lighting system is integrated with the heating and ventilation system. Waste heat from <a href="/wiki/Fluorescent_lamp" title="Fluorescent lamp">fluorescent lamps</a> is captured in the return air of the heating system; in large buildings a substantial part of the annual heating energy is supplied by the lighting system. However, this waste heat becomes a liability when using air conditioning.</p> 
+     <h3><span class="mw-headline" id="Heat_pumps">Heat pumps</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electric_heating&amp;action=edit&amp;section=8" title="Edit section: Heat pumps">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <div role="note" class="hatnote relarticle mainarticle">
+      Main article: 
+      <a href="/wiki/Heat_pump" title="Heat pump">heat pump</a>
+     </div> 
+     <p>A heat pump uses an electrically driven compressor to operate a refrigeration cycle that extracts heat energy from outdoor air, the ground or ground water, and moves that heat to the space to be warmed. A liquid contained within the evaporator section of the heat pump boils at low pressure, absorbing heat energy from the outdoor air or the ground. The vapor is then compressed by a compressor and piped into a condensor coil within the building to be heated. The heat from the hot dense gas is absorbed by the air in the building (and sometimes also used for domestic hot water) causing the hot working fluid to condense back into a liquid. From there the high pressure fluid is passed back to the evaporator section where it expands through an orifice and into the evaporator section, completing the cycle. In the summer months, the cycle can be reversed to move heat out of the conditioned space and to the outside air.</p> 
+     <p>Heat pumps may obtain low-grade heat from the outdoor air in mild climates. In areas with average winter temperatures well below freezing, <a href="/wiki/Ground_source_heat_pumps" title="Ground source heat pumps" class="mw-redirect">ground source heat pumps</a> are more efficient than air source heat pumps because they can extract residual solar heat stored in the ground at warmer temperatures than is available from cold air.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> According to the US <a href="/wiki/EPA" title="EPA" class="mw-redirect">EPA</a>, <a href="/wiki/Geothermal_heat_pump" title="Geothermal heat pump">geothermal heat pumps</a> can reduce energy consumption up to 44% compared with <a href="/wiki/Air_source_heat_pumps" title="Air source heat pumps">air source heat pumps</a> and up to 72% compared with electric resistance heating.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> The high purchase price of a heat pump vs resistance heaters may be offset when <a href="/wiki/Air_conditioning" title="Air conditioning">air conditioning</a> is also needed.</p> 
+     <h2><span class="mw-headline" id="Liquid_heating">Liquid heating</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electric_heating&amp;action=edit&amp;section=9" title="Edit section: Liquid heating">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <h3><span class="mw-headline" id="Immersion_heater">Immersion heater</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electric_heating&amp;action=edit&amp;section=10" title="Edit section: Immersion heater">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:302px;">
+       <a href="/wiki/File:Immersion_heater.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Immersion_heater.jpg/300px-Immersion_heater.jpg" width="300" height="199" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Immersion_heater.jpg/450px-Immersion_heater.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/Immersion_heater.jpg/600px-Immersion_heater.jpg 2x" data-file-width="4928" data-file-height="3264"></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Immersion_heater.jpg" class="internal" title="Enlarge"></a>
+        </div> Small domestic immersion heater, 500&nbsp;W
+       </div> 
+      </div> 
+     </div> 
+     <p>An immersion heater has an electrical resistance heating element encased in a tube and directly placed in the water (or other fluid) to be heated. The immersion heater may be placed in an insulated <a href="/wiki/Hot_water_storage_tank" title="Hot water storage tank">hot water tank</a>. A temperature sensor within the tank triggers a <a href="/wiki/Thermostat" title="Thermostat">thermostat</a> to control the temperature of the water. Small portable immersion heaters may not have a control thermostat, since they are intended to be used only briefly and under control of an operator.</p> 
+     <h4><span class="mw-headline" id="Domestic_immersion_heaters">Domestic immersion heaters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electric_heating&amp;action=edit&amp;section=11" title="Edit section: Domestic immersion heaters">edit</a><span class="mw-editsection-bracket">]</span></span></h4> 
+     <p>Domestic immersion heaters, usually rated at 3 kilowatts and on a 1.5" <a href="/wiki/British_Standard_Pipe" title="British Standard Pipe">British Standard Pipe</a> screwplug in the UK, run on the normal domestic electricity supply, but consumers may also take advantage of a cheaper, off-peak electricity tariff such as <a href="/wiki/Economy_7" title="Economy 7">Economy 7</a> (in the UK). In a typical off-peak installation, a lower immersion heater is connected to the separately switched off-peak heating circuit and an upper heater is connected to the normal circuit via its own switch. The consumer then has the option to top-up the available hot water supply at any time, rather than waiting for the cheaper supply to turn on (typically after midnight). A poorly insulated hot water cylinder will increase running costs because a consumer must pay for electricity used to replace lost heat.</p> 
+     <p><a href="/wiki/Electric_shower" title="Electric shower" class="mw-redirect">Electric shower</a> and tankless heaters also use an immersion heater (shielded or naked) that is turned on with the flow of water. A group of separate heaters can be switched in order to offer different heating levels. Electric showers and tankless heaters usually use from 3 to 7.5 kilowatts.</p> 
+     <p>Irish-American comedian <a href="/wiki/Des_Bishop" title="Des Bishop">Des Bishop</a> talks about his first encounter with a domestic immersion heater in one of his comedy routines.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></p> 
+     <h4><span class="mw-headline" id="Industrial_immersion_heaters">Industrial immersion heaters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electric_heating&amp;action=edit&amp;section=12" title="Edit section: Industrial immersion heaters">edit</a><span class="mw-editsection-bracket">]</span></span></h4> 
+     <p>Industrial immersion heaters can be either screwed or flanged. Screwed industrial immersion heaters, in the UK usually on a 2.25" <a href="/wiki/British_Standard_Pipe" title="British Standard Pipe">British Standard Pipe</a> are usually only rated up to approximately 24&nbsp;kW, with 6&nbsp;kW being considered the very top end that can be accommodated safely on a single phase supply. Flanged immersion heaters (such as those used in <a href="/wiki/Electric_steam_boiler" title="Electric steam boiler">electric steam boilers</a>) can be rated at up to 2000 kilowatts, or more, and require a <a href="/wiki/Three-phase" title="Three-phase">three-phase</a> supply.</p> 
+     <p>Electrical immersion heaters may heat water immediately adjacent to the heating element high enough to promote the formation of scale, commonly calcium carbonate, in <a href="/wiki/Hard_water" title="Hard water">hard water</a> areas. This accumulates on the element, and over time, as the element expands and contracts through its heating cycle, the scale cracks off and drops to the bottom of the tank, progressively filling up the tank. This reduces the tank's capacity and, where the immersion heater is secondary to the heating of the water by a coil fed from a gas or oil-fired boiler, can reduce the efficiency of the primary heating source by covering that other coil and in turn reducing its efficiency. Regular flushing-out of accumulated sediment can reduce this problem.</p> 
+     <p>Such problems can be avoided at the design stage, by maximising the amount of hot element in the liquid, thus reducing the watts density. This reduces the working temperature of the surface of the element, reducing the build up of limescale. Watts density should be 40 W/in<sup>2</sup> (6.2/cm<sup>2</sup>) or below in <a href="/wiki/Hard_water" title="Hard water">hard water</a> areas, but can safely be 60 W/in<sup>2</sup> (9.3/cm<sup>2</sup>) where <a href="/wiki/Hard_water" title="Hard water">hard water</a> is not an issue.</p> 
+     <h3><span class="mw-headline" id="Direct_electric_heat_exchangers_.28DEHE.29">Direct electric heat exchangers (DEHE)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electric_heating&amp;action=edit&amp;section=13" title="Edit section: Direct electric heat exchangers (DEHE)">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>The direct electric heat exchangers (DEHE) uses heating elements inserted into the "shell side" medium directly to provide the heating effect. Virtually all of the electric heat generated by the electric circulation heater is transferred into the medium, thus an electric heater is nearly 100 percent efficient. Direct electric heat exchangers or "circulation heaters" are used to heat liquids and gases in industrial processes.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></p> 
+     <h3><span class="mw-headline" id="Electrode_heater">Electrode heater</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electric_heating&amp;action=edit&amp;section=14" title="Edit section: Electrode heater">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <div role="note" class="hatnote relarticle mainarticle">
+      Main article: 
+      <a href="/wiki/Electrode_boiler" title="Electrode boiler">Electrode boiler</a>
+     </div> 
+     <p>With an electrode heater, there is no wire-wound resistance and the liquid itself acts as the resistance. This has potential hazards, so the regulations governing electrode heaters are strict.</p> 
+     <h2><span class="mw-headline" id="Environmental_and_efficiency_aspects">Environmental and efficiency aspects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electric_heating&amp;action=edit&amp;section=15" title="Edit section: Environmental and efficiency aspects">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>The efficiency of any system depends on the definition of the boundaries of the system. For an electrical energy customer the efficiency of electric space heating is almost 100% because almost all purchased energy is converted to building heat (the only exception being fan noise and indication lights which demand very little electricity and virtually none at all when compared to the extremely large energy draw of the heating itself). However, if a <a href="/wiki/Thermal_power_station" title="Thermal power station">power plant</a> supplying electricity is included, the overall efficiency drops drastically. For example, a <a href="/wiki/Fossil-fuel_power_station" title="Fossil-fuel power station">fossil-fuel power station</a> may only deliver 3 units of electrical energy for every 10 units of fuel energy released. Even though the electric heater is 100% efficient, the amount of fuel needed to produce electric heat is more than if the fuel was burned in a <a href="/wiki/Furnace#Household_furnaces" title="Furnace">furnace</a> or <a href="/wiki/Boiler#Hydronic_boilers" title="Boiler">boiler</a> at the building being heated. If the same fuel could be used for space heating by a consumer, it would be more efficient overall to burn the fuel at the end user's building.</p> 
+     <p>Variations between countries generating electrical power affect concerns about efficiency and the environment. In France 10% is generated from fossil fuels, in Britain 80%.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup> The cleanliness and efficiency of electricity are dependent on the source.</p> 
+     <p>In <a href="/wiki/Sweden" title="Sweden">Sweden</a> the use of direct electric heating has been restricted since the 1980s for this reason, and there are plans to phase it out entirely – see <a href="/wiki/Oil_phase-out_in_Sweden" title="Oil phase-out in Sweden" class="mw-redirect">Oil phase-out in Sweden</a> – while <a href="/wiki/Denmark" title="Denmark">Denmark</a> has banned the installation of direct electric space heating in new buildings for similar reasons.<sup id="cite_ref-AECB1_8-0" class="reference"><a href="#cite_note-AECB1-8"><span>[</span>8<span>]</span></a></sup> In the case of new buildings, <a href="/wiki/Low-energy_building" title="Low-energy building" class="mw-redirect">low-energy building techniques</a> can be used which can virtually eliminate the need for heating, such as those built to the <a href="/wiki/Passivhaus_standard" title="Passivhaus standard" class="mw-redirect">Passivhaus standard</a>.</p> 
+     <p>In <a href="/wiki/Quebec" title="Quebec">Quebec</a>, however, electric heating is still the most popular form of home heating. According to a 2003 <a href="/wiki/Statistics_Canada" title="Statistics Canada">Statistics Canada</a> survey, 68% of households in the province uses electricity for space heating. More than 90% of all power consumed in Quebec is generated by <a href="/wiki/Hydroelectric_dam" title="Hydroelectric dam" class="mw-redirect">hydroelectric dams</a>, which have low <a href="/wiki/Greenhouse_gases" title="Greenhouse gases" class="mw-redirect">greenhouse gases</a> emissions compared to <a href="/wiki/Fossil-fuel_power_station" title="Fossil-fuel power station">Fossil-fuel power stations</a>. Low and stable rates are charged by <a href="/wiki/Hydro-Qu%C3%A9bec" title="Hydro-Québec">Hydro-Québec</a>, the provincially owned utility.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup></p> 
+     <p>To provide heat more efficiently, an electrically driven <a href="/wiki/Heat_pump" title="Heat pump">heat pump</a> can raise the indoor temperature by extracting energy from the ground, the outside air, or waste streams such as exhaust air. This can cut the electricity consumption to as little as 35% of that used by resistive heating.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup> Where the primary source of electrical energy is hydroelectric, nuclear, or wind, transferring electricity via the grid can be convenient, since the resource may be too distant for direct heating applications (with the notable exception of <a href="/wiki/Solar_thermal_energy" title="Solar thermal energy">Solar thermal energy</a>).</p> 
+     <h2><span class="mw-headline" id="Economic_aspects">Economic aspects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electric_heating&amp;action=edit&amp;section=16" title="Edit section: Economic aspects">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>The operation of electric resistance heaters to heat an area for long periods is costly in many regions. However, intermittent or partial day use can be more cost efficient than whole building heating due to superior zonal control.</p> 
+     <p>Example: A lunch room in an office setting has limited hours of operation. During low use periods a "monitor" level of heat (50&nbsp;°F or 10&nbsp;°C) is provided by the central heating system. Peak use times between the hours of 11:00–14:00 are heated to "comfort levels" (70&nbsp;°F or 21&nbsp;°C). Significant savings can be realized in overall energy consumption, since infrared radiation losses through <a href="/wiki/Thermal_radiation" title="Thermal radiation">thermal radiation</a> are not as large with a smaller temperature gradient both between this space and unheated outside air, as well as between the refrigerator and the (now cooler) lunch room.</p> 
+     <p>Economically, electric heat can be compared to other sources of home heating by multiplying the local cost per kilowatt hour for electricity by the number of kilowatts the heater uses. E.g.: 1500 watt heater at 12 cents per kilowatt hour 1.5x12=18 cents per hour. When comparing to burning fuel it may be useful to convert kilowatts to <a href="/wiki/BTU" title="BTU" class="mw-redirect">BTUs</a>, 1.5&nbsp;kW x 3412.142=5118 BTU.</p> 
+     <h2><span class="mw-headline" id="Industrial_electric_heating">Industrial electric heating</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electric_heating&amp;action=edit&amp;section=17" title="Edit section: Industrial electric heating">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <div role="note" class="hatnote">
+      See also: 
+      <a href="/wiki/Induction_furnace" title="Induction furnace">Induction furnace</a>, 
+      <a href="/wiki/Electric_arc_furnace" title="Electric arc furnace">Electric arc furnace</a>, 
+      <a href="/wiki/Muffle_furnace" title="Muffle furnace">Muffle furnace</a>.
+     </div> 
+     <p>Electric heating is widely used in industry.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup></p> 
+     <p>Advantages of electric heating methods over other forms include precision control of temperature and distribution of heat energy, combustion not used to develop heat, and the ability to attain temperatures not readily achievable with chemical combustion. Electric heat can be accurately applied at the precise point needed in a process, at high concentration of power per unit area or volume. Electric heating devices can be built in any required size and can be located anywhere within a plant. Electric heating processes are generally clean, quiet, and do not emit much byproduct heat to the surroundings. Electrical heating equipment has a high speed of response, lending it to rapid-cycling mass-production equipment.</p> 
+     <p>The limitations and disadvantages of electric heating in industry include the higher cost of electrical energy compared to direct use of fuel, and the capital cost of both the electric heating apparatus itself and the infrastructure required to deliver large quantities of electrical energy to the point of use. This may be somewhat offset by in-plant (on-site) efficiency gains in using less energy overall to achieve the same result.</p> 
+     <p>Design of an industrial heating system starts with assessment of the temperature required, the amount of heat required, and the feasible modes of transferring heat energy. In addition to conduction, convection and radiation, electrical heating methods can use electric and magnetic fields to heat material.</p> 
+     <p>Methods of electric heating include resistance heating, electric arc heating, induction heating, and dielectric heating. In some processes (for example, <a href="/wiki/Arc_welding" title="Arc welding">arc welding</a>), electric current is directly applied to the workpiece. In other processes, heat is produced within the workpiece by induction or <a href="/wiki/Dielectric_heating" title="Dielectric heating">dielectric losses</a>. As well, heat can be produced then transferred to the work by conduction, convection or radiation.</p> 
+     <p>Industrial heating processes can be broadly categorized as low-temperature (to about 400&nbsp;°C or 752&nbsp;°F), medium temperature (between 400 and 1,150&nbsp;°C or 752 and 2,102&nbsp;°F), and high temperature (beyond 1,150&nbsp;°C or 2,102&nbsp;°F). Low temperature processes include, <a href="/wiki/Baking" title="Baking">baking</a> and drying, <a href="/wiki/Curing_(chemistry)" title="Curing (chemistry)">curing</a> <a href="/wiki/Surface_finishing" title="Surface finishing">finishes</a>, <a href="/wiki/Soldering" title="Soldering">soldering</a>, <a href="/wiki/Molding_(process)" title="Molding (process)">molding</a> and shaping plastics. Medium temperature processes include melting plastics and some non-metals for casting or reshaping, as well as annealing, stress-relieving and heat-treating metals. High-temperature processes include <a href="/wiki/Steelmaking" title="Steelmaking">steelmaking</a>, <a href="/wiki/Brazing" title="Brazing">brazing</a>, <a href="/wiki/Welding" title="Welding">welding</a>, <a href="/wiki/Casting" title="Casting">casting</a> metals, cutting, <a href="/wiki/Smelting" title="Smelting">smelting</a> and the preparation of some chemicals.</p> 
+     <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electric_heating&amp;action=edit&amp;section=18" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <div class="noprint portal tright" style="border:solid #aaa 1px;margin:0.5em 0 0.5em 1em"> 
+      <table style="background:#f9f9f9;font-size:85%;line-height:110%;max-width:175px"> 
+       <tbody>
+        <tr style="vertical-align:middle"> 
+         <td style="text-align:center"><a href="/wiki/File:Crystal_energy.svg" class="image"><img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" width="29" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" data-file-width="130" data-file-height="124"></a></td> 
+         <td style="padding:0 0.2em;vertical-align:middle;font-style:italic;font-weight:bold"><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></td> 
+        </tr> 
+       </tbody>
+      </table> 
+     </div> 
+     <div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;"> 
+      <ul> 
+       <li><a href="/wiki/Central_heating" title="Central heating">Central heating</a></li> 
+       <li><a href="/wiki/Diathermy" title="Diathermy">Diathermy</a></li> 
+       <li><a href="/wiki/Dielectric_heating" title="Dielectric heating">Dielectric heating</a></li> 
+       <li><a href="/wiki/Head_end_power" title="Head end power" class="mw-redirect">Electric Train Heating</a></li> 
+       <li><a href="/wiki/Electroslag_welding" title="Electroslag welding">Electroslag welding</a></li> 
+       <li><a href="/wiki/Electroslag_remelting" title="Electroslag remelting" class="mw-redirect">Electroslag remelting</a></li> 
+       <li><a href="/wiki/Energy_conservation" title="Energy conservation">Energy conservation</a></li> 
+       <li><a href="/wiki/Heater" title="Heater" class="mw-redirect">Heater</a> (types of heaters)</li> 
+       <li><a href="/wiki/HVAC" title="HVAC">HVAC</a></li> 
+       <li><a href="/wiki/Infrared_heater" title="Infrared heater">Infrared heater</a></li> 
+       <li><a href="/wiki/Microwave_oven" title="Microwave oven">Microwave oven</a></li> 
+       <li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a></li> 
+       <li><a href="/wiki/Thermal_efficiency" title="Thermal efficiency">Thermal efficiency</a></li> 
+       <li><a href="/wiki/Thermal_immersion_circulator" title="Thermal immersion circulator">Thermal immersion circulator</a></li> 
+       <li><a href="/wiki/Underfloor_heating" title="Underfloor heating">Underfloor heating</a></li> 
+      </ul> 
+     </div> 
+     <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electric_heating&amp;action=edit&amp;section=19" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;"> 
+      <ol class="references"> 
+       <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://global.britannica.com/EBchecked/topic/182649/electric-heater">"Electric Heater"</a>. <i>Britannica.com</i>. The Editors of Encyclopædia Britannica.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectric+heating&amp;rft.atitle=Electric+Heater&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fglobal.britannica.com%2FEBchecked%2Ftopic%2F182649%2Felectric-heater&amp;rft.jtitle=Britannica.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://storageradiators.co.uk/">http://storageradiators.co.uk/</a></span></li> 
+       <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.icax.co.uk/Disadvantages_Ground_Source_Heat_Pumps.html">"Comparison of efficiency of air source heat pumps and ground source heat pumps"</a>. Icax.co.uk<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-12-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectric+heating&amp;rft.btitle=Comparison+of+efficiency+of+air+source+heat+pumps+and+ground+source+heat+pumps&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.icax.co.uk%2FDisadvantages_Ground_Source_Heat_Pumps.html&amp;rft.pub=Icax.co.uk&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://energy.gov/energysaver/articles/choosing-and-installing-geothermal-heat-pumps">http://energy.gov/energysaver/articles/choosing-and-installing-geothermal-heat-pumps</a></span></li> 
+       <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=52bna-tn_dY">Des Bishop's Immersion Routine</a></span></li> 
+       <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.gastechnews.com/new-products-and-services/optimizing-the-application-of-direct-electric-heat-exchangers-in-energy-processes/">"Gastech News"</a>. 12 August 2012.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectric+heating&amp;rft.atitle=Gastech+News&amp;rft.date=2012-08-12&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.gastechnews.com%2Fnew-products-and-services%2Foptimizing-the-application-of-direct-electric-heat-exchangers-in-energy-processes%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">IEA <a rel="nofollow" class="external text" href="http://www.iea.org/stats/index.asp">Statistics and Balances</a> retrieved 2011-5-8</span></li> 
+       <li id="cite_note-AECB1-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-AECB1_8-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.aecb.net/publications/the-green-electricity-illusion-full-paper/">The Green Electricity Illusion</a>, <i><a href="/wiki/Association_for_Environment_Conscious_Building" title="Association for Environment Conscious Building">AECB</a></i>, published 2005-11-11, accessed 2007-05-26</span></li> 
+       <li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Snider, Bradley. <a rel="nofollow" class="external text" href="http://www.statcan.gc.ca/pub/11-008-x/2005004/article/9126-eng.pdf">Home heating and the environment</a>, in <i>Canadian Social Trends</i>, Spring 2006, pp. 15-19. Ottawa: Statistics Canada.</span></li> 
+       <li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.nrcan.gc.ca/energy/publications/efficiency/heating-heat-pump/6833">http://www.nrcan.gc.ca/energy/publications/efficiency/heating-heat-pump/6833</a></span></li> 
+       <li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a href="/wiki/Donald_G._Fink" title="Donald G. Fink">Donald G. Fink</a> and H. Wayne Beaty, <i>Standard Handbook for Electrical Engineers, Eleventh Edition</i>,McGraw-Hill, New York, 1978, <a href="/wiki/Special:BookSources/007020974X" class="internal mw-magiclink-isbn">ISBN 0-07-020974-X</a>, pages 21-144 to 21-188</span></li> 
+      </ol> 
+     </div> 
+     <table class="navbox" style="border-spacing:0;vertical-align: middle;"> 
+      <tbody>
+       <tr> 
+        <td style="padding:2px"> 
+         <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"> 
+          <tbody>
+           <tr> 
+            <th scope="col" class="navbox-title" colspan="2"> 
+             <div class="plainlinks hlist navbar mini"> 
+              <ul> 
+               <li class="nv-view"><a href="/wiki/Template:HVAC" title="Template:HVAC"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li> 
+               <li class="nv-talk"><a href="/wiki/Template_talk:HVAC" title="Template talk:HVAC"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li> 
+               <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:HVAC&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li> 
+              </ul> 
+             </div> 
+             <div style="font-size:114%">
+              <a href="/wiki/HVAC" title="HVAC">HVAC</a> (Heating, Ventilation, and Air Conditioning)
+             </div> </th> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Fundamental concepts</th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align: middle;"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/Air_changes_per_hour" title="Air changes per hour">Air changes per hour</a></li> 
+               <li><a href="/wiki/Building_envelope" title="Building envelope">Building envelope</a></li> 
+               <li><a href="/wiki/Convection" title="Convection">Convection</a></li> 
+               <li><a href="/wiki/Dilution_(equation)" title="Dilution (equation)">Dilution (equation)</a></li> 
+               <li><a href="/wiki/Domestic_energy_consumption" title="Domestic energy consumption">Domestic energy consumption</a></li> 
+               <li><a href="/wiki/Enthalpy" title="Enthalpy">Enthalpy</a></li> 
+               <li><a href="/wiki/Fluid_dynamics" title="Fluid dynamics">Fluid dynamics</a></li> 
+               <li><a href="/wiki/Gas_compressor" title="Gas compressor">Gas compressor</a></li> 
+               <li><a href="/wiki/Heat_pump_and_refrigeration_cycle" title="Heat pump and refrigeration cycle">Heat pump and refrigeration cycle</a></li> 
+               <li><a href="/wiki/Heat_transfer" title="Heat transfer">Heat transfer</a></li> 
+               <li><a href="/wiki/Infiltration_(HVAC)" title="Infiltration (HVAC)">Infiltration (HVAC)</a></li> 
+               <li><a href="/wiki/Noise_control" title="Noise control">Noise control</a></li> 
+               <li><a href="/wiki/Psychrometrics" title="Psychrometrics">Psychrometrics</a></li> 
+               <li><a href="/wiki/Stack_effect" title="Stack effect">Stack effect</a></li> 
+               <li><a href="/wiki/Thermal_comfort" title="Thermal comfort">Thermal comfort</a></li> 
+               <li><a href="/wiki/Thermal_destratification" title="Thermal destratification">Thermal destratification</a></li> 
+               <li><a href="/wiki/Thermodynamics" title="Thermodynamics">Thermodynamics</a></li> 
+               <li><a href="/wiki/Vapor_pressure_of_water" title="Vapor pressure of water" class="mw-redirect">Vapor pressure of water</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Technology</th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align: middle;"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/Absorption_refrigerator" title="Absorption refrigerator">Absorption refrigerator</a></li> 
+               <li><a href="/wiki/Air_barrier" title="Air barrier">Air barrier</a></li> 
+               <li><a href="/wiki/Air_conditioning" title="Air conditioning">Air conditioning</a></li> 
+               <li><a href="/wiki/Antifreeze" title="Antifreeze">Antifreeze</a></li> 
+               <li><a href="/wiki/Automobile_air_conditioning" title="Automobile air conditioning">Automobile air conditioning</a></li> 
+               <li><a href="/wiki/Autonomous_building" title="Autonomous building">Autonomous building</a></li> 
+               <li><a href="/wiki/Building_insulation_materials" title="Building insulation materials">Building insulation materials</a></li> 
+               <li><a href="/wiki/Central_heating" title="Central heating">Central heating</a></li> 
+               <li><a href="/wiki/Central_solar_heating" title="Central solar heating">Central solar heating</a></li> 
+               <li><a href="/wiki/Chilled_beam" title="Chilled beam">Chilled beam</a></li> 
+               <li><a href="/wiki/Chilled_water" title="Chilled water">Chilled water</a></li> 
+               <li><a href="/wiki/Constant_air_volume" title="Constant air volume">Constant air volume</a></li> 
+               <li><a href="/wiki/Coolant" title="Coolant">Coolant</a></li> 
+               <li><a href="/wiki/Dedicated_outdoor_air_system" title="Dedicated outdoor air system">Dedicated outdoor air system</a></li> 
+               <li><a href="/wiki/Deep_water_source_cooling" title="Deep water source cooling">Deep water source cooling</a></li> 
+               <li><a href="/wiki/Demand-controlled_ventilation" title="Demand-controlled ventilation" class="mw-redirect">Demand-controlled ventilation</a></li> 
+               <li><a href="/wiki/Displacement_ventilation" title="Displacement ventilation">Displacement ventilation</a></li> 
+               <li><a href="/wiki/District_cooling" title="District cooling">District cooling</a></li> 
+               <li><a href="/wiki/District_heating" title="District heating">District heating</a></li> 
+               <li><strong class="selflink">Electric heating</strong></li> 
+               <li><a href="/wiki/Energy_recovery_ventilation" title="Energy recovery ventilation">Energy recovery ventilation</a></li> 
+               <li><a href="/wiki/Forced-air" title="Forced-air">Forced-air</a></li> 
+               <li><a href="/wiki/Forced-air_gas" title="Forced-air gas">Forced-air gas</a></li> 
+               <li><a href="/wiki/Free_cooling" title="Free cooling">Free cooling</a></li> 
+               <li><a href="/wiki/Heat_recovery_ventilation" title="Heat recovery ventilation">Heat recovery ventilation</a></li> 
+               <li><a href="/wiki/Hydronics" title="Hydronics">Hydronics</a></li> 
+               <li><a href="/wiki/HVAC" title="HVAC">HVAC</a></li> 
+               <li><a href="/wiki/Ice_storage_air_conditioning" title="Ice storage air conditioning">Ice storage air conditioning</a></li> 
+               <li><a href="/wiki/Kitchen_ventilation" title="Kitchen ventilation">Kitchen ventilation</a></li> 
+               <li><a href="/wiki/Mixed-mode_ventilation" title="Mixed-mode ventilation">Mixed-mode ventilation</a></li> 
+               <li><a href="/wiki/Microgeneration" title="Microgeneration">Microgeneration</a></li> 
+               <li><a href="/wiki/Natural_ventilation" title="Natural ventilation">Natural ventilation</a></li> 
+               <li><a href="/wiki/Passive_cooling" title="Passive cooling">Passive cooling</a></li> 
+               <li><a href="/wiki/Passive_house" title="Passive house">Passive house</a></li> 
+               <li><a href="/wiki/Radiant_cooling" title="Radiant cooling">Radiant cooling</a></li> 
+               <li><a href="/wiki/Radiant_heating" title="Radiant heating">Radiant heating</a></li> 
+               <li><a href="/wiki/Radon_mitigation" title="Radon mitigation">Radon mitigation</a></li> 
+               <li><a href="/wiki/Refrigeration" title="Refrigeration">Refrigeration</a></li> 
+               <li><a href="/wiki/Renewable_heat" title="Renewable heat">Renewable heat</a></li> 
+               <li><a href="/wiki/Room_air_distribution" title="Room air distribution">Room air distribution</a></li> 
+               <li><a href="/wiki/Solar_air_heat" title="Solar air heat">Solar air heat</a></li> 
+               <li><a href="/wiki/Solar_combisystem" title="Solar combisystem">Solar combisystem</a></li> 
+               <li><a href="/wiki/Solar_cooling" title="Solar cooling" class="mw-redirect">Solar cooling</a></li> 
+               <li><a href="/wiki/Solar_heating" title="Solar heating" class="mw-redirect">Solar heating</a></li> 
+               <li><a href="/wiki/Thermal_insulation" title="Thermal insulation">Thermal insulation</a></li> 
+               <li><a href="/wiki/Thermal_mass" title="Thermal mass">Thermal mass</a></li> 
+               <li><a href="/wiki/Underfloor_air_distribution" title="Underfloor air distribution">Underfloor air distribution</a></li> 
+               <li><a href="/wiki/Underfloor_heating" title="Underfloor heating">Underfloor heating</a></li> 
+               <li><a href="/wiki/Vapor_barrier" title="Vapor barrier">Vapor barrier</a></li> 
+               <li><a href="/wiki/Vapor-compression_refrigeration" title="Vapor-compression refrigeration">Vapor-compression refrigeration</a></li> 
+               <li><a href="/wiki/Variable_air_volume" title="Variable air volume">Variable air volume</a></li> 
+               <li><a href="/wiki/Variable_refrigerant_flow" title="Variable refrigerant flow">Variable refrigerant flow</a></li> 
+               <li><a href="/wiki/Ventilation_(architecture)" title="Ventilation (architecture)">Ventilation (architecture)</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Components</th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align: middle;"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/Air_conditioner_inverter" title="Air conditioner inverter">Air conditioner inverter</a></li> 
+               <li><a href="/wiki/Air_filter" title="Air filter">Air filter</a></li> 
+               <li><a href="/wiki/Air_handler" title="Air handler">Air handler</a></li> 
+               <li><a href="/wiki/Air_ionizer" title="Air ionizer" class="mw-redirect">Air ionizer</a></li> 
+               <li><a href="/wiki/Air-mixing_plenum" title="Air-mixing plenum">Air-mixing plenum</a></li> 
+               <li><a href="/wiki/Air_purifier" title="Air purifier">Air purifier</a></li> 
+               <li><a href="/wiki/Air_source_heat_pumps" title="Air source heat pumps">Air source heat pumps</a></li> 
+               <li><a href="/wiki/Back_boiler" title="Back boiler">Back boiler</a></li> 
+               <li><a href="/wiki/Barrier_pipe" title="Barrier pipe">Barrier pipe</a></li> 
+               <li><a href="/wiki/Blast_damper" title="Blast damper">Blast damper</a></li> 
+               <li><a href="/wiki/Boiler" title="Boiler">Boiler</a></li> 
+               <li><a href="/wiki/Centrifugal_fan" title="Centrifugal fan">Centrifugal fan</a></li> 
+               <li><a href="/wiki/Chiller" title="Chiller">Chiller</a></li> 
+               <li><a href="/wiki/Condensate_pump" title="Condensate pump">Condensate pump</a></li> 
+               <li><a href="/wiki/Condenser_(heat_transfer)" title="Condenser (heat transfer)">Condenser (heat transfer)</a></li> 
+               <li><a href="/wiki/Condensing_boiler" title="Condensing boiler">Condensing boiler</a></li> 
+               <li><a href="/wiki/Convection_heater" title="Convection heater">Convection heater</a></li> 
+               <li><a href="/wiki/Cooling_tower" title="Cooling tower">Cooling tower</a></li> 
+               <li><a href="/wiki/Damper_(flow)" title="Damper (flow)">Damper (flow)</a></li> 
+               <li><a href="/wiki/Dehumidifier" title="Dehumidifier">Dehumidifier</a></li> 
+               <li><a href="/wiki/Duct_(flow)" title="Duct (flow)">Duct (flow)</a></li> 
+               <li><a href="/wiki/Durable_elbow_support" title="Durable elbow support">Durable elbow support</a></li> 
+               <li><a href="/wiki/Economizer" title="Economizer">Economizer</a></li> 
+               <li><a href="/wiki/Electrostatic_precipitator" title="Electrostatic precipitator">Electrostatic precipitator</a></li> 
+               <li><a href="/wiki/Evaporative_cooler" title="Evaporative cooler">Evaporative cooler</a></li> 
+               <li><a href="/wiki/Evaporator" title="Evaporator">Evaporator</a></li> 
+               <li><a href="/wiki/Exhaust_hood" title="Exhaust hood">Exhaust hood</a></li> 
+               <li><a href="/wiki/Expansion_tank" title="Expansion tank">Expansion tank</a></li> 
+               <li><a href="/wiki/Fan_coil_unit" title="Fan coil unit">Fan coil unit</a></li> 
+               <li><a href="/wiki/Fan_heater" title="Fan heater">Fan heater</a></li> 
+               <li><a href="/wiki/Fire_damper" title="Fire damper">Fire damper</a></li> 
+               <li><a href="/wiki/Fireplace" title="Fireplace">Fireplace</a></li> 
+               <li><a href="/wiki/Fireplace_insert" title="Fireplace insert">Fireplace insert</a></li> 
+               <li><a href="/wiki/Firestop" title="Firestop">Firestop</a></li> 
+               <li><a href="/wiki/Freeze_stat" title="Freeze stat">Freeze stat</a></li> 
+               <li><a href="/wiki/Flue" title="Flue">Flue</a></li> 
+               <li><a href="/wiki/Freon" title="Freon">Freon</a></li> 
+               <li><a href="/wiki/Fume_hood" title="Fume hood">Fume hood</a></li> 
+               <li><a href="/wiki/Furnace" title="Furnace">Furnace</a></li> 
+               <li><a href="/wiki/Furnace_room" title="Furnace room">Furnace room</a></li> 
+               <li><a href="/wiki/Gas_compressor" title="Gas compressor">Gas compressor</a></li> 
+               <li><a href="/wiki/Gas_heater" title="Gas heater">Gas heater</a></li> 
+               <li><a href="/wiki/Geothermal_heat_pump" title="Geothermal heat pump">Geothermal heat pump</a></li> 
+               <li><a href="/wiki/Grease_duct" title="Grease duct">Grease duct</a></li> 
+               <li><a href="/wiki/Grille" title="Grille">Grille</a></li> 
+               <li><a href="/wiki/Ground-coupled_heat_exchanger" title="Ground-coupled heat exchanger">Ground-coupled heat exchanger</a></li> 
+               <li><a href="/wiki/Heat_exchanger" title="Heat exchanger">Heat exchanger</a></li> 
+               <li><a href="/wiki/Heat_pipe" title="Heat pipe">Heat pipe</a></li> 
+               <li><a href="/wiki/Heat_pump" title="Heat pump">Heat pump</a></li> 
+               <li><a href="/wiki/Heating_film" title="Heating film">Heating film</a></li> 
+               <li><a href="/wiki/Heating_system" title="Heating system">Heating system</a></li> 
+               <li><a href="/wiki/High_efficiency_glandless_circulating_pump" title="High efficiency glandless circulating pump">High efficiency glandless circulating pump</a></li> 
+               <li><a href="/wiki/High-efficiency_particulate_air" title="High-efficiency particulate air" class="mw-redirect">High-efficiency particulate air</a> (HEPA)</li> 
+               <li><a href="/wiki/High_pressure_cut_off_switch" title="High pressure cut off switch">High pressure cut off switch</a></li> 
+               <li><a href="/wiki/Humidifier" title="Humidifier">Humidifier</a></li> 
+               <li><a href="/wiki/Hybrid_heat" title="Hybrid heat">Hybrid heat</a></li> 
+               <li><a href="/wiki/Infrared_heater" title="Infrared heater">Infrared heater</a></li> 
+               <li><a href="/wiki/Inverter_compressor" title="Inverter compressor">Inverter compressor</a></li> 
+               <li><a href="/wiki/Louver" title="Louver">Louver</a></li> 
+               <li><a href="/wiki/Mechanical_fan" title="Mechanical fan">Mechanical fan</a></li> 
+               <li><a href="/wiki/Mechanical_room" title="Mechanical room">Mechanical room</a></li> 
+               <li><a href="/wiki/Oil_heater" title="Oil heater">Oil heater</a></li> 
+               <li><a href="/wiki/Packaged_terminal_air_conditioner" title="Packaged terminal air conditioner">Packaged terminal air conditioner</a></li> 
+               <li><a href="/wiki/Plenum_space" title="Plenum space">Plenum space</a></li> 
+               <li><a href="/wiki/Pressurisation_ductwork" title="Pressurisation ductwork">Pressurisation ductwork</a></li> 
+               <li><a href="/wiki/Radiator_(heating)" title="Radiator (heating)">Radiator (heating)</a></li> 
+               <li><a href="/wiki/Radiator_reflector" title="Radiator reflector">Radiator reflector</a></li> 
+               <li><a href="/wiki/Recuperator" title="Recuperator">Recuperator</a></li> 
+               <li><a href="/wiki/Refrigerant" title="Refrigerant">Refrigerant</a></li> 
+               <li><a href="/wiki/Register_(air_and_heating)" title="Register (air and heating)">Register</a></li> 
+               <li><a href="/wiki/Reversing_valve" title="Reversing valve">Reversing valve</a></li> 
+               <li><a href="/wiki/Run-around_coil" title="Run-around coil">Run-around coil</a></li> 
+               <li><a href="/wiki/Scroll_compressor" title="Scroll compressor">Scroll compressor</a></li> 
+               <li><a href="/wiki/Solar_chimney" title="Solar chimney">Solar chimney</a></li> 
+               <li><a href="/wiki/Space_heater" title="Space heater">Space heater</a></li> 
+               <li><a href="/wiki/Smoke_exhaust_ductwork" title="Smoke exhaust ductwork">Smoke exhaust ductwork</a></li> 
+               <li><a href="/wiki/Thermal_expansion_valve" title="Thermal expansion valve">Thermal expansion valve</a></li> 
+               <li><a href="/wiki/Thermal_wheel" title="Thermal wheel">Thermal wheel</a></li> 
+               <li><a href="/wiki/Thermosiphon" title="Thermosiphon">Thermosiphon</a></li> 
+               <li><a href="/wiki/Thermostatic_radiator_valve" title="Thermostatic radiator valve">Thermostatic radiator valve</a></li> 
+               <li><a href="/wiki/Trickle_vent" title="Trickle vent">Trickle vent</a></li> 
+               <li><a href="/wiki/Trombe_wall" title="Trombe wall">Trombe wall</a></li> 
+               <li><a href="/wiki/Turning_vanes_(HVAC)" title="Turning vanes (HVAC)">Turning vanes (HVAC)</a></li> 
+               <li><a href="/wiki/Ultra-low_particulate_air" title="Ultra-low particulate air">Ultra-low particulate air</a> (ULPA)</li> 
+               <li><a href="/wiki/Whole-house_fan" title="Whole-house fan">Whole-house fan</a></li> 
+               <li><a href="/wiki/Windcatcher" title="Windcatcher">Windcatcher</a></li> 
+               <li><a href="/wiki/Wood-burning_stove" title="Wood-burning stove">Wood-burning stove</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Measurement and control</th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align: middle;"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/Air_flow_meter" title="Air flow meter">Air flow meter</a></li> 
+               <li><a href="/wiki/Aquastat" title="Aquastat">Aquastat</a></li> 
+               <li><a href="/wiki/BACnet" title="BACnet">BACnet</a></li> 
+               <li><a href="/wiki/Blower_door" title="Blower door">Blower door</a></li> 
+               <li><a href="/wiki/Building_automation" title="Building automation">Building automation</a></li> 
+               <li><a href="/wiki/Clean_Air_Delivery_Rate" title="Clean Air Delivery Rate">Clean Air Delivery Rate</a> (CADR)</li> 
+               <li><a href="/wiki/Gas_sensor" title="Gas sensor" class="mw-redirect">Gas sensor</a></li> 
+               <li><a href="/wiki/Home_energy_monitor" title="Home energy monitor">Home energy monitor</a></li> 
+               <li><a href="/wiki/Humidistat" title="Humidistat">Humidistat</a></li> 
+               <li><a href="/wiki/HVAC_control_system" title="HVAC control system">HVAC control system</a></li> 
+               <li><a href="/wiki/Intelligent_buildings" title="Intelligent buildings" class="mw-redirect">Intelligent buildings</a></li> 
+               <li><a href="/wiki/LonWorks" title="LonWorks">LonWorks</a></li> 
+               <li><a href="/wiki/Minimum_efficiency_reporting_value" title="Minimum efficiency reporting value">Minimum efficiency reporting value</a> (MERV)</li> 
+               <li><a href="/wiki/OpenTherm" title="OpenTherm">OpenTherm</a></li> 
+               <li><a href="/wiki/Programmable_communicating_thermostat" title="Programmable communicating thermostat">Programmable communicating thermostat</a></li> 
+               <li><a href="/wiki/Programmable_thermostat" title="Programmable thermostat">Programmable thermostat</a></li> 
+               <li><a href="/wiki/Psychrometrics" title="Psychrometrics">Psychrometrics</a></li> 
+               <li><a href="/wiki/Room_temperature" title="Room temperature">Room temperature</a></li> 
+               <li><a href="/wiki/Smart_thermostat" title="Smart thermostat">Smart thermostat</a></li> 
+               <li><a href="/wiki/Thermostat" title="Thermostat">Thermostat</a></li> 
+               <li><a href="/wiki/Thermostatic_radiator_valve" title="Thermostatic radiator valve">Thermostatic radiator valve</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Professions, trades, and services</th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align: middle;"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/Architectural_acoustics" title="Architectural acoustics">Architectural acoustics</a></li> 
+               <li><a href="/wiki/Architectural_engineering" title="Architectural engineering">Architectural engineering</a></li> 
+               <li><a href="/wiki/Architectural_technologist" title="Architectural technologist">Architectural technologist</a></li> 
+               <li><a href="/wiki/Building_services_engineering" title="Building services engineering">Building services engineering</a></li> 
+               <li><a href="/wiki/Building_information_modeling" title="Building information modeling">BIM</a></li> 
+               <li><a href="/wiki/Deep_energy_retrofit" title="Deep energy retrofit">Deep energy retrofit</a></li> 
+               <li><a href="/wiki/Duct_leakage_testing" title="Duct leakage testing">Duct leakage testing</a></li> 
+               <li><a href="/wiki/Environmental_engineering" title="Environmental engineering">Environmental engineering</a></li> 
+               <li><a href="/wiki/Hydronic_balancing" title="Hydronic balancing">Hydronic balancing</a></li> 
+               <li><a href="/wiki/Kitchen_exhaust_cleaning" title="Kitchen exhaust cleaning">Kitchen exhaust cleaning</a></li> 
+               <li><a href="/wiki/Mechanical_engineering" title="Mechanical engineering">Mechanical engineering</a></li> 
+               <li><a href="/wiki/Mechanical,_electrical,_and_plumbing" title="Mechanical, electrical, and plumbing">Mechanical, electrical, and plumbing</a></li> 
+               <li><a href="/wiki/Mold_growth,_assessment,_and_remediation" title="Mold growth, assessment, and remediation">Mold growth, assessment, and remediation</a></li> 
+               <li><a href="/wiki/Refrigerant_reclamation" title="Refrigerant reclamation">Refrigerant reclamation</a></li> 
+               <li><a href="/wiki/Testing,_adjusting,_balancing" title="Testing, adjusting, balancing">Testing, adjusting, balancing</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Industry organizations</th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align: middle;"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/Air_Conditioning_Contractors_of_America" title="Air Conditioning Contractors of America">ACCA</a></li> 
+               <li><a href="/wiki/Air_Movement_and_Control_Association" title="Air Movement and Control Association">AMCA</a></li> 
+               <li><a href="/wiki/ASHRAE" title="ASHRAE">ASHRAE</a></li> 
+               <li><a href="/wiki/ASTM_International" title="ASTM International">ASTM International</a></li> 
+               <li><a href="/wiki/Building_Research_Establishment" title="Building Research Establishment">BRE</a></li> 
+               <li><a href="/wiki/BSRIA" title="BSRIA">BSRIA</a></li> 
+               <li><a href="/wiki/Chartered_Institution_of_Building_Services_Engineers" title="Chartered Institution of Building Services Engineers">CIBSE</a></li> 
+               <li><a href="/wiki/Leadership_in_Energy_and_Environmental_Design" title="Leadership in Energy and Environmental Design">LEED</a></li> 
+               <li><a href="/wiki/Sheet_Metal_and_Air_Conditioning_Contractors%27_National_Association" title="Sheet Metal and Air Conditioning Contractors' National Association">SMACNA</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Health and safety</th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align: middle;"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/Indoor_air_quality" title="Indoor air quality">Indoor air quality</a></li> 
+               <li><a href="/wiki/Passive_smoking" title="Passive smoking">Passive smoking</a></li> 
+               <li><a href="/wiki/Sick_building_syndrome" title="Sick building syndrome">Sick building syndrome</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">See also</th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align: middle;"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/ASHRAE_Handbook" title="ASHRAE Handbook">ASHRAE Handbook</a></li> 
+               <li><a href="/wiki/Building_science" title="Building science">Building science</a></li> 
+               <li><a href="/wiki/Fireproofing" title="Fireproofing">Fireproofing</a></li> 
+               <li><a href="/wiki/Glossary_of_HVAC_terms" title="Glossary of HVAC terms">Glossary of HVAC terms</a></li> 
+               <li><a href="/wiki/Template:Home_automation" title="Template:Home automation">Template:Home automation</a></li> 
+               <li><a href="/wiki/Template:Solar_energy" title="Template:Solar energy">Template:Solar energy</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+          </tbody>
+         </table> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <!-- 
+NewPP limit report
+Parsed by mw1204
+Cached time: 20160314033423
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.285 seconds
+Real time usage: 0.360 seconds
+Preprocessor visited node count: 957/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 37186/2097152 bytes
+Template argument size: 70/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 1/500
+Lua time usage: 0.100/10.000 seconds
+Lua memory usage: 4.18 MB/50 MB
+Number of Wikibase entities loaded: 0--> 
+     <!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  239.087      1 - -total
+ 24.80%   59.288      1 - Template:Reflist
+ 23.35%   55.818      1 - Template:Refimprove
+ 18.98%   45.375      7 - Template:Convert
+ 16.31%   38.990      2 - Template:Cite_web
+ 15.36%   36.723      1 - Template:Ambox
+  9.17%   21.933      1 - Template:HVAC
+  7.84%   18.749      1 - Template:Navbox
+  7.53%   18.008      6 - Template:Main
+  4.43%   10.580      1 - Template:Portal
+--> 
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:3508315-0!*!0!!en!4!* and timestamp 20160314033422 and revision id 705460770
+ --> 
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript>
+    </div> 
+    <div class="printfooter">
+      Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Electric_heating&amp;oldid=705460770">https://en.wikipedia.org/w/index.php?title=Electric_heating&amp;oldid=705460770</a>" 
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Electric_heating" title="Category:Electric heating">Electric heating</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Articles_needing_additional_references_from_January_2013" title="Category:Articles needing additional references from January 2013">Articles needing additional references from January 2013</a></li>
+       <li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li>
+      </ul>
+     </div>
+    </div> 
+    <div class="visualClear"></div> 
+   </div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> 
+    <div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label"> 
+     <h3 id="p-personal-label">Personal tools</h3> 
+     <ul> 
+      <li id="pt-anonuserpage">Not logged in</li>
+      <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+      <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+      <li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Electric+heating&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+      <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Electric+heating" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li> 
+     </ul> 
+    </div> 
+    <div id="left-navigation"> 
+     <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label"> 
+      <h3 id="p-namespaces-label">Namespaces</h3> 
+      <ul> 
+       <li id="ca-nstab-main" class="selected"><span><a href="/wiki/Electric_heating" title="View the content page [c]" accesskey="c">Article</a></span></li> 
+       <li id="ca-talk"><span><a href="/wiki/Talk:Electric_heating" title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span><a href="#"></a> </h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="right-navigation"> 
+     <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label"> 
+      <h3 id="p-views-label">Views</h3> 
+      <ul> 
+       <li id="ca-view" class="selected"><span><a href="/wiki/Electric_heating">Read</a></span></li> 
+       <li id="ca-edit"><span><a href="/w/index.php?title=Electric_heating&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li> 
+       <li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Electric_heating&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch"> 
+        <input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput">
+        <input type="hidden" value="Special:Search" name="title">
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton">
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a>
+    </div> 
+    <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label"> 
+     <h3 id="p-navigation-label">Navigation</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+       <li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label"> 
+     <h3 id="p-interaction-label">Interaction</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label"> 
+     <h3 id="p-tb-label">Tools</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Electric_heating" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Electric_heating" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Electric_heating&amp;oldid=705460770" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Electric_heating&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q13221754" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Electric_heating&amp;id=705460770" title="Information on how to cite this page">Cite this page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label"> 
+     <h3 id="p-coll-print_export-label">Print/export</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Electric+heating">Create a book</a></li>
+       <li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Electric+heating&amp;returnto=Electric+heating&amp;oldid=705460770&amp;writer=rdf2latex">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Electric_heating&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label"> 
+     <h3 id="p-lang-label">Languages</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%AA%D8%B3%D8%AE%D9%8A%D9%86_%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A" title="تسخين كهربائي – Arabic" lang="ar" hreflang="ar">العربية</a></li>
+       <li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Elektrick%C3%A9_topen%C3%AD" title="Elektrické topení – Czech" lang="cs" hreflang="cs">Čeština</a></li>
+       <li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Elektrow%C3%A4rme" title="Elektrowärme – German" lang="de" hreflang="de">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%DA%AF%D8%B1%D9%85%D8%A7%DB%8C%D8%B4_%D8%A7%D9%84%DA%A9%D8%AA%D8%B1%DB%8C%DA%A9%DB%8C" title="گرمایش الکتریکی – Persian" lang="fa" hreflang="fa">فارسی</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Chauffage_%C3%A9lectrique" title="Chauffage électrique – French" lang="fr" hreflang="fr">Français</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EC%A0%84%EA%B8%B0%EB%82%9C%EB%A1%9C" title="전기난로 – Korean" lang="ko" hreflang="ko">한국어</a></li>
+       <li class="interlanguage-link interwiki-hi"><a href="//hi.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A5%81%E0%A4%A4%E0%A5%8D-%E0%A4%A4%E0%A4%BE%E0%A4%AA%E0%A4%A8" title="विद्युत्-तापन – Hindi" lang="hi" hreflang="hi">हिन्दी</a></li>
+       <li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Stufa_elettrica" title="Stufa elettrica – Italian" lang="it" hreflang="it">Italiano</a></li>
+       <li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Elektrische_verwarming" title="Elektrische verwarming – Dutch" lang="nl" hreflang="nl">Nederlands</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E9%9B%BB%E6%B0%97%E3%82%B9%E3%83%88%E3%83%BC%E3%83%96" title="電気ストーブ – Japanese" lang="ja" hreflang="ja">日本語</a></li>
+       <li class="interlanguage-link interwiki-sk"><a href="//sk.wikipedia.org/wiki/Elektrick%C3%BD_ohrev" title="Elektrický ohrev – Slovak" lang="sk" hreflang="sk">Slovenčina</a></li>
+       <li class="interlanguage-link interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%95%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%BD%D0%B8_%D0%B3%D1%80%D0%B8%D1%98%D0%B0%D1%87" title="Електрични гријач – Serbian" lang="sr" hreflang="sr">Српски / srpski</a></li>
+       <li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/S%C3%A4hk%C3%B6l%C3%A4mmitys" title="Sähkölämmitys – Finnish" lang="fi" hreflang="fi">Suomi</a></li>
+       <li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Elv%C3%A4rme" title="Elvärme – Swedish" lang="sv" hreflang="sv">Svenska</a></li>
+       <li class="interlanguage-link interwiki-yi"><a href="//yi.wikipedia.org/wiki/%D7%A2%D7%9C%D7%A2%D7%A7%D7%98%D7%A8%D7%99%D7%A9%D7%A2_%D7%94%D7%99%D7%99%D7%A6%D7%95%D7%A0%D7%92_%D7%A1%D7%99%D7%A1%D7%98%D7%A2%D7%9D" title="עלעקטרישע הייצונג סיסטעם – Yiddish" lang="yi" hreflang="yi">ייִדיש</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E9%9B%BB%E7%86%B1" title="電熱 – Chinese" lang="zh" hreflang="zh">中文</a></li>
+       <li class="uls-p-lang-dummy"><a href="#"></a></li> 
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q13221754#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last modified on 17 February 2016, at 16:48.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-cookiestatement"><a href="//wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Electric_heating&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"> <a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"></a> </li> 
+    <li id="footer-poweredbyico"> <a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"></a> </li> 
+   </ul> 
+   <div style="clear:both"></div> 
+  </div> 
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.wikimediaEvents","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script>
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.config.set({"wgBackendResponseTime":59,"wgHostname":"mw1241"}); /* @nomin */
+} );</script>   
+ </body>
+</html>

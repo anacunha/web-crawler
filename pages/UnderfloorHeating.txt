@@ -1,0 +1,1378 @@
+https://en.wikipedia.org/wiki/Underfloor_heating
+<!doctype html>
+<html lang="en" dir="ltr" class="client-nojs">
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Underfloor heating - Wikipedia, the free encyclopedia</title> 
+  <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script> 
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Underfloor_heating","wgTitle":"Underfloor heating","wgCurRevisionId":710307498,"wgRevisionId":710307498,"wgArticleId":4932518,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from December 2015","Commons category with page title same as on Wikidata","Residential heating","Heating, ventilating, and air conditioning","Ancient inventions"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Underfloor_heating","wgRelevantArticleId":4932518,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["en-us"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCentralAuthMobileDomain":false,"wgWikibaseItemId":"Q1431222","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script> 
+  <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script> 
+  <meta name="generator" content="MediaWiki 1.27.0-wmf.17"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Underfloor_heating"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Underfloor_heating&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Underfloor_heating&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Underfloor_heating"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Underfloor_heating skin-vector action-view"> 
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> 
+   <a id="top"></a> 
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Underfloor heating</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="jump-to-nav" class="mw-jump">
+      Jump to: 
+     <a href="#mw-head">navigation</a>, 
+     <a href="#p-search">search</a> 
+    </div> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <p><b>Underfloor heating and cooling</b> is a form of <a href="/wiki/Central_heating_and_cooling" title="Central heating and cooling" class="mw-redirect">central heating and cooling</a> which achieves <a href="/wiki/Indoor_climate_control" title="Indoor climate control" class="mw-redirect">indoor climate control</a> for <a href="/wiki/Thermal_comfort" title="Thermal comfort">thermal comfort</a> using <a href="/wiki/Conduction_(heat)" title="Conduction (heat)" class="mw-redirect">conduction</a>, <a href="/wiki/Radiation" title="Radiation">radiation</a> and <a href="/wiki/Convection" title="Convection">convection</a>. The terms <i><a href="/wiki/Radiant_heating" title="Radiant heating">radiant heating</a></i> and <i><a href="/wiki/Radiant_cooling" title="Radiant cooling">radiant cooling</a></i> are commonly used to describe this approach because radiation is responsible for a significant portion of the resulting thermal comfort but this usage is technically correct only when radiation composes more than 50% of the heat exchange between the floor and the rest of the space.<sup id="cite_ref-multiple_1-0" class="reference"><a href="#cite_note-multiple-1"><span>[</span>1<span>]</span></a></sup></p> 
+     <p></p> 
+     <div id="toc" class="toc"> 
+      <div id="toctitle"> 
+       <h2>Contents</h2> 
+      </div> 
+      <ul> 
+       <li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li> 
+       <li class="toclevel-1 tocsection-2"><a href="#Description"><span class="tocnumber">2</span> <span class="toctext">Description</span></a> 
+        <ul> 
+         <li class="toclevel-2 tocsection-3"><a href="#Hydronic_systems"><span class="tocnumber">2.1</span> <span class="toctext">Hydronic systems</span></a></li> 
+         <li class="toclevel-2 tocsection-4"><a href="#Electric_systems"><span class="tocnumber">2.2</span> <span class="toctext">Electric systems</span></a></li> 
+        </ul> </li> 
+       <li class="toclevel-1 tocsection-5"><a href="#Features"><span class="tocnumber">3</span> <span class="toctext">Features</span></a> 
+        <ul> 
+         <li class="toclevel-2 tocsection-6"><a href="#Thermal_comfort_quality"><span class="tocnumber">3.1</span> <span class="toctext">Thermal comfort quality</span></a></li> 
+         <li class="toclevel-2 tocsection-7"><a href="#Indoor_air_quality"><span class="tocnumber">3.2</span> <span class="toctext">Indoor air quality</span></a></li> 
+         <li class="toclevel-2 tocsection-8"><a href="#Sustainability.E2.80.94energy"><span class="tocnumber">3.3</span> <span class="toctext">Sustainability—energy</span></a></li> 
+         <li class="toclevel-2 tocsection-9"><a href="#Safety_and_health"><span class="tocnumber">3.4</span> <span class="toctext">Safety and health</span></a></li> 
+         <li class="toclevel-2 tocsection-10"><a href="#Longevity.2C_maintenance_and_repair"><span class="tocnumber">3.5</span> <span class="toctext">Longevity, maintenance and repair</span></a></li> 
+        </ul> </li> 
+       <li class="toclevel-1 tocsection-11"><a href="#Typical_installation_details"><span class="tocnumber">4</span> <span class="toctext">Typical installation details</span></a></li> 
+       <li class="toclevel-1 tocsection-12"><a href="#Design_and_installation_considerations"><span class="tocnumber">5</span> <span class="toctext">Design and installation considerations</span></a> 
+        <ul> 
+         <li class="toclevel-2 tocsection-13"><a href="#Technical_design"><span class="tocnumber">5.1</span> <span class="toctext">Technical design</span></a></li> 
+         <li class="toclevel-2 tocsection-14"><a href="#Heat_and_moisture_considerations"><span class="tocnumber">5.2</span> <span class="toctext">Heat and moisture considerations</span></a></li> 
+         <li class="toclevel-2 tocsection-15"><a href="#Building_systems_and_materials"><span class="tocnumber">5.3</span> <span class="toctext">Building systems and materials</span></a></li> 
+         <li class="toclevel-2 tocsection-16"><a href="#Control_system_.28see_Hydronic_heating_systems.29"><span class="tocnumber">5.4</span> <span class="toctext">Control system (see Hydronic heating systems)</span></a></li> 
+        </ul> </li> 
+       <li class="toclevel-1 tocsection-17"><a href="#Sample_-_mechanical_schematic"><span class="tocnumber">6</span> <span class="toctext">Sample - mechanical schematic</span></a></li> 
+       <li class="toclevel-1 tocsection-18"><a href="#Modeling_piping_patterns_with_finite_element_analysis"><span class="tocnumber">7</span> <span class="toctext">Modeling piping patterns with finite element analysis</span></a></li> 
+       <li class="toclevel-1 tocsection-19"><a href="#Using_thermography_to_observe_underfloor_systems"><span class="tocnumber">8</span> <span class="toctext">Using thermography to observe underfloor systems</span></a></li> 
+       <li class="toclevel-1 tocsection-20"><a href="#Economics"><span class="tocnumber">9</span> <span class="toctext">Economics</span></a> 
+        <ul> 
+         <li class="toclevel-2 tocsection-21"><a href="#System_efficiency"><span class="tocnumber">9.1</span> <span class="toctext">System efficiency</span></a></li> 
+         <li class="toclevel-2 tocsection-22"><a href="#Efficiency_considerations_for_flooring_surface_materials"><span class="tocnumber">9.2</span> <span class="toctext">Efficiency considerations for flooring surface materials</span></a></li> 
+        </ul> </li> 
+       <li class="toclevel-1 tocsection-23"><a href="#Global_examples_of_large_modern_buildings_using_radiant_heating_and_cooling"><span class="tocnumber">10</span> <span class="toctext">Global examples of large modern buildings using radiant heating and cooling</span></a></li> 
+       <li class="toclevel-1 tocsection-24"><a href="#See_also"><span class="tocnumber">11</span> <span class="toctext">See also</span></a></li> 
+       <li class="toclevel-1 tocsection-25"><a href="#References"><span class="tocnumber">12</span> <span class="toctext">References</span></a></li> 
+       <li class="toclevel-1 tocsection-26"><a href="#Notes"><span class="tocnumber">13</span> <span class="toctext">Notes</span></a></li> 
+       <li class="toclevel-1 tocsection-27"><a href="#External_links"><span class="tocnumber">14</span> <span class="toctext">External links</span></a></li> 
+      </ul> 
+     </div> 
+     <p></p> 
+     <h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Underfloor_heating&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>Underfloor heating has a long history back into the <a href="/wiki/Neoglacial" title="Neoglacial" class="mw-redirect">Neoglacial</a> and <a href="/wiki/Neolithic" title="Neolithic">Neolithic</a> periods. Archeological digs in Asia and the Aleutian islands of Alaska reveal how the inhabitants drafted smoke from fires through stone covered trenches which were excavated in the floors of their <a href="/wiki/Subterranea_(geography)" title="Subterranea (geography)">subterranean</a> dwellings. The hot smoke heated the floor stones which then radiated into the living spaces. These early forms have evolved into modern systems using fluid filled pipes or electrical cables and mats. Below is a chronological overview of under floor heating from around the world.</p> 
+     <table class="wikitable"> 
+      <tbody>
+       <tr> 
+        <th width="100">Time period, c. BC<sup id="cite_ref-hist1_2-0" class="reference"><a href="#cite_note-hist1-2"><span>[</span>2<span>]</span></a></sup></th> 
+        <th width="750">Description<sup id="cite_ref-hist1_2-1" class="reference"><a href="#cite_note-hist1-2"><span>[</span>2<span>]</span></a></sup></th> 
+       </tr> 
+       <tr> 
+        <td>5,000</td> 
+        <td>Evidence of "baked floors" are found foreshadowing early forms of kang and <a href="/wiki/Kang_bed-stove" title="Kang bed-stove">dikang</a> "heated floor" later <a href="/wiki/Ondol" title="Ondol">ondol</a> meaning "warm stone" in <a href="/wiki/Manchuria" title="Manchuria">Manchuria</a> and <a href="/wiki/Korea" title="Korea">Korea</a> respectively.<sup id="cite_ref-Guo1_3-0" class="reference"><a href="#cite_note-Guo1-3"><span>[</span>3<span>]</span></a></sup></td> 
+       </tr> 
+       <tr> 
+        <td>3,000</td> 
+        <td>Korean fire hearth, was used both as kitchen range and heating stove.</td> 
+       </tr> 
+       <tr> 
+        <td>1,000</td> 
+        <td>Ondol type system used in the <a href="/wiki/Aleutian_Islands" title="Aleutian Islands">Aleutian Islands</a>, Alaska<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> and in <a href="/wiki/Ondol" title="Ondol">Unggi, Hamgyeongbuk-do</a> (present-day North Korea).</td> 
+       </tr> 
+       <tr> 
+        <td>1,000</td> 
+        <td>More than two hearths were used in one dwelling; one hearth located at the center was used for heating, the others at the perimeter was used for cooking throughout the year. This perimeter hearth is the initial form of the budumak (meaning kitchen range), which composes combustion section of the traditional ondol in Korea.</td> 
+       </tr> 
+       <tr> 
+        <td>500</td> 
+        <td><a href="/wiki/Greeks" title="Greeks">Greeks</a> and later <a href="/wiki/Ancient_Rome" title="Ancient Rome">Romans</a> scale up the use of conditioned surfaces (floors and walls) with the <a href="/wiki/Hypocausts" title="Hypocausts" class="mw-redirect">hypocausts</a>.</td> 
+       </tr> 
+       <tr> 
+        <td>200</td> 
+        <td>Central hearth developed into <a href="/wiki/Gudeul" title="Gudeul" class="mw-redirect">gudeul</a> (meaning heat releasing section of ondol) and perimeter hearth for cooking became more developed and budumak was almost established in Korea.</td> 
+       </tr> 
+       <tr> 
+        <td>50</td> 
+        <td>China, Korea and <a href="/wiki/Roman_Empire" title="Roman Empire">Roman Empire</a> use kang, dikang/ondol and hypocaust respectively.</td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <table class="wikitable"> 
+      <tbody>
+       <tr> 
+        <th width="100">Time period, c. AD<sup id="cite_ref-hist2_5-0" class="reference"><a href="#cite_note-hist2-5"><span>[</span>5<span>]</span></a></sup></th> 
+        <th width="750">Description<sup id="cite_ref-hist2_5-1" class="reference"><a href="#cite_note-hist2-5"><span>[</span>5<span>]</span></a></sup></th> 
+       </tr> 
+       <tr> 
+        <td>500</td> 
+        <td>Asia continues to use conditioned surfaces but the application is lost in Europe where it is replaced by the open fire or rudimentary forms of the modern fireplace. Anecdotal literary reference to radiant cooling system in the <a href="/wiki/Middle_East" title="Middle East">Middle East</a> using snow packed wall cavities.</td> 
+       </tr> 
+       <tr> 
+        <td>700</td> 
+        <td>More sophisticated and developed gudeul was found in some palaces and living quarters of upper-class people in Korea. Countries in the <a href="/wiki/Mediterranean_Basin" title="Mediterranean Basin">Mediterranean Basin</a> (Iran, Algeria, Turkey et al.) use various forms of hypocaust type heating in public baths and homes (ref.: tabakhana, atishkhana, sandali) but also use heat from cooking (see:<a href="/wiki/Tandoor" title="Tandoor">tandoor</a>, also tanur) to heat the floors.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></td> 
+       </tr> 
+       <tr> 
+        <td>1000</td> 
+        <td>Ondol continues to evolve in Asia. The most advanced true ondol system was established. The fire furnace was moved outside and the room was entirely floored with ondol in Korea. Europe uses various forms of the fireplace with the evolution of drafting combustion products with chimneys.</td> 
+       </tr> 
+       <tr> 
+        <td>1300</td> 
+        <td>Hypocaust type systems used to heat monasteries in <a href="/wiki/Poland" title="Poland">Poland</a> and <a href="/wiki/Teutonic_Order" title="Teutonic Order">teutonic</a> <a href="/wiki/Malbork_Castle" title="Malbork Castle">Malbork Castle</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup></td> 
+       </tr> 
+       <tr> 
+        <td>1400</td> 
+        <td>Hypocaust type systems used to heat <a href="/wiki/Turkish_Bath" title="Turkish Bath" class="mw-redirect">Turkish Baths</a> of the <a href="/wiki/Ottoman_Empire" title="Ottoman Empire">Ottoman Empire</a>.</td> 
+       </tr> 
+       <tr> 
+        <td>1500</td> 
+        <td>Attention to comfort and architecture in Europe evolves; China and Korea continue to apply floor heating with wide scale adoption.</td> 
+       </tr> 
+       <tr> 
+        <td>1600</td> 
+        <td>In <a href="/wiki/France" title="France">France</a>, heated flues in floors and walls are used in greenhouses.</td> 
+       </tr> 
+       <tr> 
+        <td>1700</td> 
+        <td><a href="/wiki/Benjamin_Franklin" title="Benjamin Franklin">Benjamin Franklin</a> studies the French and Asian cultures and makes note of their respective heating system leading to the development of the <a href="/wiki/Franklin_stove" title="Franklin stove">Franklin stove</a>. Steam based radiant pipes are used in France. Hypocaust type system used to heat public bath (<a href="/wiki/Turkish_bath" title="Turkish bath">Hammam</a>) in the citadel town of Erbil located in modern day Iraq.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></td> 
+       </tr> 
+       <tr> 
+        <td>1800</td> 
+        <td>Beginnings of the European evolution of the modern water heater/boiler and water based piping systems including studies in thermal <a href="/wiki/Conductivity,_temperature,_depth" title="Conductivity, temperature, depth" class="mw-redirect">conductivities</a> and <a href="/wiki/Specific_heat" title="Specific heat" class="mw-redirect">specific heat</a> of materials and <a href="/wiki/Emissivity" title="Emissivity">emissivity</a>/<a href="/wiki/Reflectivity" title="Reflectivity" class="mw-redirect">reflectivity</a> of surfaces (<a href="/wiki/James_Watt" title="James Watt">Watt</a>/<a href="/wiki/John_Leslie_(physicist)" title="John Leslie (physicist)">Leslie</a>/<a href="/wiki/Benjamin_Thompson" title="Benjamin Thompson">Rumford</a>).<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup> Reference to the use of small bore pipes used in the <a href="/wiki/Sir_John_Soane%27s_Museum" title="Sir John Soane's Museum">John Soane house and museum</a>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></td> 
+       </tr> 
+       <tr> 
+        <td>1864</td> 
+        <td>Ondol type system used at <a href="/wiki/American_Civil_War" title="American Civil War">Civil War</a> hospital sites in America.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup> <a href="/wiki/Reichstag_(building)" title="Reichstag (building)" class="mw-redirect">Reichstag building</a> in Germany uses the thermal mass of the building for cooling and heating.</td> 
+       </tr> 
+       <tr> 
+        <td>1899</td> 
+        <td>The earliest beginnings of <a href="/wiki/Polyethylene" title="Polyethylene">polyethylene</a>-based pipes occur when German scientist, <a href="/wiki/Hans_von_Pechmann" title="Hans von Pechmann">Hans von Pechmann</a>, discovered a waxy residue at the bottom of a test tube, colleagues Eugen Bamberger and Friedrich Tschirner called it <a href="/wiki/Polymethylene" title="Polymethylene" class="mw-redirect">polymethylene</a> but it was discarded as having no commercial use at the time.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup></td> 
+       </tr> 
+       <tr> 
+        <td>1904</td> 
+        <td><a href="/wiki/Liverpool_Cathedral" title="Liverpool Cathedral">Liverpool Cathedral</a> in England is heated with system based on the hypocaust principles.</td> 
+       </tr> 
+       <tr> 
+        <td>1905</td> 
+        <td><a href="/wiki/Frank_Lloyd_Wright" title="Frank Lloyd Wright">Frank Lloyd Wright</a> makes his first trip to Japan, later incorporates various early forms of radiant heating in his projects.</td> 
+       </tr> 
+       <tr> 
+        <td>1907</td> 
+        <td>England, Prof. Barker granted Patent No. 28477 for panel warming using small pipes. Patents later sold to the Crittal Company who appointed representatives across Europe. A.M. Byers of America promotes radiant heating using small bore water pipes. Asia continues to use traditional ondol and kang—wood is used as the fuel, combustion gases sent under floor.</td> 
+       </tr> 
+       <tr> 
+        <td>1930</td> 
+        <td>Oscar Faber in England uses water pipes used to radiant heat and cool several large buildings.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup></td> 
+       </tr> 
+       <tr> 
+        <td>1933</td> 
+        <td>Explosion at England’s <a href="/wiki/Imperial_Chemical_Industries" title="Imperial Chemical Industries">Imperial Chemical Industries</a> (ICI) laboratory during a high pressure experiment with <a href="/wiki/Ethylene" title="Ethylene">ethylene gas</a> results in a wax like substance—later to become polyethylene and the re-beginnings of PEX pipe.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup></td> 
+       </tr> 
+       <tr> 
+        <td>1937</td> 
+        <td>Frank Lloyd Wright designs the radiant heated <a href="/wiki/Herbert_and_Katherine_Jacobs_First_House" title="Herbert and Katherine Jacobs First House">Herbert Jacobs house</a>, the first <a href="/wiki/Usonian" title="Usonian" class="mw-redirect">Usonian</a> home.</td> 
+       </tr> 
+       <tr> 
+        <td>1939</td> 
+        <td>First small scale polyethylene plant built in America.</td> 
+       </tr> 
+       <tr> 
+        <td>1945</td> 
+        <td>American developer <a href="/wiki/William_Levitt" title="William Levitt">William Levitt</a> builds large scale developments for returning GI’s. Water based (copper pipe) radiant heating used throughout thousands of homes. Poor building envelopes on all continents require excessive surface temperatures leading in some cases to health problems. Thermal comfort and health science research (using hot plates, <a href="/wiki/Thermal_manikin" title="Thermal manikin">thermal manikins</a> and comfort laboratories) in Europe and America later establishes lower surface temperature limits and development of comfort standards.</td> 
+       </tr> 
+       <tr> 
+        <td>1950</td> 
+        <td>Korean War wipes out wood supplies for ondol, population forced to use coal. Developer <a href="/wiki/Joseph_Eichler" title="Joseph Eichler">Joseph Eichler</a> in California begins the construction of thousands of radiant heated homes.</td> 
+       </tr> 
+       <tr> 
+        <td>1951</td> 
+        <td>Dr. J. Bjorksten of Bjorksten Research Laboratories in Madison, WI, announces first results of what is believed to be the first instance of testing three types of plastic tubing for radiant floor heating in America. Polyethylene, vinyl chloride copolymer, and vinylidene chloride were tested over three winters.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup></td> 
+       </tr> 
+       <tr> 
+        <td>1953</td> 
+        <td>The first Canadian polyethylene plant is built near Edmonton, Ab.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup></td> 
+       </tr> 
+       <tr> 
+        <td>1960</td> 
+        <td>NRC researcher from Canada installs underfloor heating in his home and later remarks, "Decades later it would be identified as a passive solar house. It incorporated innovative features such as the radiant heating system supplied with hot water from an automatically stoked anthracite furnace."<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup></td> 
+       </tr> 
+       <tr> 
+        <td>1965</td> 
+        <td>Thomas Engel patents method for stabilizing polyethylene by <a href="/wiki/Cross-link" title="Cross-link">cross linking molecules</a> using peroxide (PEx-A) and in 1967 sells license options to a number of pipe producers.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>20<span>]</span></a></sup></td> 
+       </tr> 
+       <tr> 
+        <td>1970</td> 
+        <td>Evolution of Korean architecture leads to multistory housings, <a href="/wiki/Flue_gases" title="Flue gases" class="mw-redirect">flue gases</a> from coal based ondol results in many deaths leading to the removal of the home based flue gas system to a central water based heating plants. Oxygen permeation becomes corrosion issue in Europe leading to the development of barriered pipe and oxygen permeation standards.</td> 
+       </tr> 
+       <tr> 
+        <td>1980</td> 
+        <td>The first standards for floor heating are developed in Europe. Water-based ondol system is applied to almost all of residential buildings in Korea.</td> 
+       </tr> 
+       <tr> 
+        <td>1985</td> 
+        <td>Floor heating becomes a traditional heating systems in residential buildings in Middle Europe and <a href="/wiki/Nordic_countries" title="Nordic countries">Nordic countries</a> and increasing applications in non-residential buildings.</td> 
+       </tr> 
+       <tr> 
+        <td>1995</td> 
+        <td>The application of floor cooling and thermal active building systems (TABS) in residential and commercial buildings are widely introduced into the market.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>21<span>]</span></a></sup></td> 
+       </tr> 
+       <tr> 
+        <td>2000</td> 
+        <td>The use of embedded radiant cooling systems in middle of Europe becomes a standard system with many parts of the world applying radiant based <a href="/wiki/HVAC" title="HVAC">HVAC</a> systems as means of using low temperatures for heating and high temperatures for cooling.</td> 
+       </tr> 
+       <tr> 
+        <td>2010</td> 
+        <td>Radiant conditioned <a href="/wiki/Pearl_River_Tower" title="Pearl River Tower">Pearl River Tower</a> in Guangzhou, China, topped out at 71-stories.</td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Underfloor_heating&amp;action=edit&amp;section=2" title="Edit section: Description">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>Modern underfloor heating systems use either <a href="/wiki/Electrical_resistance" title="Electrical resistance" class="mw-redirect">electrical resistance</a> elements ("electric systems") or fluid flowing in pipes ("<a href="/wiki/Hydronic" title="Hydronic" class="mw-redirect">hydronic</a> systems") to heat the floor. Either type can be installed as the primary, whole-building heating system or as localized floor heating for thermal comfort. Electrical resistance can only be used for heating; when space cooling is also required, hydronic systems must be used. Other applications for which either electric or hydronic systems are suited include <a href="/wiki/Snowmelt_system" title="Snowmelt system">snow/ice melting</a> for walks, driveways and landing pads, turf conditioning of football and soccer fields and frost prevention in freezers and skating rinks. A range of underfloor heating systems and designs are available to suit different types of flooring.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup></p> 
+     <p>Electric heating elements or hydronic piping can be cast in a concrete floor slab ("poured floor system" or "wet system"). They can also be placed under the floor covering ("dry system") or attached directly to a wood sub floor ("sub floor system" or "dry system").</p> 
+     <p>Some commercial buildings are designed to take advantage of <a href="/wiki/Thermal_mass" title="Thermal mass">thermal mass</a> which is heated or cooled during off peak hours when utility rates are lower. With the heating/cooling system turned off during the day, the concrete mass and room temperature drift up or down within the desired comfort range. Such systems are known as thermally activated building systems or TABS.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>23<span>]</span></a></sup><sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>24<span>]</span></a></sup></p> 
+     <h3><span class="mw-headline" id="Hydronic_systems">Hydronic systems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Underfloor_heating&amp;action=edit&amp;section=3" title="Edit section: Hydronic systems">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>Hydronic systems use water or a mix of water and anti-freeze such as <a href="/wiki/Propylene_glycol" title="Propylene glycol">propylene glycol</a><sup id="cite_ref-25" class="reference"><a href="#cite_note-25"><span>[</span>25<span>]</span></a></sup> as the heat transfer fluid in a "closed loop" that is recirculated between the floor and the boiler.</p> 
+     <p>Various types of pipes are available specifically for hydronic underfloor heating and cooling systems and are generally made from <a href="/wiki/Polyethylene" title="Polyethylene">polyethylene</a> including <a href="/wiki/PEX" title="PEX" class="mw-redirect">PEX</a>, PEX-Al-PEX and PERT. Older materials such as <a href="/wiki/Polybutylene" title="Polybutylene">Polybutylene</a> (PB) and copper or steel pipe are still used in some locales or for specialized applications.</p> 
+     <p>Hydronic systems require skilled designers and tradespeople familiar with boilers, circulators, controls, fluid pressures and temperature. The use of modern factory assembled sub-stations, used primarily in <a href="/wiki/District_heating_and_cooling" title="District heating and cooling" class="mw-redirect">district heating and cooling</a>, can greatly simplify design requirements and reduce the installation and commissioning time of hydronic systems.</p> 
+     <p>Hydronic systems can use a single source or combination of energy sources to help manage energy costs. Hydronic system <b>energy source</b> options are:</p> 
+     <ul> 
+      <li>Boilers (heaters) including <a href="/wiki/Combined_heat_and_power_plant" title="Combined heat and power plant" class="mw-redirect">Combined heat and power plants</a><sup id="cite_ref-26" class="reference"><a href="#cite_note-26"><span>[</span>notes 1<span>]</span></a></sup> heated by: 
+       <ul> 
+        <li><a href="/wiki/Natural_gas" title="Natural gas">Natural gas</a> or "methane" industry-wide is considered the cleanest and most efficient method of heating water, depending on availability. Costs about $7/million b.t.u.</li> 
+        <li><a href="/wiki/Propane" title="Propane">propane</a> mainly made from oil, less efficient than natural gas by volume, and generally much more expensive on a b.t.u. basis. Produces more Carbon Dioxide than "methane" on a b.t.u. basis. Costs about $25/million b.t.u.</li> 
+        <li><a href="/wiki/Coal" title="Coal">coal</a>, <a href="/wiki/Oil" title="Oil">oil</a> or waste oil</li> 
+        <li><a href="/wiki/Electricity" title="Electricity">Electricity</a></li> 
+        <li><a href="/wiki/Solar_thermal" title="Solar thermal" class="mw-redirect">Solar thermal</a></li> 
+        <li><a href="/wiki/Wood" title="Wood">wood</a> or other <a href="/wiki/Biomass" title="Biomass">biomass</a></li> 
+        <li><a href="/wiki/Bio-fuels" title="Bio-fuels" class="mw-redirect">bio-fuels</a></li> 
+       </ul> </li> 
+      <li><a href="/wiki/Heat_pump" title="Heat pump">Heat pumps</a> and <a href="/wiki/Chiller" title="Chiller">chillers</a> powered by: 
+       <ul> 
+        <li>Electricity</li> 
+        <li>Natural gas</li> 
+        <li><a href="/wiki/Geothermal_heat_pump" title="Geothermal heat pump">Geothermal heat pump</a></li> 
+       </ul> </li> 
+     </ul> 
+     <table> 
+      <tbody>
+       <tr> 
+        <td> 
+         <div class="thumb tright"> 
+          <div class="thumbinner" style="width:232px;">
+           <a href="/wiki/File:Underfloor_heating_pipes.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Underfloor_heating_pipes.jpg/230px-Underfloor_heating_pipes.jpg" width="230" height="173" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Underfloor_heating_pipes.jpg/345px-Underfloor_heating_pipes.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Underfloor_heating_pipes.jpg/460px-Underfloor_heating_pipes.jpg 2x" data-file-width="1024" data-file-height="768"></a> 
+           <div class="thumbcaption"> 
+            <div class="magnify">
+             <a href="/wiki/File:Underfloor_heating_pipes.jpg" class="internal" title="Enlarge"></a>
+            </div> Underfloor heating pipes, before they are covered by the screed
+           </div> 
+          </div> 
+         </div> </td> 
+        <td> 
+         <div class="thumb tright"> 
+          <div class="thumbinner" style="width:232px;">
+           <a href="/wiki/File:Garage-1.gif" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Garage-1.gif/230px-Garage-1.gif" width="230" height="173" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Garage-1.gif/345px-Garage-1.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/55/Garage-1.gif/460px-Garage-1.gif 2x" data-file-width="600" data-file-height="450"></a> 
+           <div class="thumbcaption"> 
+            <div class="magnify">
+             <a href="/wiki/File:Garage-1.gif" class="internal" title="Enlarge"></a>
+            </div> Underfloor heating pipes, before they are covered by a concrete garage slab
+           </div> 
+          </div> 
+         </div> </td> 
+        <td> 
+         <div class="thumb tright"> 
+          <div class="thumbinner" style="width:232px;">
+           <a href="/wiki/File:BCIT_Aerospace_Hangar.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f9/BCIT_Aerospace_Hangar.jpg/230px-BCIT_Aerospace_Hangar.jpg" width="230" height="173" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f9/BCIT_Aerospace_Hangar.jpg/345px-BCIT_Aerospace_Hangar.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f9/BCIT_Aerospace_Hangar.jpg/460px-BCIT_Aerospace_Hangar.jpg 2x" data-file-width="1134" data-file-height="852"></a> 
+           <div class="thumbcaption"> 
+            <div class="magnify">
+             <a href="/wiki/File:BCIT_Aerospace_Hangar.jpg" class="internal" title="Enlarge"></a>
+            </div> Radiant tubing layout, Project: BCIT Aerospace Hangar, Vancouver, British Columbia, Canada
+           </div> 
+          </div> 
+         </div> </td> 
+       </tr> 
+       <tr> 
+        <td> 
+         <div class="thumb tright"> 
+          <div class="thumbinner" style="width:232px;">
+           <a href="/wiki/File:Fu%C3%9FbodenheizungSteuerung.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Fu%C3%9FbodenheizungSteuerung.jpg/230px-Fu%C3%9FbodenheizungSteuerung.jpg" width="230" height="99" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Fu%C3%9FbodenheizungSteuerung.jpg/345px-Fu%C3%9FbodenheizungSteuerung.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/42/Fu%C3%9FbodenheizungSteuerung.jpg/460px-Fu%C3%9FbodenheizungSteuerung.jpg 2x" data-file-width="1200" data-file-height="514"></a> 
+           <div class="thumbcaption"> 
+            <div class="magnify">
+             <a href="/wiki/File:Fu%C3%9FbodenheizungSteuerung.jpg" class="internal" title="Enlarge"></a>
+            </div> Manifold assembly
+           </div> 
+          </div> 
+         </div> </td> 
+        <td> 
+         <div class="thumb tright"> 
+          <div class="thumbinner" style="width:232px;">
+           <a href="/wiki/File:Prefabricated_sub_stations_covers_on.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Prefabricated_sub_stations_covers_on.png/230px-Prefabricated_sub_stations_covers_on.png" width="230" height="140" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Prefabricated_sub_stations_covers_on.png/345px-Prefabricated_sub_stations_covers_on.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/Prefabricated_sub_stations_covers_on.png/460px-Prefabricated_sub_stations_covers_on.png 2x" data-file-width="877" data-file-height="533"></a> 
+           <div class="thumbcaption"> 
+            <div class="magnify">
+             <a href="/wiki/File:Prefabricated_sub_stations_covers_on.png" class="internal" title="Enlarge"></a>
+            </div> Modern factory assembled hydronic control appliances for underfloor heating and cooling, shown with covers on.
+           </div> 
+          </div> 
+         </div> </td> 
+        <td> 
+         <div class="thumb tright"> 
+          <div class="thumbinner" style="width:232px;">
+           <a href="/wiki/File:Prefabricated_sub_stations_covers_off.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Prefabricated_sub_stations_covers_off.png/230px-Prefabricated_sub_stations_covers_off.png" width="230" height="140" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Prefabricated_sub_stations_covers_off.png/345px-Prefabricated_sub_stations_covers_off.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Prefabricated_sub_stations_covers_off.png/460px-Prefabricated_sub_stations_covers_off.png 2x" data-file-width="875" data-file-height="533"></a> 
+           <div class="thumbcaption"> 
+            <div class="magnify">
+             <a href="/wiki/File:Prefabricated_sub_stations_covers_off.png" class="internal" title="Enlarge"></a>
+            </div> Modern factory assembled hydronic control appliances for underfloor heating and cooling, shown with covers off.
+           </div> 
+          </div> 
+         </div> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <h3><span class="mw-headline" id="Electric_systems">Electric systems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Underfloor_heating&amp;action=edit&amp;section=4" title="Edit section: Electric systems">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:232px;">
+       <a href="/wiki/File:Electric-floor-heating.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Electric-floor-heating.jpg/230px-Electric-floor-heating.jpg" width="230" height="164" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Electric-floor-heating.jpg/345px-Electric-floor-heating.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/7/79/Electric-floor-heating.jpg 2x" data-file-width="408" data-file-height="291"></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Electric-floor-heating.jpg" class="internal" title="Enlarge"></a>
+        </div> Electric floor heating installation, cement being applied
+       </div> 
+      </div> 
+     </div> 
+     <p>Electric systems are used only for heating and employ non-corrosive, flexible heating elements including cables, pre-formed cable mats, bronze mesh, and carbon films. Due to their low profile they can be installed in a <a href="/wiki/Thermal_mass" title="Thermal mass">thermal mass</a> or directly under floor finishes. Electric systems can also take advantage of <a href="/wiki/Electricity_meter" title="Electricity meter">time-of-use electricity metering</a> and are frequently used as carpet heaters, portable under area rug heaters, under laminate floor heaters, under tile heating, under wood floor heating, and floor warming systems, including under shower floor and seat heating. Large electric systems also require skilled designers and tradespeople but this is less so for small floor warming systems. Electric systems use fewer components and are simpler to install and commission than hydronic systems. Some electric systems use line voltage technology while others use low voltage technology. Power consumption of an electric system is not based on voltage but rather wattage output produced by the heating element.</p> 
+     <h2><span class="mw-headline" id="Features">Features</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Underfloor_heating&amp;action=edit&amp;section=5" title="Edit section: Features">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <h3><span class="mw-headline" id="Thermal_comfort_quality">Thermal comfort quality</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Underfloor_heating&amp;action=edit&amp;section=6" title="Edit section: Thermal comfort quality">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>As defined by ANSI/ASHRAE Standard 55 – Thermal Environmental Conditions for Human Occupancy, <a href="/wiki/Thermal_comfort" title="Thermal comfort">thermal comfort</a> is, "that condition of mind which expresses satisfaction with the thermal environment and is assessed by subjective evaluation." Relating specifically to underfloor heating, thermal comfort is influenced by floor surface temperature and associated elements such as radiant asymmetry, <a href="/wiki/Mean_radiant_temperature" title="Mean radiant temperature">mean radiant temperature</a> and <a href="/wiki/Operative_temperature" title="Operative temperature">operative temperature</a>. Research by Nevins, Rohles, Gagge, <a href="/wiki/P._Ole_Fanger" title="P. Ole Fanger" class="mw-redirect">P. Ole Fanger</a> et al. show that humans at rest with clothing typical of light office and home wear, exchange over 50% of their <a href="/wiki/Sensible_heat" title="Sensible heat">sensible heat</a> via <a href="/wiki/Radiation" title="Radiation">radiation</a>.</p> 
+     <p>Underfloor heating influences the radiant exchange by thermally conditioning the interior surfaces with low temperature <a href="/wiki/Long-wave_infrared" title="Long-wave infrared" class="mw-redirect">long wave radiation</a>. The heating of the surfaces suppresses body heat loss resulting in a perception of heating comfort. This general sensation of comfort is further enhanced through <a href="/wiki/Conduction_(heat)" title="Conduction (heat)" class="mw-redirect">conduction</a> (feet on floor) and through <a href="/wiki/Convection" title="Convection">convection</a> by the surface's influence on air <a href="/wiki/Density" title="Density">density</a>. Underfloor cooling works by absorbing both <a href="/wiki/Shortwave_radiation" title="Shortwave radiation">short wave</a> and long wave radiation resulting in cool interior surfaces. These cool surfaces encourage the loss of body heat resulting in a perception of cooling comfort. Localized discomfort due to cold and warm floors wearing normal foot wear and stocking feet is addressed in the ISO 7730 and ASHRAE 55 standards and ASHRAE Fundamentals Handbooks and can be corrected or regulated with floor heating and cooling systems.</p> 
+     <h3><span class="mw-headline" id="Indoor_air_quality">Indoor air quality</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Underfloor_heating&amp;action=edit&amp;section=7" title="Edit section: Indoor air quality">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>Underfloor heating can have a positive effect on the quality of indoor air by facilitating the choice of otherwise perceived cold flooring materials such as tile, slate, terrazzo and concrete. These masonry surfaces typically have very low VOC emissions (<a href="/wiki/Volatile_organic_compounds" title="Volatile organic compounds" class="mw-redirect">volatile organic compounds</a>) in comparison to other flooring options. In conjunction with <a href="/wiki/Moisture" title="Moisture">moisture</a> control, floor heating also establishes temperature conditions that are less favorable in supporting <a href="/wiki/Mold" title="Mold">mold</a>, <a href="/wiki/Bacteria" title="Bacteria">bacteria</a>, <a href="/wiki/Viruses" title="Viruses" class="mw-redirect">viruses</a> and <a href="/wiki/Dust_mites" title="Dust mites" class="mw-redirect">dust mites</a>.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27"><span>[</span>26<span>]</span></a></sup><sup id="cite_ref-28" class="reference"><a href="#cite_note-28"><span>[</span>27<span>]</span></a></sup> By removing the <a href="/wiki/Sensible_heat" title="Sensible heat">sensible heating</a> load from the total <a href="/wiki/HVAC" title="HVAC">HVAC</a> (Heating, Ventilating, and Air Conditioning) load, <a href="/wiki/Ventilation_(architecture)" title="Ventilation (architecture)">ventilation</a>, filtration and dehumidification of incoming air can be accomplished with <a href="/wiki/Energy_recovery_ventilation" title="Energy recovery ventilation">dedicated outdoor air systems</a> having less volumetric turnover to mitigate distribution of airborne contaminates. There is recognition from the medical community relating to the benefits of floor heating especially as it relates to allergens.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29"><span>[</span>28<span>]</span></a></sup><sup id="cite_ref-30" class="reference"><a href="#cite_note-30"><span>[</span>29<span>]</span></a></sup></p> 
+     <h3><span class="mw-headline" id="Sustainability.E2.80.94energy">Sustainability—energy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Underfloor_heating&amp;action=edit&amp;section=8" title="Edit section: Sustainability—energy">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>Under floor radiant systems are evaluated for sustainability through the principles of <a href="/wiki/Efficiency" title="Efficiency">efficiency</a>, <a href="/wiki/Entropy" title="Entropy">entropy</a>, <a href="/wiki/Exergy" title="Exergy">exergy</a><sup id="cite_ref-31" class="reference"><a href="#cite_note-31"><span>[</span>30<span>]</span></a></sup> and <a href="/wiki/Efficacy" title="Efficacy">efficacy</a>. When combined with high performance buildings, under floor systems operate with low temperatures in heating and high temperatures in cooling<sup id="cite_ref-32" class="reference"><a href="#cite_note-32"><span>[</span>31<span>]</span></a></sup> in the ranges found typically in <a href="/wiki/Geothermal" title="Geothermal" class="mw-redirect">geothermal</a><sup id="cite_ref-33" class="reference"><a href="#cite_note-33"><span>[</span>32<span>]</span></a></sup> and <a href="/wiki/Solar_thermal" title="Solar thermal" class="mw-redirect">solar thermal</a> systems. When coupled with these non combustible, <a href="/wiki/Renewable_energy" title="Renewable energy">renewable</a> energy sources the <a href="/wiki/Sustainability" title="Sustainability">sustainability</a> benefits include reduction or elimination of combustion and <a href="/wiki/Greenhouse_gases" title="Greenhouse gases" class="mw-redirect">greenhouse gases</a> produced by boilers and <a href="/wiki/Power_generation" title="Power generation" class="mw-redirect">power generation</a> for <a href="/wiki/Heat_pumps" title="Heat pumps" class="mw-redirect">heat pumps</a><sup id="cite_ref-34" class="reference"><a href="#cite_note-34"><span>[</span>33<span>]</span></a></sup> and <a href="/wiki/Chiller" title="Chiller">chillers</a>, as well as reduced demands for <a href="/wiki/Non-renewable_resource" title="Non-renewable resource">non renewables</a> and greater inventories for future generations. This has been supported through simulation evaluations<sup id="cite_ref-35" class="reference"><a href="#cite_note-35"><span>[</span>34<span>]</span></a></sup><sup id="cite_ref-36" class="reference"><a href="#cite_note-36"><span>[</span>35<span>]</span></a></sup><sup id="cite_ref-37" class="reference"><a href="#cite_note-37"><span>[</span>36<span>]</span></a></sup><sup id="cite_ref-38" class="reference"><a href="#cite_note-38"><span>[</span>37<span>]</span></a></sup> and through research funded by the U.S. Department of Energy,<sup id="cite_ref-39" class="reference"><a href="#cite_note-39"><span>[</span>38<span>]</span></a></sup><sup id="cite_ref-40" class="reference"><a href="#cite_note-40"><span>[</span>39<span>]</span></a></sup> Canada Mortgage and Housing Corporation,<sup id="cite_ref-41" class="reference"><a href="#cite_note-41"><span>[</span>40<span>]</span></a></sup> Fraunhofer Institute<sup id="cite_ref-42" class="reference"><a href="#cite_note-42"><span>[</span>41<span>]</span></a></sup> as well as ASHRAE.<sup id="cite_ref-43" class="reference"><a href="#cite_note-43"><span>[</span>42<span>]</span></a></sup></p> 
+     <h3><span class="mw-headline" id="Safety_and_health">Safety and health</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Underfloor_heating&amp;action=edit&amp;section=9" title="Edit section: Safety and health">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>Low temperature underfloor heating is embedded in the floor or placed under the floor covering. As such it occupies no wall space and creates no <a href="/wiki/Burn" title="Burn">burn</a> hazards, nor is it a hazard for physical injuries due to accidental contact leading to tripping and falling. This has been referenced as a positive feature in <a href="/wiki/Healthcare" title="Healthcare" class="mw-redirect">healthcare</a> facilities including those serving elderly clients and those with <a href="/wiki/Dementia" title="Dementia">dementia</a>.<sup id="cite_ref-44" class="reference"><a href="#cite_note-44"><span>[</span>43<span>]</span></a></sup><sup id="cite_ref-45" class="reference"><a href="#cite_note-45"><span>[</span>44<span>]</span></a></sup><sup id="cite_ref-46" class="reference"><a href="#cite_note-46"><span>[</span>45<span>]</span></a></sup> Anecdotally, under similar environmental conditions, heated floors will speed evaporation of wetted floors (showering, cleaning, and spills). Additionally, underfloor heating with fluid filled pipes is useful in heating and cooling explosion proof environments where combustion and electrical equipment can be located remotely from the explosive environment.</p> 
+     <p>There is a likelihood that underfloor heating may add to <a href="/wiki/Outgassing" title="Outgassing">offgassing</a> and <a href="/wiki/Sick_building_syndrome" title="Sick building syndrome">sick building syndrome</a> in an environment, particularly when carpet is used as a flooring.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2015)">citation needed</span></a></i>]</sup></p> 
+     <h3><span class="mw-headline" id="Longevity.2C_maintenance_and_repair">Longevity, maintenance and repair</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Underfloor_heating&amp;action=edit&amp;section=10" title="Edit section: Longevity, maintenance and repair">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>Equipment maintenance and repair is the same as for other water or electrical based <a href="/wiki/HVAC" title="HVAC">HVAC</a> systems except when pipes, cables or mats are embedded in the floor. Early trials (for example homes built by Levitt and Eichler, c. 1940-70’s) experienced failures in embedded copper and steel piping systems as well as failures assigned by the courts to Shell, Goodyear and others for <a href="/wiki/Polybutylene" title="Polybutylene">polybutylene</a> and <a href="/wiki/EPDM" title="EPDM" class="mw-redirect">EPDM</a> materials.<sup id="cite_ref-47" class="reference"><a href="#cite_note-47"><span>[</span>46<span>]</span></a></sup><sup id="cite_ref-48" class="reference"><a href="#cite_note-48"><span>[</span>47<span>]</span></a></sup> There also have been a few publicized claims of failed electric heated gypsum panels from the mid 90’s.<sup id="cite_ref-49" class="reference"><a href="#cite_note-49"><span>[</span>48<span>]</span></a></sup></p> 
+     <p>Failures associated with most installations are attributable to job site neglect, installation errors and product mishandling such as exposure to ultraviolet radiation. Pre-pour pressure tests required by concrete installation standards<sup id="cite_ref-50" class="reference"><a href="#cite_note-50"><span>[</span>49<span>]</span></a></sup> and good practice guidelines<sup id="cite_ref-51" class="reference"><a href="#cite_note-51"><span>[</span>50<span>]</span></a></sup> for the design, construction, operation and repair of radiant heating and cooling systems mitigate problems resulting from improper installation and operation.</p> 
+     <p>Fluid based systems using <a href="/wiki/Cross-linked_polyethylene" title="Cross-linked polyethylene">Cross-linked polyethylene</a> (PE-x) a product developed in the 1930s and its various derivatives such as PE-rt, have demonstrated reliable long term performance in harsh cold-climate applications such as bridge decks, aircraft hangar aprons and landing pads. PEX has become a popular and reliable option in home use for new concrete slab construction, and new underfloor joist construction as well as (joist) retrofit. Since the materials are produced from polyethylene and its bonds are cross-linked, it is highly resistant to corrosion or the temperature and pressure stresses associated with typical fluid based HVAC systems.<sup id="cite_ref-52" class="reference"><a href="#cite_note-52"><span>[</span>51<span>]</span></a></sup> For PEX reliability, installation procedures must be precise (especially at joints) and manufacturers specifications for maximum temperature of water or fluid, etc. must be carefully followed.</p> 
+     <h2><span class="mw-headline" id="Typical_installation_details">Typical installation details</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Underfloor_heating&amp;action=edit&amp;section=11" title="Edit section: Typical installation details">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <div class="thumb tleft"> 
+      <div class="thumbinner" style="width:602px;">
+       <a href="/wiki/File:Radiant_details_large.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/8/85/Radiant_details_large.jpg/600px-Radiant_details_large.jpg" width="600" height="357" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/85/Radiant_details_large.jpg/900px-Radiant_details_large.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/85/Radiant_details_large.jpg/1200px-Radiant_details_large.jpg 2x" data-file-width="1358" data-file-height="808"></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Radiant_details_large.jpg" class="internal" title="Enlarge"></a>
+        </div> General considerations for placing radiant heating and cooling pipes in flooring assemblies where other HVAC and plumbing components may be present. Click Image for Larger View
+       </div> 
+      </div> 
+     </div> 
+     <div class="thumb tleft"> 
+      <div class="thumbinner" style="width:602px;">
+       <a href="/wiki/File:Under_floor_heating_assemblies_typical.gif" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/3/3d/Under_floor_heating_assemblies_typical.gif/600px-Under_floor_heating_assemblies_typical.gif" width="600" height="172" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/3/3d/Under_floor_heating_assemblies_typical.gif/900px-Under_floor_heating_assemblies_typical.gif 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/3/3d/Under_floor_heating_assemblies_typical.gif/1200px-Under_floor_heating_assemblies_typical.gif 2x" data-file-width="1650" data-file-height="473"></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Under_floor_heating_assemblies_typical.gif" class="internal" title="Enlarge"></a>
+        </div> Typical under floor heating and cooling assemblies. Local practices, codes, standards, best practices and fire regulations will determine actual materials and methods.Click Image for Larger View
+       </div> 
+      </div> 
+     </div> 
+     <div style="clear:both;"></div> 
+     <h2><span class="mw-headline" id="Design_and_installation_considerations">Design and installation considerations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Underfloor_heating&amp;action=edit&amp;section=12" title="Edit section: Design and installation considerations">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>The engineering of underfloor cooling and heating systems is governed by industry standards and guidelines.<sup id="cite_ref-53" class="reference"><a href="#cite_note-53"><span>[</span>52<span>]</span></a></sup><sup id="cite_ref-54" class="reference"><a href="#cite_note-54"><span>[</span>53<span>]</span></a></sup><sup id="cite_ref-55" class="reference"><a href="#cite_note-55"><span>[</span>notes 2<span>]</span></a></sup></p> 
+     <h3><span class="mw-headline" id="Technical_design">Technical design</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Underfloor_heating&amp;action=edit&amp;section=13" title="Edit section: Technical design">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>The amount of heat exchanged from or to an underfloor system is based on the combined radiant and convective <a href="/wiki/Heat_transfer_coefficient" title="Heat transfer coefficient">heat transfer coefficients</a>.</p> 
+     <ul> 
+      <li>Radiant heat transfer is constant based on the <a href="/wiki/Stefan%E2%80%93Boltzmann_constant" title="Stefan–Boltzmann constant">Stefan–Boltzmann constant</a>.</li> 
+      <li>Convective heat transfer changes over time depending on 
+       <ul> 
+        <li>the air's density and thus its buoyancy. Air buoyancy changes according to <a href="/wiki/Mean_radiant_temperature" title="Mean radiant temperature">surface temperatures</a> and</li> 
+        <li>forced air movement due to fans and the motion of people and objects in the space.</li> 
+       </ul> </li> 
+     </ul> 
+     <p>Convective heat transfer with underfloor systems is much greater when the system is operating in a heating rather than cooling mode.<sup id="cite_ref-56" class="reference"><a href="#cite_note-56"><span>[</span>54<span>]</span></a></sup> Typically with underfloor heating the convective component is almost 50% of the total heat transfer and in underfloor cooling the convective component is less than 10%.<sup id="cite_ref-57" class="reference"><a href="#cite_note-57"><span>[</span>55<span>]</span></a></sup></p> 
+     <h3><span class="mw-headline" id="Heat_and_moisture_considerations">Heat and moisture considerations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Underfloor_heating&amp;action=edit&amp;section=14" title="Edit section: Heat and moisture considerations">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>When heated and cooled pipes or heating cables share the same spaces as other building components, parasitic heat transfer can occur between refrigeration appliances, cold storage areas, domestic cold water lines, air conditioning and ventilation ducts. To control this, the pipes, cables and other building components must all be well insulated.</p> 
+     <p>With underfloor cooling, condensation may collect on the surface of the floor. To prevent this, air humidity is kept low, below 50%, and floor temperatures are maintained above the <a href="/wiki/Dew_point" title="Dew point">dew point</a>, <span class="nowrap">19 °C</span> (66F).<sup id="cite_ref-58" class="reference"><a href="#cite_note-58"><span>[</span>56<span>]</span></a></sup></p> 
+     <h3><span class="mw-headline" id="Building_systems_and_materials">Building systems and materials</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Underfloor_heating&amp;action=edit&amp;section=15" title="Edit section: Building systems and materials">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <ul> 
+      <li>Heat losses to below grade 
+       <ul> 
+        <li>The <a href="/wiki/Soil_thermal_properties" title="Soil thermal properties">thermal conductivity of soil</a> will influence the conductive heat transfer between the ground and heated or cooled <a href="/wiki/Shallow_foundation" title="Shallow foundation">slab-on-grade</a> floors.</li> 
+        <li>Soils with moisture contents greater than 20% can be as much as 15 times more conductive than soils with less than 4% moisture content.<sup id="cite_ref-59" class="reference"><a href="#cite_note-59"><span>[</span>57<span>]</span></a></sup></li> 
+        <li><a href="/wiki/Water_table" title="Water table">Water tables</a> and general <a href="/wiki/Geotechnical_engineering" title="Geotechnical engineering">soil conditions</a> should be evaluated.</li> 
+        <li>Suitable <a href="/wiki/Building_insulation_materials" title="Building insulation materials">underslab insulation</a> such as rigid extruded or expanded <a href="/wiki/Polystyrene" title="Polystyrene">polystyrene</a> is required by <a href="/wiki/Model_building_code" title="Model building code">Model National Energy Codes</a>.<sup id="cite_ref-60" class="reference"><a href="#cite_note-60"><span>[</span>58<span>]</span></a></sup><sup id="cite_ref-61" class="reference"><a href="#cite_note-61"><span>[</span>59<span>]</span></a></sup></li> 
+       </ul> </li> 
+      <li>Heat losses at the exterior floor framing 
+       <ul> 
+        <li>The heated or cooled sub-floor increases the temperature difference between the outdoors and the conditioned floor.</li> 
+        <li>The cavities created by the framing timbers such as headers, trimmers and <a href="//en.wiktionary.org/wiki/cantilevered" class="extiw" title="wikt:cantilevered">cantilevered</a> sections must then be insulated with rigid, batt or spray type insulations of suitable value based on climate and building techniques.</li> 
+       </ul> </li> 
+      <li>Masonry and other hard flooring considerations 
+       <ul> 
+        <li>Concrete floors must accommodate shrinkage and expansion due to curing and changes in temperature.</li> 
+        <li>Curing times and temperatures for poured floors (concrete, lightweight toppings)must follow industry standards.</li> 
+        <li>Control and expansion joints and crack suppression techniques are required for all masonry type floors including; 
+         <ul> 
+          <li><a href="/wiki/Tile" title="Tile">Tile</a></li> 
+          <li><a href="/wiki/Slate" title="Slate">Slate</a></li> 
+          <li><a href="/wiki/Terrazzo" title="Terrazzo">Terrazzo</a></li> 
+          <li><a href="/wiki/Stone" title="Stone" class="mw-redirect">Stone</a></li> 
+          <li><a href="/wiki/Marble" title="Marble">Marble</a></li> 
+          <li><a href="/wiki/Concrete" title="Concrete">Concrete</a>,stained, textured and stamped</li> 
+         </ul> </li> 
+       </ul> </li> 
+      <li>Wood flooring 
+       <ul> 
+        <li>The dimensional stability of wood is based primary on moisture content,<sup id="cite_ref-62" class="reference"><a href="#cite_note-62"><span>[</span>60<span>]</span></a></sup> however, other factors can mitigate the changes to wood as it is heated or cooled, including; 
+         <ul> 
+          <li><a href="/wiki/Wood_species" title="Wood species" class="mw-redirect">Wood species</a></li> 
+          <li>Milling techniques, <a href="/wiki/Wood_grain" title="Wood grain">quarter sawn or plane sawn</a></li> 
+          <li>Acclimation period</li> 
+          <li>Relative humidity within the space</li> 
+         </ul> </li> 
+       </ul> </li> 
+      <li>Piping standards<sup id="cite_ref-63" class="reference"><a href="#cite_note-63"><span>[</span>notes 3<span>]</span></a></sup></li> 
+     </ul> 
+     <h3><span class="mw-headline" id="Control_system_.28see_Hydronic_heating_systems.29">Control system (see <a href="/wiki/Hydronics" title="Hydronics">Hydronic heating systems</a>)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Underfloor_heating&amp;action=edit&amp;section=16" title="Edit section: Control system (see Hydronic heating systems)">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>Underfloor heating and cooling systems can have several control points including the management of:</p> 
+     <ul> 
+      <li>Fluid temperatures in the heating and cooling plant (e.g. boilers, chillers, heat pumps). 
+       <ul> 
+        <li>Influences the efficiency</li> 
+       </ul> </li> 
+      <li>Fluid temperatures in distribution network between the plant and the radiant manifolds. 
+       <ul> 
+        <li>Influences the capital and operating costs</li> 
+       </ul> </li> 
+      <li>Fluid temperatures in the PE-x piping systems, which is based on;<sup id="cite_ref-multiple_1-1" class="reference"><a href="#cite_note-multiple-1"><span>[</span>1<span>]</span></a></sup> 
+       <ul> 
+        <li>Heating and cooling demands</li> 
+        <li>Tube spacing</li> 
+        <li>Upward and downward losses</li> 
+        <li>Flooring characteristics</li> 
+       </ul> </li> 
+      <li><a href="/wiki/Operative_temperature" title="Operative temperature">Operative temperature</a> 
+       <ul> 
+        <li>Incorporates the <a href="/wiki/Mean_radiant_temperature" title="Mean radiant temperature">mean radiant</a> and <a href="/wiki/Dry_bulb" title="Dry bulb" class="mw-redirect">dry bulb</a></li> 
+       </ul> </li> 
+      <li>Surface temperatures for;<sup id="cite_ref-ASH55_64-0" class="reference"><a href="#cite_note-ASH55-64"><span>[</span>61<span>]</span></a></sup> 
+       <ul> 
+        <li>Comfort</li> 
+        <li>Health and safety</li> 
+        <li>Material integrity</li> 
+        <li>Dew point (for floor cooling).</li> 
+       </ul> </li> 
+     </ul> 
+     <h2><span class="mw-headline" id="Sample_-_mechanical_schematic">Sample - mechanical schematic</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Underfloor_heating&amp;action=edit&amp;section=17" title="Edit section: Sample - mechanical schematic">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <div class="thumb tleft"> 
+      <div class="thumbinner" style="width:402px;">
+       <a href="/wiki/File:Radiant-based-HVAC-system-for-heating-and-cooling.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Radiant-based-HVAC-system-for-heating-and-cooling.png/400px-Radiant-based-HVAC-system-for-heating-and-cooling.png" width="400" height="533" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Radiant-based-HVAC-system-for-heating-and-cooling.png/600px-Radiant-based-HVAC-system-for-heating-and-cooling.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/07/Radiant-based-HVAC-system-for-heating-and-cooling.png/800px-Radiant-based-HVAC-system-for-heating-and-cooling.png 2x" data-file-width="904" data-file-height="1204"></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Radiant-based-HVAC-system-for-heating-and-cooling.png" class="internal" title="Enlarge"></a>
+        </div> Example of a radiant based HVAC schematic. Click for larger image.
+       </div> 
+      </div> 
+     </div> 
+     <p>Illustrated is a simplified mechanical schematic of an underfloor heating and cooling system for thermal comfort quality<sup id="cite_ref-ASH55_64-1" class="reference"><a href="#cite_note-ASH55-64"><span>[</span>61<span>]</span></a></sup> with a separate air handling system for <a href="/wiki/Indoor_air_quality" title="Indoor air quality">indoor air quality</a>.<sup id="cite_ref-65" class="reference"><a href="#cite_note-65"><span>[</span>62<span>]</span></a></sup><sup id="cite_ref-66" class="reference"><a href="#cite_note-66"><span>[</span>63<span>]</span></a></sup> In high performance residential homes of moderate size (e.g. under 3000&nbsp;ft<sup>2</sup> (278 m<sup>2</sup>) total conditioned floor area), this system using manufactured hydronic control appliances would take up about the same space as a three or four piece bathroom.</p> 
+     <div style="clear:both;"></div> 
+     <h2><span class="mw-headline" id="Modeling_piping_patterns_with_finite_element_analysis">Modeling piping patterns with finite element analysis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Underfloor_heating&amp;action=edit&amp;section=18" title="Edit section: Modeling piping patterns with finite element analysis">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <table> 
+      <tbody>
+       <tr> 
+        <td> 
+         <div class="thumb tright"> 
+          <div class="thumbinner" style="width:402px;">
+           <a href="/wiki/File:Modelling_radiant_tube_patterns.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/2/28/Modelling_radiant_tube_patterns.png/400px-Modelling_radiant_tube_patterns.png" width="400" height="341" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/2/28/Modelling_radiant_tube_patterns.png/600px-Modelling_radiant_tube_patterns.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/2/28/Modelling_radiant_tube_patterns.png/800px-Modelling_radiant_tube_patterns.png 2x" data-file-width="1337" data-file-height="1140"></a> 
+           <div class="thumbcaption"> 
+            <div class="magnify">
+             <a href="/wiki/File:Modelling_radiant_tube_patterns.png" class="internal" title="Enlarge"></a>
+            </div> Thermal diffusions and surface temperature quality (efficacy) of various piping layouts
+           </div> 
+          </div> 
+         </div> </td> 
+        <td> 
+         <div class="thumb tright"> 
+          <div class="thumbinner" style="width:402px;">
+           <a href="/wiki/File:FEA_Output_Screen_Shots.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f5/FEA_Output_Screen_Shots.png/400px-FEA_Output_Screen_Shots.png" width="400" height="300" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f5/FEA_Output_Screen_Shots.png/600px-FEA_Output_Screen_Shots.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f5/FEA_Output_Screen_Shots.png/800px-FEA_Output_Screen_Shots.png 2x" data-file-width="960" data-file-height="720"></a> 
+           <div class="thumbcaption"> 
+            <div class="magnify">
+             <a href="/wiki/File:FEA_Output_Screen_Shots.png" class="internal" title="Enlarge"></a>
+            </div> Typical FEA output screen shots of wire mesh, thermal isotherms and color-coded mapping
+           </div> 
+          </div> 
+         </div> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <p>Modeling radiant piping (also tube or loop) patterns with <a href="/wiki/Finite_element_analysis" title="Finite element analysis" class="mw-redirect">finite element analysis</a> (FEA) predicts the thermal diffusions and surface temperature quality or <a href="/wiki/Efficacy" title="Efficacy">efficacy</a> of various loop layouts. The performance of the model (left image above) and image to the right are useful to gain an understanding in relationships between flooring resistances, conductivities of surrounding mass, tube spacings, depths and fluid temperatures. As with all FEA simulations, they depict a snap shot in time for a specific assembly and may not be representative of all floor assemblies nor for system that have been operative for considerable time in a steady state condition. The practical application of FEA for the engineer is being able to assess each design for fluid temperature, back losses and surface temperature quality. Through several iterations it is possible to optimize the design for the lowest fluid temperature in heating and the highest fluid temperature in cooling which enables combustion and compression equipment to achieve its maximum rated efficiency performance.</p> 
+     <h2><span class="mw-headline" id="Using_thermography_to_observe_underfloor_systems">Using thermography to observe underfloor systems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Underfloor_heating&amp;action=edit&amp;section=19" title="Edit section: Using thermography to observe underfloor systems">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <div class="thumb tleft"> 
+      <div class="thumbinner" style="width:402px;">
+       <a href="/wiki/File:Thermography_low_temperature_radiant_heating.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/c/cd/Thermography_low_temperature_radiant_heating.png/400px-Thermography_low_temperature_radiant_heating.png" width="400" height="138" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/cd/Thermography_low_temperature_radiant_heating.png/600px-Thermography_low_temperature_radiant_heating.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/cd/Thermography_low_temperature_radiant_heating.png/800px-Thermography_low_temperature_radiant_heating.png 2x" data-file-width="1347" data-file-height="466"></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Thermography_low_temperature_radiant_heating.png" class="internal" title="Enlarge"></a>
+        </div> Thermographic images of a room heated with low temperature radiant heating shortly after starting up the system.
+       </div> 
+      </div> 
+     </div> 
+     <p><a href="/wiki/Thermography" title="Thermography">Thermography</a> is a useful tool to see the actual thermal efficacy of an underfloor system from its start up (as shown) to its operating conditions. In a startup it is easy to identify the tube location but less so as the system moves into a <a href="/wiki/Steady_state" title="Steady state">steady state</a> condition. It is important to interpret thermographic images correctly. As is the case with finite element analysis (FEA), what is seen, reflects the conditions at the time of the image and may not represent the steady conditions. For example, the surfaces viewed in the images shown, may appear ‘hot’, but in reality are actually below the nominal temperature of the <a href="/wiki/Normal_human_body_temperature" title="Normal human body temperature" class="mw-redirect">skin and core temperatures of the human body</a> and the ability to ‘see’ the pipes does not equate to ‘feel’ the pipes. Thermography can also point out flaws in the building enclosures (left image, corner intersection detail), thermal bridging (right image, studs) and the heat losses associated with exterior doors (center image).</p> 
+     <div style="clear:both;"></div> 
+     <h2><span class="mw-headline" id="Economics">Economics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Underfloor_heating&amp;action=edit&amp;section=20" title="Edit section: Economics">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>There is a wide range of pricing for underfloor systems based on regional differences, application and project complexity. It is widely adopted in the <a href="/wiki/Nordic_countries" title="Nordic countries">Nordic</a>, <a href="/wiki/Asia" title="Asia">Asian</a> and <a href="/wiki/Europe" title="Europe">European</a> communities. Consequently the market is more mature and systems relatively more affordable than <a href="/wiki/North_America" title="North America">North America</a> where market share for fluid based systems remains between 3% to 7% of HVAC systems (ref. <a href="/wiki/Statistics_Canada" title="Statistics Canada">Statistics Canada</a> and <a href="/wiki/United_States_Census_Bureau" title="United States Census Bureau">United States Census Bureau</a>).</p> 
+     <p>In energy efficiency buildings such as <a href="/wiki/Passive_House" title="Passive House" class="mw-redirect">Passive House</a>, <a href="/wiki/R-2000_program" title="R-2000 program">R-2000</a> or <a href="/wiki/Zero-energy_building" title="Zero-energy building">Net Zero Energy</a>, simple <a href="/wiki/Thermostatic_radiator_valve" title="Thermostatic radiator valve">thermostatic radiator valves</a> can be installed along with a single compact circulator and small condensing heater controlled without or with basic <a href="/wiki/Hot_water_reset" title="Hot water reset">hot water reset</a><sup id="cite_ref-67" class="reference"><a href="#cite_note-67"><span>[</span>64<span>]</span></a></sup> control. Economical electric resistant based systems also are useful in small zones such as bathrooms and kitchens, but also for entire buildings where heating loads are very low. Larger structures will need more <a href="/wiki/Hydronics" title="Hydronics">sophisticated systems</a> to deal with cooling and heating needs, and often requiring <a href="/wiki/Building_management_system" title="Building management system">building management control systems</a> to regulate the energy use and control the overall indoor environment.</p> 
+     <p>Low temperature radiant heating and high temperature radiant cooling systems lend themselves well to <a href="/wiki/District_heating" title="District heating">district energy</a> systems (community based systems) due to the temperature differentials between the plant and the buildings which allow small diameter insulated distribution networks and low pumping power requirements. The low return temperatures in heating and high return temperatures in cooling enable the district energy plant to achieve maximum efficiency. The principles behind district energy with underfloor systems can also be applied to stand alone multi story buildings with the same benefits.<sup id="cite_ref-68" class="reference"><a href="#cite_note-68"><span>[</span>65<span>]</span></a></sup> Additionally, underfloor radiant systems are ideally suited to <a href="/wiki/Renewable_energy" title="Renewable energy">renewable energy</a> sources including <a href="/wiki/Geothermal" title="Geothermal" class="mw-redirect">geothermal</a> and <a href="/wiki/Solar_thermal" title="Solar thermal" class="mw-redirect">solar thermal</a> systems or any system where waste heat is recoverable.</p> 
+     <p>In the global drive for <a href="/wiki/Sustainability" title="Sustainability">sustainability</a>, long term economics supports the need to eliminate where possible, <a href="/wiki/Gas_compressor" title="Gas compressor">compression</a> for cooling and <a href="/wiki/Combustion" title="Combustion">combustion</a> for heating. It will then be necessary to use low quality heat sources for which radiant underfloor heating and cooling is well suited.</p> 
+     <h3><span class="mw-headline" id="System_efficiency">System efficiency</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Underfloor_heating&amp;action=edit&amp;section=21" title="Edit section: System efficiency">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>System efficiency and energy use analysis takes into account building enclosure performance, efficiency of the heating and cooling plant, system controls and the conductivities, surface characteristics, tube/element spacing and depth of the radiant panel, operating fluid temperatures and wire to water efficiency of the circulators.<sup id="cite_ref-69" class="reference"><a href="#cite_note-69"><span>[</span>66<span>]</span></a></sup> The efficiency in electric systems is analyzed by similar processes and includes the efficiency of <a href="/wiki/Electricity_generation" title="Electricity generation">electricity generation</a>.</p> 
+     <p>Though the efficiency of radiant systems is under constant debate with no shortage of <a href="/wiki/Anecdotal" title="Anecdotal" class="mw-redirect">anecdotal</a> claims and scientific papers presenting both sides, the low return fluid temperatures in heating and high return fluid temperatures in cooling enable condensing boilers,<sup id="cite_ref-70" class="reference"><a href="#cite_note-70"><span>[</span>67<span>]</span></a></sup> <a href="/wiki/Chiller" title="Chiller">chillers</a><sup id="cite_ref-71" class="reference"><a href="#cite_note-71"><span>[</span>68<span>]</span></a></sup> and <a href="/wiki/Heat_pump" title="Heat pump">heat pumps</a><sup id="cite_ref-72" class="reference"><a href="#cite_note-72"><span>[</span>69<span>]</span></a></sup> to operate at or near their <a href="/wiki/Thermal_efficiency" title="Thermal efficiency">maximum engineered performance</a>.<sup id="cite_ref-73" class="reference"><a href="#cite_note-73"><span>[</span>70<span>]</span></a></sup><sup id="cite_ref-74" class="reference"><a href="#cite_note-74"><span>[</span>71<span>]</span></a></sup> The greater efficiency of 'wire to water' versus 'wire to air' flow due to water's significantly greater <a href="/wiki/Heat_capacity" title="Heat capacity">heat capacity</a> favors fluid based systems over air based systems.<sup id="cite_ref-75" class="reference"><a href="#cite_note-75"><span>[</span>72<span>]</span></a></sup> Both field application and simulation research have demonstrated significant electrical energy savings with radiant cooling and dedicated outdoor air systems based in part on the previous noted principles.<sup id="cite_ref-76" class="reference"><a href="#cite_note-76"><span>[</span>73<span>]</span></a></sup><sup id="cite_ref-77" class="reference"><a href="#cite_note-77"><span>[</span>74<span>]</span></a></sup></p> 
+     <p>In <a href="/wiki/Passive_House" title="Passive House" class="mw-redirect">Passive Houses</a>, <a href="/wiki/R-2000_program" title="R-2000 program">R-2000 homes</a> or <a href="/wiki/Zero-energy_building" title="Zero-energy building">Net Zero Energy buildings</a> the low temperatures of radiant heating and cooling systems present significant opportunities to exploit <a href="/wiki/Exergy" title="Exergy">exergy</a>.<sup id="cite_ref-78" class="reference"><a href="#cite_note-78"><span>[</span>75<span>]</span></a></sup></p> 
+     <h3><span class="mw-headline" id="Efficiency_considerations_for_flooring_surface_materials">Efficiency considerations for flooring surface materials</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Underfloor_heating&amp;action=edit&amp;section=22" title="Edit section: Efficiency considerations for flooring surface materials">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>System efficiency is also affected by the floor covering serving as the radiational <a href="/wiki/Boundary_layer" title="Boundary layer">boundary layer</a> between the floor mass and occupants and other contents of the conditioned space. For example, carpeting has a greater <a href="/wiki/Thermal_conductivity" title="Thermal conductivity">resistance</a> or lower <a href="/wiki/Thermal_conductivity" title="Thermal conductivity">conductance</a> than tile. Thus carpeted floors need to operate at higher internal temperatures than tile which can create lower efficiencies for boilers and heat pumps. However, when the floor covering is known at the time the system is installed, then the internal floor temperature required for a given covering can be achieved through proper tube spacing without sacrificing plant efficiency (though the higher internal floor temperatures may result in increased heat loss from the non-room surfaces of the floor).<sup id="cite_ref-79" class="reference"><a href="#cite_note-79"><span>[</span>76<span>]</span></a></sup></p> 
+     <p>The <a href="/wiki/Emissivity" title="Emissivity">emissivity</a>, <a href="/wiki/Reflectivity" title="Reflectivity" class="mw-redirect">reflectivity</a> and <a href="/wiki/Absorbance" title="Absorbance">absorptivity</a> of a floor surface are critical determinants of its heat exchange with the occupants and room. Unpolished flooring surface materials and treatments have very high emissivity’s (0.85 to 0.95) and therefore make good <a href="/wiki/Radiator_(heating)" title="Radiator (heating)">heat radiators</a>.<sup id="cite_ref-80" class="reference"><a href="#cite_note-80"><span>[</span>77<span>]</span></a></sup></p> 
+     <p>With underfloor heating and cooling ("reversible floors") flooring surfaces with high <a href="/wiki/Absorbance" title="Absorbance">absorbance</a> and <a href="/wiki/Emissivity" title="Emissivity">emissivity</a> and low <a href="/wiki/Reflectivity" title="Reflectivity" class="mw-redirect">reflectivity</a> are most desirable.</p> 
+     <h2><span class="mw-headline" id="Global_examples_of_large_modern_buildings_using_radiant_heating_and_cooling">Global examples of large modern buildings using radiant heating and cooling</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Underfloor_heating&amp;action=edit&amp;section=23" title="Edit section: Global examples of large modern buildings using radiant heating and cooling">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <ul> 
+      <li><a href="/wiki/41_Cooper_Square" title="41 Cooper Square">41 Cooper Square</a>, United States</li> 
+      <li><a href="/wiki/Akron_Art_Museum" title="Akron Art Museum">Akron Art Museum</a>, United States</li> 
+      <li><a href="/wiki/BMW_Welt" title="BMW Welt">BMW Welt</a>, Germany</li> 
+      <li><a href="/wiki/California_Academy_of_Science" title="California Academy of Science" class="mw-redirect">California Academy of Science</a>, United States</li> 
+      <li><a href="/wiki/Copenhagen_Opera_House" title="Copenhagen Opera House">Copenhagen Opera House</a>, Denmark</li> 
+      <li><a href="/wiki/Ewha_Womans_University" title="Ewha Womans University">Ewha Womans University</a>, South Korea</li> 
+      <li><a href="/wiki/Hearst_Tower_(New_York_City)" title="Hearst Tower (New York City)" class="mw-redirect">Hearst Tower</a>, New York City, United States</li> 
+      <li><a href="/wiki/Manitoba_Hydro_Place" title="Manitoba Hydro Place">Manitoba Hydro Place</a>, Canada</li> 
+      <li><a href="/wiki/National_Renewable_Energy_Laboratory" title="National Renewable Energy Laboratory">National Renewable Energy Laboratory</a> Research Support Facility, United States</li> 
+      <li><a href="/wiki/Pearl_River_Tower" title="Pearl River Tower">Pearl River Tower</a>, China</li> 
+      <li><a href="/wiki/Post_Tower" title="Post Tower">Post Tower</a>, Germany</li> 
+      <li><a href="/wiki/Suvarnabhumi_Airport" title="Suvarnabhumi Airport">Suvarnabhumi Airport</a>,<sup id="cite_ref-81" class="reference"><a href="#cite_note-81"><span>[</span>78<span>]</span></a></sup> Bangkok</li> 
+     </ul> 
+     <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Underfloor_heating&amp;action=edit&amp;section=24" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9"> 
+      <tbody>
+       <tr> 
+        <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></td> 
+        <td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="//commons.wikimedia.org/wiki/Category:Underfloor_heating" class="extiw" title="commons:Category:Underfloor heating">Underfloor heating</a></b></i>.</td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <ul> 
+      <li><a href="/wiki/American_Society_of_Heating,_Refrigerating_and_Air-Conditioning_Engineers" title="American Society of Heating, Refrigerating and Air-Conditioning Engineers" class="mw-redirect">American Society of Heating, Refrigerating and Air-Conditioning Engineers</a></li> 
+      <li><a href="/wiki/Electric_heating" title="Electric heating">Electric heating</a></li> 
+      <li><a href="/wiki/Hydronics" title="Hydronics">Hydronics</a></li> 
+      <li><a href="/wiki/Gloria_(heating_system)" title="Gloria (heating system)">Gloria (heating system)</a></li> 
+      <li><a href="/wiki/Heater" title="Heater" class="mw-redirect">Heater</a> (types of heaters)</li> 
+      <li><a href="/wiki/Hypocaust" title="Hypocaust">Hypocaust</a></li> 
+      <li><a href="/wiki/Kang_bed-stove" title="Kang bed-stove">Kang bed-stove</a></li> 
+      <li><a href="/wiki/Psychrometrics" title="Psychrometrics">Psychrometrics</a></li> 
+      <li><a href="/wiki/Ondol" title="Ondol">Ondol</a></li> 
+      <li><a href="/wiki/Renewable_heat" title="Renewable heat">Renewable heat</a></li> 
+      <li><a href="/wiki/Room_air_distribution" title="Room air distribution">Underfloor air distribution</a></li> 
+     </ul> 
+     <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Underfloor_heating&amp;action=edit&amp;section=25" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;"> 
+      <ol class="references"> 
+       <li id="cite_note-multiple-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-multiple_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-multiple_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Chapter 6, Panel Heating and Cooling, 2000 ASHRAE Systems and Equipment Handbook</span></li> 
+       <li id="cite_note-hist1-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-hist1_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-hist1_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Bean, R., Olesen, B., Kim, K.W., History of Radiant Heating and Cooling Systems, ASHRAE Journal, Part 1, January, 2010</span></li> 
+       <li id="cite_note-Guo1-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Guo1_3-0">^</a></b></span> <span class="reference-text">Guo, Q., (2005), Chinese Architecture and Planning: Ideas, Methods, Techniques. Sttutgart: Edition Axel Menges, Part 1, Chpt 2, pg 20-27</span></li> 
+       <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Pringle, H., (2007), The Battle Over Amaknak Bridge. Archeology. 60(3)</span></li> 
+       <li id="cite_note-hist2-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-hist2_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-hist2_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Bean, R., Olesen, B., Kim, K.W., History of Radiant Heating and Cooling Systems, ASHRAE Journal, Part 2, January, 2010</span></li> 
+       <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Papers on Traditional Public Baths-Hammam-in the Mediterranean, Archnet-IJAR, International Journal of Architectural Research, Vol. 3, Issue 1:157-170, March, 2009</span></li> 
+       <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Kennedy, H., From Polis To Madina: Urban Change in Late Antique and Early Islamic Syria, Past and Present (1985) 106 (1): 3-27. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1093%2Fpast%2F106.1.3">10.1093/past/106.1.3</a></span></li> 
+       <li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Rashti, C. (Intro), Urban Conservation and Area Development in Afghanistan, Aga Khan Historic Cities Programme, Aga Khan Trust for Culture, May, 2007</span></li> 
+       <li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Średniowieczny system ogrzewczy Zamku Malborskiego &lt;<a rel="nofollow" class="external free" href="http://www.zamek.malbork.pl/index.php?p=muzeum&amp;a=wystawy&amp;aid=48">http://www.zamek.malbork.pl/index.php?p=muzeum&amp;a=wystawy&amp;aid=48</a>&gt;</span></li> 
+       <li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">High Commission for Erbil Citadel Revitalization, The Hammam, &lt;<a rel="nofollow" class="external free" href="http://www.erbilcitadel.org/ArchitecturalHeritage/TheHammam.php">http://www.erbilcitadel.org/ArchitecturalHeritage/TheHammam.php</a>&gt;</span></li> 
+       <li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Gallo, E., Jean Simon Bonnemain (1743-1830) and the Origins of Hot Water Central Heating, 2nd International Congress on Construction History, Queens' College, Cambridge, UK, edited by the Construction History Society, 2006, &lt;<a rel="nofollow" class="external free" href="http://www.emmanuellegallo.net/pdf/1043-1060.pdf">http://www.emmanuellegallo.net/pdf/1043-1060.pdf</a> Bonnemain&gt;</span></li> 
+       <li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Bruegmann, R., Central Heating and Forced Ventilation: Origins and Effects on Architectural Design, JSAH, Vol. 37, No.3, October 1978.</span></li> 
+       <li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">The Medical and Surgical History of The War Of The Rebellion Part III., Volume II., Surgical History, 1883.</span></li> 
+       <li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">Blamire, J., (1999) The Giant Molecules of Life Monomers and Polymers, <a rel="nofollow" class="external free" href="http://www.brooklyn.cuny.edu/bc/ahp/SDPS/SD.PS.polymers.html">http://www.brooklyn.cuny.edu/bc/ahp/SDPS/SD.PS.polymers.html</a></span></li> 
+       <li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">Panel Heating, Structural Paper No.19, Oscar Faber, O.B.E, D.C.L (Hon), D.Sc. (Eng.), The Institution of Civil Engineers, May, 1947, pp.16</span></li> 
+       <li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">PEX Association,The History and Influence of PEX Pipe on Indoor Environmental Quality, <a rel="nofollow" class="external autonumber" href="http://www.pexassociation.net/uploads/files/History%20of%20PEX.pdf">[1]</a></span></li> 
+       <li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">Bjorksten Test New Plastic Heating Tubes, (June 7, 1951), Consolidated Press Clipping Bureau U.S., Chicago</span></li> 
+       <li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">The Canadian Encyclopedia, Industry - Petrochemical Industry , &lt;<a rel="nofollow" class="external free" href="http://www.thecanadianencyclopedia.com/index.cfm?PgNm=TCE&amp;Params=A1ARTA0006251">http://www.thecanadianencyclopedia.com/index.cfm?PgNm=TCE&amp;Params=A1ARTA0006251</a>&gt;</span></li> 
+       <li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">Rush, K., (1997) Odyssey of an Engineering Researcher, The Engineering Institute of Canada, Eic History &amp; Archives</span></li> 
+       <li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">Engle, T. (1990) Polyethylene, A Modern Plastic From Its Discovery Until Today</span></li> 
+       <li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">Moe, K., 2010, Thermally Active Surfaces in Architecture, Princeton Architectural Press , <a href="/wiki/Special:BookSources/9781568988801" class="internal mw-magiclink-isbn">ISBN 978-1-56898-880-1</a></span></li> 
+       <li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.colglo.co.uk/prod_images/Polyplumb_technical_guide.PDF">https://www.colglo.co.uk/prod_images/Polyplumb_technical_guide.PDF</a></span></li> 
+       <li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text">Kolarik, J., Yang, L., Thermal mass activation (Chpt.5) with Expert Guide Part 2, IEA ECBSC Annex 44, Integrating environmentally responsive elements in buildings, 2009</span></li> 
+       <li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text">Lehmann, B., Dorer, V., Koschenz, M., Application range of thermally activated building systems tabs, Energy and Buildings, 39:593–598, 2007</span></li> 
+       <li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text">Low Temperature Heating Systems, Increased Energy Efficiency and Improved Comfort, Annex 37, International Energy Association &lt; <a rel="nofollow" class="external free" href="http://lowex.org/downloads/lowex-cases%20broshure.pdf">http://lowex.org/downloads/lowex-cases%20broshure.pdf</a>&gt;</span></li> 
+       <li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text">Boerstra A., Op ´t Veld P., Eijdems H. (2000), The health, safety and comfort advantages of low temperature heating systems: a literature review. Proceedings of the Healthy Buildings conference 2000, Espoo, Finland, 6–10 August 2000.</span></li> 
+       <li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text">Eijdems, H.H., Boerrsta, A.C., Op ‘t Veld, P.J., Low temperature heating systems: Impact on IAQ, thermal comfort and energy consumption, the Netherlands Agency for Energy and the Environment (NOVEM) (c.1996)</span></li> 
+       <li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text">Rea, M.D., William J, "Optimum Environments for Optimum Health &amp; Creativity", Environmental Health Center-Dallas, Texas.</span></li> 
+       <li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text">Buying An Allergy-Friendly House: Q and A with Dr. Stephen Lockey, &lt;<a rel="nofollow" class="external free" href="http://www.allergydoctors.com/lockeyqna.html">http://www.allergydoctors.com/lockeyqna.html</a>&gt;</span></li> 
+       <li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text">Asada, H., Boelman, E.C., Exergy analysis of a low temperature radiant heating system, Building Service Engineering , 25:197-209, 2004</span></li> 
+       <li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text">Babiak J., Olesen, B.W., Petráš, D., Low temperature heating and high temperature cooling – Embedded water based surface systems, REHVA Guidebook no. 7, Forssan Kirjapaino Oy- Forssan, Finland, 2007</span></li> 
+       <li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text">Meierhans, R.A., Slab cooling and earth coupling, ASHRAE Transactions, vol. 99(2):511-518, 1993</span></li> 
+       <li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text">Kilkis, B.I., Advantages of combining heat pumps with radiant panel and cooling systems, IEA Heat Pump Centre Newsletter 11 (4): 28-31, 1993</span></li> 
+       <li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text">Chantrasrisalai, C., Ghatti, V. , Fisher, D.E., Scheatzle, D.G., Experimental validation of the EnergyPlus low-temperature radiant simulation, ASHRAE Transactions, vol. 109(2):614-623, 2003</span></li> 
+       <li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text">Chapman, K.S., DeGreef, J.M., Watson, R.D., Thermal comfort analysis using BCAP for retrofitting a radiantly heated residence (RP-907), ASHRAE Transactions, vol. 103(1):959-965, 1997</span></li> 
+       <li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text">De Carli, M., Zarrella, A., Zecchin, R., Comparison between a radiant floor and two radiant walls on heating and cooling energy demand, ASHRAE Transactions, vol. 115(2), Louisville 2009</span></li> 
+       <li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text">Ghatti, V. S., Scheatzle, D. G., Bryan, H., Addison, M., Passive performance of a high-mass residence: actual data vs. simulation, ASHRAE Transactions, vol. 109(2):598-605, 2003</span></li> 
+       <li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text">Cort, K.A., Dirks, J.A., Hostick, D.J., Elliott, D.B., Analyzing the life cycle energy savings of DOE-supported buildings technologies(PNNL-18658), Pacific Northwest National Laboratory (for U.S. Department of Energy), August 2009</span></li> 
+       <li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text">Roth, K.W., Westphalen, D. , Dieckmann, J. , Hamilton, S.D. , Goetzler, W., Energy consumption characteristics of commercial building HVAC systems volume III: energy savings potential, TIAX, 2002</span></li> 
+       <li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text">Analysis of renewable energy potential in the residential sector through high-resolution building-energy simulation, Canada Mortgage and Housing Corporation, Technical Series 08-106, November 2008</span></li> 
+       <li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text">Herkel,S., Miara, M., Kagerer, F. (2010), Systemintegration Solar + Wärmepumpe, Fraunhofer-Institut für Solare Energiesysteme ISE</span></li> 
+       <li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text">Baskin, E., Evaluation of hydronic forced-air and radiant slab heating and cooling systems, ASHRAE Transactions, vol. 111(1):525-534, 2005</span></li> 
+       <li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text">Hoof, J.V., Kort, S.M., Supportive living environments: A first concept of a dwelling designed for older adults with dementia, Dementia, Vol. 8, No. 2, 293-316 (2009) <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1177%2F1471301209103276">10.1177/1471301209103276</a></span></li> 
+       <li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text">Hashiguchi, N., Tochihara, Y., Ohnaka, T., Tsuchida, C., Otsuki, T., Physiological and subjective responses in the elderly when using floor heating and air conditioning systems, Journal of Physiological Anthropology and Applied Human Science, 23: 205–213, 2004</span></li> 
+       <li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text">Springer, W. E., Nevins, R.G., Feyerherm, A.M., Michaels, K.B., Effect of floor surface temperature on comfort: Part III, the elderly, ASHRAE Transactions 72: 292-300, 1966</span></li> 
+       <li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text">Settlement Announced in Class Action with Shell, <a rel="nofollow" class="external free" href="http://www.classaction.ca/pdf/Shell_PBP_PR_Release.pdf">http://www.classaction.ca/pdf/Shell_PBP_PR_Release.pdf</a></span></li> 
+       <li id="cite_note-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-48">^</a></b></span> <span class="reference-text">Galanti v. The Goodyear Tire &amp; Rubber Company and Kelman v. The Goodyear Tire &amp; Rubber Company et al. <a rel="nofollow" class="external free" href="http://www.entraniisettlement.com">http://www.entraniisettlement.com</a></span></li> 
+       <li id="cite_note-49"><span class="mw-cite-backlink"><b><a href="#cite_ref-49">^</a></b></span> <span class="reference-text">Radiant ceiling panels, Ministry of Municipal Affairs, Electric Safety Branch, Province of British Columbia, 1994, <a rel="nofollow" class="external free" href="http://eiabc.org/pdfQuestionSheets/RCHP%20Info%20Package.pdf">http://eiabc.org/pdfQuestionSheets/RCHP%20Info%20Package.pdf</a></span></li> 
+       <li id="cite_note-50"><span class="mw-cite-backlink"><b><a href="#cite_ref-50">^</a></b></span> <span class="reference-text">ACI 318-05 Building Code Requirements for Structural Concrete and Commentary, <a rel="nofollow" class="external free" href="http://www.concrete.org/PUBS/newpubs/318-05.htm">http://www.concrete.org/PUBS/newpubs/318-05.htm</a></span></li> 
+       <li id="cite_note-51"><span class="mw-cite-backlink"><b><a href="#cite_ref-51">^</a></b></span> <span class="reference-text">E.g. Radiant Panel Association, Canadian Institute of Plumbing and Heating, Thermal Environmental Comfort Association of British Columbia, and ISO Standards.</span></li> 
+       <li id="cite_note-52"><span class="mw-cite-backlink"><b><a href="#cite_ref-52">^</a></b></span> <span class="reference-text">Plastic Pipe Institute, The Facts On Cross-Linked Polyethylene (Pex) Pipe Systems, <a rel="nofollow" class="external free" href="http://www.plasticpipe.org/pdf/pex_facts.pdf">http://www.plasticpipe.org/pdf/pex_facts.pdf</a></span></li> 
+       <li id="cite_note-53"><span class="mw-cite-backlink"><b><a href="#cite_ref-53">^</a></b></span> <span class="reference-text">ANSI/ASHRAE 55- Thermal Environmental Conditions for Human Occupancy</span></li> 
+       <li id="cite_note-54"><span class="mw-cite-backlink"><b><a href="#cite_ref-54">^</a></b></span> <span class="reference-text">ISO 7730:2005, Ergonomics of the thermal environment -- Analytical determination and interpretation of thermal comfort using calculation of the PMV and PPD indices and local thermal comfort criteria</span></li> 
+       <li id="cite_note-56"><span class="mw-cite-backlink"><b><a href="#cite_ref-56">^</a></b></span> <span class="reference-text">Bean, R., Kilkis, B., 2010, Short Course on the Fundamentals of Panel Heating and Cooling, American Society of Heating, Refrigerating and Air-Conditioning Engineers, Inc., &lt;<a rel="nofollow" class="external free" href="http://www.ashrae.org/education/page/552">http://www.ashrae.org/education/page/552</a>&gt;</span></li> 
+       <li id="cite_note-57"><span class="mw-cite-backlink"><b><a href="#cite_ref-57">^</a></b></span> <span class="reference-text">Olesen, B., (2004) Radiant heating and cooling by embedded water-based systems, Technical University of Denmark, <a rel="nofollow" class="external free" href="http://www.ashrae.org.sg/Olesen-radiant%20heating%20and%20cooling.pdf">http://www.ashrae.org.sg/Olesen-radiant%20heating%20and%20cooling.pdf</a></span></li> 
+       <li id="cite_note-58"><span class="mw-cite-backlink"><b><a href="#cite_ref-58">^</a></b></span> <span class="reference-text">Mumma, S., 2001, Designing Dedicated Outdoor Air Systems, ASHRAE Journal, 29-31</span></li> 
+       <li id="cite_note-59"><span class="mw-cite-backlink"><b><a href="#cite_ref-59">^</a></b></span> <span class="reference-text">Table 3 Soil Thermal Conductivities, 2008 ASHRAE Handbook—HVAC Systems and Equipment</span></li> 
+       <li id="cite_note-60"><span class="mw-cite-backlink"><b><a href="#cite_ref-60">^</a></b></span> <span class="reference-text">Natural Resources Canada's (NRCan's) validation of new building designs policies and procedures and interpretation of the Model National Energy Code for Commercial Buildings (MNECB), 2009</span></li> 
+       <li id="cite_note-61"><span class="mw-cite-backlink"><b><a href="#cite_ref-61">^</a></b></span> <span class="reference-text">Beausoleil-Morrison, I., Paige Kemery, B., Analysis of basement insulation alternatives, Carleton University, April 2009</span></li> 
+       <li id="cite_note-62"><span class="mw-cite-backlink"><b><a href="#cite_ref-62">^</a></b></span> <span class="reference-text">Wood Handbook, Wood as an Engineering Material, U.S. Department of Agriculture, Forest Service, Forest Products Laboratory, 2010</span></li> 
+       <li id="cite_note-ASH55-64"><span class="mw-cite-backlink">^ <a href="#cite_ref-ASH55_64-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ASH55_64-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">ANSI/ASHRAE Standard 55 - Thermal Environmental Conditions for Human Occupancy</span></li> 
+       <li id="cite_note-65"><span class="mw-cite-backlink"><b><a href="#cite_ref-65">^</a></b></span> <span class="reference-text">ASHRAE 62.1 Ventilation for Acceptable Indoor Air Quality</span></li> 
+       <li id="cite_note-66"><span class="mw-cite-backlink"><b><a href="#cite_ref-66">^</a></b></span> <span class="reference-text">ASHRAE 62.2 Ventilation and Acceptable Indoor Air Quality in Low Rise Residential Buildings</span></li> 
+       <li id="cite_note-67"><span class="mw-cite-backlink"><b><a href="#cite_ref-67">^</a></b></span> <span class="reference-text">Butcher, T., Hydronic baseboard thermal distribution system with outdoor reset control to enable the use of a condensing boiler, Brookhaven National Laboratory, (for) Office of Buildings Technology U.S. Department of Energy, October, 2004</span></li> 
+       <li id="cite_note-68"><span class="mw-cite-backlink"><b><a href="#cite_ref-68">^</a></b></span> <span class="reference-text">Olesen, B., Simmonds, P., Doran, T., Bean, R., Vertically Integrated Systems in Standalone Multi Story Buildings, ASHRAE Journal Vol. 47, 6, June 2005, <a rel="nofollow" class="external free" href="http://doas-radiant.psu.edu/vert_intg_doas_radiant.pdf">http://doas-radiant.psu.edu/vert_intg_doas_radiant.pdf</a></span></li> 
+       <li id="cite_note-69"><span class="mw-cite-backlink"><b><a href="#cite_ref-69">^</a></b></span> <span class="reference-text">Rishel, J.B., Wire-to-Water Efficiency of Pumping Systems, ASHRAE Journal, April, 2001 <a rel="nofollow" class="external free" href="http://www.ashrae.org/docLib/20090715_cummings.pdf">http://www.ashrae.org/docLib/20090715_cummings.pdf</a></span></li> 
+       <li id="cite_note-70"><span class="mw-cite-backlink"><b><a href="#cite_ref-70">^</a></b></span> <span class="reference-text">Fig. 5 Effect of Inlet Water Temperature on Efficiency of Condensing Boilers, Chapter 27, Boilers, 2000 ASHRAE Systems and Equipment Handbook</span></li> 
+       <li id="cite_note-71"><span class="mw-cite-backlink"><b><a href="#cite_ref-71">^</a></b></span> <span class="reference-text">Thornton, B.A., Wang, W., Lane, M.D., Rosenberg, M.I., Liu, B., (September 2009), Technical Support Document: 50% Energy Savings Design Technology Packages for Medium Office Buildings, Pacific Northwest National Laboratory for the U.S. Department of Energy, DE-AC05-76RL01830</span></li> 
+       <li id="cite_note-72"><span class="mw-cite-backlink"><b><a href="#cite_ref-72">^</a></b></span> <span class="reference-text">Jiang, W., Winiarski, D.W., Katipamula, S., Armstrong, P.R., Cost-effective integration of efficient low-lift base-load cooling equipment (Final Report), Pacific Northwest National Laboratory, Prepared for the U.S. Department of Energy Office of Energy Efficiency and Renewable Energy Federal Energy Management Program, December, 2007</span></li> 
+       <li id="cite_note-73"><span class="mw-cite-backlink"><b><a href="#cite_ref-73">^</a></b></span> <span class="reference-text">Fitzgerald, D. Does warm air heating use less energy than radiant heating? A clear answer, Building Serv Eng Res Technol 1983; 4; 26, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1177%2F014362448300400106">10.1177/014362448300400106</a></span></li> 
+       <li id="cite_note-74"><span class="mw-cite-backlink"><b><a href="#cite_ref-74">^</a></b></span> <span class="reference-text">Olesen, B.W., deCarli, M., Embedded Radiant Heating and Cooling Systems: Impact of New European Directive for Energy Performance of Buildings and Related CEN Standardization, Part 3 Calculated Energy Performance of Buildings with Embedded Systems (Draft), 2005, &lt; <a rel="nofollow" class="external free" href="http://www.eu-ray.com/modules.php?name=Downloads&amp;d_op=getit&amp;lid=14">http://www.eu-ray.com/modules.php?name=Downloads&amp;d_op=getit&amp;lid=14</a>&gt;</span></li> 
+       <li id="cite_note-75"><span class="mw-cite-backlink"><b><a href="#cite_ref-75">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.engineeringtoolbox.com/heat-work-energy-d_292.html">Heat, Work and Energy</a></span></li> 
+       <li id="cite_note-76"><span class="mw-cite-backlink"><b><a href="#cite_ref-76">^</a></b></span> <span class="reference-text">Leigh, S.B., Song, D.S., Hwang , S.H., Lee, S.Y., A Study for Evaluating Performance of Radiant Floor Cooling Integrated with Controlled Ventilation, ASHRAE Transactions: Research, 2005</span></li> 
+       <li id="cite_note-77"><span class="mw-cite-backlink"><b><a href="#cite_ref-77">^</a></b></span> <span class="reference-text">Leach, M., Lobato, C., Hirsch, A., Pless, S., Torcellini, P., Technical Support Document: Strategies for 50% Energy Savings in Large Office Buildings, National Renewable Energy Laboratory, Technical Report, NREL/TP-550-49213 , September 2010, &lt;<a rel="nofollow" class="external free" href="http://www.nrel.gov/docs/fy10osti/49213.pdf">http://www.nrel.gov/docs/fy10osti/49213.pdf</a>&gt;</span></li> 
+       <li id="cite_note-78"><span class="mw-cite-backlink"><b><a href="#cite_ref-78">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.lowex.net/">International Energy Agency, Annex 37</a> Low Exergy Systems for Heating and Cooling in Buildings</span></li> 
+       <li id="cite_note-79"><span class="mw-cite-backlink"><b><a href="#cite_ref-79">^</a></b></span> <span class="reference-text">Fig. 9 Design Graph for Heating and Cooling with Floor and Ceiling Panels, Panel Heating and Cooling, 2000 ASHRAE Systems and Equipment Handbook</span></li> 
+       <li id="cite_note-80"><span class="mw-cite-backlink"><b><a href="#cite_ref-80">^</a></b></span> <span class="reference-text">Pedersen, C.O., Fisher, D.E., Lindstrom, P.C. (March, 1997), Impact of Surface Characteristics on Radiant Panel Output, ASHRAE 876 TRP</span></li> 
+       <li id="cite_note-81"><span class="mw-cite-backlink"><b><a href="#cite_ref-81">^</a></b></span> <span class="reference-text">Simmonds, P., Gaw, W., Holst, S., Reuss, S., Using radiant cooled floors to condition large spaces and maintain comfort conditions, ASHRAE Transactions, vol. 106(1):695-701, 2000</span></li> 
+      </ol> 
+     </div> 
+     <h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Underfloor_heating&amp;action=edit&amp;section=26" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <div class="reflist" style="list-style-type: decimal;"> 
+      <ol class="references"> 
+       <li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text">(CHP) (see also <a href="/wiki/Micro_combined_heat_and_power" title="Micro combined heat and power">micro CHP</a> and <a href="/wiki/Home_fuel_cell" title="Home fuel cell">fuel cell</a></span></li> 
+       <li id="cite_note-55"><span class="mw-cite-backlink"><b><a href="#cite_ref-55">^</a></b></span> <span class="reference-text">A sample of design and installation standards:</span> 
+        <ul> 
+         <li><span class="reference-text"><a rel="nofollow" class="external text" href="http://webstore.ansi.org/RecordDetail.aspx?sku=BS+EN+15377-1%3A2008">CEN (EN 15377): (2008), Design of embedded water based surface heating and cooling systems (Europe)</a></span></li> 
+        </ul> 
+        <dl> 
+         <dd> 
+          <dl> 
+           <dd>
+            <span class="reference-text">Part 1: Determination of the design heating and cooling capacity</span>
+           </dd> 
+           <dd>
+            <span class="reference-text">Part 2: Design, dimensioning and installation</span>
+           </dd> 
+           <dd>
+            <span class="reference-text">Part 3: Optimizing for use of renewable energy sources, Brussels, Belgium.</span>
+           </dd> 
+          </dl> 
+         </dd> 
+        </dl> 
+        <ul> 
+         <li><span class="reference-text"><a rel="nofollow" class="external text" href="http://www.beuth.de/cn/d29ya2Zsb3duYW1lPWV4YUJhc2ljU2VhcmNoJmxhbmd1YWdlaWQ9ZW4*.html">CEN (EN 1264) Water based surface embedded heating and cooling systems:(Europe)</a></span></li> 
+        </ul> 
+        <dl> 
+         <dd> 
+          <dl> 
+           <dd>
+            <span class="reference-text">Part 1: Definitions and symbols</span>
+           </dd> 
+           <dd>
+            <span class="reference-text">Part 2: Floor heating: Prove methods for the determination of the thermal output using calculation and test methods</span>
+           </dd> 
+           <dd>
+            <span class="reference-text">Part 3: Dimensioning</span>
+           </dd> 
+           <dd>
+            <span class="reference-text">Part 4: Installation</span>
+           </dd> 
+           <dd>
+            <span class="reference-text">Part 5: Heating and cooling surfaces embedded in floors, ceilings and walls - Determination of the thermal output</span>
+           </dd> 
+          </dl> 
+         </dd> 
+        </dl> 
+        <ul> 
+         <li><span class="reference-text"><a rel="nofollow" class="external text" href="http://www.iso.org/iso/iso_technical_committee?commid=54740">ISO TC 205 Building environment design (International)</a></span></li> 
+        </ul> 
+        <dl> 
+         <dd> 
+          <dl> 
+           <dd>
+            <span class="reference-text">ISO TC 205/ WG 5, Indoor thermal environment</span>
+           </dd> 
+           <dd>
+            <span class="reference-text">ISO TC 205/ WG 8, Radiant heating and cooling systems</span>
+           </dd> 
+           <dd>
+            <span class="reference-text">ISO TC 205/ WG 8, Heating and cooling systems</span>
+           </dd> 
+          </dl> 
+         </dd> 
+        </dl> 
+        <ul> 
+         <li><span class="reference-text"><a rel="nofollow" class="external text" href="http://www.csa.ca/cm/ca/en/b214-hydronic-heating-systems">CSA B214 Installation code for hydronic heating systems (Canada)</a></span></li> 
+         <li><span class="reference-text"><a rel="nofollow" class="external text" href="http://www.radiantpanelassociation.org/i4a/pages/index.cfm?pageid=115/">RPA Guidelines for the Design and Installation of Radiant Panel Heating and Snow/Ice Melt Systems, (United States)</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150428111619/http://webstore.ansi.org/RecordDetail.aspx?sku=BS+EN+15377-1%3A2008">Archived</a> April 28, 2015, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li> 
+        </ul> </li> 
+       <li id="cite_note-63"><span class="mw-cite-backlink"><b><a href="#cite_ref-63">^</a></b></span> <span class="reference-text">A sample of standards for pipes used in underfloor heating:</span> 
+        <ul> 
+         <li><span class="reference-text">ASTM F2623 - Standard Specification for Polyethylene of Raised Temperature (PE-RT) SDR 9 Tubing</span></li> 
+         <li><span class="reference-text">ASTM F2788 - Standard Specification for Crosslinked Polyethylene (PEX) Pipe</span></li> 
+         <li><span class="reference-text">ASTM F876 - Standard Specification for Crosslinked Polyethylene (PEX) Tubing</span></li> 
+         <li><span class="reference-text">ASTM F2657 - Standard Test Method for Outdoor Weathering Exposure of Crosslinked Polyethylene (PEX) Tubing</span></li> 
+         <li><span class="reference-text">CSA B137.5 - Crosslinked Polyethylene (PEX) Tubing Systems for Pressure Applications</span></li> 
+         <li><span class="reference-text">CSA C22.2 NO. 130, Requirements for Electrical Resistance Heating Cables and Heating Device Sets</span></li> 
+         <li><span class="reference-text">UL Standard 1673 – Electric Radiant Heating Cables</span></li> 
+         <li><span class="reference-text">UL Standard 1693 – Electric Radiant Heating Panels and Heating Panel Sets</span></li> 
+        </ul> </li> 
+      </ol> 
+     </div> 
+     <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Underfloor_heating&amp;action=edit&amp;section=27" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>Relevant Industry Organizations, Institutes and Associations (based on contributions to scientific research, standards development and professional education for engineers, architects, interior designers and trades)</p> 
+     <ul> 
+      <li><a rel="nofollow" class="external text" href="http://www.ashrae.org/">American Society of Heating, Refrigerating and Air-Conditioning Engineers (ASHRAE)</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://tc65.ashraetcs.org/">ASHRAE Technical Committee TC 6.5, Radiant and Convective Space Heating and Cooling (ASHRAE T.C. 6.5)</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://tc61.ashraetcs.org/">ASHRAE Technical Committee TC 6.1, Hydronic &amp; Steam Heating Equipment &amp; Systems (ASHRAE T.C. 6.1)</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.aia.org/">American Institute of Architects (AIA)</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.asid.org/">American Society of Interior Designers (ASID)</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.cmhc-schl.gc.ca/en/">Canada Mortgage and Housing Corporation (CMHC)</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.ciph.com/">Canadian Institute of Plumbing &amp; Heating (CIPH)</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.isso.nl/">Dutch Building Services Knowledge Centre (ISSO)</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.sei.ie/index.asp?locID=1011&amp;docID=-1/">Dwellings Energy Assessment Procedure - Ireland (DEAP)</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.rehva.eu/">Federation of European Heating and Air-Conditioning Associations (REHVA)</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.hrai.ca/">Heating, Refrigeration and Air Conditioning Institute of Canada (HRAI)</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.ecbcs.org/annexes/annex37.htm/">International Energy Agency, Energy Conservation in Buildings and Community Systems (IEA/ECBCS)</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.iso.org/iso/iso_technical_committee?commid=54740/">International Organization for Standardization, TC 205/WG 8, Radiant heating and cooling systems (ISO TC205/WG8)</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.nrc-cnrc.gc.ca/eng/projects/irc/air-movement.html/">National Research Council Canada / NRC Institute for Research in Construction, Hydronic Radiant Floor Heating (NRC/IRC)</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.radiantpanelassociation.org/i4a/pages/index.cfm?pageid=1/">Radiant Panel Association (RPA)</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.teca.ca/">Thermal Environmental Comfort Association (TECA)</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.flaechenheizung.de/Home-Node_14108.html">German Association of Surface Heating and Cooling (BVF)</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://beama.org.uk/en/energy/underfloor-heating/">British Underfloor Heating Manufacturers Association (UHMA)</a></li> 
+     </ul> 
+     <table class="navbox" style="border-spacing:0;vertical-align: middle;"> 
+      <tbody>
+       <tr> 
+        <td style="padding:2px"> 
+         <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"> 
+          <tbody>
+           <tr> 
+            <th scope="col" class="navbox-title" colspan="2"> 
+             <div class="plainlinks hlist navbar mini"> 
+              <ul> 
+               <li class="nv-view"><a href="/wiki/Template:HVAC" title="Template:HVAC"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li> 
+               <li class="nv-talk"><a href="/wiki/Template_talk:HVAC" title="Template talk:HVAC"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li> 
+               <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:HVAC&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li> 
+              </ul> 
+             </div> 
+             <div style="font-size:114%">
+              <a href="/wiki/HVAC" title="HVAC">HVAC</a> (Heating, Ventilation, and Air Conditioning)
+             </div> </th> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Fundamental concepts</th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align: middle;"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/Air_changes_per_hour" title="Air changes per hour">Air changes per hour</a></li> 
+               <li><a href="/wiki/Building_envelope" title="Building envelope">Building envelope</a></li> 
+               <li><a href="/wiki/Convection" title="Convection">Convection</a></li> 
+               <li><a href="/wiki/Dilution_(equation)" title="Dilution (equation)">Dilution (equation)</a></li> 
+               <li><a href="/wiki/Domestic_energy_consumption" title="Domestic energy consumption">Domestic energy consumption</a></li> 
+               <li><a href="/wiki/Enthalpy" title="Enthalpy">Enthalpy</a></li> 
+               <li><a href="/wiki/Fluid_dynamics" title="Fluid dynamics">Fluid dynamics</a></li> 
+               <li><a href="/wiki/Gas_compressor" title="Gas compressor">Gas compressor</a></li> 
+               <li><a href="/wiki/Heat_pump_and_refrigeration_cycle" title="Heat pump and refrigeration cycle">Heat pump and refrigeration cycle</a></li> 
+               <li><a href="/wiki/Heat_transfer" title="Heat transfer">Heat transfer</a></li> 
+               <li><a href="/wiki/Infiltration_(HVAC)" title="Infiltration (HVAC)">Infiltration (HVAC)</a></li> 
+               <li><a href="/wiki/Noise_control" title="Noise control">Noise control</a></li> 
+               <li><a href="/wiki/Psychrometrics" title="Psychrometrics">Psychrometrics</a></li> 
+               <li><a href="/wiki/Stack_effect" title="Stack effect">Stack effect</a></li> 
+               <li><a href="/wiki/Thermal_comfort" title="Thermal comfort">Thermal comfort</a></li> 
+               <li><a href="/wiki/Thermal_destratification" title="Thermal destratification">Thermal destratification</a></li> 
+               <li><a href="/wiki/Thermodynamics" title="Thermodynamics">Thermodynamics</a></li> 
+               <li><a href="/wiki/Vapor_pressure_of_water" title="Vapor pressure of water" class="mw-redirect">Vapor pressure of water</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Technology</th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align: middle;"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/Absorption_refrigerator" title="Absorption refrigerator">Absorption refrigerator</a></li> 
+               <li><a href="/wiki/Air_barrier" title="Air barrier">Air barrier</a></li> 
+               <li><a href="/wiki/Air_conditioning" title="Air conditioning">Air conditioning</a></li> 
+               <li><a href="/wiki/Antifreeze" title="Antifreeze">Antifreeze</a></li> 
+               <li><a href="/wiki/Automobile_air_conditioning" title="Automobile air conditioning">Automobile air conditioning</a></li> 
+               <li><a href="/wiki/Autonomous_building" title="Autonomous building">Autonomous building</a></li> 
+               <li><a href="/wiki/Building_insulation_materials" title="Building insulation materials">Building insulation materials</a></li> 
+               <li><a href="/wiki/Central_heating" title="Central heating">Central heating</a></li> 
+               <li><a href="/wiki/Central_solar_heating" title="Central solar heating">Central solar heating</a></li> 
+               <li><a href="/wiki/Chilled_beam" title="Chilled beam">Chilled beam</a></li> 
+               <li><a href="/wiki/Chilled_water" title="Chilled water">Chilled water</a></li> 
+               <li><a href="/wiki/Constant_air_volume" title="Constant air volume">Constant air volume</a></li> 
+               <li><a href="/wiki/Coolant" title="Coolant">Coolant</a></li> 
+               <li><a href="/wiki/Dedicated_outdoor_air_system" title="Dedicated outdoor air system">Dedicated outdoor air system</a></li> 
+               <li><a href="/wiki/Deep_water_source_cooling" title="Deep water source cooling">Deep water source cooling</a></li> 
+               <li><a href="/wiki/Demand-controlled_ventilation" title="Demand-controlled ventilation" class="mw-redirect">Demand-controlled ventilation</a></li> 
+               <li><a href="/wiki/Displacement_ventilation" title="Displacement ventilation">Displacement ventilation</a></li> 
+               <li><a href="/wiki/District_cooling" title="District cooling">District cooling</a></li> 
+               <li><a href="/wiki/District_heating" title="District heating">District heating</a></li> 
+               <li><a href="/wiki/Electric_heating" title="Electric heating">Electric heating</a></li> 
+               <li><a href="/wiki/Energy_recovery_ventilation" title="Energy recovery ventilation">Energy recovery ventilation</a></li> 
+               <li><a href="/wiki/Forced-air" title="Forced-air">Forced-air</a></li> 
+               <li><a href="/wiki/Forced-air_gas" title="Forced-air gas">Forced-air gas</a></li> 
+               <li><a href="/wiki/Free_cooling" title="Free cooling">Free cooling</a></li> 
+               <li><a href="/wiki/Heat_recovery_ventilation" title="Heat recovery ventilation">Heat recovery ventilation</a></li> 
+               <li><a href="/wiki/Hydronics" title="Hydronics">Hydronics</a></li> 
+               <li><a href="/wiki/HVAC" title="HVAC">HVAC</a></li> 
+               <li><a href="/wiki/Ice_storage_air_conditioning" title="Ice storage air conditioning">Ice storage air conditioning</a></li> 
+               <li><a href="/wiki/Kitchen_ventilation" title="Kitchen ventilation">Kitchen ventilation</a></li> 
+               <li><a href="/wiki/Mixed-mode_ventilation" title="Mixed-mode ventilation">Mixed-mode ventilation</a></li> 
+               <li><a href="/wiki/Microgeneration" title="Microgeneration">Microgeneration</a></li> 
+               <li><a href="/wiki/Natural_ventilation" title="Natural ventilation">Natural ventilation</a></li> 
+               <li><a href="/wiki/Passive_cooling" title="Passive cooling">Passive cooling</a></li> 
+               <li><a href="/wiki/Passive_house" title="Passive house">Passive house</a></li> 
+               <li><a href="/wiki/Radiant_cooling" title="Radiant cooling">Radiant cooling</a></li> 
+               <li><a href="/wiki/Radiant_heating" title="Radiant heating">Radiant heating</a></li> 
+               <li><a href="/wiki/Radon_mitigation" title="Radon mitigation">Radon mitigation</a></li> 
+               <li><a href="/wiki/Refrigeration" title="Refrigeration">Refrigeration</a></li> 
+               <li><a href="/wiki/Renewable_heat" title="Renewable heat">Renewable heat</a></li> 
+               <li><a href="/wiki/Room_air_distribution" title="Room air distribution">Room air distribution</a></li> 
+               <li><a href="/wiki/Solar_air_heat" title="Solar air heat">Solar air heat</a></li> 
+               <li><a href="/wiki/Solar_combisystem" title="Solar combisystem">Solar combisystem</a></li> 
+               <li><a href="/wiki/Solar_cooling" title="Solar cooling" class="mw-redirect">Solar cooling</a></li> 
+               <li><a href="/wiki/Solar_heating" title="Solar heating" class="mw-redirect">Solar heating</a></li> 
+               <li><a href="/wiki/Thermal_insulation" title="Thermal insulation">Thermal insulation</a></li> 
+               <li><a href="/wiki/Thermal_mass" title="Thermal mass">Thermal mass</a></li> 
+               <li><a href="/wiki/Underfloor_air_distribution" title="Underfloor air distribution">Underfloor air distribution</a></li> 
+               <li><strong class="selflink">Underfloor heating</strong></li> 
+               <li><a href="/wiki/Vapor_barrier" title="Vapor barrier">Vapor barrier</a></li> 
+               <li><a href="/wiki/Vapor-compression_refrigeration" title="Vapor-compression refrigeration">Vapor-compression refrigeration</a></li> 
+               <li><a href="/wiki/Variable_air_volume" title="Variable air volume">Variable air volume</a></li> 
+               <li><a href="/wiki/Variable_refrigerant_flow" title="Variable refrigerant flow">Variable refrigerant flow</a></li> 
+               <li><a href="/wiki/Ventilation_(architecture)" title="Ventilation (architecture)">Ventilation (architecture)</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Components</th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align: middle;"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/Air_conditioner_inverter" title="Air conditioner inverter">Air conditioner inverter</a></li> 
+               <li><a href="/wiki/Air_filter" title="Air filter">Air filter</a></li> 
+               <li><a href="/wiki/Air_handler" title="Air handler">Air handler</a></li> 
+               <li><a href="/wiki/Air_ionizer" title="Air ionizer" class="mw-redirect">Air ionizer</a></li> 
+               <li><a href="/wiki/Air-mixing_plenum" title="Air-mixing plenum">Air-mixing plenum</a></li> 
+               <li><a href="/wiki/Air_purifier" title="Air purifier">Air purifier</a></li> 
+               <li><a href="/wiki/Air_source_heat_pumps" title="Air source heat pumps">Air source heat pumps</a></li> 
+               <li><a href="/wiki/Back_boiler" title="Back boiler">Back boiler</a></li> 
+               <li><a href="/wiki/Barrier_pipe" title="Barrier pipe">Barrier pipe</a></li> 
+               <li><a href="/wiki/Blast_damper" title="Blast damper">Blast damper</a></li> 
+               <li><a href="/wiki/Boiler" title="Boiler">Boiler</a></li> 
+               <li><a href="/wiki/Centrifugal_fan" title="Centrifugal fan">Centrifugal fan</a></li> 
+               <li><a href="/wiki/Chiller" title="Chiller">Chiller</a></li> 
+               <li><a href="/wiki/Condensate_pump" title="Condensate pump">Condensate pump</a></li> 
+               <li><a href="/wiki/Condenser_(heat_transfer)" title="Condenser (heat transfer)">Condenser (heat transfer)</a></li> 
+               <li><a href="/wiki/Condensing_boiler" title="Condensing boiler">Condensing boiler</a></li> 
+               <li><a href="/wiki/Convection_heater" title="Convection heater">Convection heater</a></li> 
+               <li><a href="/wiki/Cooling_tower" title="Cooling tower">Cooling tower</a></li> 
+               <li><a href="/wiki/Damper_(flow)" title="Damper (flow)">Damper (flow)</a></li> 
+               <li><a href="/wiki/Dehumidifier" title="Dehumidifier">Dehumidifier</a></li> 
+               <li><a href="/wiki/Duct_(flow)" title="Duct (flow)">Duct (flow)</a></li> 
+               <li><a href="/wiki/Durable_elbow_support" title="Durable elbow support">Durable elbow support</a></li> 
+               <li><a href="/wiki/Economizer" title="Economizer">Economizer</a></li> 
+               <li><a href="/wiki/Electrostatic_precipitator" title="Electrostatic precipitator">Electrostatic precipitator</a></li> 
+               <li><a href="/wiki/Evaporative_cooler" title="Evaporative cooler">Evaporative cooler</a></li> 
+               <li><a href="/wiki/Evaporator" title="Evaporator">Evaporator</a></li> 
+               <li><a href="/wiki/Exhaust_hood" title="Exhaust hood">Exhaust hood</a></li> 
+               <li><a href="/wiki/Expansion_tank" title="Expansion tank">Expansion tank</a></li> 
+               <li><a href="/wiki/Fan_coil_unit" title="Fan coil unit">Fan coil unit</a></li> 
+               <li><a href="/wiki/Fan_heater" title="Fan heater">Fan heater</a></li> 
+               <li><a href="/wiki/Fire_damper" title="Fire damper">Fire damper</a></li> 
+               <li><a href="/wiki/Fireplace" title="Fireplace">Fireplace</a></li> 
+               <li><a href="/wiki/Fireplace_insert" title="Fireplace insert">Fireplace insert</a></li> 
+               <li><a href="/wiki/Firestop" title="Firestop">Firestop</a></li> 
+               <li><a href="/wiki/Freeze_stat" title="Freeze stat">Freeze stat</a></li> 
+               <li><a href="/wiki/Flue" title="Flue">Flue</a></li> 
+               <li><a href="/wiki/Freon" title="Freon">Freon</a></li> 
+               <li><a href="/wiki/Fume_hood" title="Fume hood">Fume hood</a></li> 
+               <li><a href="/wiki/Furnace" title="Furnace">Furnace</a></li> 
+               <li><a href="/wiki/Furnace_room" title="Furnace room">Furnace room</a></li> 
+               <li><a href="/wiki/Gas_compressor" title="Gas compressor">Gas compressor</a></li> 
+               <li><a href="/wiki/Gas_heater" title="Gas heater">Gas heater</a></li> 
+               <li><a href="/wiki/Geothermal_heat_pump" title="Geothermal heat pump">Geothermal heat pump</a></li> 
+               <li><a href="/wiki/Grease_duct" title="Grease duct">Grease duct</a></li> 
+               <li><a href="/wiki/Grille" title="Grille">Grille</a></li> 
+               <li><a href="/wiki/Ground-coupled_heat_exchanger" title="Ground-coupled heat exchanger">Ground-coupled heat exchanger</a></li> 
+               <li><a href="/wiki/Heat_exchanger" title="Heat exchanger">Heat exchanger</a></li> 
+               <li><a href="/wiki/Heat_pipe" title="Heat pipe">Heat pipe</a></li> 
+               <li><a href="/wiki/Heat_pump" title="Heat pump">Heat pump</a></li> 
+               <li><a href="/wiki/Heating_film" title="Heating film">Heating film</a></li> 
+               <li><a href="/wiki/Heating_system" title="Heating system">Heating system</a></li> 
+               <li><a href="/wiki/High_efficiency_glandless_circulating_pump" title="High efficiency glandless circulating pump">High efficiency glandless circulating pump</a></li> 
+               <li><a href="/wiki/High-efficiency_particulate_air" title="High-efficiency particulate air" class="mw-redirect">High-efficiency particulate air</a> (HEPA)</li> 
+               <li><a href="/wiki/High_pressure_cut_off_switch" title="High pressure cut off switch">High pressure cut off switch</a></li> 
+               <li><a href="/wiki/Humidifier" title="Humidifier">Humidifier</a></li> 
+               <li><a href="/wiki/Hybrid_heat" title="Hybrid heat">Hybrid heat</a></li> 
+               <li><a href="/wiki/Infrared_heater" title="Infrared heater">Infrared heater</a></li> 
+               <li><a href="/wiki/Inverter_compressor" title="Inverter compressor">Inverter compressor</a></li> 
+               <li><a href="/wiki/Louver" title="Louver">Louver</a></li> 
+               <li><a href="/wiki/Mechanical_fan" title="Mechanical fan">Mechanical fan</a></li> 
+               <li><a href="/wiki/Mechanical_room" title="Mechanical room">Mechanical room</a></li> 
+               <li><a href="/wiki/Oil_heater" title="Oil heater">Oil heater</a></li> 
+               <li><a href="/wiki/Packaged_terminal_air_conditioner" title="Packaged terminal air conditioner">Packaged terminal air conditioner</a></li> 
+               <li><a href="/wiki/Plenum_space" title="Plenum space">Plenum space</a></li> 
+               <li><a href="/wiki/Pressurisation_ductwork" title="Pressurisation ductwork">Pressurisation ductwork</a></li> 
+               <li><a href="/wiki/Radiator_(heating)" title="Radiator (heating)">Radiator (heating)</a></li> 
+               <li><a href="/wiki/Radiator_reflector" title="Radiator reflector">Radiator reflector</a></li> 
+               <li><a href="/wiki/Recuperator" title="Recuperator">Recuperator</a></li> 
+               <li><a href="/wiki/Refrigerant" title="Refrigerant">Refrigerant</a></li> 
+               <li><a href="/wiki/Register_(air_and_heating)" title="Register (air and heating)">Register</a></li> 
+               <li><a href="/wiki/Reversing_valve" title="Reversing valve">Reversing valve</a></li> 
+               <li><a href="/wiki/Run-around_coil" title="Run-around coil">Run-around coil</a></li> 
+               <li><a href="/wiki/Scroll_compressor" title="Scroll compressor">Scroll compressor</a></li> 
+               <li><a href="/wiki/Solar_chimney" title="Solar chimney">Solar chimney</a></li> 
+               <li><a href="/wiki/Space_heater" title="Space heater">Space heater</a></li> 
+               <li><a href="/wiki/Smoke_exhaust_ductwork" title="Smoke exhaust ductwork">Smoke exhaust ductwork</a></li> 
+               <li><a href="/wiki/Thermal_expansion_valve" title="Thermal expansion valve">Thermal expansion valve</a></li> 
+               <li><a href="/wiki/Thermal_wheel" title="Thermal wheel">Thermal wheel</a></li> 
+               <li><a href="/wiki/Thermosiphon" title="Thermosiphon">Thermosiphon</a></li> 
+               <li><a href="/wiki/Thermostatic_radiator_valve" title="Thermostatic radiator valve">Thermostatic radiator valve</a></li> 
+               <li><a href="/wiki/Trickle_vent" title="Trickle vent">Trickle vent</a></li> 
+               <li><a href="/wiki/Trombe_wall" title="Trombe wall">Trombe wall</a></li> 
+               <li><a href="/wiki/Turning_vanes_(HVAC)" title="Turning vanes (HVAC)">Turning vanes (HVAC)</a></li> 
+               <li><a href="/wiki/Ultra-low_particulate_air" title="Ultra-low particulate air">Ultra-low particulate air</a> (ULPA)</li> 
+               <li><a href="/wiki/Whole-house_fan" title="Whole-house fan">Whole-house fan</a></li> 
+               <li><a href="/wiki/Windcatcher" title="Windcatcher">Windcatcher</a></li> 
+               <li><a href="/wiki/Wood-burning_stove" title="Wood-burning stove">Wood-burning stove</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Measurement and control</th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align: middle;"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/Air_flow_meter" title="Air flow meter">Air flow meter</a></li> 
+               <li><a href="/wiki/Aquastat" title="Aquastat">Aquastat</a></li> 
+               <li><a href="/wiki/BACnet" title="BACnet">BACnet</a></li> 
+               <li><a href="/wiki/Blower_door" title="Blower door">Blower door</a></li> 
+               <li><a href="/wiki/Building_automation" title="Building automation">Building automation</a></li> 
+               <li><a href="/wiki/Clean_Air_Delivery_Rate" title="Clean Air Delivery Rate">Clean Air Delivery Rate</a> (CADR)</li> 
+               <li><a href="/wiki/Gas_sensor" title="Gas sensor" class="mw-redirect">Gas sensor</a></li> 
+               <li><a href="/wiki/Home_energy_monitor" title="Home energy monitor">Home energy monitor</a></li> 
+               <li><a href="/wiki/Humidistat" title="Humidistat">Humidistat</a></li> 
+               <li><a href="/wiki/HVAC_control_system" title="HVAC control system">HVAC control system</a></li> 
+               <li><a href="/wiki/Intelligent_buildings" title="Intelligent buildings" class="mw-redirect">Intelligent buildings</a></li> 
+               <li><a href="/wiki/LonWorks" title="LonWorks">LonWorks</a></li> 
+               <li><a href="/wiki/Minimum_efficiency_reporting_value" title="Minimum efficiency reporting value">Minimum efficiency reporting value</a> (MERV)</li> 
+               <li><a href="/wiki/OpenTherm" title="OpenTherm">OpenTherm</a></li> 
+               <li><a href="/wiki/Programmable_communicating_thermostat" title="Programmable communicating thermostat">Programmable communicating thermostat</a></li> 
+               <li><a href="/wiki/Programmable_thermostat" title="Programmable thermostat">Programmable thermostat</a></li> 
+               <li><a href="/wiki/Psychrometrics" title="Psychrometrics">Psychrometrics</a></li> 
+               <li><a href="/wiki/Room_temperature" title="Room temperature">Room temperature</a></li> 
+               <li><a href="/wiki/Smart_thermostat" title="Smart thermostat">Smart thermostat</a></li> 
+               <li><a href="/wiki/Thermostat" title="Thermostat">Thermostat</a></li> 
+               <li><a href="/wiki/Thermostatic_radiator_valve" title="Thermostatic radiator valve">Thermostatic radiator valve</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Professions, trades, and services</th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align: middle;"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/Architectural_acoustics" title="Architectural acoustics">Architectural acoustics</a></li> 
+               <li><a href="/wiki/Architectural_engineering" title="Architectural engineering">Architectural engineering</a></li> 
+               <li><a href="/wiki/Architectural_technologist" title="Architectural technologist">Architectural technologist</a></li> 
+               <li><a href="/wiki/Building_services_engineering" title="Building services engineering">Building services engineering</a></li> 
+               <li><a href="/wiki/Building_information_modeling" title="Building information modeling">BIM</a></li> 
+               <li><a href="/wiki/Deep_energy_retrofit" title="Deep energy retrofit">Deep energy retrofit</a></li> 
+               <li><a href="/wiki/Duct_leakage_testing" title="Duct leakage testing">Duct leakage testing</a></li> 
+               <li><a href="/wiki/Environmental_engineering" title="Environmental engineering">Environmental engineering</a></li> 
+               <li><a href="/wiki/Hydronic_balancing" title="Hydronic balancing">Hydronic balancing</a></li> 
+               <li><a href="/wiki/Kitchen_exhaust_cleaning" title="Kitchen exhaust cleaning">Kitchen exhaust cleaning</a></li> 
+               <li><a href="/wiki/Mechanical_engineering" title="Mechanical engineering">Mechanical engineering</a></li> 
+               <li><a href="/wiki/Mechanical,_electrical,_and_plumbing" title="Mechanical, electrical, and plumbing">Mechanical, electrical, and plumbing</a></li> 
+               <li><a href="/wiki/Mold_growth,_assessment,_and_remediation" title="Mold growth, assessment, and remediation">Mold growth, assessment, and remediation</a></li> 
+               <li><a href="/wiki/Refrigerant_reclamation" title="Refrigerant reclamation">Refrigerant reclamation</a></li> 
+               <li><a href="/wiki/Testing,_adjusting,_balancing" title="Testing, adjusting, balancing">Testing, adjusting, balancing</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Industry organizations</th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align: middle;"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/Air_Conditioning_Contractors_of_America" title="Air Conditioning Contractors of America">ACCA</a></li> 
+               <li><a href="/wiki/Air_Movement_and_Control_Association" title="Air Movement and Control Association">AMCA</a></li> 
+               <li><a href="/wiki/ASHRAE" title="ASHRAE">ASHRAE</a></li> 
+               <li><a href="/wiki/ASTM_International" title="ASTM International">ASTM International</a></li> 
+               <li><a href="/wiki/Building_Research_Establishment" title="Building Research Establishment">BRE</a></li> 
+               <li><a href="/wiki/BSRIA" title="BSRIA">BSRIA</a></li> 
+               <li><a href="/wiki/Chartered_Institution_of_Building_Services_Engineers" title="Chartered Institution of Building Services Engineers">CIBSE</a></li> 
+               <li><a href="/wiki/Leadership_in_Energy_and_Environmental_Design" title="Leadership in Energy and Environmental Design">LEED</a></li> 
+               <li><a href="/wiki/Sheet_Metal_and_Air_Conditioning_Contractors%27_National_Association" title="Sheet Metal and Air Conditioning Contractors' National Association">SMACNA</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Health and safety</th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align: middle;"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/Indoor_air_quality" title="Indoor air quality">Indoor air quality</a></li> 
+               <li><a href="/wiki/Passive_smoking" title="Passive smoking">Passive smoking</a></li> 
+               <li><a href="/wiki/Sick_building_syndrome" title="Sick building syndrome">Sick building syndrome</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">See also</th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align: middle;"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/ASHRAE_Handbook" title="ASHRAE Handbook">ASHRAE Handbook</a></li> 
+               <li><a href="/wiki/Building_science" title="Building science">Building science</a></li> 
+               <li><a href="/wiki/Fireproofing" title="Fireproofing">Fireproofing</a></li> 
+               <li><a href="/wiki/Glossary_of_HVAC_terms" title="Glossary of HVAC terms">Glossary of HVAC terms</a></li> 
+               <li><a href="/wiki/Template:Home_automation" title="Template:Home automation">Template:Home automation</a></li> 
+               <li><a href="/wiki/Template:Solar_energy" title="Template:Solar energy">Template:Solar energy</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+          </tbody>
+         </table> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <table class="navbox" style="border-spacing:0"> 
+      <tbody>
+       <tr> 
+        <td style="padding:2px"> 
+         <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"> 
+          <tbody>
+           <tr> 
+            <th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th> 
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.ndl.go.jp/auth/ndlna/01164813">01164813</a></span></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+          </tbody>
+         </table> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <!-- 
+NewPP limit report
+Parsed by mw1124
+Cached time: 20160316050246
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.393 seconds
+Real time usage: 0.466 seconds
+Preprocessor visited node count: 2524/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 34208/2097152 bytes
+Template argument size: 1427/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 0/500
+Lua time usage: 0.039/10.000 seconds
+Lua memory usage: 1.34 MB/50 MB
+Number of Wikibase entities loaded: 1--> 
+     <!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  253.724      1 - -total
+ 33.95%   86.149      2 - Template:Reflist
+ 23.72%   60.186      1 - Template:Citation_needed
+ 15.70%   39.836      1 - Template:Fix
+ 14.05%   35.659      2 - Template:Category_handler
+  8.95%   22.709      1 - Template:HVAC
+  7.84%   19.898      1 - Template:Commons_category
+  7.74%   19.638      1 - Template:Authority_control
+  7.37%   18.707      1 - Template:Navbox
+  5.87%   14.894      1 - Template:Commons
+--> 
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:4932518-0!*!0!!en!4!* and timestamp 20160316050246 and revision id 710307498
+ --> 
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript>
+    </div> 
+    <div class="printfooter">
+      Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Underfloor_heating&amp;oldid=710307498">https://en.wikipedia.org/w/index.php?title=Underfloor_heating&amp;oldid=710307498</a>" 
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Residential_heating" title="Category:Residential heating">Residential heating</a></li>
+       <li><a href="/wiki/Category:Heating,_ventilating,_and_air_conditioning" title="Category:Heating, ventilating, and air conditioning">Heating, ventilating, and air conditioning</a></li>
+       <li><a href="/wiki/Category:Ancient_inventions" title="Category:Ancient inventions">Ancient inventions</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li>
+       <li><a href="/wiki/Category:Articles_with_unsourced_statements_from_December_2015" title="Category:Articles with unsourced statements from December 2015">Articles with unsourced statements from December 2015</a></li>
+       <li><a href="/wiki/Category:Commons_category_with_page_title_same_as_on_Wikidata" title="Category:Commons category with page title same as on Wikidata">Commons category with page title same as on Wikidata</a></li>
+      </ul>
+     </div>
+    </div> 
+    <div class="visualClear"></div> 
+   </div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> 
+    <div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label"> 
+     <h3 id="p-personal-label">Personal tools</h3> 
+     <ul> 
+      <li id="pt-anonuserpage">Not logged in</li>
+      <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+      <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+      <li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Underfloor+heating&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+      <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Underfloor+heating" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li> 
+     </ul> 
+    </div> 
+    <div id="left-navigation"> 
+     <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label"> 
+      <h3 id="p-namespaces-label">Namespaces</h3> 
+      <ul> 
+       <li id="ca-nstab-main" class="selected"><span><a href="/wiki/Underfloor_heating" title="View the content page [c]" accesskey="c">Article</a></span></li> 
+       <li id="ca-talk"><span><a href="/wiki/Talk:Underfloor_heating" title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span><a href="#"></a> </h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="right-navigation"> 
+     <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label"> 
+      <h3 id="p-views-label">Views</h3> 
+      <ul> 
+       <li id="ca-view" class="selected"><span><a href="/wiki/Underfloor_heating">Read</a></span></li> 
+       <li id="ca-edit"><span><a href="/w/index.php?title=Underfloor_heating&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li> 
+       <li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Underfloor_heating&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch"> 
+        <input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput">
+        <input type="hidden" value="Special:Search" name="title">
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton">
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a>
+    </div> 
+    <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label"> 
+     <h3 id="p-navigation-label">Navigation</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+       <li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label"> 
+     <h3 id="p-interaction-label">Interaction</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label"> 
+     <h3 id="p-tb-label">Tools</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Underfloor_heating" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Underfloor_heating" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Underfloor_heating&amp;oldid=710307498" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Underfloor_heating&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q1431222" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Underfloor_heating&amp;id=710307498" title="Information on how to cite this page">Cite this page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label"> 
+     <h3 id="p-coll-print_export-label">Print/export</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Underfloor+heating">Create a book</a></li>
+       <li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Underfloor+heating&amp;returnto=Underfloor+heating&amp;oldid=710307498&amp;writer=rdf2latex">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Underfloor_heating&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label"> 
+     <h3 id="p-wikibase-otherprojects-label">In other projects</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Underfloor_heating" hreflang="en">Wikimedia Commons</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label"> 
+     <h3 id="p-lang-label">Languages</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Terra_radiant" title="Terra radiant – Catalan" lang="ca" hreflang="ca">Català</a></li>
+       <li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Fu%C3%9Fbodenheizung" title="Fußbodenheizung – German" lang="de" hreflang="de">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Suelo_radiante" title="Suelo radiante – Spanish" lang="es" hreflang="es">Español</a></li>
+       <li class="interlanguage-link interwiki-eu"><a href="//eu.wikipedia.org/wiki/Zoru_irradiatzaile" title="Zoru irradiatzaile – Basque" lang="eu" hreflang="eu">Euskara</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Plancher_chauffant" title="Plancher chauffant – French" lang="fr" hreflang="fr">Français</a></li>
+       <li class="interlanguage-link interwiki-hr"><a href="//hr.wikipedia.org/wiki/Podno_grijanje" title="Podno grijanje – Croatian" lang="hr" hreflang="hr">Hrvatski</a></li>
+       <li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Pannelli_radianti" title="Pannelli radianti – Italian" lang="it" hreflang="it">Italiano</a></li>
+       <li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%97%D7%99%D7%9E%D7%95%D7%9D_%D7%AA%D7%AA-%D7%A8%D7%A6%D7%A4%D7%AA%D7%99" title="חימום תת-רצפתי – Hebrew" lang="he" hreflang="he">עברית</a></li>
+       <li class="interlanguage-link interwiki-lt"><a href="//lt.wikipedia.org/wiki/Grindinis_%C5%A1ildymas" title="Grindinis šildymas – Lithuanian" lang="lt" hreflang="lt">Lietuvių</a></li>
+       <li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/Padl%C3%B3f%C5%B1t%C3%A9s" title="Padlófűtés – Hungarian" lang="hu" hreflang="hu">Magyar</a></li>
+       <li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Vloerverwarming" title="Vloerverwarming – Dutch" lang="nl" hreflang="nl">Nederlands</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E5%BA%8A%E6%9A%96%E6%88%BF" title="床暖房 – Japanese" lang="ja" hreflang="ja">日本語</a></li>
+       <li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/%C3%8Enc%C4%83lzire_prin_pardoseal%C4%83" title="Încălzire prin pardoseală – Romanian" lang="ro" hreflang="ro">Română</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A2%D1%91%D0%BF%D0%BB%D1%8B%D0%B9_%D0%BF%D0%BE%D0%BB" title="Тёплый пол – Russian" lang="ru" hreflang="ru">Русский</a></li>
+       <li class="interlanguage-link interwiki-sl"><a href="//sl.wikipedia.org/wiki/Talno_ogrevanje" title="Talno ogrevanje – Slovenian" lang="sl" hreflang="sl">Slovenščina</a></li>
+       <li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Lattial%C3%A4mmitys" title="Lattialämmitys – Finnish" lang="fi" hreflang="fi">Suomi</a></li>
+       <li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Golvv%C3%A4rme" title="Golvvärme – Swedish" lang="sv" hreflang="sv">Svenska</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BF%D0%BB%D0%B0_%D0%BF%D1%96%D0%B4%D0%BB%D0%BE%D0%B3%D0%B0" title="Тепла підлога – Ukrainian" lang="uk" hreflang="uk">Українська</a></li>
+       <li class="interlanguage-link interwiki-zh-yue"><a href="//zh-yue.wikipedia.org/wiki/%E5%9C%B0%E6%9A%96%E7%B3%BB%E7%B5%B1" title="地暖系統 – Cantonese" lang="zh-yue" hreflang="zh-yue">粵語</a></li>
+       <li class="uls-p-lang-dummy"><a href="#"></a></li> 
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q1431222#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last modified on 16 March 2016, at 05:02.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-cookiestatement"><a href="//wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Underfloor_heating&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"> <a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"></a> </li> 
+    <li id="footer-poweredbyico"> <a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"></a> </li> 
+   </ul> 
+   <div style="clear:both"></div> 
+  </div> 
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.wikimediaEvents","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script>
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.config.set({"wgBackendResponseTime":118,"wgHostname":"mw1076"}); /* @nomin */
+} );</script>   
+ </body>
+</html>

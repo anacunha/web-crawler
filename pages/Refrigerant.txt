@@ -1,0 +1,518 @@
+https://en.wikipedia.org/wiki/Refrigerant
+<!doctype html>
+<html lang="en" dir="ltr" class="client-nojs">
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Refrigerant - Wikipedia, the free encyclopedia</title> 
+  <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script> 
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Refrigerant","wgTitle":"Refrigerant","wgCurRevisionId":709326405,"wgRevisionId":709326405,"wgArticleId":592486,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from December 2013","All articles needing additional references","All articles with unsourced statements","Articles with unsourced statements from December 2013","Accuracy disputes from May 2013","All accuracy disputes","Articles using small message boxes","Articles with unsourced statements from August 2015","Heating, ventilating, and air conditioning","Refrigerants","Industrial gases"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Refrigerant","wgRelevantArticleId":592486,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCentralAuthMobileDomain":false,"wgWikibaseItemId":"Q266790","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script> 
+  <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script> 
+  <meta name="generator" content="MediaWiki 1.27.0-wmf.17"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Refrigerant"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Refrigerant&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Refrigerant&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Refrigerant"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Refrigerant skin-vector action-view"> 
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> 
+   <a id="top"></a> 
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Refrigerant</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="jump-to-nav" class="mw-jump">
+      Jump to: 
+     <a href="#mw-head">navigation</a>, 
+     <a href="#p-search">search</a> 
+    </div> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <p>A <b>refrigerant</b> is a substance or mixture, usually a <a href="/wiki/Fluid" title="Fluid">fluid</a>, used in a <a href="/wiki/Heat_pump_and_refrigeration_cycle" title="Heat pump and refrigeration cycle">heat pump and refrigeration cycle</a>. In most cycles it undergoes <a href="/wiki/Phase_transition" title="Phase transition">phase transitions</a> from a <a href="/wiki/Liquid" title="Liquid">liquid</a> to a <a href="/wiki/Gas" title="Gas">gas</a> and back again. Many <a href="/wiki/Working_fluid" title="Working fluid">working fluids</a> have been used for such purposes. <a href="/wiki/Organofluorine_chemistry" title="Organofluorine chemistry">Fluorocarbons</a>, especially <a href="/wiki/Chlorofluorocarbon" title="Chlorofluorocarbon">chlorofluorocarbons</a>, became commonplace in the 20th century, but they are being phased out because of their <a href="/wiki/Ozone_depletion" title="Ozone depletion">ozone depletion</a> effects. Other common refrigerants used in various applications are <a href="/wiki/Ammonia" title="Ammonia">ammonia</a>, <a href="/wiki/Sulfur_dioxide" title="Sulfur dioxide">sulfur dioxide</a>, and non-halogenated <a href="/wiki/Hydrocarbons" title="Hydrocarbons" class="mw-redirect">hydrocarbons</a> such as <a href="/wiki/Propane" title="Propane">propane</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></p> 
+     <p>The ideal refrigerant would have favorable <a href="/wiki/Thermodynamic" title="Thermodynamic" class="mw-redirect">thermodynamic</a> properties, be <a href="/wiki/Corrosive" title="Corrosive" class="mw-redirect">noncorrosive</a> to mechanical components, and be safe, including free from <a href="/wiki/Toxicity" title="Toxicity">toxicity</a> and <a href="/wiki/Flammability" title="Flammability">flammability</a>. It would not cause <a href="/wiki/Ozone_depletion" title="Ozone depletion">ozone depletion</a> or <a href="/wiki/Climate_change" title="Climate change">climate change</a>. Since different fluids have the desired traits in different degree, choice is a matter of <a href="/wiki/Trade-off" title="Trade-off">trade-off</a>.</p> 
+     <p>The desired thermodynamic properties are a <a href="/wiki/Boiling_point" title="Boiling point">boiling point</a> somewhat below the target temperature, a high <a href="/wiki/Heat_of_vaporization" title="Heat of vaporization" class="mw-redirect">heat of vaporization</a>, a moderate <a href="/wiki/Density" title="Density">density</a> in liquid form, a relatively high density in gaseous form, and a high <a href="/wiki/Critical_point_(thermodynamics)" title="Critical point (thermodynamics)">critical temperature</a>. Since boiling point and gas density are affected by <a href="/wiki/Pressure" title="Pressure">pressure</a>, refrigerants may be made more suitable for a particular application by choice of operating pressures.</p> 
+     <p></p> 
+     <div id="toc" class="toc"> 
+      <div id="toctitle"> 
+       <h2>Contents</h2> 
+      </div> 
+      <ul> 
+       <li class="toclevel-1 tocsection-1"><a href="#Refrigerant_environmental_issues"><span class="tocnumber">1</span> <span class="toctext">Refrigerant environmental issues</span></a></li> 
+       <li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li> 
+       <li class="toclevel-1 tocsection-3"><a href="#Uses"><span class="tocnumber">3</span> <span class="toctext">Uses</span></a></li> 
+       <li class="toclevel-1 tocsection-4"><a href="#Disposal"><span class="tocnumber">4</span> <span class="toctext">Disposal</span></a></li> 
+       <li class="toclevel-1 tocsection-5"><a href="#Refrigerants_by_class_and_R-number"><span class="tocnumber">5</span> <span class="toctext">Refrigerants by class and R-number</span></a> 
+        <ul> 
+         <li class="toclevel-2 tocsection-6"><a href="#Notable_blends"><span class="tocnumber">5.1</span> <span class="toctext">Notable blends</span></a></li> 
+        </ul> </li> 
+       <li class="toclevel-1 tocsection-7"><a href="#Air_as_a_refrigerant"><span class="tocnumber">6</span> <span class="toctext">Air as a refrigerant</span></a></li> 
+       <li class="toclevel-1 tocsection-8"><a href="#Water_as_a_refrigerant"><span class="tocnumber">7</span> <span class="toctext">Water as a refrigerant</span></a></li> 
+       <li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li> 
+       <li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li> 
+       <li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li> 
+      </ul> 
+     </div> 
+     <p></p> 
+     <h2><span class="mw-headline" id="Refrigerant_environmental_issues">Refrigerant environmental issues</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refrigerant&amp;action=edit&amp;section=1" title="Edit section: Refrigerant environmental issues">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>The inert nature of many <a href="/wiki/Haloalkane" title="Haloalkane">halons</a>, <a href="/wiki/Chlorofluorocarbon" title="Chlorofluorocarbon">chlorofluorocarbons</a> (CFC) and <a href="/wiki/Hydrochlorofluorocarbon" title="Hydrochlorofluorocarbon" class="mw-redirect">hydrochlorofluorocarbons</a> (HCFC), with the benefits of their being nonflammable and nontoxic, made them good choices as refrigerants, but their stability in the atmosphere and their corresponding <a href="/wiki/Global_warming_potential" title="Global warming potential">global warming potential</a> and <a href="/wiki/Ozone_depletion_potential" title="Ozone depletion potential">ozone depletion potential</a> raised concerns about their usage. In order from the highest to the lowest potential of ozone depletion are Bromochlorofluorocarbon, CFC then HCFC. Though <a href="/wiki/Hydrofluorocarbons" title="Hydrofluorocarbons" class="mw-redirect">HFC</a> and <a href="/wiki/Fluorocarbon" title="Fluorocarbon">PFC</a> are non-ozone depleting, many have global warming potentials that are thousands of times greater than CO<sub>2</sub>. Some other refrigerants such as <a href="/wiki/Propane" title="Propane">propane</a> and <a href="/wiki/Ammonia" title="Ammonia">ammonia</a> are not inert, and are flammable or toxic if released.</p> 
+     <p>New refrigerants were developed in the early 21st century that are safer for the environment, but their application has been held up due to concerns over toxicity and flammability.<sup id="cite_ref-increase_2-0" class="reference"><a href="#cite_note-increase-2"><span>[</span>2<span>]</span></a></sup></p> 
+     <h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refrigerant&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <table class="metadata plainlinks ambox ambox-content ambox-Unreferenced" role="presentation"> 
+      <tbody>
+       <tr> 
+        <td class="mbox-image"> 
+         <div style="width:52px">
+          <a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="262" data-file-height="204"></a>
+         </div> </td> 
+        <td class="mbox-text"><span class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>. <span class="hide-when-compact">Please help improve this section by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(December 2013)</i></small></span></td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <p>Early mechanical refrigeration systems employed <a href="/wiki/Sulfur_dioxide" title="Sulfur dioxide">sulfur dioxide</a>, <a href="/wiki/Methyl_chloride" title="Methyl chloride" class="mw-redirect">methyl chloride</a> and <a href="/wiki/Ammonia" title="Ammonia">ammonia</a>. Being toxic, sulfur dioxide and methyl chloride rapidly disappeared from the market with the introduction of CFCs. Occasionally, one may encounter older machines with <a href="/wiki/Methyl_formate" title="Methyl formate">methyl formate</a>, <a href="/wiki/Chloromethane" title="Chloromethane">chloromethane</a>, or <a href="/wiki/Dichloromethane" title="Dichloromethane">dichloromethane</a> (called carrene in the trade).</p> 
+     <p><a href="/wiki/Chlorofluorocarbon" title="Chlorofluorocarbon">Chlorofluorocarbons</a> were little used for refrigeration until better synthesis methods, developed in the 1950s, reduced their cost. Their domination of the market was called into question in the 1980s by concerns about depletion of the <a href="/wiki/Ozone_layer" title="Ozone layer">ozone layer</a>.</p> 
+     <p>Following legislative regulations on ozone depleting <a href="/wiki/Chlorofluorocarbon" title="Chlorofluorocarbon">chlorofluorocarbons</a> (CFCs) and <a href="/wiki/Hydrochlorofluorocarbon" title="Hydrochlorofluorocarbon" class="mw-redirect">hydrochlorofluorocarbons</a> (HCFCs), substances used as substitute refrigerants such as <a href="/wiki/Perfluorocarbon" title="Perfluorocarbon" class="mw-redirect">perfluorocarbons</a> (FCs) and <a href="/wiki/Hydrofluorocarbon" title="Hydrofluorocarbon" class="mw-redirect">hydrofluorocarbons</a> (HFCs) have also come under criticism. They are currently subject to prohibition discussions on account of their harmful effect on the climate. In 1997, FCs and HFCs were included in the <a href="/wiki/Kyoto_Protocol" title="Kyoto Protocol">Kyoto Protocol</a> to the Framework Convention on Climate Change. In 2006, the EU adopted a Regulation on <a href="/wiki/Fluorinated_gases" title="Fluorinated gases">fluorinated greenhouse gases</a>, which makes stipulations regarding the use of FCs and HFCs with the intention of reducing their emissions. The provisions do not affect climate-neutral refrigerants.</p> 
+     <h2><span class="mw-headline" id="Uses">Uses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refrigerant&amp;action=edit&amp;section=3" title="Edit section: Uses">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>Refrigerants such as ammonia (R717), carbon dioxide and non-halogenated hydrocarbons do not deplete the ozone layer and have no (ammonia) or only a low (carbon dioxide, hydrocarbons) global warming potential.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2013)">citation needed</span></a></i>]</sup> They are used in <a href="/wiki/Air-conditioning" title="Air-conditioning" class="mw-redirect">air-conditioning</a> systems for buildings, in sport and leisure facilities, in the chemical/pharmaceutical industry, in the automotive industry and above all in the food industry (production, storage, retailing). In these settings their toxicity is less a concern than in home equipment.</p> 
+     <p>Emissions from <a href="/wiki/Automobile_air_conditioning" title="Automobile air conditioning">automobile air conditioning</a> are a growing concern because of their impact on climate change.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2013)">citation needed</span></a></i>]</sup> From 2011 on, the European Union will phase out refrigerants with a <a href="/wiki/Global_warming_potential" title="Global warming potential">global warming potential</a> (GWP) of more than 150 in automotive air conditioning (GWP = 100 year warming potential of one kilogram of a gas relative to one kilogram of CO<sub>2</sub>).<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2013)">citation needed</span></a></i>]</sup> This will ban potent greenhouse gases such as the refrigerant <a href="/wiki/HFC-134a" title="HFC-134a" class="mw-redirect">HFC-134a</a> (also known as R-134a in North America) —which has a GWP of 1410—to promote safe and energy-efficient refrigerants.</p> 
+     <p>One of the most promising alternatives is CO<sub>2</sub> (<a href="/wiki/R-744" title="R-744" class="mw-redirect">R-744</a>). <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">Carbon dioxide</a> is non-flammable, non-ozone depleting, has a global warming potential of 1. R-744 can be used as a working fluid in climate control systems for cars, residential air conditioning, hot water pumps, commercial refrigeration, and vending machines.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2013)">citation needed</span></a></i>]</sup> R12 is compatible with <a href="/wiki/Mineral_oil" title="Mineral oil">mineral oil</a>, while R134a is compatible with <a href="/wiki/Synthetic_oil" title="Synthetic oil">synthetic oil</a> that contains <a href="/wiki/Ester" title="Ester">esters</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2013)">citation needed</span></a></i>]</sup> GM announced that it would start using "hydrofluoroolefin", <a href="/wiki/HFO-1234yf" title="HFO-1234yf" class="mw-redirect">HFO-1234yf</a>, in all of its brands by 2013.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> <a href="/wiki/Dimethyl_ether" title="Dimethyl ether">Dimethyl ether</a> (DME) is also gaining popularity as a refrigerant,<sup id="cite_ref-mecanica-dme_4-0" class="reference"><a href="#cite_note-mecanica-dme-4"><span>[</span>4<span>]</span></a></sup> but like propane, it is also dangerously flammable.</p> 
+     <p>Some refrigerants are seeing rising use as <a href="/wiki/Recreational_drugs" title="Recreational drugs" class="mw-redirect">recreational drugs</a>, leading to an extremely dangerous phenomenon known as <a href="/wiki/Inhalant_abuse" title="Inhalant abuse" class="mw-redirect">inhalant abuse</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></p> 
+     <h2><span class="mw-headline" id="Disposal">Disposal</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refrigerant&amp;action=edit&amp;section=4" title="Edit section: Disposal">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>Under Section 608 of the United States' <a href="/wiki/Clean_Air_Act_(United_States)" title="Clean Air Act (United States)">Clean Air Act</a> it is illegal to knowingly release refrigerants into the atmosphere.<sup id="cite_ref-EPA_6-0" class="reference"><a href="#cite_note-EPA-6"><span>[</span>EPA 1<span>]</span></a></sup></p> 
+     <p>When refrigerants are removed they should be recycled to clean out any contaminants and return them to a usable condition. Refrigerants should never be mixed together outside of facilities licensed to do so for the purpose of producing blends. Some refrigerants must be managed as hazardous waste even if recycled, and special precautions are required for their transport, depending on the legislation of the country's government.</p> 
+     <p>Various <a href="/wiki/Refrigerant_reclamation" title="Refrigerant reclamation">refrigerant reclamation</a> methods are in use to recover refrigerants for reuse.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>6<span>]</span></a></sup></p> 
+     <h2><span class="mw-headline" id="Refrigerants_by_class_and_R-number">Refrigerants by class and R-number</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refrigerant&amp;action=edit&amp;section=5" title="Edit section: Refrigerants by class and R-number">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <table class="metadata plainlinks ambox mbox-small-left ambox-content ambox-disputed" role="presentation"> 
+      <tbody>
+       <tr> 
+        <td class="mbox-image"><a href="/wiki/File:Gnome-searchtool.svg" class="image"><img alt="Gnome-searchtool.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Gnome-searchtool.svg/45px-Gnome-searchtool.svg.png" width="45" height="45" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Gnome-searchtool.svg/68px-Gnome-searchtool.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Gnome-searchtool.svg/90px-Gnome-searchtool.svg.png 2x" data-file-width="60" data-file-height="60"></a></td> 
+        <td class="mbox-text"><span class="mbox-text-span">This section's <b>factual accuracy is <a href="/wiki/Wikipedia:Accuracy_dispute" title="Wikipedia:Accuracy dispute">disputed</a></b>. <small><i>(May 2013)</i></small></span></td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <div role="note" class="hatnote relarticle mainarticle">
+      Main article: 
+      <a href="/wiki/List_of_refrigerants" title="List of refrigerants">List of refrigerants</a>
+     </div> 
+     <p>Refrigerants may be divided into three classes according to their manner of absorption or extraction of heat from the substances to be refrigerated:<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2013)">citation needed</span></a></i>]</sup></p> 
+     <ul> 
+      <li>Class 1: This class includes refrigerants that cool by phase change (typically boiling), using the refrigerant's <a href="/wiki/Latent_heat" title="Latent heat">latent heat</a>.</li> 
+      <li>Class 2: These refrigerants cool by temperature change or '<a href="/wiki/Sensible_heat" title="Sensible heat">sensible heat</a>', the quantity of heat being the specific heat capacity x the temperature change. They are air, calcium chloride brine, sodium chloride brine, alcohol, and similar nonfreezing solutions. The purpose of Class 2 refrigerants is to receive a reduction of temperature from Class 1 refrigerants and convey this lower temperature to the area to be air-conditioned.</li> 
+      <li>Class 3: This group consists of solutions that contain absorbed vapors of liquefiable agents or refrigerating media. These solutions function by nature of their ability to carry liquefiable vapors, which produce a cooling effect by the absorption of their heat of solution. They can also be classified into many categories.</li> 
+     </ul> 
+     <p>The R-# numbering system was developed by <a href="/wiki/DuPont" title="DuPont">DuPont</a> corporation (which owns the <a href="/wiki/Freon" title="Freon">Freon</a> trademark) and systematically identifies the molecular structure of refrigerants made with a single halogenated hydrocarbon. The meaning of the codes is as follows:<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2013)">citation needed</span></a></i>]</sup></p> 
+     <ul> 
+      <li>For saturated hydrocarbons, subtracting 90 from the concatenated numbers of <a href="/wiki/Carbon" title="Carbon">carbon</a>, <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a> and <a href="/wiki/Fluorine" title="Fluorine">fluorine</a> atoms, respectively gives the assigned R#.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>7<span>]</span></a></sup></li> 
+      <li>Remaining bonds not accounted for are occupied by <a href="/wiki/Chlorine" title="Chlorine">chlorine</a> atoms.</li> 
+      <li><i>A suffix of a lower-case letter a, b, or c</i> indicates increasingly unsymmetrical <a href="/wiki/Isomers" title="Isomers" class="mw-redirect">isomers</a>.</li> 
+     </ul> 
+     <p>For example, <a href="/wiki/1,1,1,2-Tetrafluoroethane" title="1,1,1,2-Tetrafluoroethane">R-134a</a> has 2 carbon atoms, 2 hydrogen atoms, and 4 fluorine atoms, an empirical formula of tetrafluoroethane. The "a" suffix indicates that the isomer is unbalanced by one atom, giving <a href="/wiki/1,1,1,2-Tetrafluoroethane" title="1,1,1,2-Tetrafluoroethane">1,1,1,2-Tetrafluoroethane</a>. R-134 (without the "a" suffix) would have a molecular structure of 1,1,2,2-Tetrafluoroethane—a compound not especially effective as a refrigerant.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2013)">citation needed</span></a></i>]</sup></p> 
+     <ul> 
+      <li>The R-400 series is made up of <a href="/wiki/Zeotropic_mixture" title="Zeotropic mixture">zeotropic blends</a> (those where the boiling point of constituent compounds differs enough to lead to changes in relative concentration because of <a href="/wiki/Fractional_distillation" title="Fractional distillation">fractional distillation</a>) and the R-500 series is made up of so-called <a href="/wiki/Azeotrope" title="Azeotrope">azeotropic blends</a>. The rightmost digit is assigned arbitrarily by <a href="/wiki/ASHRAE" title="ASHRAE">ASHRAE</a>, an industry organization.</li> 
+      <li>The R-700 series is made up of non-organic refrigerants, also designated by ASHRAE.</li> 
+     </ul> 
+     <p>The same numbers are used with an R- prefix for generic refrigerants, with a "Propellant" prefix (e.g., "Propellant 12") for the same chemical used as a propellant for an <a href="/wiki/Aerosol_spray" title="Aerosol spray">aerosol spray</a>, and with trade names for the compounds, such as "<b>Freon</b> 12". Recently, a practice of using HFC- for <a href="/wiki/Hydrofluorocarbon" title="Hydrofluorocarbon" class="mw-redirect">hydrofluorocarbons</a>, CFC- for <a href="/wiki/Chlorofluorocarbon" title="Chlorofluorocarbon">chlorofluorocarbons</a>, and HCFC- for <a href="/wiki/Hydrochlorofluorocarbon" title="Hydrochlorofluorocarbon" class="mw-redirect">hydrochlorofluorocarbons</a> has arisen, because of the regulatory differences among these groups.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2015)">citation needed</span></a></i>]</sup></p> 
+     <h3><span class="mw-headline" id="Notable_blends">Notable blends</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refrigerant&amp;action=edit&amp;section=6" title="Edit section: Notable blends">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:222px;">
+       <a href="/wiki/File:R407C_eng.PNG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/R407C_eng.PNG/220px-R407C_eng.PNG" width="220" height="321" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/R407C_eng.PNG/330px-R407C_eng.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/b/b7/R407C_eng.PNG 2x" data-file-width="428" data-file-height="624"></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:R407C_eng.PNG" class="internal" title="Enlarge"></a>
+        </div> R407C 
+        <a href="/wiki/Pressure" title="Pressure">pressure</a>-
+        <a href="/wiki/Enthalpy" title="Enthalpy">enthalpy</a> diagram, isotherms between the two saturation lines
+       </div> 
+      </div> 
+     </div> 
+     <p>Below are some notable blended HFC mixtures. There exist many more (see <a href="/wiki/List_of_refrigerants" title="List of refrigerants">list of refrigerants</a>). All R-400 (R-4xx) and R-500 (R-5xx) hydroflurocarbons are blends, as noted above.</p> 
+     <ul> 
+      <li><b>R-401A</b> is a <a href="/wiki/HCFC" title="HCFC" class="mw-redirect">HCFC</a> <a href="/wiki/Zeotropic_mixture" title="Zeotropic mixture">zeotropic</a> blend of <a href="/wiki/Chlorodifluoromethane" title="Chlorodifluoromethane">R-22</a>, <a href="/wiki/1,1-Difluoroethane" title="1,1-Difluoroethane">R-152a</a>, and <a href="/wiki/2-Chloro-1,1,1,2-tetrafluoroethane" title="2-Chloro-1,1,1,2-tetrafluoroethane" class="mw-redirect">R-124</a>. It is designed as a replacement for <a href="/wiki/Dichlorodifluoromethane" title="Dichlorodifluoromethane">R-12</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>8<span>]</span></a></sup></li> 
+      <li><b>R-404A</b> is a <a href="/wiki/Hydrofluorocarbon" title="Hydrofluorocarbon" class="mw-redirect">HFC</a> "nearly <a href="/wiki/Azeotrope" title="Azeotrope">azeotropic</a>" blend of 52 wt.% <a href="/wiki/1,1,1-Trifluoroethane" title="1,1,1-Trifluoroethane">R-143a</a>, 44 wt.% <a href="/wiki/Pentafluoroethane" title="Pentafluoroethane">R-125</a>, and 4 wt.% <a href="/wiki/1,1,1,2-Tetrafluoroethane" title="1,1,1,2-Tetrafluoroethane">R-134a</a>. It is designed as a replacement of R-22 and R-502 <a href="/wiki/Chlorofluorocarbon" title="Chlorofluorocarbon">CFC</a>. Its boiling point at normal pressure is -46.5&nbsp;°C, its liquid density is 0.485 g/cm<sup>3</sup>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>9<span>]</span></a></sup></li> 
+      <li><b><a href="/wiki/R-406A" title="R-406A">R-406A</a></b> is a zeotropic blend of 55 wt.% <a href="/wiki/Chlorodifluoromethane" title="Chlorodifluoromethane">R-22</a>, 4 wt.% <a href="/wiki/Isobutane" title="Isobutane">R-600a</a>, and 41 wt.% <a href="/wiki/1-Chloro-1,1-difluoroethane" title="1-Chloro-1,1-difluoroethane">R-142b</a>.</li> 
+      <li><b><a href="/wiki/R407A" title="R407A" class="mw-redirect">R-407A</a></b> is a <a href="/wiki/Hydrofluorocarbon" title="Hydrofluorocarbon" class="mw-redirect">HFC</a> zeotropic blend of 20 wt.% <a href="/wiki/Difluoromethane" title="Difluoromethane">R-32</a>, 40 wt.% <a href="/wiki/Pentafluoroethane" title="Pentafluoroethane">R-125</a>, and 40 wt.% <a href="/wiki/1,1,1,2-Tetrafluoroethane" title="1,1,1,2-Tetrafluoroethane">R-134a</a>.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>10<span>]</span></a></sup></li> 
+      <li><b><a href="/wiki/R-407c" title="R-407c">R-407C</a></b> is a <a href="/wiki/Zeotropic_mixture" title="Zeotropic mixture">zeotropic</a> <a href="/wiki/Hydrofluorocarbon" title="Hydrofluorocarbon" class="mw-redirect">hydrofluorocarbon</a> blend of <a href="/wiki/Difluoromethane" title="Difluoromethane">R-32</a>, <a href="/wiki/Pentafluoroethane" title="Pentafluoroethane">R-125</a>, and <a href="/wiki/1,1,1,2-Tetrafluoroethane" title="1,1,1,2-Tetrafluoroethane">R-134a</a>. The R-32 serves to provide the heat capacity, R-125 decreases flammability, R-134a reduces pressure.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>11<span>]</span></a></sup></li> 
+      <li><b>R-408A</b> is a <a href="/wiki/Zeotropic_mixture" title="Zeotropic mixture">zeotropic</a> <a href="/wiki/HCFC" title="HCFC" class="mw-redirect">HCFC</a> blend of <a href="/wiki/Chlorodifluoromethane" title="Chlorodifluoromethane">R-22</a>, <a href="/wiki/Pentafluoroethane" title="Pentafluoroethane">R-125</a>, and <a href="/wiki/1,1,1-Trifluoroethane" title="1,1,1-Trifluoroethane">R-143a</a>. It is a substitute for R-502. Its boiling point is -44.4&nbsp;°C.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>12<span>]</span></a></sup></li> 
+      <li><b>R-409A</b> is a <a href="/wiki/Zeotropic_mixture" title="Zeotropic mixture">zeotropic</a> <a href="/wiki/HCFC" title="HCFC" class="mw-redirect">HCFC</a> blend of <a href="/wiki/Chlorodifluoromethane" title="Chlorodifluoromethane">R-22</a>, <a href="/wiki/2-Chloro-1,1,1,2-tetrafluoroethane" title="2-Chloro-1,1,1,2-tetrafluoroethane" class="mw-redirect">R-124</a>, and <a href="/wiki/1-Chloro-1,1-difluoroethane" title="1-Chloro-1,1-difluoroethane">R-142b</a>. Its boiling point is -35.3&nbsp;°C. Its critical temperatiure is 109.4&nbsp;°C.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>13<span>]</span></a></sup></li> 
+      <li><b><a href="/wiki/R-410A" title="R-410A">R-410A</a></b> is a near-<a href="/wiki/Azeotrope" title="Azeotrope">azeotropic</a> blend of <a href="/wiki/Difluoromethane" title="Difluoromethane">R-32</a> and <a href="/wiki/Pentafluoroethane" title="Pentafluoroethane">R-125</a>. The US Environmental Protection Agency recognizes it as an acceptable substitute for R-22 in household and light commercial air conditioning systems.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>14<span>]</span></a></sup> It appears to have gained widespread market acceptance under several trade names.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>15<span>]</span></a></sup></li> 
+      <li><b>R-438A</b> another HFC blended replacement for R-22, with five components: R-32, R-125/R-134a, R-600, and R-601a, blended in respective ratios 8.5+.5,-1.5%; 45±1.5%; 44.2±1.5%; 1.7+.1,-.2%; 0.6+.1,-.2%. The mean ‘’mo’’lecular weight of this mix is 99, resulting in the tradename <a href="/wiki/ISCEON" title="ISCEON" class="mw-redirect">ISCEON</a> MO99 from manufacturer DuPont (a line of blended HFC products developed initially by Rhodia, and sold to DuPont).<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>16<span>]</span></a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>17<span>]</span></a></sup></li> 
+      <li><b>R-500</b> is an <a href="/wiki/Azeotrope" title="Azeotrope">azeotropic</a> blend of 73.8 wt.% <a href="/wiki/Dichlorodifluoromethane" title="Dichlorodifluoromethane">R-12</a> and 26.2 wt.% of <a href="/wiki/1,1-Difluoroethane" title="1,1-Difluoroethane">R-152a</a>.</li> 
+      <li><b>R-502</b> is an <a href="/wiki/Azeotrope" title="Azeotrope">azeotropic</a> blend of <a href="/wiki/Chlorodifluoromethane" title="Chlorodifluoromethane">R-22</a> and <a href="/wiki/Chloropentafluoroethane" title="Chloropentafluoroethane">R-115</a>.</li> 
+     </ul> 
+     <h2><span class="mw-headline" id="Air_as_a_refrigerant">Air as a refrigerant</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refrigerant&amp;action=edit&amp;section=7" title="Edit section: Air as a refrigerant">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>Air has been used for residential,<sup id="cite_ref-a1_19-0" class="reference"><a href="#cite_note-a1-19"><span>[</span>18<span>]</span></a></sup> automobile, and turbine-powered aircraft<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>19<span>]</span></a></sup><sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>20<span>]</span></a></sup> air-conditioning and/or cooling. The reason why air is not more widely used as a general-purpose refrigerant because there is no <a href="/wiki/Change_of_phase" title="Change of phase" class="mw-redirect">change of phase</a>, and is therefore too inefficient to be practical in most applications.<sup id="cite_ref-a1_19-1" class="reference"><a href="#cite_note-a1-19"><span>[</span>18<span>]</span></a></sup> It has been suggested that with suitable compression and expansion technology, air can be a practical (albeit not the most efficient) refrigerant, free of the possibility of environmental contamination or damage,<sup id="cite_ref-a1_19-2" class="reference"><a href="#cite_note-a1-19"><span>[</span>18<span>]</span></a></sup> and almost completely<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>21<span>]</span></a></sup> harmless to plants and animals.</p> 
+     <p>An explosion could result from refrigerant-type compressor lubricating oils being compressed together with the air.</p> 
+     <p>Air is so frequently used as a <a href="/wiki/Coolant" title="Coolant">coolant</a> that <a href="/wiki/Air_cooling" title="Air cooling">air cooling</a> is seldom mentioned in this context. Due to the low <a href="/wiki/Boiling_point" title="Boiling point">boiling point</a> of its constituents, air is less often used as a refrigerant.</p> 
+     <h2><span class="mw-headline" id="Water_as_a_refrigerant">Water as a refrigerant</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refrigerant&amp;action=edit&amp;section=8" title="Edit section: Water as a refrigerant">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <table class="metadata plainlinks ambox ambox-content ambox-Unreferenced" role="presentation"> 
+      <tbody>
+       <tr> 
+        <td class="mbox-image"> 
+         <div style="width:52px">
+          <a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="262" data-file-height="204"></a>
+         </div> </td> 
+        <td class="mbox-text"><span class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>. <span class="hide-when-compact">Please help improve this section by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(December 2013)</i></small></span></td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <div role="note" class="hatnote">
+      Further information: 
+      <a href="/wiki/Evaporative_cooler" title="Evaporative cooler">Evaporative cooler</a>
+     </div> 
+     <p>Water - natural, non toxic, low cost, environmentally friendly, and widely available, is widely used in <a href="/wiki/Water_cooling" title="Water cooling">water cooling</a>, and if evaporated in the process may be called a "refrigerant". Water also commonly serves as a heat transfer and storage material and in large systems it may actually fill all of these roles.</p> 
+     <div role="note" class="hatnote">
+      Further information: 
+      <a href="/wiki/HVAC" title="HVAC">HVAC</a>
+     </div> 
+     <p>The simplest and lowest cost open-cycle cooling systems, known as <a href="/wiki/Evaporative_cooler" title="Evaporative cooler">swamp coolers</a> in the south-west United States, do not even need power for a compressor, merely a blower fan - humidified air is simply vented to the living space. Portable free standing units can be obtained at discount stores for less than $200US. However, drawbacks of these systems, if improperly implemented are multiple and severe.</p> 
+     <p>The total cooling power of the unit is limited by the fact that neither coolant nor air can be recirculated. If the cooling unit does not have a supply of fresh dry air and the waste air is not effectively vented, stagnant humid air will make the space more uncomfortable than if it were merely ventilated.</p> 
+     <div role="note" class="hatnote">
+      Further information: 
+      <a href="/wiki/Thermal_comfort" title="Thermal comfort">Thermal comfort</a>
+     </div> 
+     <p>An additional limitation of such systems would be that if the air outside is <a href="/wiki/Dewpoint" title="Dewpoint" class="mw-redirect">already humid</a>, cooling power is severely limited. This is why such units are not found in areas of frequent and high humidity, such as the south-east United States.</p> 
+     <p>If the temperature outside is severely hot, such as over 110&nbsp;°F or 43&nbsp;°C, the simple unit will not cool the air sufficiently for comfort even if the dew point outside is very low. In these instances more complex systems such as two stage, indirect-direct or hybrid will be needed.</p> 
+     <p>While all the drawbacks can be addressed in various ways the complexity and initial cost of these systems increases to the point that the installation cost comes into competition with freon based direct cooling systems. At this price point direct cooling systems are often chosen even though the long term energy cost of evaporative systems may be lower.</p> 
+     <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refrigerant&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <ul> 
+      <li><a href="/wiki/Brine_(refrigerant)" title="Brine (refrigerant)">Brine (refrigerant)</a></li> 
+      <li><a href="/wiki/Eurammon" title="Eurammon">Eurammon</a> - initiative for natural refrigerants</li> 
+      <li><a href="/wiki/Industrial_gas" title="Industrial gas">Industrial gas</a></li> 
+      <li><a href="/wiki/List_of_refrigerants" title="List of refrigerants">List of refrigerants</a></li> 
+      <li><a href="/wiki/Refrigerant_reclamation" title="Refrigerant reclamation">Refrigerant reclamation</a></li> 
+     </ul> 
+     <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refrigerant&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <div class="reflist" style="list-style-type: decimal;"> 
+      <ol class="references"> 
+       <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Siegfried Haaf, Helmut Henrici "Refrigeration Technology" in Ullmann's Encyclopedia of Industrial Chemistry, 2002, Wiley-VCH, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2F14356007.b03+19">10.1002/14356007.b03 19</a></span></li> 
+       <li id="cite_note-increase-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-increase_2-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Rosenthal, Elisabeth; Lehren, Andrew (June 20, 2011). <a rel="nofollow" class="external text" href="http://www.nytimes.com/2012/06/21/world/asia/global-demand-for-air-conditioning-forces-tough-environmental-choices.html?pagewanted=1&amp;_r=1&amp;hp">"Relief in Every Window, but Global Worry Too"</a>. <i><a href="/wiki/New_York_Times" title="New York Times" class="mw-redirect">New York Times</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">June 21,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARefrigerant&amp;rft.atitle=Relief+in+Every+Window%2C+but+Global+Worry+Too&amp;rft.aufirst=Elisabeth&amp;rft.aulast=Rosenthal&amp;rft.au=Lehren%2C+Andrew&amp;rft.date=2011-06-20&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nytimes.com%2F2012%2F06%2F21%2Fworld%2Fasia%2Fglobal-demand-for-air-conditioning-forces-tough-environmental-choices.html%3Fpagewanted%3D1%26_r%3D1%26hp&amp;rft.jtitle=New+York+Times&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://media.gm.com/content/media/us/en/news/news_detail.html/content/Pages/news/us/en/2010/July/0723_refrigerant">GM First to Market Greenhouse Gas-Friendly Air Conditioning Refrigerant in U.S.</a></span></li> 
+       <li id="cite_note-mecanica-dme-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-mecanica-dme_4-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.mecanica.pub.ro/frigo-eco/R404A_DME.pdf">http://www.mecanica.pub.ro/frigo-eco/R404A_DME.pdf</a> 101110</span></li> 
+       <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Harris, Catharine. "Anti-inhalant Abuse Campaign Targets Building Codes: ‘Huffing’ of Air Conditioning Refrigerant a Dangerous Risk." The Nation's Health. American Public Health Association, 2010. Web. 05 Dec. 2010. &lt;<a rel="nofollow" class="external free" href="http://thenationshealth.aphapublications.org/content/39/4/20.extract">http://thenationshealth.aphapublications.org/content/39/4/20.extract</a>&gt;.</span></li> 
+       <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.yellowjacket.com/content/Articles/Recovery_Effective%20Recovery.pdf">Guide to Effective Refrigerant Recovery</a> Ritchie Engineering Company</span></li> 
+       <li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.epa.gov/ozone/geninfo/numbers.html#nonhalons">"Numbering Scheme for Ozone-Depleting Substances and their Substitutes"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">25 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARefrigerant&amp;rft.btitle=Numbering+Scheme+for+Ozone-Depleting+Substances+and+their+Substitutes&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.epa.gov%2Fozone%2Fgeninfo%2Fnumbers.html%23nonhalons&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.refrigerants.com/hcfc-R401A.htm">HCFC - R401A</a></span></li> 
+       <li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://cameochemicals.noaa.gov/chemical/26023">Cameo Chemicals</a> Refrigerant gas R-404A</span></li> 
+       <li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://cameochemicals.noaa.gov/chemical/26024">Cameo Chemicals</a> Refrigerant gas R-407A</span></li> 
+       <li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.researchgate.net/publication/245159784_Comparison_of_R407C_and_R417A_heat_transfer_coefficients_and_pressure_drops_during_flow_boiling_in_a_horizontal_smooth_tube">"Comparison of R407C and R417A heat transfer coefficients and pressure drops during flow boiling in a horizontal smooth tube"</a>. <i>ResearchGate</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-09-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARefrigerant&amp;rft.atitle=Comparison+of+R407C+and+R417A+heat+transfer+coefficients+and+pressure+drops+during+flow+boiling+in+a+horizontal+smooth+tube&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.researchgate.net%2Fpublication%2F245159784_Comparison_of_R407C_and_R417A_heat_transfer_coefficients_and_pressure_drops_during_flow_boiling_in_a_horizontal_smooth_tube&amp;rft.jtitle=ResearchGate&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.kri.cn/en-p19.html">Mixed refrigerants, R-408A page</a></span></li> 
+       <li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.kri.cn/en-p15.html">Mixed refrigerants, R-409A page</a></span></li> 
+       <li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.epa.gov/Ozone/snap/refrigerants/lists/homeac.html">"Significant New Alternatives Policy (SNAP) Program"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">25 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARefrigerant&amp;rft.btitle=Significant+New+Alternatives+Policy+%28SNAP%29+Program&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.epa.gov%2FOzone%2Fsnap%2Frefrigerants%2Flists%2Fhomeac.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Web search</span></li> 
+       <li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.solvay.com/EN/Investors/RhodiaArchive/RhodiaDocuments/publications/rhodia_2004_annual_report_en.pdf">[1]</a></span></li> 
+       <li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www2.dupont.com/ISCEON/en_US/products/ISCEON_MO99.html">"This page has moved."</a><span class="reference-accessdate">. Retrieved <span class="nowrap">25 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARefrigerant&amp;rft.btitle=This+page+has+moved.&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww2.dupont.com%2FISCEON%2Fen_US%2Fproducts%2FISCEON_MO99.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-a1-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-a1_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-a1_19-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-a1_19-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://products.ihs.com/bre-seo/ip2100.htm"><i>Air as a refrigerant in air conditioning systems in buildings</i></a>.</span></li> 
+       <li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><a href="/wiki/Air_cycle_machine" title="Air cycle machine">Air cycle machine</a>.</span></li> 
+       <li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a href="/wiki/Turboexpander" title="Turboexpander">Turboexpander</a>.</span></li> 
+       <li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">Current air cooling methods release a trivial amount of oil or other lubricant into the atmosphere.</span></li> 
+      </ol> 
+     </div> 
+     <div class="reflist" style="list-style-type: decimal;"> 
+      <ol class="references"> 
+       <li id="cite_note-EPA-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-EPA_6-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.epa.gov/ozone/title6/608/faq.html#q2">"Frequently Asked Questions on Section 608"</a>. <i>Environment Protection Agency</i><span class="reference-accessdate">. Retrieved <span class="nowrap">20 December</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARefrigerant&amp;rft.atitle=Frequently+Asked+Questions+on+Section+608&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.epa.gov%2Fozone%2Ftitle6%2F608%2Ffaq.html%23q2&amp;rft.jtitle=Environment+Protection+Agency&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+      </ol> 
+     </div> 
+     <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refrigerant&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <ul> 
+      <li><a rel="nofollow" class="external text" href="http://epa.gov/nonco2/econ-inv/table.html">US Environmental Protection Agency page on the GWPs of various substances</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.green-cooling-initiative.org/">Green Cooling Initiative on alternative natural refrigerants cooling technologies</a></li> 
+     </ul> 
+     <table class="navbox" style="border-spacing:0"> 
+      <tbody>
+       <tr> 
+        <td style="padding:2px"> 
+         <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"> 
+          <tbody>
+           <tr> 
+            <th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th> 
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.ndl.go.jp/auth/ndlna/00569343">00569343</a></span></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+          </tbody>
+         </table> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <!-- 
+NewPP limit report
+Parsed by mw1249
+Cached time: 20160315014926
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.226 seconds
+Real time usage: 0.283 seconds
+Preprocessor visited node count: 2293/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 38206/2097152 bytes
+Template argument size: 4701/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 5/500
+Lua time usage: 0.096/10.000 seconds
+Lua memory usage: 3.09 MB/50 MB
+Number of Wikibase entities loaded: 1--> 
+     <!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  231.984      1 - -total
+ 30.63%   71.063      2 - Template:Reflist
+ 20.80%   48.262      9 - Template:Citation_needed
+ 19.94%   46.257      2 - Template:Unreferenced_section
+ 15.98%   37.080      9 - Template:Fix
+ 14.78%   34.287      3 - Template:Ambox
+ 13.22%   30.675     18 - Template:Category_handler
+ 12.67%   29.393      1 - Template:Cite_news
+ 11.03%   25.587      1 - Template:Authority_control
+  7.24%   16.791      5 - Template:Cite_web
+--> 
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:592486-0!*!0!!en!4!* and timestamp 20160315014925 and revision id 709326405
+ --> 
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript>
+    </div> 
+    <div class="printfooter">
+      Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Refrigerant&amp;oldid=709326405">https://en.wikipedia.org/w/index.php?title=Refrigerant&amp;oldid=709326405</a>" 
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Heating,_ventilating,_and_air_conditioning" title="Category:Heating, ventilating, and air conditioning">Heating, ventilating, and air conditioning</a></li>
+       <li><a href="/wiki/Category:Refrigerants" title="Category:Refrigerants">Refrigerants</a></li>
+       <li><a href="/wiki/Category:Industrial_gases" title="Category:Industrial gases">Industrial gases</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Articles_needing_additional_references_from_December_2013" title="Category:Articles needing additional references from December 2013">Articles needing additional references from December 2013</a></li>
+       <li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li>
+       <li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li>
+       <li><a href="/wiki/Category:Articles_with_unsourced_statements_from_December_2013" title="Category:Articles with unsourced statements from December 2013">Articles with unsourced statements from December 2013</a></li>
+       <li><a href="/wiki/Category:Accuracy_disputes_from_May_2013" title="Category:Accuracy disputes from May 2013">Accuracy disputes from May 2013</a></li>
+       <li><a href="/wiki/Category:All_accuracy_disputes" title="Category:All accuracy disputes">All accuracy disputes</a></li>
+       <li><a href="/wiki/Category:Articles_using_small_message_boxes" title="Category:Articles using small message boxes">Articles using small message boxes</a></li>
+       <li><a href="/wiki/Category:Articles_with_unsourced_statements_from_August_2015" title="Category:Articles with unsourced statements from August 2015">Articles with unsourced statements from August 2015</a></li>
+      </ul>
+     </div>
+    </div> 
+    <div class="visualClear"></div> 
+   </div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> 
+    <div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label"> 
+     <h3 id="p-personal-label">Personal tools</h3> 
+     <ul> 
+      <li id="pt-anonuserpage">Not logged in</li>
+      <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+      <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+      <li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Refrigerant&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+      <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Refrigerant" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li> 
+     </ul> 
+    </div> 
+    <div id="left-navigation"> 
+     <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label"> 
+      <h3 id="p-namespaces-label">Namespaces</h3> 
+      <ul> 
+       <li id="ca-nstab-main" class="selected"><span><a href="/wiki/Refrigerant" title="View the content page [c]" accesskey="c">Article</a></span></li> 
+       <li id="ca-talk"><span><a href="/wiki/Talk:Refrigerant" title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span><a href="#"></a> </h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="right-navigation"> 
+     <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label"> 
+      <h3 id="p-views-label">Views</h3> 
+      <ul> 
+       <li id="ca-view" class="selected"><span><a href="/wiki/Refrigerant">Read</a></span></li> 
+       <li id="ca-edit"><span><a href="/w/index.php?title=Refrigerant&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li> 
+       <li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Refrigerant&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch"> 
+        <input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput">
+        <input type="hidden" value="Special:Search" name="title">
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton">
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a>
+    </div> 
+    <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label"> 
+     <h3 id="p-navigation-label">Navigation</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+       <li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label"> 
+     <h3 id="p-interaction-label">Interaction</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label"> 
+     <h3 id="p-tb-label">Tools</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Refrigerant" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Refrigerant" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Refrigerant&amp;oldid=709326405" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Refrigerant&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q266790" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Refrigerant&amp;id=709326405" title="Information on how to cite this page">Cite this page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label"> 
+     <h3 id="p-coll-print_export-label">Print/export</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Refrigerant">Create a book</a></li>
+       <li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Refrigerant&amp;returnto=Refrigerant&amp;oldid=709326405&amp;writer=rdf2latex">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Refrigerant&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label"> 
+     <h3 id="p-wikibase-otherprojects-label">In other projects</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Refrigerants" hreflang="en">Wikimedia Commons</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label"> 
+     <h3 id="p-lang-label">Languages</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D9%85%D8%AB%D9%84%D8%AC_(%D9%85%D8%A7%D8%AF%D8%A9)" title="مثلج (مادة) – Arabic" lang="ar" hreflang="ar">العربية</a></li>
+       <li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Fluid_refrigerant" title="Fluid refrigerant – Catalan" lang="ca" hreflang="ca">Català</a></li>
+       <li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Chladivo" title="Chladivo – Czech" lang="cs" hreflang="cs">Čeština</a></li>
+       <li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/K%C3%B8lemiddel" title="Kølemiddel – Danish" lang="da" hreflang="da">Dansk</a></li>
+       <li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/K%C3%A4ltemittel" title="Kältemittel – German" lang="de" hreflang="de">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-el"><a href="//el.wikipedia.org/wiki/%CE%A8%CF%85%CE%BA%CF%84%CE%B9%CE%BA%CF%8C" title="Ψυκτικό – Greek" lang="el" hreflang="el">Ελληνικά</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Refrigerante" title="Refrigerante – Spanish" lang="es" hreflang="es">Español</a></li>
+       <li class="interlanguage-link interwiki-eu"><a href="//eu.wikipedia.org/wiki/Hozgarri" title="Hozgarri – Basque" lang="eu" hreflang="eu">Euskara</a></li>
+       <li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%B3%D8%B1%D9%85%D8%A7%D8%B2%D8%A7" title="سرمازا – Persian" lang="fa" hreflang="fa">فارسی</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Fluide_frigorig%C3%A8ne" title="Fluide frigorigène – French" lang="fr" hreflang="fr">Français</a></li>
+       <li class="interlanguage-link interwiki-gl"><a href="//gl.wikipedia.org/wiki/Refrixerante" title="Refrixerante – Galician" lang="gl" hreflang="gl">Galego</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EB%83%89%EB%A7%A4" title="냉매 – Korean" lang="ko" hreflang="ko">한국어</a></li>
+       <li class="interlanguage-link interwiki-hi"><a href="//hi.wikipedia.org/wiki/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A5%80%E0%A4%A4%E0%A4%95" title="प्रशीतक – Hindi" lang="hi" hreflang="hi">हिन्दी</a></li>
+       <li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Fluido_refrigerante" title="Fluido refrigerante – Italian" lang="it" hreflang="it">Italiano</a></li>
+       <li class="interlanguage-link interwiki-ka"><a href="//ka.wikipedia.org/wiki/%E1%83%9B%E1%83%90%E1%83%AA%E1%83%98%E1%83%95%E1%83%90%E1%83%A0_%E1%83%90%E1%83%92%E1%83%94%E1%83%9C%E1%83%A2%E1%83%98" title="მაცივარ აგენტი – Georgian" lang="ka" hreflang="ka">ქართული</a></li>
+       <li class="interlanguage-link interwiki-kk"><a href="//kk.wikipedia.org/wiki/%D0%A5%D0%BB%D0%B0%D0%B4%D0%B0%D0%B3%D0%B5%D0%BD%D1%82" title="Хладагент – Kazakh" lang="kk" hreflang="kk">Қазақша</a></li>
+       <li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/H%C5%B1t%C5%91k%C3%B6zeg" title="Hűtőközeg – Hungarian" lang="hu" hreflang="hu">Magyar</a></li>
+       <li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Koudemiddel" title="Koudemiddel – Dutch" lang="nl" hreflang="nl">Nederlands</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E5%86%B7%E5%AA%92" title="冷媒 – Japanese" lang="ja" hreflang="ja">日本語</a></li>
+       <li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Kuldemedium" title="Kuldemedium – Norwegian" lang="no" hreflang="no">Norsk bokmål</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Czynnik_ch%C5%82odniczy" title="Czynnik chłodniczy – Polish" lang="pl" hreflang="pl">Polski</a></li>
+       <li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Fluido_refrigerante" title="Fluido refrigerante – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+       <li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/Agent_frigorific" title="Agent frigorific – Romanian" lang="ro" hreflang="ro">Română</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A5%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B0%D0%B3%D0%B5%D0%BD%D1%82" title="Холодильный агент – Russian" lang="ru" hreflang="ru">Русский</a></li>
+       <li class="interlanguage-link interwiki-si"><a href="//si.wikipedia.org/wiki/%E0%B7%81%E0%B7%93%E0%B6%AD%E0%B6%9A%E0%B7%8F%E0%B6%BB%E0%B6%9A" title="ශීතකාරක – Sinhala" lang="si" hreflang="si">සිංහල</a></li>
+       <li class="interlanguage-link interwiki-simple"><a href="//simple.wikipedia.org/wiki/Refrigerant" title="Refrigerant – Simple English" lang="simple" hreflang="simple">Simple English</a></li>
+       <li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/K%C3%B6ldmedium" title="Köldmedium – Swedish" lang="sv" hreflang="sv">Svenska</a></li>
+       <li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/So%C4%9Futucu_gazlar" title="Soğutucu gazlar – Turkish" lang="tr" hreflang="tr">Türkçe</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%A5%D0%BE%D0%BB%D0%BE%D0%B4%D0%BE%D0%B0%D0%B3%D0%B5%D0%BD%D1%82" title="Холодоагент – Ukrainian" lang="uk" hreflang="uk">Українська</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E5%B7%A5%E4%BD%9C%E4%BB%8B%E8%B4%A8" title="工作介质 – Chinese" lang="zh" hreflang="zh">中文</a></li>
+       <li class="uls-p-lang-dummy"><a href="#"></a></li> 
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q266790#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last modified on 10 March 2016, at 08:52.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-cookiestatement"><a href="//wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Refrigerant&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"> <a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"></a> </li> 
+    <li id="footer-poweredbyico"> <a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"></a> </li> 
+   </ul> 
+   <div style="clear:both"></div> 
+  </div> 
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.wikimediaEvents","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script>
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.config.set({"wgBackendResponseTime":86,"wgHostname":"mw1087"}); /* @nomin */
+} );</script>   
+ </body>
+</html>

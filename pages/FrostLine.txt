@@ -1,0 +1,304 @@
+https://en.wikipedia.org/wiki/Frost_line
+<!doctype html>
+<html lang="en" dir="ltr" class="client-nojs">
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Frost line - Wikipedia, the free encyclopedia</title> 
+  <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script> 
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Frost_line","wgTitle":"Frost line","wgCurRevisionId":711275148,"wgRevisionId":711275148,"wgArticleId":760027,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Soil","Glaciology","Ground freezing","Foundations (buildings and structures)"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Frost_line","wgRelevantArticleId":760027,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCentralAuthMobileDomain":false,"wgWikibaseItemId":"Q1470555","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script> 
+  <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script> 
+  <meta name="generator" content="MediaWiki 1.27.0-wmf.17"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Frost_line"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Frost_line&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Frost_line&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Frost_line"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Frost_line skin-vector action-view"> 
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> 
+   <a id="top"></a> 
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Frost line</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="jump-to-nav" class="mw-jump">
+      Jump to: 
+     <a href="#mw-head">navigation</a>, 
+     <a href="#p-search">search</a> 
+    </div> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div role="note" class="hatnote">
+      For other uses, see 
+      <a href="/wiki/Frost_line_(disambiguation)" title="Frost line (disambiguation)" class="mw-disambig">Frost line (disambiguation)</a>.
+     </div> 
+     <div role="note" class="hatnote">
+      Not to be confused with the geographical feature 
+      <a href="/wiki/Snow_line" title="Snow line">Snow line</a>.
+     </div> 
+     <p>The <b>frost line</b>—also known as <b>frost depth</b> or <b>freezing depth</b>—is most commonly the depth to which the <a href="/wiki/Groundwater" title="Groundwater">groundwater</a> in <a href="/wiki/Soil" title="Soil">soil</a> is expected to freeze. The frost depth depends on the <a href="/wiki/Climate" title="Climate">climatic conditions</a> of an area, the <a href="/wiki/Heat_transfer" title="Heat transfer">heat transfer</a> properties of the soil and adjacent materials, and on nearby heat sources. For example, <a href="/wiki/Snow_cover" title="Snow cover" class="mw-redirect">snow cover</a> and <a href="/wiki/Asphalt" title="Asphalt">asphalt</a> <a href="/wiki/Thermal_insulation" title="Thermal insulation">insulate</a> the ground and homes can heat the ground (see also <i><a href="/wiki/Heat_island" title="Heat island" class="mw-redirect">heat island</a></i>). The line varies by latitude, it is deeper closer to the poles. It ranges in the United States from about zero to six feet. Below that depth, the temperature varies, but is always above 0&nbsp;°C (32&nbsp;°F).</p> 
+     <p>Alternatively, in <a href="/wiki/Arctic" title="Arctic">Arctic</a> and <a href="/wiki/Antarctic" title="Antarctic">Antarctic</a> locations the freezing depth is so deep that it becomes year-round <a href="/wiki/Permafrost" title="Permafrost">permafrost</a>, and the term "<a href="/wiki/Thaw_depth" title="Thaw depth">thaw depth</a>" is used instead. Finally, in tropical regions, frost line may refer to the vertical geographic <a href="/wiki/Elevation" title="Elevation">elevation</a> below which <a href="/wiki/Frost" title="Frost">frost</a> does not occur.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p> 
+     <p><i>Frost front</i> refers to the varying position of the frost line during seasonal periods of freezing and thawing.</p> 
+     <h2><span class="mw-headline" id="Building_codes">Building codes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Frost_line&amp;action=edit&amp;section=1" title="Edit section: Building codes">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p><a href="/wiki/Building_code" title="Building code">Building codes</a> sometimes take frost depth into account because of <a href="/wiki/Frost_heaving" title="Frost heaving">frost heaving</a> which can damage buildings by moving their foundations. Foundations are normally built below the frost depth for this reason. Water pipes are normally buried below the frost line, or insulated to prevent them from freezing.</p> 
+     <p>There are many ways to predict frost depth including factors which relate air temperature to soil temperature.</p> 
+     <h2><span class="mw-headline" id="Sample_frost_lines_for_various_locations">Sample frost lines for various locations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Frost_line&amp;action=edit&amp;section=2" title="Edit section: Sample frost lines for various locations">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <ul> 
+      <li><a href="/wiki/USA" title="USA" class="mw-redirect">USA</a> 
+       <ul> 
+        <li><a href="/wiki/Minnesota" title="Minnesota">Minnesota</a> (2007): 
+         <ul> 
+          <li>Northern counties: 5 feet (1.5&nbsp;m)<sup id="cite_ref-Minnesota_Frost_Depth_Map_2-0" class="reference"><a href="#cite_note-Minnesota_Frost_Depth_Map-2">[2]</a></sup><sup id="cite_ref-Minnesota_Building_Code_3-0" class="reference"><a href="#cite_note-Minnesota_Building_Code-3">[3]</a></sup></li> 
+          <li>Southern counties: 3.5 feet (1.1&nbsp;m)<sup id="cite_ref-Minnesota_Frost_Depth_Map_2-1" class="reference"><a href="#cite_note-Minnesota_Frost_Depth_Map-2">[2]</a></sup><sup id="cite_ref-Minnesota_Building_Code_3-1" class="reference"><a href="#cite_note-Minnesota_Building_Code-3">[3]</a></sup></li> 
+         </ul> </li> 
+       </ul> </li> 
+      <li><a href="/wiki/Canada" title="Canada">Canada</a>: Can use table of estimates based on freezing index degree days.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> 
+       <ul> 
+        <li><a href="/wiki/Ontario" title="Ontario">Ontario</a>: Map of frost penetration depths for Southern Ontario.<sup id="cite_ref-Southern_Ontario_Map_5-0" class="reference"><a href="#cite_note-Southern_Ontario_Map-5">[5]</a></sup> 
+         <ul> 
+          <li><a href="/wiki/Ottawa" title="Ottawa">Ottawa</a>: 1.8 metres (5.9&nbsp;ft) <sup id="cite_ref-Southern_Ontario_Map_5-1" class="reference"><a href="#cite_note-Southern_Ontario_Map-5">[5]</a></sup><sup id="cite_ref-WFE_6-0" class="reference"><a href="#cite_note-WFE-6">[6]</a></sup></li> 
+          <li><a href="/wiki/Windsor,_Ontario" title="Windsor, Ontario">Windsor</a>: 1.0 metre (3.3&nbsp;ft) <sup id="cite_ref-Southern_Ontario_Map_5-2" class="reference"><a href="#cite_note-Southern_Ontario_Map-5">[5]</a></sup><sup id="cite_ref-WFE_6-1" class="reference"><a href="#cite_note-WFE-6">[6]</a></sup></li> 
+         </ul> </li> 
+       </ul> </li> 
+     </ul> 
+     <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Frost_line&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <div class="reflist" style="list-style-type: decimal;"> 
+      <ol class="references"> 
+       <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.thefreedictionary.com/frost+line">"Frost line"</a>. <i>Dictionary.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2008-06-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFrost+line&amp;rft.atitle=Frost+line&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.thefreedictionary.com%2Ffrost%2Bline&amp;rft.jtitle=Dictionary.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-Minnesota_Frost_Depth_Map-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Minnesota_Frost_Depth_Map_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Minnesota_Frost_Depth_Map_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.doli.state.mn.us/CCLD/PDF/bc_map_frost_depth.pdf">"Frost Depth: Minnesota State Building Code Rules 1303.1600"</a> <span style="font-size:85%;">(PDF)</span> (2007 ed.). Minnesota Department of Labor and Industry. 2007-03-09<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-01-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFrost+line&amp;rft.btitle=Frost+Depth%3A+Minnesota+State+Building+Code+Rules+1303.1600&amp;rft.date=2007-03-09&amp;rft.edition=2007&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.doli.state.mn.us%2FCCLD%2FPDF%2Fbc_map_frost_depth.pdf&amp;rft.pub=Minnesota+Department+of+Labor+and+Industry&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-Minnesota_Building_Code-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Minnesota_Building_Code_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Minnesota_Building_Code_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.dli.mn.gov/ccld/PDF/bc_2007msbc.pdf">"The 2007 Minnesota State Building Code"</a> <span style="font-size:85%;">(PDF)</span>. Minnesota Department of Labor and Industry. 2007-10-09<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-01-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFrost+line&amp;rft.btitle=The+2007+Minnesota+State+Building+Code&amp;rft.date=2007-10-09&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.dli.mn.gov%2Fccld%2FPDF%2Fbc_2007msbc.pdf&amp;rft.pub=Minnesota+Department+of+Labor+and+Industry&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.urecon.com/applications/municipal_ambient_below.html">"Ambient Temperatures - Below Ground"</a>. <i>Urecon</i><span class="reference-accessdate">. Retrieved <span class="nowrap">16 January</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFrost+line&amp;rft.atitle=Ambient+Temperatures+-+Below+Ground&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.urecon.com%2Fapplications%2Fmunicipal_ambient_below.html&amp;rft.jtitle=Urecon&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-Southern_Ontario_Map-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Southern_Ontario_Map_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Southern_Ontario_Map_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Southern_Ontario_Map_5-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.raqsb.mto.gov.on.ca/techpubs/ops.nsf/fee5d2d0c518bc6c85257172004af2c6/a48e402f1bf0b57c852570c9006cfae6/$FILE/OPSD3090.101%20Rev%231%20Nov2010.pdf">"Foundation, Frost Penetration Depths for Southern Ontario (OPSD 3090.101 rev.1)"</a> <span style="font-size:85%;">(PDF)</span>. <i>Ontario Ministry of Transportation</i>. Nov 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">16 January</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFrost+line&amp;rft.atitle=Foundation%2C+Frost+Penetration+Depths+for+Southern+Ontario+%28OPSD+3090.101+rev.1%29&amp;rft.date=2010-11&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.raqsb.mto.gov.on.ca%2Ftechpubs%2Fops.nsf%2Ffee5d2d0c518bc6c85257172004af2c6%2Fa48e402f1bf0b57c852570c9006cfae6%2F%24FILE%2FOPSD3090.101%2520Rev%25231%2520Nov2010.pdf&amp;rft.jtitle=Ontario+Ministry+of+Transportation&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-WFE-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-WFE_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-WFE_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.waltersforensic.com/articles/civil_engineering/vol1-no11.htm">"Frost Heave (Civil Engineering vol.1 No.11)"</a>. <i>Walters Forensic Engineering</i><span class="reference-accessdate">. Retrieved <span class="nowrap">16 January</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFrost+line&amp;rft.atitle=Frost+Heave+%28Civil+Engineering+vol.1+No.11%29&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.waltersforensic.com%2Farticles%2Fcivil_engineering%2Fvol1-no11.htm&amp;rft.jtitle=Walters+Forensic+Engineering&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+      </ol> 
+     </div> 
+     <!-- 
+NewPP limit report
+Parsed by mw1102
+Cached time: 20160321222223
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.168 seconds
+Real time usage: 0.200 seconds
+Preprocessor visited node count: 505/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 9941/2097152 bytes
+Template argument size: 93/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/500
+Lua time usage: 0.086/10.000 seconds
+Lua memory usage: 3.51 MB/50 MB
+Number of Wikibase entities loaded: 0--> 
+     <!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  184.839      1 - -total
+ 47.00%   86.883      1 - Template:Reflist
+ 37.35%   69.036      6 - Template:Cite_web
+ 27.61%   51.043      5 - Template:Convert
+ 16.57%   30.627      1 - Template:Other_uses
+ 15.14%   27.976      1 - Template:About
+ 13.78%   25.463      2 - Template:Hatnote
+  1.92%    3.545      1 - Template:Distinguish2
+--> 
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:760027-0!*!0!!*!*!* and timestamp 20160321222223 and revision id 711275148
+ --> 
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript>
+    </div> 
+    <div class="printfooter">
+      Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Frost_line&amp;oldid=711275148">https://en.wikipedia.org/w/index.php?title=Frost_line&amp;oldid=711275148</a>" 
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Soil" title="Category:Soil">Soil</a></li>
+       <li><a href="/wiki/Category:Glaciology" title="Category:Glaciology">Glaciology</a></li>
+       <li><a href="/wiki/Category:Ground_freezing" title="Category:Ground freezing">Ground freezing</a></li>
+       <li><a href="/wiki/Category:Foundations_(buildings_and_structures)" title="Category:Foundations (buildings and structures)">Foundations (buildings and structures)</a></li>
+      </ul>
+     </div>
+    </div> 
+    <div class="visualClear"></div> 
+   </div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> 
+    <div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label"> 
+     <h3 id="p-personal-label">Personal tools</h3> 
+     <ul> 
+      <li id="pt-anonuserpage">Not logged in</li>
+      <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+      <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+      <li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Frost+line&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+      <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Frost+line" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li> 
+     </ul> 
+    </div> 
+    <div id="left-navigation"> 
+     <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label"> 
+      <h3 id="p-namespaces-label">Namespaces</h3> 
+      <ul> 
+       <li id="ca-nstab-main" class="selected"><span><a href="/wiki/Frost_line" title="View the content page [c]" accesskey="c">Article</a></span></li> 
+       <li id="ca-talk"><span><a href="/wiki/Talk:Frost_line" title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span><a href="#"></a> </h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="right-navigation"> 
+     <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label"> 
+      <h3 id="p-views-label">Views</h3> 
+      <ul> 
+       <li id="ca-view" class="selected"><span><a href="/wiki/Frost_line">Read</a></span></li> 
+       <li id="ca-edit"><span><a href="/w/index.php?title=Frost_line&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li> 
+       <li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Frost_line&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch"> 
+        <input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput">
+        <input type="hidden" value="Special:Search" name="title">
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton">
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a>
+    </div> 
+    <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label"> 
+     <h3 id="p-navigation-label">Navigation</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+       <li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label"> 
+     <h3 id="p-interaction-label">Interaction</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label"> 
+     <h3 id="p-tb-label">Tools</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Frost_line" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Frost_line" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Frost_line&amp;oldid=711275148" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Frost_line&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q1470555" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Frost_line&amp;id=711275148" title="Information on how to cite this page">Cite this page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label"> 
+     <h3 id="p-coll-print_export-label">Print/export</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Frost+line">Create a book</a></li>
+       <li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Frost+line&amp;returnto=Frost+line&amp;oldid=711275148&amp;writer=rdf2latex">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Frost_line&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label"> 
+     <h3 id="p-lang-label">Languages</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Frostgrenze" title="Frostgrenze – German" lang="de" hreflang="de">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Profondit%C3%A0_di_congelamento" title="Profondità di congelamento – Italian" lang="it" hreflang="it">Italiano</a></li>
+       <li class="uls-p-lang-dummy"><a href="#"></a></li> 
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q1470555#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last modified on 21 March 2016, at 22:22.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-cookiestatement"><a href="//wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Frost_line&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"> <a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"></a> </li> 
+    <li id="footer-poweredbyico"> <a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"></a> </li> 
+   </ul> 
+   <div style="clear:both"></div> 
+  </div> 
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","ext.wikimediaEvents","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script>
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.config.set({"wgBackendResponseTime":76,"wgHostname":"mw1088"}); /* @nomin */
+} );</script>   
+ </body>
+</html>

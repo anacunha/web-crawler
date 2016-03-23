@@ -1,0 +1,1985 @@
+https://en.wikipedia.org/wiki/University_of_Zagreb
+<!doctype html>
+<html lang="en" dir="ltr" class="client-nojs">
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>University of Zagreb - Wikipedia, the free encyclopedia</title> 
+  <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script> 
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"University_of_Zagreb","wgTitle":"University of Zagreb","wgCurRevisionId":707786006,"wgRevisionId":707786006,"wgArticleId":899111,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing Latin-language text","Articles containing Croatian-language text","Coordinates on Wikidata","1669 establishments in Croatia","Educational institutions established in the 1660s","University of Zagreb","Universities in Croatia","Forestry in Croatia"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"University_of_Zagreb","wgRelevantArticleId":899111,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCoordinates":{"lat":45.810672222222,"lon":15.970097222222},"wgCentralAuthMobileDomain":false,"wgWikibaseItemId":"Q675848","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script> 
+  <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script> 
+  <meta name="generator" content="MediaWiki 1.27.0-wmf.17"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/University_of_Zagreb"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=University_of_Zagreb&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=University_of_Zagreb&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/University_of_Zagreb"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-University_of_Zagreb skin-vector action-view"> 
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> 
+   <a id="top"></a> 
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">University of Zagreb</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="jump-to-nav" class="mw-jump">
+      Jump to: 
+     <a href="#mw-head">navigation</a>, 
+     <a href="#p-search">search</a> 
+    </div> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <table class="infobox vcard" style="width:22em"> 
+      <caption class="fn org">
+       University of Zagreb
+      </caption> 
+      <tbody>
+       <tr> 
+        <td colspan="2" style="text-align:center"><span class="nickname">Sveučilište u Zagrebu</span></td> 
+       </tr> 
+       <tr> 
+        <td colspan="2" style="text-align:center"><a href="/wiki/File:University_of_Zagreb_logo.svg" class="image"><img alt="University of Zagreb logo.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/c/ce/University_of_Zagreb_logo.svg/200px-University_of_Zagreb_logo.svg.png" width="200" height="200" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/ce/University_of_Zagreb_logo.svg/300px-University_of_Zagreb_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/ce/University_of_Zagreb_logo.svg/400px-University_of_Zagreb_logo.svg.png 2x" data-file-width="271" data-file-height="271"></a></td> 
+       </tr> 
+       <tr> 
+        <td colspan="2" class="nickname" style="text-align:center"><a href="/wiki/Latin_language" title="Latin language" class="mw-redirect">Latin</a>: <span lang="la" xml:lang="la"><i>Universitas Studiorum Zagrabiensis</i></span></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="padding-right:0.65em;">Type</th> 
+        <td>Public</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="padding-right:0.65em;">Established</th> 
+        <td>23 September 1669</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="padding-right:0.65em;"><a href="/wiki/Financial_endowment" title="Financial endowment">Endowment</a></th> 
+        <td>328.5 million <a href="/wiki/Croatian_Kuna" title="Croatian Kuna" class="mw-redirect">HRK</a></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="padding-right:0.65em;"><a href="/wiki/Rector_(academia)" title="Rector (academia)">Rector</a></th> 
+        <td>Damir Boras</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="padding-right:0.65em;"> 
+         <div style="padding:0.1em 0;line-height:1.2em;">
+          Academic staff
+         </div> </th> 
+        <td>7,915 <sup id="cite_ref-unizg.hr_1-0" class="reference"><a href="#cite_note-unizg.hr-1">[1]</a></sup></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="padding-right:0.65em;">Students</th> 
+        <td>72,480 (2015)<sup id="cite_ref-unizg.hr_1-1" class="reference"><a href="#cite_note-unizg.hr-1">[1]</a></sup></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="padding-right:0.65em;"><a href="/wiki/Postgraduate_education" title="Postgraduate education">Postgraduates</a></th> 
+        <td>7243 (2007)</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="padding-right:0.65em;"> 
+         <div style="padding:0.1em 0;line-height:1.2em;">
+          <a href="/wiki/Doctorate" title="Doctorate">Doctoral students</a>
+         </div> </th> 
+        <td>842 (2007)</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="padding-right:0.65em;">Location</th> 
+        <td class="adr"><span class="locality"><a href="/wiki/Zagreb" title="Zagreb">Zagreb</a></span>, <span class="country-name"><a href="/wiki/Croatia" title="Croatia">Croatia</a></span></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="padding-right:0.65em;">Campus</th> 
+        <td>city wide, central</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="padding-right:0.65em;">Website</th> 
+        <td><a rel="nofollow" class="external text" href="http://www.unizg.hr/homepage/">unizg.hr</a></td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <p>The <b>University of Zagreb</b> (<a href="/wiki/Croatian_language" title="Croatian language">Croatian</a>: <span lang="hr" xml:lang="hr"><i>Sveučilište u Zagrebu</i></span>, <small>pronounced&nbsp;</small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA_for_Serbo-Croatian" title="Help:IPA for Serbo-Croatian">[sʋeǔt͡ʃiliːʃte u zǎːgrebu]</a></span>; <a href="/wiki/Latin_language" title="Latin language" class="mw-redirect">Latin</a>: <span lang="la" xml:lang="la"><i>Universitas Studiorum Zagrabiensis</i></span>) is the largest <a href="/wiki/Croatia" title="Croatia">Croatian</a> <a href="/wiki/University" title="University">university</a> and the oldest continuously operating university in the area covering Central Europe south of <a href="/wiki/Vienna" title="Vienna">Vienna</a> and all of <a href="/wiki/Southeastern_Europe" title="Southeastern Europe" class="mw-redirect">Southeastern Europe</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p> 
+     <p>History of the University began on September 23, 1669 when the Holy Roman Emperor <a href="/wiki/Leopold_I,_Holy_Roman_Emperor" title="Leopold I, Holy Roman Emperor">Leopold I</a> issued a decree granting the establishment of the <i>Jesuit Academy of the Royal Free City of Zagreb</i>. Decree was accepted at the Council of the Croatian Kingdom on November 3, 1671. The Academy was run by the <a href="/wiki/Jesuits" title="Jesuits" class="mw-redirect">Jesuits</a> for more than a century until the order was dissolved by <a href="/wiki/Pope_Clement_XIV" title="Pope Clement XIV">Pope Clement XIV</a> in 1773. In 1776 Empress <a href="/wiki/Maria_Theresa" title="Maria Theresa">Maria Theresa</a> issued a decree founding the <i>Royal Academy of Science</i> which succeeded the previous Jesuit Academy. Bishop <a href="/wiki/Josip_Juraj_Strossmayer" title="Josip Juraj Strossmayer">Josip Juraj Strossmayer</a> proposed to the <a href="/wiki/Croatian_Parliament" title="Croatian Parliament">Croatian Parliament</a> in 1861 founding of a University. Emperor <a href="/wiki/Franz_Joseph" title="Franz Joseph" class="mw-redirect">Franz Joseph</a> signed the decree on the establishment of the University of Zagreb in 1869. Act of Founding was passed by the Parliament in 1874, and was ratified by the Emperor on January 5, 1874. On October 19, 1874, a <i>Royal University of Franz Joseph I</i> was official opened.</p> 
+     <p>University comprises 29 faculties, 3 art academies and 1 university center with more than 70.000 students. University is as of 2015 at a 551 place out of 1000 on the list of Universities of the world made by the Center for University World Rankings.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p> 
+     <p></p> 
+     <div id="toc" class="toc"> 
+      <div id="toctitle"> 
+       <h2>Contents</h2> 
+      </div> 
+      <ul> 
+       <li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a> 
+        <ul> 
+         <li class="toclevel-2 tocsection-2"><a href="#Academy"><span class="tocnumber">1.1</span> <span class="toctext">Academy</span></a></li> 
+         <li class="toclevel-2 tocsection-3"><a href="#University"><span class="tocnumber">1.2</span> <span class="toctext">University</span></a></li> 
+         <li class="toclevel-2 tocsection-4"><a href="#Discrimination_affair"><span class="tocnumber">1.3</span> <span class="toctext">Discrimination affair</span></a></li> 
+        </ul> </li> 
+       <li class="toclevel-1 tocsection-5"><a href="#Faculties"><span class="tocnumber">2</span> <span class="toctext">Faculties</span></a></li> 
+       <li class="toclevel-1 tocsection-6"><a href="#Rectors"><span class="tocnumber">3</span> <span class="toctext">Rectors</span></a></li> 
+       <li class="toclevel-1 tocsection-7"><a href="#Legacy"><span class="tocnumber">4</span> <span class="toctext">Legacy</span></a></li> 
+       <li class="toclevel-1 tocsection-8"><a href="#Gallery"><span class="tocnumber">5</span> <span class="toctext">Gallery</span></a></li> 
+       <li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li> 
+       <li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li> 
+       <li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li> 
+      </ul> 
+     </div> 
+     <p></p> 
+     <h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Zagreb&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:202px;">
+       <a href="/wiki/File:Matija_Mesi%C4%87.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Matija_Mesi%C4%87.jpg/200px-Matija_Mesi%C4%87.jpg" width="200" height="264" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Matija_Mesi%C4%87.jpg/300px-Matija_Mesi%C4%87.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/d/d4/Matija_Mesi%C4%87.jpg 2x" data-file-width="351" data-file-height="463"></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Matija_Mesi%C4%87.jpg" class="internal" title="Enlarge"></a>
+        </div> 
+        <a href="/wiki/Matija_Mesi%C4%87" title="Matija Mesić">Matija Mesić</a>, first rector
+       </div> 
+      </div> 
+     </div> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:252px;">
+       <a href="/wiki/File:University_of_Zagreb.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/University_of_Zagreb.jpg/250px-University_of_Zagreb.jpg" width="250" height="188" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/University_of_Zagreb.jpg/375px-University_of_Zagreb.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6d/University_of_Zagreb.jpg/500px-University_of_Zagreb.jpg 2x" data-file-width="2304" data-file-height="1728"></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:University_of_Zagreb.jpg" class="internal" title="Enlarge"></a>
+        </div> Palace of Rectorate and the Faculty of Law
+       </div> 
+      </div> 
+     </div> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:252px;">
+       <a href="/wiki/File:Promotion_of_new_PhDs.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Promotion_of_new_PhDs.jpg/250px-Promotion_of_new_PhDs.jpg" width="250" height="166" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Promotion_of_new_PhDs.jpg/375px-Promotion_of_new_PhDs.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Promotion_of_new_PhDs.jpg/500px-Promotion_of_new_PhDs.jpg 2x" data-file-width="901" data-file-height="600"></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Promotion_of_new_PhDs.jpg" class="internal" title="Enlarge"></a>
+        </div> Promotion of new PhDs in 2015
+       </div> 
+      </div> 
+     </div> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:252px;">
+       <a href="/wiki/File:Great_Hall_of_the_Rectorate_of_the_University_of_Zagreb.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Great_Hall_of_the_Rectorate_of_the_University_of_Zagreb.jpg/250px-Great_Hall_of_the_Rectorate_of_the_University_of_Zagreb.jpg" width="250" height="167" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Great_Hall_of_the_Rectorate_of_the_University_of_Zagreb.jpg/375px-Great_Hall_of_the_Rectorate_of_the_University_of_Zagreb.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/Great_Hall_of_the_Rectorate_of_the_University_of_Zagreb.jpg/500px-Great_Hall_of_the_Rectorate_of_the_University_of_Zagreb.jpg 2x" data-file-width="960" data-file-height="640"></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Great_Hall_of_the_Rectorate_of_the_University_of_Zagreb.jpg" class="internal" title="Enlarge"></a>
+        </div> Great Hall of the Rectorate of the University
+       </div> 
+      </div> 
+     </div> 
+     <h3><span class="mw-headline" id="Academy">Academy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Zagreb&amp;action=edit&amp;section=2" title="Edit section: Academy">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>The beginnings of the later university date back to 23 September 1669 when Emperor and King <a href="/wiki/Leopold_I,_Holy_Roman_Emperor" title="Leopold I, Holy Roman Emperor">Leopold I</a> Habsburg issued a decree granting the establishment of the <a href="/wiki/Jesuit" title="Jesuit" class="mw-redirect">Jesuit</a> Academy of the Royal Free City of <a href="/wiki/Zagreb" title="Zagreb">Zagreb</a>.<sup id="cite_ref-R.C3.BCegg_685_4-0" class="reference"><a href="#cite_note-R.C3.BCegg_685-4">[4]</a></sup> According to that document the study of philosophy in Zagreb acquired a formal and legal status as <i>Neoacademia Zagrabiensis</i> and officially became a public institution of higher education.</p> 
+     <p>The academy was run by the Jesuits for more than a century until the order was dissolved by Pope <a href="/wiki/Clement_XIV" title="Clement XIV" class="mw-redirect">Clement XIV</a> in 1773. Under a new leadership in 1772 the academy enrolled a total of 200 students.</p> 
+     <p>In 1776 Empress and Queen <a href="/wiki/Maria_Theresa_of_Austria" title="Maria Theresa of Austria" class="mw-redirect">Maria Theresa</a> issued a decree founding the Royal Academy of Science (<a href="/wiki/Latin_language" title="Latin language" class="mw-redirect">Latin</a>: <span lang="la" xml:lang="la"><i>Regia Scientiarum Academia</i></span>).<sup id="cite_ref-R.C3.BCegg_685_4-1" class="reference"><a href="#cite_note-R.C3.BCegg_685-4">[4]</a></sup> It consisted of three studies or <a href="/wiki/Faculty_(division)" title="Faculty (division)">faculties</a> of philosophy, theology, and law. The former political-<a href="/wiki/Cameral" title="Cameral" class="mw-redirect">cameral</a> studies became part of the newly established faculty of law, and thus were integrated into the academy. Each of the faculties of the Royal Academy of Sciences had several chairs teaching one or several courses.</p> 
+     <p>The academy in Zagreb remained until 1874, despite numerous organizational changes, the focal institution of higher education in Croatia, educating most of the members of the Croatian intelligentsia.</p> 
+     <h3><span class="mw-headline" id="University">University</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Zagreb&amp;action=edit&amp;section=3" title="Edit section: University">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <div role="note" class="hatnote">
+      See also: 
+      <a href="/wiki/Franz_Joseph_University_(disambiguation)" title="Franz Joseph University (disambiguation)" class="mw-disambig">Franz Joseph University (disambiguation)</a>
+     </div> 
+     <p>Bishop <a href="/wiki/Josip_Juraj_Strossmayer" title="Josip Juraj Strossmayer">Josip Juraj Strossmayer</a> in 1861 proposed to the <a href="/wiki/Croatian_Parliament" title="Croatian Parliament">Croatian Parliament</a> the founding of a university at Zagreb. During his visit in 1869, the Emperor <a href="/wiki/Franz_Joseph" title="Franz Joseph" class="mw-redirect">Franz Joseph</a> signed the decree on the establishment of the University of Zagreb. Five years later, the Parliament passed the Act of Founding, which was ratified by the Emperor on 5 January 1874. On 19 October 1874, a ceremony was held in the name of the founding of the <i>Royal University of Franz Joseph I in Zagreb</i>,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> making it the third university in the <a href="/wiki/Transleithania" title="Transleithania" class="mw-redirect">Hungarian realm</a> of the <a href="/wiki/Austro-Hungarian_Empire" title="Austro-Hungarian Empire" class="mw-redirect">Austro-Hungarian Empire</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p> 
+     <p>In 1874 the University had four faculties:</p> 
+     <ul> 
+      <li>Law (<i>Pravno-državoslovni fakultet</i>)</li> 
+      <li>Theology (<i>Bogoslovni fakultet</i>)</li> 
+      <li>Philosophy (<i>Mudroslovni fakultet</i>)</li> 
+      <li>Medicine (<i>Liječnički fakultet</i>)</li> 
+     </ul> 
+     <p>The Faculty of Medicine was not put into function in 1874; it had to wait until 1917. The Faculty of Philosophy served as the general scientific faculty. Since 1876 it had geology, botany, physics, mathematics, and chemistry; since 1877 zoology; since 1882 pharmacy; since 1883 geography.</p> 
+     <p>In 1860, the <a href="/w/index.php?title=Royal_Agriculture_and_Forestry_College&amp;action=edit&amp;redlink=1" class="new" title="Royal Agriculture and Forestry College (page does not exist)">Royal Agriculture and Forestry College</a> was founded in <a href="/wiki/Kri%C5%BEevci,_Croatia" title="Križevci, Croatia">Križevci</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> In 1898, the Academy of Forestry (<i>Šumarska akademija</i>) was founded as part of the Faculty of Philosophy, which encompassed all technical studies. In 1919, this school became the Faculty of Husbandry and Forestry.</p> 
+     <p>In 1919, the School of Technology (<i>Tehnička visoka škola</i>) was founded, which was transformed into a university faculty in 1926. Also in 1919 the School of Veterinary Medicine (<i>Veterinarska visoka škola</i>) was founded; it transformed into a university faculty in 1925.</p> 
+     <p>In the Faculty of Philosophy, major reorganization ensued in the 1920s, as mathematics, pharmacy and other sciences started to split off, first with the creation of separate mathematics and pharmaceutical departments in 1928, when the faculty was renamed into its current name <i>Filozofski fakultet</i>.</p> 
+     <p>In 1926, the university was composed of seven faculties:</p> 
+     <ul> 
+      <li>Theology (<i>Bogoslovni fakultet</i>)</li> 
+      <li>Law (<i>Pravnički fakultet</i>)</li> 
+      <li>Medicine (<i>Liječnički fakultet</i>)</li> 
+      <li>Philosophy (<i>Mudroslovni fakultet</i>) 
+       <ul> 
+        <li>Philosophy dept. (<i>Filozofski odjel</i>)</li> 
+        <li>Pharmacy dept. (<i>Farmaceutski odjel</i>)</li> 
+       </ul> </li> 
+      <li>Husbandry and Forestry (<i>Gospodarsko-šumarski fakultet</i>)</li> 
+      <li>Veterinary Medicine (<i>Veterinarski fakultet</i>)</li> 
+      <li>Technology (<i>Tehnički fakultet</i>) 
+       <ul> 
+        <li>Construction dept. (<i>Građevni odsjek</i>)</li> 
+        <li>Engineering dept. (<i>Strojarski odsjek</i>)</li> 
+        <li>Chemical engineering dept. (<i>Kemijsko-inženjerski odsjek</i>)</li> 
+       </ul> </li> 
+     </ul> 
+     <p>During the <a href="/wiki/Independent_State_of_Croatia" title="Independent State of Croatia">Independent State of Croatia</a> (1941–1945), the university was known as the <i>Croatian University</i> (Hrvatsko sveučilište).</p> 
+     <p>The individual departments of the Faculty of Philosophy became separate faculties in 1942, 1946 when the Faculty of Sciences was formed, and finally in 1963.</p> 
+     <p>In 1956, the Faculty of Technology was divided into four faculties:</p> 
+     <ul> 
+      <li>Architecture-Construction-Geodesy (<i>Arhitektonsko-građevinsko-geodetski fakultet</i>)</li> 
+      <li>Electrical engineering (<i>Elektrotehnički fakultet</i>)</li> 
+      <li>Mechanical engineering-Shipbuilding (<i>Strojarsko-brodograđevni fakultet</i>)</li> 
+      <li>Chemistry-Food technology-Mining (<i>Tehnološki fakultet</i>)</li> 
+     </ul> 
+     <p>These eventually split up into the current layout.</p> 
+     <h3><span class="mw-headline" id="Discrimination_affair">Discrimination affair</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Zagreb&amp;action=edit&amp;section=4" title="Edit section: Discrimination affair">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>Dario Kresic - a senior research assistant at the University of Zagreb, <a href="/wiki/Faculty_of_Organization_and_Informatics,_University_of_Zagreb" title="Faculty of Organization and Informatics, University of Zagreb" class="mw-redirect">Faculty of Organization and Informatics</a> - brought in 2010 a lawsuit against the <a href="/wiki/Faculty_of_Organization_and_Informatics,_University_of_Zagreb" title="Faculty of Organization and Informatics, University of Zagreb" class="mw-redirect">Faculty of Organization and Informatics</a> claiming he was discriminated on the grounds of his sexual orientation.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> In 2009, there was a history of harassment based on sexual orientation against Kresic by his colleagues at the <a href="/wiki/Faculty_of_Organization_and_Informatics,_University_of_Zagreb" title="Faculty of Organization and Informatics, University of Zagreb" class="mw-redirect">Faculty of Organization and Informatics</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> During 2010 Kresic faced discrimination in promotion at the workplace; after he brought a complaint to the Dean of the <a href="/wiki/Faculty_of_Organization_and_Informatics,_University_of_Zagreb" title="Faculty of Organization and Informatics, University of Zagreb" class="mw-redirect">Faculty of Organization and Informatics</a> about the harassment, the procedure regarding his application for the position of an assistant professor was obstructed by the <a href="/wiki/Faculty_of_Organization_and_Informatics,_University_of_Zagreb" title="Faculty of Organization and Informatics, University of Zagreb" class="mw-redirect">Faculty of Organization and Informatics</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p> 
+     <p>In July 2012 the Municipal Court in <a href="/wiki/Vara%C5%BEdin" title="Varaždin">Varaždin</a> found that the <a href="/wiki/Faculty_of_Organization_and_Informatics,_University_of_Zagreb" title="Faculty of Organization and Informatics, University of Zagreb" class="mw-redirect">Faculty of Organization and Informatics</a> discriminated and harassed Kresic on the grounds of sexual orientation and the Court ordered the <a href="/wiki/Faculty_of_Organization_and_Informatics,_University_of_Zagreb" title="Faculty of Organization and Informatics, University of Zagreb" class="mw-redirect">Faculty of Organization and Informatics</a> to refrain from any actions that would prevent Kresic from career and academic advancement.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> This case was the first lawsuit of its kind in <a href="/wiki/Croatia" title="Croatia">Croatia</a>.</p> 
+     <h2><span class="mw-headline" id="Faculties">Faculties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Zagreb&amp;action=edit&amp;section=5" title="Edit section: Faculties">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p><b><a href="/wiki/Natural_science" title="Natural science">Natural sciences</a></b></p> 
+     <ul> 
+      <li><a href="/wiki/Faculty_of_Science,_University_of_Zagreb" title="Faculty of Science, University of Zagreb">Faculty of Science</a></li> 
+     </ul> 
+     <p><b><a href="/wiki/Engineering" title="Engineering">Engineering</a></b></p> 
+     <ul> 
+      <li><a href="/wiki/Faculty_of_Architecture,_University_of_Zagreb" title="Faculty of Architecture, University of Zagreb">Faculty of Architecture</a></li> 
+      <li><a href="/wiki/Faculty_of_Chemical_Engineering_and_Technology,_University_of_Zagreb" title="Faculty of Chemical Engineering and Technology, University of Zagreb">Faculty of Chemical Engineering and Technology</a></li> 
+      <li><a href="/w/index.php?title=Faculty_of_Civil_Engineering,_University_of_Zagreb&amp;action=edit&amp;redlink=1" class="new" title="Faculty of Civil Engineering, University of Zagreb (page does not exist)">Faculty of Civil Engineering</a></li> 
+      <li><a href="/wiki/Faculty_of_Electrical_Engineering_and_Computing,_University_of_Zagreb" title="Faculty of Electrical Engineering and Computing, University of Zagreb">Faculty of Electrical Engineering and Computing</a></li> 
+      <li><a href="/wiki/Faculty_of_Geodesy,_University_of_Zagreb" title="Faculty of Geodesy, University of Zagreb">Faculty of Geodesy</a></li> 
+      <li><a href="/w/index.php?title=Faculty_of_Geotechnics,_University_of_Zagreb&amp;action=edit&amp;redlink=1" class="new" title="Faculty of Geotechnics, University of Zagreb (page does not exist)">Faculty of Geotechnics</a> (in <a href="/wiki/Vara%C5%BEdin" title="Varaždin">Varaždin</a>)</li> 
+      <li><a href="/w/index.php?title=Faculty_of_Graphic_Arts,_University_of_Zagreb&amp;action=edit&amp;redlink=1" class="new" title="Faculty of Graphic Arts, University of Zagreb (page does not exist)">Faculty of Graphic Arts</a></li> 
+      <li><a href="/w/index.php?title=Faculty_of_Mechanical_Engineering_and_Naval_Architecture,_University_of_Zagreb&amp;action=edit&amp;redlink=1" class="new" title="Faculty of Mechanical Engineering and Naval Architecture, University of Zagreb (page does not exist)">Faculty of Mechanical Engineering and Naval Architecture</a></li> 
+      <li><a href="/wiki/University_of_Zagreb_Faculty_of_Metallurgy" title="University of Zagreb Faculty of Metallurgy" class="mw-redirect">Faculty of Metallurgy</a> (in <a href="/wiki/Sisak" title="Sisak">Sisak</a>)</li> 
+      <li><a href="/w/index.php?title=Faculty_of_Mining,_Geology_and_Petroleum_Engineering,_University_of_Zagreb&amp;action=edit&amp;redlink=1" class="new" title="Faculty of Mining, Geology and Petroleum Engineering, University of Zagreb (page does not exist)">Faculty of Mining, Geology and Petroleum Engineering</a></li> 
+      <li><a href="/w/index.php?title=Faculty_of_Textile_Technology,_University_of_Zagreb&amp;action=edit&amp;redlink=1" class="new" title="Faculty of Textile Technology, University of Zagreb (page does not exist)">Faculty of Textile Technology</a></li> 
+      <li><a href="/w/index.php?title=Faculty_of_Transport_and_Traffic_Sciences,_University_of_Zagreb&amp;action=edit&amp;redlink=1" class="new" title="Faculty of Transport and Traffic Sciences, University of Zagreb (page does not exist)">Faculty of Transport and Traffic Sciences</a></li> 
+     </ul> 
+     <p><b><a href="/wiki/Biomedical_sciences" title="Biomedical sciences">Biomedical sciences</a></b></p> 
+     <ul> 
+      <li><a href="/w/index.php?title=Faculty_of_Pharmacy_and_Biochemistry,_University_of_Zagreb&amp;action=edit&amp;redlink=1" class="new" title="Faculty of Pharmacy and Biochemistry, University of Zagreb (page does not exist)">Faculty of Pharmacy and Biochemistry</a></li> 
+      <li><a href="/w/index.php?title=Faculty_of_Veterinary_Medicine,_University_of_Zagreb&amp;action=edit&amp;redlink=1" class="new" title="Faculty of Veterinary Medicine, University of Zagreb (page does not exist)">Faculty of Veterinary Medicine</a></li> 
+      <li><a href="/wiki/School_of_Dental_Medicine,_University_of_Zagreb" title="School of Dental Medicine, University of Zagreb">School of Dental Medicine</a></li> 
+      <li><a href="/wiki/School_of_Medicine,_University_of_Zagreb" title="School of Medicine, University of Zagreb">School of Medicine</a></li> 
+     </ul> 
+     <p><b><a href="/wiki/Biotechnology" title="Biotechnology">Biotechnology</a></b></p> 
+     <ul> 
+      <li><a href="/w/index.php?title=Faculty_of_Agriculture,_University_of_Zagreb&amp;action=edit&amp;redlink=1" class="new" title="Faculty of Agriculture, University of Zagreb (page does not exist)">Faculty of Agriculture</a></li> 
+      <li><a href="/w/index.php?title=Faculty_of_Food_Technology_and_Biotechnology,_University_of_Zagreb&amp;action=edit&amp;redlink=1" class="new" title="Faculty of Food Technology and Biotechnology, University of Zagreb (page does not exist)">Faculty of Food Technology and Biotechnology</a></li> 
+      <li><a href="/w/index.php?title=Faculty_of_Forestry,_University_of_Zagreb&amp;action=edit&amp;redlink=1" class="new" title="Faculty of Forestry, University of Zagreb (page does not exist)">Faculty of Forestry</a></li> 
+     </ul> 
+     <p><b><a href="/wiki/Social_sciences" title="Social sciences" class="mw-redirect">Social sciences</a></b></p> 
+     <ul> 
+      <li><a href="/wiki/Faculty_of_Economics_and_Business,_University_of_Zagreb" title="Faculty of Economics and Business, University of Zagreb">Faculty of Economics and Business</a></li> 
+      <li><a href="/w/index.php?title=Faculty_of_Kinesiology,_University_of_Zagreb&amp;action=edit&amp;redlink=1" class="new" title="Faculty of Kinesiology, University of Zagreb (page does not exist)">Faculty of Kinesiology</a></li> 
+      <li><a href="/wiki/Faculty_of_Law,_University_of_Zagreb" title="Faculty of Law, University of Zagreb">Faculty of Law, University of Zagreb</a></li> 
+      <li><a href="/wiki/Faculty_of_Organization_and_Informatics,_University_of_Zagreb" title="Faculty of Organization and Informatics, University of Zagreb" class="mw-redirect">Faculty of Organization and Informatics</a> (in <a href="/wiki/Vara%C5%BEdin" title="Varaždin">Varaždin</a>)</li> 
+      <li><a href="/w/index.php?title=Faculty_of_Political_Science,_University_of_Zagreb&amp;action=edit&amp;redlink=1" class="new" title="Faculty of Political Science, University of Zagreb (page does not exist)">Faculty of Political Science</a></li> 
+      <li><a href="/w/index.php?title=Faculty_of_Special_Education_and_Rehabilitation,_University_of_Zagreb&amp;action=edit&amp;redlink=1" class="new" title="Faculty of Special Education and Rehabilitation, University of Zagreb (page does not exist)">Faculty of Special Education and Rehabilitation</a></li> 
+      <li><a href="/wiki/Faculty_of_Teacher_Education,_University_of_Zagreb" title="Faculty of Teacher Education, University of Zagreb">Faculty of Teacher Education</a></li> 
+     </ul> 
+     <p><b><a href="/wiki/Humanities" title="Humanities">Humanities</a></b></p> 
+     <ul> 
+      <li><a href="/w/index.php?title=Catholic_Faculty_of_Theology,_University_of_Zagreb&amp;action=edit&amp;redlink=1" class="new" title="Catholic Faculty of Theology, University of Zagreb (page does not exist)">Catholic Faculty of Theology</a></li> 
+      <li><a href="/wiki/Faculty_of_Humanities_and_Social_Sciences,_University_of_Zagreb" title="Faculty of Humanities and Social Sciences, University of Zagreb">Faculty of Humanities and Social Sciences</a></li> 
+      <li><a href="/w/index.php?title=University_Centre_for_Croatian_Studies&amp;action=edit&amp;redlink=1" class="new" title="University Centre for Croatian Studies (page does not exist)">University Centre for Croatian Studies</a></li> 
+     </ul> 
+     <p><b><a href="/wiki/The_arts" title="The arts">The arts</a></b></p> 
+     <ul> 
+      <li><a href="/wiki/Academy_of_Dramatic_Art,_University_of_Zagreb" title="Academy of Dramatic Art, University of Zagreb">Academy of Dramatic Art</a></li> 
+      <li><a href="/wiki/Academy_of_Fine_Arts_Zagreb" title="Academy of Fine Arts Zagreb" class="mw-redirect">Academy of Fine Arts</a></li> 
+      <li><a href="/wiki/Academy_of_Music,_University_of_Zagreb" title="Academy of Music, University of Zagreb">Academy of Music</a></li> 
+     </ul> 
+     <h2><span class="mw-headline" id="Rectors">Rectors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Zagreb&amp;action=edit&amp;section=6" title="Edit section: Rectors">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <table cellspacing="0" cellpadding="0" class="multicol" style="background:transparent; width:100%;"> 
+      <tbody>
+       <tr> 
+        <td width="25%" align="left" valign="top"> 
+         <dl> 
+          <dd>
+           <span style="visibility:hidden;color:transparent;">0</span>1. 
+           <a href="/wiki/Matija_Mesi%C4%87" title="Matija Mesić">Matija Mesić</a> 
+           <small>(1874–75)</small>
+          </dd> 
+          <dd>
+           <span style="visibility:hidden;color:transparent;">0</span>2. 
+           <a href="/wiki/Stjepan_Spevec" title="Stjepan Spevec">Stjepan Spevec</a> 
+           <small>(1875–76)</small>
+          </dd> 
+          <dd>
+           <span style="visibility:hidden;color:transparent;">0</span>3. 
+           <a href="/wiki/Anton_Kr%C5%BEan" title="Anton Kržan">Anton Kržan</a> 
+           <small>(1876–77)</small>
+          </dd> 
+          <dd>
+           <span style="visibility:hidden;color:transparent;">0</span>4. 
+           <a href="/wiki/Konstantin_Vojnovi%C4%87" title="Konstantin Vojnović">Konstantin Vojnović</a> 
+           <small>(1877–78)</small>
+          </dd> 
+          <dd>
+           <span style="visibility:hidden;color:transparent;">0</span>5. 
+           <a href="/wiki/Franjo_Maixner" title="Franjo Maixner">Franjo Maixner</a> 
+           <small>(1878–79)</small>
+          </dd> 
+          <dd>
+           <span style="visibility:hidden;color:transparent;">0</span>6. 
+           <a href="/wiki/Franjo_Ivekovi%C4%87" title="Franjo Iveković">Franjo Iveković</a> 
+           <small>(1879–80)</small>
+          </dd> 
+          <dd>
+           <span style="visibility:hidden;color:transparent;">0</span>7. 
+           <a href="/wiki/Aleksandar_Bresztyenszky" title="Aleksandar Bresztyenszky">Aleksandar Bresztyenszky</a> 
+           <small>(1880–81)</small>
+          </dd> 
+          <dd>
+           <span style="visibility:hidden;color:transparent;">0</span>8. 
+           <a href="/wiki/Franjo_Markovi%C4%87" title="Franjo Marković">Franjo Marković</a> 
+           <small>(1881–82)</small>
+          </dd> 
+          <dd>
+           <span style="visibility:hidden;color:transparent;">0</span>9. 
+           <a href="/wiki/Feliks_Suk" title="Feliks Suk">Feliks Suk</a> 
+           <small>(1882–83)</small>
+          </dd> 
+          <dd>
+           10. 
+           <a href="/wiki/Bla%C5%BE_Lorkovi%C4%87" title="Blaž Lorković">Blaž Lorković</a> 
+           <small>(1883–84)</small>
+          </dd> 
+          <dd>
+           11. 
+           <a href="/wiki/%C4%90uro_Pilar" title="Đuro Pilar">Đuro Pilar</a> 
+           <small>(1884–85)</small>
+          </dd> 
+          <dd>
+           12. 
+           <a href="/wiki/Gustav_Baron" title="Gustav Baron">Gustav Baron</a> 
+           <small>(1885–86)</small>
+          </dd> 
+          <dd>
+           13. 
+           <a href="/w/index.php?title=Franjo_Vrbani%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Franjo Vrbanić (page does not exist)">Franjo Vrbanić</a> 
+           <small>(1886–87)</small>
+          </dd> 
+          <dd>
+           14. 
+           <a href="/wiki/Tadija_Smi%C4%8Diklas" title="Tadija Smičiklas">Tadija Smičiklas</a> 
+           <small>(1887–88)</small>
+          </dd> 
+          <dd>
+           15. 
+           <a href="/w/index.php?title=Antun_Franki&amp;action=edit&amp;redlink=1" class="new" title="Antun Franki (page does not exist)">Antun Franki</a> 
+           <small>(1888–89)</small>
+          </dd> 
+          <dd>
+           16. 
+           <a href="/wiki/Luka_Marjanovi%C4%87" title="Luka Marjanović">Luka Marjanović</a> 
+           <small>(1889–90)</small>
+          </dd> 
+          <dd>
+           17. 
+           <a href="/wiki/Natko_Nodilo" title="Natko Nodilo">Natko Nodilo</a> 
+           <small>(1890–91)</small>
+          </dd> 
+          <dd>
+           18. 
+           <a href="/w/index.php?title=Ivan_Bujanovi%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Ivan Bujanović (page does not exist)">Ivan Bujanović</a> 
+           <small>(1891–92)</small>
+          </dd> 
+          <dd>
+           19. 
+           <a href="/wiki/Josip_Pliveri%C4%87" title="Josip Pliverić">Josip Pliverić</a> 
+           <small>(1892–93)</small>
+          </dd> 
+          <dd>
+           20. 
+           <a href="/wiki/Vinko_Dvo%C5%99%C3%A1k" title="Vinko Dvořák">Vinko Dvořák</a> 
+           <small>(1893–94)</small>
+          </dd> 
+          <dd>
+           21. 
+           <a href="/w/index.php?title=Antun_Maurovi%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Antun Maurović (page does not exist)">Antun Maurović</a> 
+           <small>(1894–95)</small>
+          </dd> 
+          <dd>
+           22. 
+           <a href="/w/index.php?title=Franjo_Spevec&amp;action=edit&amp;redlink=1" class="new" title="Franjo Spevec (page does not exist)">Franjo Spevec</a> 
+           <small>(1895–96)</small>
+          </dd> 
+          <dd>
+           23. 
+           <a href="/wiki/Armin_Pavi%C4%87" title="Armin Pavić">Armin Pavić</a> 
+           <small>(1896–97)</small>
+          </dd> 
+          <dd>
+           24. 
+           <a href="/w/index.php?title=Juraj_Do%C4%8Dkal&amp;action=edit&amp;redlink=1" class="new" title="Juraj Dočkal (page does not exist)">Juraj Dočkal</a> 
+           <small>(1897–98)</small>
+          </dd> 
+          <dd>
+           25. 
+           <a href="/wiki/Josip_%C5%A0ilovi%C4%87" title="Josip Šilović">Josip Šilović</a> 
+           <small>(1898–99)</small>
+          </dd> 
+         </dl> </td> 
+        <td width="25%" align="left" valign="top"> 
+         <dl> 
+          <dd>
+           26. 
+           <a href="/wiki/%C4%90uro_Arnold" title="Đuro Arnold">Đuro Arnold</a> 
+           <small>(1899–1900)</small>
+          </dd> 
+          <dd>
+           27. 
+           <a href="/wiki/Rudolf_Vimer" title="Rudolf Vimer">Rudolf Vimer</a> 
+           <small>(1900–01)</small>
+          </dd> 
+          <dd>
+           28. 
+           <a href="/w/index.php?title=Franjo_Vrbani%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Franjo Vrbanić (page does not exist)">Franjo Vrbanić</a> 
+           <small>(1901–02)</small>
+          </dd> 
+          <dd>
+           29. 
+           <a href="/wiki/Vjekoslav_Klai%C4%87" title="Vjekoslav Klaić">Vjekoslav Klaić</a> 
+           <small>(1902–03)</small>
+          </dd> 
+          <dd>
+           30. 
+           <a href="/w/index.php?title=Ivan_Bujanovi%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Ivan Bujanović (page does not exist)">Ivan Bujanović</a> 
+           <small>(1903–04)</small>
+          </dd> 
+          <dd>
+           31. 
+           <a href="/wiki/Josip_Pliveri%C4%87" title="Josip Pliverić">Josip Pliverić</a> 
+           <small>(1904–05)</small>
+          </dd> 
+          <dd>
+           32. 
+           <a href="/w/index.php?title=Antun_Heinz&amp;action=edit&amp;redlink=1" class="new" title="Antun Heinz (page does not exist)">Antun Heinz</a> 
+           <small>(1905–06)</small>
+          </dd> 
+          <dd>
+           33. 
+           <a href="/wiki/Antun_Bauer_(Archbishop)" title="Antun Bauer (Archbishop)">Antun Bauer</a> 
+           <small>(1906–07)</small>
+          </dd> 
+          <dd>
+           34. 
+           <a href="/w/index.php?title=Milivoj-Klement_Maurovi%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Milivoj-Klement Maurović (page does not exist)">Milivoj-Klement Maurović</a> 
+           <small>(1907–08)</small>
+          </dd> 
+          <dd>
+           35. 
+           <a href="/w/index.php?title=Gustav_Jane%C4%8Dek&amp;action=edit&amp;redlink=1" class="new" title="Gustav Janeček (page does not exist)">Gustav Janeček</a> 
+           <small>(1908–09)</small>
+          </dd> 
+          <dd>
+           36. 
+           <a href="/w/index.php?title=Josip_Volovi%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Josip Volović (page does not exist)">Josip Volović</a> 
+           <small>(1909–10)</small>
+          </dd> 
+          <dd>
+           37. 
+           <a href="/w/index.php?title=Julije_Rorauer&amp;action=edit&amp;redlink=1" class="new" title="Julije Rorauer (page does not exist)">Julije Rorauer</a> 
+           <small>(1910–11)</small>
+          </dd> 
+          <dd>
+           38. 
+           <a href="/wiki/Julije_Domac" title="Julije Domac">Julije Domac</a> 
+           <small>(1911–12)</small>
+          </dd> 
+          <dd>
+           39. 
+           <a href="/w/index.php?title=Josip_Pazman&amp;action=edit&amp;redlink=1" class="new" title="Josip Pazman (page does not exist)">Josip Pazman</a> 
+           <small>(1912–13)</small>
+          </dd> 
+          <dd>
+           40. 
+           <a href="/w/index.php?title=Edo_Lovri%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Edo Lovrić (page does not exist)">Edo Lovrić</a> 
+           <small>(1913–14)</small>
+          </dd> 
+          <dd>
+           41. 
+           <a href="/w/index.php?title=%C4%90uro_Korbler&amp;action=edit&amp;redlink=1" class="new" title="Đuro Korbler (page does not exist)">Đuro Korbler</a> 
+           <small>(1914–15)</small>
+          </dd> 
+          <dd>
+           42. 
+           <a href="/w/index.php?title=Fran_Barac&amp;action=edit&amp;redlink=1" class="new" title="Fran Barac (page does not exist)">Fran Barac</a> 
+           <small>(1915–16)</small>
+          </dd> 
+          <dd>
+           43. 
+           <a href="/w/index.php?title=Ernest_Miler&amp;action=edit&amp;redlink=1" class="new" title="Ernest Miler (page does not exist)">Ernest Miler</a> 
+           <small>(1916–17)</small>
+          </dd> 
+          <dd>
+           44. 
+           <a href="/w/index.php?title=Julije_Golik&amp;action=edit&amp;redlink=1" class="new" title="Julije Golik (page does not exist)">Julije Golik</a> 
+           <small>(1917–18)</small>
+          </dd> 
+          <dd>
+           45. 
+           <a href="/w/index.php?title=Ivan_Angelo_Ruspini&amp;action=edit&amp;redlink=1" class="new" title="Ivan Angelo Ruspini (page does not exist)">Ivan Angelo Ruspini</a> 
+           <small>(1918–19)</small>
+          </dd> 
+          <dd>
+           46. 
+           <a href="/w/index.php?title=Ladislav_Poli%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Ladislav Polić (page does not exist)">Ladislav Polić</a> 
+           <small>(1919–20)</small>
+          </dd> 
+          <dd>
+           47. 
+           <a href="/w/index.php?title=Karlo_Radoni%C4%8Di%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Karlo Radoničić (page does not exist)">Karlo Radoničić</a> 
+           <small>(1920–21)</small>
+          </dd> 
+          <dd>
+           48. 
+           <a href="/wiki/Vladimir_Vari%C4%87ak" title="Vladimir Varićak">Vladimir Varićak</a> 
+           <small>(1921–22)</small>
+          </dd> 
+          <dd>
+           49. 
+           <a href="/w/index.php?title=%C4%90uro_Nenadi%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Đuro Nenadić (page does not exist)">Đuro Nenadić</a> 
+           <small>(1922–23)</small>
+          </dd> 
+          <dd>
+           50. 
+           <a href="/w/index.php?title=Stjepan_Zimmerman&amp;action=edit&amp;redlink=1" class="new" title="Stjepan Zimmerman (page does not exist)">Stjepan Zimmerman</a> 
+           <small>(1923–24)</small>
+          </dd> 
+         </dl> </td> 
+        <td width="25%" align="left" valign="top"> 
+         <dl> 
+          <dd>
+           51. 
+           <a href="/w/index.php?title=Ladislav_Poli%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Ladislav Polić (page does not exist)">Ladislav Polić</a> 
+           <small>(1924–25)</small>
+          </dd> 
+          <dd>
+           52. 
+           <a href="/w/index.php?title=Drago_Perovi%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Drago Perović (page does not exist)">Drago Perović</a> 
+           <small>(1925–26)</small>
+          </dd> 
+          <dd>
+           53. 
+           <a href="/w/index.php?title=Ernest_Miler&amp;action=edit&amp;redlink=1" class="new" title="Ernest Miler (page does not exist)">Ernest Miler</a> 
+           <small>(1926–28)</small>
+          </dd> 
+          <dd>
+           54. 
+           <a href="/w/index.php?title=Josip_Belobrk&amp;action=edit&amp;redlink=1" class="new" title="Josip Belobrk (page does not exist)">Josip Belobrk</a> 
+           <small>(1928–32)</small>
+          </dd> 
+          <dd>
+           55. 
+           <a href="/w/index.php?title=Albert_Bazala&amp;action=edit&amp;redlink=1" class="new" title="Albert Bazala (page does not exist)">Albert Bazala</a> 
+           <small>(1932–33)</small>
+          </dd> 
+          <dd>
+           56. 
+           <a href="/w/index.php?title=%C4%90uro_Stipeti%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Đuro Stipetić (page does not exist)">Đuro Stipetić</a> 
+           <small>(1933–35)</small>
+          </dd> 
+          <dd>
+           57. 
+           <a href="/w/index.php?title=Stanko_Hondl&amp;action=edit&amp;redlink=1" class="new" title="Stanko Hondl (page does not exist)">Stanko Hondl</a> 
+           <small>(1935–37)</small>
+          </dd> 
+          <dd>
+           58. 
+           <a href="/w/index.php?title=Edo_Lovri%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Edo Lovrić (page does not exist)">Edo Lovrić</a> 
+           <small>(1937–38)</small>
+          </dd> 
+          <dd>
+           59. 
+           <a href="/wiki/Andrija_%C5%BDivkovi%C4%87" title="Andrija Živković">Andrija Živković</a> 
+           <small>(1938–40)</small>
+          </dd> 
+          <dd>
+           60. 
+           <a href="/wiki/Stjepan_Iv%C5%A1i%C4%87" title="Stjepan Ivšić">Stjepan Ivšić</a> 
+           <small>(1940–43)</small>
+          </dd> 
+          <dd>
+           61. 
+           <a href="/wiki/Bo%C5%BEidar_%C5%A0pi%C5%A1i%C4%87" title="Božidar Špišić">Božidar Špišić</a> 
+           <small>(1943–44)</small>
+          </dd> 
+          <dd>
+           62. 
+           <a href="/wiki/Stjepan_Horvat" title="Stjepan Horvat">Stjepan Horvat</a> 
+           <small>(1944–45)</small>
+          </dd> 
+          <dd>
+           63. 
+           <a href="/wiki/Andrija_%C5%A0tampar" title="Andrija Štampar">Andrija Štampar</a> 
+           <small>(1945–46)</small>
+          </dd> 
+          <dd>
+           64. 
+           <a href="/wiki/Grga_Novak" title="Grga Novak">Grga Novak</a> 
+           <small>(1946–47)</small>
+          </dd> 
+          <dd>
+           65. 
+           <a href="/w/index.php?title=Andro_Mohorovi%C4%8Di%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Andro Mohorovičić (page does not exist)">Andro Mohorovičić</a> 
+           <small>(1947–49)</small>
+          </dd> 
+          <dd>
+           66. 
+           <a href="/w/index.php?title=Marko_Kostren%C4%8Di%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Marko Kostrenčić (page does not exist)">Marko Kostrenčić</a> 
+           <small>(1949–50)</small>
+          </dd> 
+          <dd>
+           67. 
+           <a href="/wiki/Antun_Barac" title="Antun Barac">Antun Barac</a> 
+           <small>(1950–51)</small>
+          </dd> 
+          <dd>
+           68. 
+           <a href="/wiki/Fran_Bo%C5%A1njakovi%C4%87" title="Fran Bošnjaković">Fran Bošnjaković</a> 
+           <small>(1951–52)</small>
+          </dd> 
+          <dd>
+           69. 
+           <a href="/w/index.php?title=Teodor_Vari%C4%87ak&amp;action=edit&amp;redlink=1" class="new" title="Teodor Varićak (page does not exist)">Teodor Varićak</a> 
+           <small>(1952–53)</small>
+          </dd> 
+          <dd>
+           70. 
+           <a href="/w/index.php?title=%C5%BDeljko_Markovi%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Željko Marković (page does not exist)">Željko Marković</a> 
+           <small>(1953–54)</small>
+          </dd> 
+          <dd>
+           71. 
+           <a href="/w/index.php?title=Hrvoje_Ivekovi%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Hrvoje Iveković (page does not exist)">Hrvoje Iveković</a> 
+           <small>(1954–56)</small>
+          </dd> 
+          <dd>
+           72. 
+           <a href="/wiki/Zoran_Bujas" title="Zoran Bujas">Zoran Bujas</a> 
+           <small>(1956–58)</small>
+          </dd> 
+          <dd>
+           73. 
+           <a href="/w/index.php?title=Marijan_Horvat&amp;action=edit&amp;redlink=1" class="new" title="Marijan Horvat (page does not exist)">Marijan Horvat</a> 
+           <small>(1958–60)</small>
+          </dd> 
+          <dd>
+           74. 
+           <a href="/w/index.php?title=Vladimir_Serdar&amp;action=edit&amp;redlink=1" class="new" title="Vladimir Serdar (page does not exist)">Vladimir Serdar</a> 
+           <small>(1960–63)</small>
+          </dd> 
+          <dd>
+           75. 
+           <a href="/w/index.php?title=Slavko_Macarol&amp;action=edit&amp;redlink=1" class="new" title="Slavko Macarol (page does not exist)">Slavko Macarol</a> 
+           <small>(1963–66)</small>
+          </dd> 
+         </dl> </td> 
+        <td width="25%" align="left" valign="top"> 
+         <dl> 
+          <dd>
+           76. 
+           <a href="/w/index.php?title=Jakov_Sirotkovi%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Jakov Sirotković (page does not exist)">Jakov Sirotković</a> 
+           <small>(1966–68)</small>
+          </dd> 
+          <dd>
+           77. 
+           <a href="/wiki/Ivan_Supek" title="Ivan Supek">Ivan Supek</a> 
+           <small>(1968–72)</small>
+          </dd> 
+          <dd>
+           78. 
+           <a href="/wiki/Predrag_Vranicki" title="Predrag Vranicki">Predrag Vranicki</a> 
+           <small>(1972–76)</small>
+          </dd> 
+          <dd>
+           79. 
+           <a href="/wiki/Drago_Grdeni%C4%87" title="Drago Grdenić">Drago Grdenić</a> 
+           <small>(1976–78)</small>
+          </dd> 
+          <dd>
+           80. 
+           <a href="/w/index.php?title=Ivan_Jurkovi%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Ivan Jurković (page does not exist)">Ivan Jurković</a> 
+           <small>(1978–82)</small>
+          </dd> 
+          <dd>
+           81. 
+           <a href="/w/index.php?title=Zvonimir_Krajina&amp;action=edit&amp;redlink=1" class="new" title="Zvonimir Krajina (page does not exist)">Zvonimir Krajina</a> 
+           <small>(1982–86)</small>
+          </dd> 
+          <dd>
+           82. 
+           <a href="/wiki/Vladimir_Stipeti%C4%87" title="Vladimir Stipetić">Vladimir Stipetić</a> 
+           <small>(1986–88)</small>
+          </dd> 
+          <dd>
+           83. 
+           <a href="/wiki/Zvonimir_%C5%A0eparovi%C4%87" title="Zvonimir Šeparović">Zvonimir Šeparović</a> 
+           <small>(1988–90)</small>
+          </dd> 
+          <dd>
+           84. 
+           <a href="/wiki/Marijan_%C5%A0unji%C4%87_(physicist)" title="Marijan Šunjić (physicist)">Marijan Šunjić</a> 
+           <small>(1990–98)</small>
+          </dd> 
+          <dd>
+           85. 
+           <a href="/w/index.php?title=Branko_Jeren&amp;action=edit&amp;redlink=1" class="new" title="Branko Jeren (page does not exist)">Branko Jeren</a> 
+           <small>(1998–2002)</small>
+          </dd> 
+          <dd>
+           86. 
+           <a href="/w/index.php?title=Helena_Jasna_Mencer&amp;action=edit&amp;redlink=1" class="new" title="Helena Jasna Mencer (page does not exist)">Helena Jasna Mencer</a> 
+           <small>(2002–06)</small>
+          </dd> 
+          <dd>
+           87. 
+           <a href="/w/index.php?title=Aleksa_Bjeli%C5%A1&amp;action=edit&amp;redlink=1" class="new" title="Aleksa Bjeliš (page does not exist)">Aleksa Bjeliš</a> 
+           <small>(2006–14)</small>
+          </dd> 
+          <dd>
+           88. 
+           <a href="/w/index.php?title=Damir_Boras&amp;action=edit&amp;redlink=1" class="new" title="Damir Boras (page does not exist)">Damir Boras</a> 
+           <small>(2014–)</small>
+          </dd> 
+         </dl> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <dl> 
+      <dd>
+       <small>Source: <a rel="nofollow" class="external text" href="http://www.unizg.hr/rektori/">List of rectors</a> at the University of Zagreb website</small>
+      </dd> 
+     </dl> 
+     <h2><span class="mw-headline" id="Legacy">Legacy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Zagreb&amp;action=edit&amp;section=7" title="Edit section: Legacy">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>Since 1874, more than 200,000 students have received a bachelor's degree, more than 18,000 a master's, and more than 8,000 a doctorate from the University of Zagreb.</p> 
+     <h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Zagreb&amp;action=edit&amp;section=8" title="Edit section: Gallery">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <ul class="gallery mw-gallery-traditional"> 
+      <li class="gallerybox" style="width: 155px"> 
+       <div style="width: 155px"> 
+        <div class="thumb" style="width: 150px;"> 
+         <div style="margin:30px auto;">
+          <a href="/wiki/File:Arhitektonski_fakultet_u_Zagrebu.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arhitektonski_fakultet_u_Zagrebu.jpg/120px-Arhitektonski_fakultet_u_Zagrebu.jpg" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arhitektonski_fakultet_u_Zagrebu.jpg/180px-Arhitektonski_fakultet_u_Zagrebu.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arhitektonski_fakultet_u_Zagrebu.jpg/240px-Arhitektonski_fakultet_u_Zagrebu.jpg 2x" data-file-width="1600" data-file-height="1200"></a>
+         </div> 
+        </div> 
+        <div class="gallerytext"> 
+         <p><a href="/wiki/Faculty_of_Architecture,_University_of_Zagreb" title="Faculty of Architecture, University of Zagreb">Faculty of Architecture</a></p> 
+        </div> 
+       </div> </li> 
+      <li class="gallerybox" style="width: 155px"> 
+       <div style="width: 155px"> 
+        <div class="thumb" style="width: 150px;"> 
+         <div style="margin:30px auto;">
+          <a href="/wiki/File:Filozofski_fakultet_u_Zagrebu.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Filozofski_fakultet_u_Zagrebu.jpg/120px-Filozofski_fakultet_u_Zagrebu.jpg" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Filozofski_fakultet_u_Zagrebu.jpg/180px-Filozofski_fakultet_u_Zagrebu.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Filozofski_fakultet_u_Zagrebu.jpg/240px-Filozofski_fakultet_u_Zagrebu.jpg 2x" data-file-width="1600" data-file-height="1200"></a>
+         </div> 
+        </div> 
+        <div class="gallerytext"> 
+         <p><a href="/wiki/Faculty_of_Humanities_and_Social_Sciences,_University_of_Zagreb" title="Faculty of Humanities and Social Sciences, University of Zagreb">Faculty of Humanities and Social Sciences</a></p> 
+        </div> 
+       </div> </li> 
+      <li class="gallerybox" style="width: 155px"> 
+       <div style="width: 155px"> 
+        <div class="thumb" style="width: 150px;"> 
+         <div style="margin:30px auto;">
+          <a href="/wiki/File:Fakultet_strojarstva_i_brodogradnje_(Zagreb).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Fakultet_strojarstva_i_brodogradnje_%28Zagreb%29.jpg/120px-Fakultet_strojarstva_i_brodogradnje_%28Zagreb%29.jpg" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Fakultet_strojarstva_i_brodogradnje_%28Zagreb%29.jpg/180px-Fakultet_strojarstva_i_brodogradnje_%28Zagreb%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Fakultet_strojarstva_i_brodogradnje_%28Zagreb%29.jpg/240px-Fakultet_strojarstva_i_brodogradnje_%28Zagreb%29.jpg 2x" data-file-width="1600" data-file-height="1200"></a>
+         </div> 
+        </div> 
+        <div class="gallerytext"> 
+         <p>Faculty of Mechanical Engineering and Naval Architecture</p> 
+        </div> 
+       </div> </li> 
+      <li class="gallerybox" style="width: 155px"> 
+       <div style="width: 155px"> 
+        <div class="thumb" style="width: 150px;"> 
+         <div style="margin:30px auto;">
+          <a href="/wiki/File:FER_Zagreb.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/FER_Zagreb.jpg/120px-FER_Zagreb.jpg" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/FER_Zagreb.jpg/180px-FER_Zagreb.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/16/FER_Zagreb.jpg/240px-FER_Zagreb.jpg 2x" data-file-width="1600" data-file-height="1200"></a>
+         </div> 
+        </div> 
+        <div class="gallerytext"> 
+         <p><a href="/wiki/Faculty_of_Electrical_Engineering_and_Computing,_University_of_Zagreb" title="Faculty of Electrical Engineering and Computing, University of Zagreb">Faculty of Electrical Engineering and Computing</a></p> 
+        </div> 
+       </div> </li> 
+      <li class="gallerybox" style="width: 155px"> 
+       <div style="width: 155px"> 
+        <div class="thumb" style="width: 150px;"> 
+         <div style="margin:30px auto;">
+          <a href="/wiki/File:Medicinski_fakultet_Zagreb_-_glavni.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Medicinski_fakultet_Zagreb_-_glavni.jpg/120px-Medicinski_fakultet_Zagreb_-_glavni.jpg" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Medicinski_fakultet_Zagreb_-_glavni.jpg/180px-Medicinski_fakultet_Zagreb_-_glavni.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Medicinski_fakultet_Zagreb_-_glavni.jpg/240px-Medicinski_fakultet_Zagreb_-_glavni.jpg 2x" data-file-width="1600" data-file-height="1200"></a>
+         </div> 
+        </div> 
+        <div class="gallerytext"> 
+         <p><a href="/wiki/School_of_Medicine,_University_of_Zagreb" title="School of Medicine, University of Zagreb">School of Medicine</a></p> 
+        </div> 
+       </div> </li> 
+      <li class="gallerybox" style="width: 155px"> 
+       <div style="width: 155px"> 
+        <div class="thumb" style="width: 150px;"> 
+         <div style="margin:30px auto;">
+          <a href="/wiki/File:PMF_Matematika_Zagreb.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/PMF_Matematika_Zagreb.jpg/120px-PMF_Matematika_Zagreb.jpg" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/PMF_Matematika_Zagreb.jpg/180px-PMF_Matematika_Zagreb.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/PMF_Matematika_Zagreb.jpg/240px-PMF_Matematika_Zagreb.jpg 2x" data-file-width="1600" data-file-height="1200"></a>
+         </div> 
+        </div> 
+        <div class="gallerytext"> 
+         <p><a href="/wiki/Faculty_of_Science,_University_of_Zagreb" title="Faculty of Science, University of Zagreb">Faculty of Science</a></p> 
+        </div> 
+       </div> </li> 
+      <li class="gallerybox" style="width: 155px"> 
+       <div style="width: 155px"> 
+        <div class="thumb" style="width: 150px;"> 
+         <div style="margin:23.5px auto;">
+          <a href="/wiki/File:Tekstilno-tehnolo%C5%A1ki_fakultet_u_Zagrebu.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Tekstilno-tehnolo%C5%A1ki_fakultet_u_Zagrebu.jpg/120px-Tekstilno-tehnolo%C5%A1ki_fakultet_u_Zagrebu.jpg" width="120" height="103" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Tekstilno-tehnolo%C5%A1ki_fakultet_u_Zagrebu.jpg/180px-Tekstilno-tehnolo%C5%A1ki_fakultet_u_Zagrebu.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Tekstilno-tehnolo%C5%A1ki_fakultet_u_Zagrebu.jpg/240px-Tekstilno-tehnolo%C5%A1ki_fakultet_u_Zagrebu.jpg 2x" data-file-width="1300" data-file-height="1117"></a>
+         </div> 
+        </div> 
+        <div class="gallerytext"> 
+         <p>Faculty of Textile Technology</p> 
+        </div> 
+       </div> </li> 
+      <li class="gallerybox" style="width: 155px"> 
+       <div style="width: 155px"> 
+        <div class="thumb" style="width: 150px;"> 
+         <div style="margin:30px auto;">
+          <a href="/wiki/File:Veterinarski_fakultet_u_Zagrebu.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Veterinarski_fakultet_u_Zagrebu.jpg/120px-Veterinarski_fakultet_u_Zagrebu.jpg" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Veterinarski_fakultet_u_Zagrebu.jpg/180px-Veterinarski_fakultet_u_Zagrebu.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Veterinarski_fakultet_u_Zagrebu.jpg/240px-Veterinarski_fakultet_u_Zagrebu.jpg 2x" data-file-width="1600" data-file-height="1200"></a>
+         </div> 
+        </div> 
+        <div class="gallerytext"> 
+         <p>Faculty of Veterinary Medicine</p> 
+        </div> 
+       </div> </li> 
+      <li class="gallerybox" style="width: 155px"> 
+       <div style="width: 155px"> 
+        <div class="thumb" style="width: 150px;"> 
+         <div style="margin:15px auto;">
+          <a href="/wiki/File:Fakultet_politickih_znanosti_Zagreb.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Fakultet_politickih_znanosti_Zagreb.JPG/90px-Fakultet_politickih_znanosti_Zagreb.JPG" width="90" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Fakultet_politickih_znanosti_Zagreb.JPG/135px-Fakultet_politickih_znanosti_Zagreb.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/Fakultet_politickih_znanosti_Zagreb.JPG/180px-Fakultet_politickih_znanosti_Zagreb.JPG 2x" data-file-width="1200" data-file-height="1600"></a>
+         </div> 
+        </div> 
+        <div class="gallerytext"> 
+         <p>Faculty of Political Science</p> 
+        </div> 
+       </div> </li> 
+      <li class="gallerybox" style="width: 155px"> 
+       <div style="width: 155px"> 
+        <div class="thumb" style="width: 150px;"> 
+         <div style="margin:51.5px auto;">
+          <a href="/wiki/File:%C5%A0umarski_fakultet_0807.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/%C5%A0umarski_fakultet_0807.jpg/120px-%C5%A0umarski_fakultet_0807.jpg" width="120" height="47" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/%C5%A0umarski_fakultet_0807.jpg/180px-%C5%A0umarski_fakultet_0807.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/%C5%A0umarski_fakultet_0807.jpg/240px-%C5%A0umarski_fakultet_0807.jpg 2x" data-file-width="1000" data-file-height="390"></a>
+         </div> 
+        </div> 
+        <div class="gallerytext"> 
+         <p>Faculty of Forestry</p> 
+        </div> 
+       </div> </li> 
+      <li class="gallerybox" style="width: 155px"> 
+       <div style="width: 155px"> 
+        <div class="thumb" style="width: 150px;"> 
+         <div style="margin:30px auto;">
+          <a href="/wiki/File:Fakultet_prometnih_znanosti,_Zagreb_-_sjever.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Fakultet_prometnih_znanosti%2C_Zagreb_-_sjever.jpg/120px-Fakultet_prometnih_znanosti%2C_Zagreb_-_sjever.jpg" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Fakultet_prometnih_znanosti%2C_Zagreb_-_sjever.jpg/180px-Fakultet_prometnih_znanosti%2C_Zagreb_-_sjever.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/17/Fakultet_prometnih_znanosti%2C_Zagreb_-_sjever.jpg/240px-Fakultet_prometnih_znanosti%2C_Zagreb_-_sjever.jpg 2x" data-file-width="5152" data-file-height="3864"></a>
+         </div> 
+        </div> 
+        <div class="gallerytext"> 
+         <p>Faculty of Transport and Traffic Sciences</p> 
+        </div> 
+       </div> </li> 
+      <li class="gallerybox" style="width: 155px"> 
+       <div style="width: 155px"> 
+        <div class="thumb" style="width: 150px;"> 
+         <div style="margin:30px auto;">
+          <a href="/wiki/File:Edukacijsko-rehabilitacijski_fakultet,_Zagreb_-_ulaz.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Edukacijsko-rehabilitacijski_fakultet%2C_Zagreb_-_ulaz.jpg/120px-Edukacijsko-rehabilitacijski_fakultet%2C_Zagreb_-_ulaz.jpg" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Edukacijsko-rehabilitacijski_fakultet%2C_Zagreb_-_ulaz.jpg/180px-Edukacijsko-rehabilitacijski_fakultet%2C_Zagreb_-_ulaz.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Edukacijsko-rehabilitacijski_fakultet%2C_Zagreb_-_ulaz.jpg/240px-Edukacijsko-rehabilitacijski_fakultet%2C_Zagreb_-_ulaz.jpg 2x" data-file-width="5152" data-file-height="3864"></a>
+         </div> 
+        </div> 
+        <div class="gallerytext"> 
+         <p>Faculty of Special Education and Rehabilitation</p> 
+        </div> 
+       </div> </li> 
+      <li class="gallerybox" style="width: 155px"> 
+       <div style="width: 155px"> 
+        <div class="thumb" style="width: 150px;"> 
+         <div style="margin:30px auto;">
+          <a href="/wiki/File:Glazbena_akademija,_Zagreb_-_jug.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Glazbena_akademija%2C_Zagreb_-_jug.jpg/120px-Glazbena_akademija%2C_Zagreb_-_jug.jpg" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Glazbena_akademija%2C_Zagreb_-_jug.jpg/180px-Glazbena_akademija%2C_Zagreb_-_jug.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Glazbena_akademija%2C_Zagreb_-_jug.jpg/240px-Glazbena_akademija%2C_Zagreb_-_jug.jpg 2x" data-file-width="5152" data-file-height="3864"></a>
+         </div> 
+        </div> 
+        <div class="gallerytext"> 
+         <p><a href="/wiki/Academy_of_Music,_University_of_Zagreb" title="Academy of Music, University of Zagreb">Academy of Music</a></p> 
+        </div> 
+       </div> </li> 
+      <li class="gallerybox" style="width: 155px"> 
+       <div style="width: 155px"> 
+        <div class="thumb" style="width: 150px;"> 
+         <div style="margin:30px auto;">
+          <a href="/wiki/File:Akademija_dramskih_umjetnosti.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Akademija_dramskih_umjetnosti.jpg/120px-Akademija_dramskih_umjetnosti.jpg" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Akademija_dramskih_umjetnosti.jpg/180px-Akademija_dramskih_umjetnosti.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/Akademija_dramskih_umjetnosti.jpg/240px-Akademija_dramskih_umjetnosti.jpg 2x" data-file-width="1600" data-file-height="1200"></a>
+         </div> 
+        </div> 
+        <div class="gallerytext"> 
+         <p><a href="/wiki/Academy_of_Dramatic_Art,_University_of_Zagreb" title="Academy of Dramatic Art, University of Zagreb">Academy of Dramatic Arts</a></p> 
+        </div> 
+       </div> </li> 
+      <li class="gallerybox" style="width: 155px"> 
+       <div style="width: 155px"> 
+        <div class="thumb" style="width: 150px;"> 
+         <div style="margin:30px auto;">
+          <a href="/wiki/File:Katoli%C4%8Dki_bogoslovni_fakultet_Zagreb.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Katoli%C4%8Dki_bogoslovni_fakultet_Zagreb.jpg/120px-Katoli%C4%8Dki_bogoslovni_fakultet_Zagreb.jpg" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Katoli%C4%8Dki_bogoslovni_fakultet_Zagreb.jpg/180px-Katoli%C4%8Dki_bogoslovni_fakultet_Zagreb.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Katoli%C4%8Dki_bogoslovni_fakultet_Zagreb.jpg/240px-Katoli%C4%8Dki_bogoslovni_fakultet_Zagreb.jpg 2x" data-file-width="1600" data-file-height="1200"></a>
+         </div> 
+        </div> 
+        <div class="gallerytext"> 
+         <p>Catholic Faculty of Theology</p> 
+        </div> 
+       </div> </li> 
+     </ul> 
+     <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Zagreb&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <ul> 
+      <li><a href="/wiki/Balkan_Universities_Network" title="Balkan Universities Network">Balkan Universities Network</a></li> 
+      <li><a href="/wiki/List_of_modern_universities_in_Europe_(1801%E2%80%931945)" title="List of modern universities in Europe (1801–1945)">List of modern universities in Europe (1801–1945)</a></li> 
+      <li><a href="/wiki/List_of_universities_in_Croatia" title="List of universities in Croatia" class="mw-redirect">List of universities in Croatia</a></li> 
+      <li><a href="/wiki/National_and_University_Library_Zagreb" title="National and University Library Zagreb" class="mw-redirect">National and University Library Zagreb</a></li> 
+     </ul> 
+     <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Zagreb&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <div class="reflist" style="list-style-type: decimal;"> 
+      <ol class="references"> 
+       <li id="cite_note-unizg.hr-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-unizg.hr_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-unizg.hr_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.unizg.hr/homepage/">http://www.unizg.hr/homepage/</a></span></li> 
+       <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book">Thomas, Liz; Wright, Malcolm (2011). <a rel="nofollow" class="external text" href="//books.google.com/books?id=69GrAYq0lMkC&amp;pg=PA236"><i>Institutional Transformation to Engage a Diverse Student Body</i></a>. Emerald Group Publishing. p.&nbsp;236. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/9780857249036" title="Special:BookSources/9780857249036">9780857249036</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Zagreb&amp;rft.aufirst=Liz&amp;rft.aulast=Thomas&amp;rft.au=Wright%2C+Malcolm&amp;rft.btitle=Institutional+Transformation+to+Engage+a+Diverse+Student+Body&amp;rft.date=2011&amp;rft.genre=book&amp;rft_id=%2F%2Fbooks.google.com%2Fbooks%3Fid%3D69GrAYq0lMkC%26pg%3DPA236&amp;rft.isbn=9780857249036&amp;rft.pages=236&amp;rft.pub=Emerald+Group+Publishing&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://cwur.org/2015/University-of-Zagreb.html">http://cwur.org/2015/University-of-Zagreb.html</a></span></li> 
+       <li id="cite_note-R.C3.BCegg_685-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-R.C3.BCegg_685_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-R.C3.BCegg_685_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Rüegg, Walter: "European Universities and Similar Institutions in Existence between 1812 and the End of 1944: A Chronological List", in: Rüegg, Walter (ed.): <i><a href="/wiki/A_History_of_the_University_in_Europe" title="A History of the University in Europe">A History of the University in Europe. Vol. 3: Universities in the Nineteenth and Early Twentieth Centuries (1800–1945)</a></i>, Cambridge University Press, 2004, <a href="/wiki/Special:BookSources/9780521361071" class="internal mw-magiclink-isbn">ISBN 978-0-521-36107-1</a>, p. 685</span></li> 
+       <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://public.carnet.hr/rektorat/epovijest.html">History of the University of Zagreb</a> at public.carnet.hr</span></li> 
+       <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Charle, Christophe: "Patterns", in Rüegg, Walter (ed.): <i>A History of the University in Europe. Vol. 3: Universities in the Nineteenth and Early Twentieth Centuries (1800–1945)</i>, Cambridge University Press, 2004, <a href="/wiki/Special:BookSources/9780521361071" class="internal mw-magiclink-isbn">ISBN 978-0-521-36107-1</a>, p. 41</span></li> 
+       <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.vguk.hr/novostic/1/162-102.pdf">Husinec, Renata, and Dejan Marenčić. n.d. "Križevci College of Agriculture."</a> Accessed: April 13, 2013.</span></li> 
+       <li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.croatiantimes.com/news/General_News/2010-12-22/16004/Gay_assistant_sues_IT_faculty_in_Varadzin_for_harrassment_in_first_such_lawsuit_in_Croatia">"Gay assistant sues IT faculty in Varazdin for harrassment in first such lawsuit in Croatia"</a>. Croatiantimes.com. 2010-12-22<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-08-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Zagreb&amp;rft.btitle=Gay+assistant+sues+IT+faculty+in+Varazdin+for+harrassment+in+first+such+lawsuit+in+Croatia&amp;rft.date=2010-12-22&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.croatiantimes.com%2Fnews%2FGeneral_News%2F2010-12-22%2F16004%2FGay_assistant_sues_IT_faculty_in_Varadzin_for_harrassment_in_first_such_lawsuit_in_Croatia&amp;rft.pub=Croatiantimes.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://novine.novilist.hr/Default.asp?WCI=Rubrike&amp;WCU=2859286028632859285A2863285A285828592858286328962897289E286328962897289E289128922863285D285B2858285F285D285F28632863286328582863D">"Diskriminacija na fakultetu"</a>. Novilist.hr. 2010-12-18<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-10-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Zagreb&amp;rft.btitle=Diskriminacija+na+fakultetu&amp;rft.date=2010-12-18&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fnovine.novilist.hr%2FDefault.asp%3FWCI%3DRubrike%26WCU%3D2859286028632859285A2863285A285828592858286328962897289E286328962897289E289128922863285D285B2858285F285D285F28632863286328582863D&amp;rft.pub=Novilist.hr&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.jutarnji.hr/-ismijavaju-me-i-ne-mogu-napredovati--sve-zbog-toga-jer-sam-gay-/912987/">"Ismijavaju me na poslu i ne daju mi napredovati. Zato što sam gay"</a>. Jutarnji.hr. 2010-12-22<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-11-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Zagreb&amp;rft.btitle=Ismijavaju+me+na+poslu+i+ne+daju+mi+napredovati.+Zato+%C5%A1to+sam+gay&amp;rft.date=2010-12-22&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.jutarnji.hr%2F-ismijavaju-me-i-ne-mogu-napredovati--sve-zbog-toga-jer-sam-gay-%2F912987%2F&amp;rft.pub=Jutarnji.hr&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.prs.hr/index.php/priopcenja-prs/294-priopcenje-povodom-sudske-odluke-u-predmetu-kresic-protiv-fakulteta-organizacije-i-informatike-sveucilista-u-zagrebu">"Priopćenje Pravobraniteljice za ravnopravnost spolova RH povodom sudske odluke u predmetu Krešić protiv Fakulteta organizacije i informatike Sveučilišta u Zagrebu"</a>. Pravobraniteljica za ravnopravnost spolova RH. 2012-07-12<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-11-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Zagreb&amp;rft.btitle=Priop%C4%87enje+Pravobraniteljice+za+ravnopravnost+spolova+RH+povodom+sudske+odluke+u+predmetu+Kre%C5%A1i%C4%87+protiv+Fakulteta+organizacije+i+informatike+Sveu%C4ili%C5%A1ta+u+Zagrebu&amp;rft.date=2012-07-12&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.prs.hr%2Findex.php%2Fpriopcenja-prs%2F294-priopcenje-povodom-sudske-odluke-u-predmetu-kresic-protiv-fakulteta-organizacije-i-informatike-sveucilista-u-zagrebu&amp;rft.pub=Pravobraniteljica+za+ravnopravnost+spolova+RH&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+      </ol> 
+     </div> 
+     <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Zagreb&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <ul> 
+      <li><a rel="nofollow" class="external text" href="http://www.unizg.hr/">Official website</a></li> 
+     </ul> 
+     <table class="navbox" style="border-spacing:0"> 
+      <tbody>
+       <tr> 
+        <td style="padding:2px"> 
+         <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"> 
+          <tbody>
+           <tr> 
+            <th scope="col" class="navbox-title" colspan="3" style="background:#00204e;color:#ffffff;"> 
+             <div class="plainlinks hlist navbar mini"> 
+              <ul> 
+               <li class="nv-view"><a href="/wiki/Template:University_of_Zagreb" title="Template:University of Zagreb"><abbr title="View this template" style=";background:#00204e;color:#ffffff;;background:none transparent;border:none;">v</abbr></a></li> 
+               <li class="nv-talk"><a href="/wiki/Template_talk:University_of_Zagreb" title="Template talk:University of Zagreb"><abbr title="Discuss this template" style=";background:#00204e;color:#ffffff;;background:none transparent;border:none;">t</abbr></a></li> 
+               <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:University_of_Zagreb&amp;action=edit"><abbr title="Edit this template" style=";background:#00204e;color:#ffffff;;background:none transparent;border:none;">e</abbr></a></li> 
+              </ul> 
+             </div> 
+             <div style="font-size:114%">
+              <strong class="selflink"><span style="color:#ffffff; font-size:1em;">University of Zagreb</span></strong>
+             </div> </th> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group" style="text-align:center;background:#00204e;color:#ffffff;">Faculties</th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align:left;"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/w/index.php?title=Faculty_of_Agriculture,_University_of_Zagreb&amp;action=edit&amp;redlink=1" class="new" title="Faculty of Agriculture, University of Zagreb (page does not exist)">Faculty of Agriculture</a></li> 
+               <li><a href="/wiki/Faculty_of_Architecture,_University_of_Zagreb" title="Faculty of Architecture, University of Zagreb">Faculty of Architecture</a></li> 
+               <li><a href="/wiki/Faculty_of_Chemical_Engineering_and_Technology,_University_of_Zagreb" title="Faculty of Chemical Engineering and Technology, University of Zagreb">Faculty of Chemical Engineering and Technology</a></li> 
+               <li><a href="/w/index.php?title=Faculty_of_Civil_Engineering,_University_of_Zagreb&amp;action=edit&amp;redlink=1" class="new" title="Faculty of Civil Engineering, University of Zagreb (page does not exist)">Faculty of Civil Engineering</a></li> 
+               <li><a href="/wiki/Faculty_of_Economics_and_Business,_University_of_Zagreb" title="Faculty of Economics and Business, University of Zagreb">Faculty of Economics and Business</a></li> 
+               <li><a href="/wiki/Faculty_of_Electrical_Engineering_and_Computing,_University_of_Zagreb" title="Faculty of Electrical Engineering and Computing, University of Zagreb">Faculty of Electrical Engineering and Computing</a></li> 
+               <li><a href="/w/index.php?title=Faculty_of_Food_Technology_and_Biotechnology,_University_of_Zagreb&amp;action=edit&amp;redlink=1" class="new" title="Faculty of Food Technology and Biotechnology, University of Zagreb (page does not exist)">Faculty of Food Technology and Biotechnology</a></li> 
+               <li><a href="/w/index.php?title=Faculty_of_Forestry,_University_of_Zagreb&amp;action=edit&amp;redlink=1" class="new" title="Faculty of Forestry, University of Zagreb (page does not exist)">Faculty of Forestry</a></li> 
+               <li><a href="/wiki/Faculty_of_Geodesy,_University_of_Zagreb" title="Faculty of Geodesy, University of Zagreb">Faculty of Geodesy</a></li> 
+               <li><a href="/w/index.php?title=Faculty_of_Geotechnics,_University_of_Zagreb&amp;action=edit&amp;redlink=1" class="new" title="Faculty of Geotechnics, University of Zagreb (page does not exist)">Faculty of Geotechnics</a></li> 
+               <li><a href="/w/index.php?title=Faculty_of_Graphic_Arts,_University_of_Zagreb&amp;action=edit&amp;redlink=1" class="new" title="Faculty of Graphic Arts, University of Zagreb (page does not exist)">Faculty of Graphic Arts</a></li> 
+               <li><a href="/wiki/Faculty_of_Humanities_and_Social_Sciences,_University_of_Zagreb" title="Faculty of Humanities and Social Sciences, University of Zagreb">Faculty of Humanities and Social Sciences</a></li> 
+               <li><a href="/w/index.php?title=Faculty_of_Kinesiology,_University_of_Zagreb&amp;action=edit&amp;redlink=1" class="new" title="Faculty of Kinesiology, University of Zagreb (page does not exist)">Faculty of Kinesiology</a></li> 
+               <li><a href="/wiki/Faculty_of_Law,_University_of_Zagreb" title="Faculty of Law, University of Zagreb">Faculty of Law</a></li> 
+               <li><a href="/w/index.php?title=Faculty_of_Mechanical_Engineering_and_Naval_Architecture,_University_of_Zagreb&amp;action=edit&amp;redlink=1" class="new" title="Faculty of Mechanical Engineering and Naval Architecture, University of Zagreb (page does not exist)">Faculty of Mechanical Engineering and Naval Architecture</a></li> 
+               <li><a href="/wiki/Faculty_of_Metallurgy,_University_of_Zagreb" title="Faculty of Metallurgy, University of Zagreb" class="mw-redirect">Faculty of Metallurgy</a></li> 
+               <li><a href="/w/index.php?title=Faculty_of_Mining,_Geology_and_Petroleum_Engineering,_University_of_Zagreb&amp;action=edit&amp;redlink=1" class="new" title="Faculty of Mining, Geology and Petroleum Engineering, University of Zagreb (page does not exist)">Faculty of Mining, Geology and Petroleum Engineering</a></li> 
+               <li><a href="/wiki/Faculty_of_Organization_and_Informatics,_University_of_Zagreb" title="Faculty of Organization and Informatics, University of Zagreb" class="mw-redirect">Faculty of Organization and Informatics</a></li> 
+               <li><a href="/w/index.php?title=Faculty_of_Pharmacy_and_Biochemistry,_University_of_Zagreb&amp;action=edit&amp;redlink=1" class="new" title="Faculty of Pharmacy and Biochemistry, University of Zagreb (page does not exist)">Faculty of Pharmacy and Biochemistry</a></li> 
+               <li><a href="/w/index.php?title=Faculty_of_Political_Science,_University_of_Zagreb&amp;action=edit&amp;redlink=1" class="new" title="Faculty of Political Science, University of Zagreb (page does not exist)">Faculty of Political Science</a></li> 
+               <li><a href="/wiki/Faculty_of_Science,_University_of_Zagreb" title="Faculty of Science, University of Zagreb">Faculty of Science</a></li> 
+               <li><a href="/w/index.php?title=Faculty_of_Special_Education_and_Rehabilitation,_University_of_Zagreb&amp;action=edit&amp;redlink=1" class="new" title="Faculty of Special Education and Rehabilitation, University of Zagreb (page does not exist)">Faculty of Special Education and Rehabilitation</a></li> 
+               <li><a href="/wiki/Faculty_of_Teacher_Education,_University_of_Zagreb" title="Faculty of Teacher Education, University of Zagreb">Faculty of Teacher Education</a></li> 
+               <li><a href="/w/index.php?title=Faculty_of_Textile_Technology,_University_of_Zagreb&amp;action=edit&amp;redlink=1" class="new" title="Faculty of Textile Technology, University of Zagreb (page does not exist)">Faculty of Textile Technology</a></li> 
+               <li><a href="/w/index.php?title=Catholic_Faculty_of_Theology,_University_of_Zagreb&amp;action=edit&amp;redlink=1" class="new" title="Catholic Faculty of Theology, University of Zagreb (page does not exist)">Catholic Faculty of Theology</a></li> 
+               <li><a href="/w/index.php?title=Faculty_of_Transport_and_Traffic_Engineering,_University_of_Zagreb&amp;action=edit&amp;redlink=1" class="new" title="Faculty of Transport and Traffic Engineering, University of Zagreb (page does not exist)">Faculty of Transport and Traffic Engineering</a></li> 
+               <li><a href="/w/index.php?title=Faculty_of_Veterinary_Medicine,_University_of_Zagreb&amp;action=edit&amp;redlink=1" class="new" title="Faculty of Veterinary Medicine, University of Zagreb (page does not exist)">Faculty of Veterinary Medicine</a></li> 
+               <li><a href="/wiki/School_of_Dental_Medicine,_University_of_Zagreb" title="School of Dental Medicine, University of Zagreb">School of Dental Medicine</a></li> 
+               <li><a href="/wiki/School_of_Medicine,_University_of_Zagreb" title="School of Medicine, University of Zagreb">School of Medicine</a></li> 
+               <li><a href="/w/index.php?title=University_Centre_for_Croatian_Studies&amp;action=edit&amp;redlink=1" class="new" title="University Centre for Croatian Studies (page does not exist)">University Centre for Croatian Studies</a></li> 
+              </ul> 
+             </div> </td> 
+            <td class="navbox-image" rowspan="5" style="width:0%;padding:0px 0px 0px 2px"> 
+             <div>
+              <a href="/wiki/File:Zagreb_University.jpg" class="image"><img alt="Zagreb University.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Zagreb_University.jpg/80px-Zagreb_University.jpg" width="80" height="107" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Zagreb_University.jpg/120px-Zagreb_University.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Zagreb_University.jpg/160px-Zagreb_University.jpg 2x" data-file-width="450" data-file-height="600"></a>
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group" style="text-align:center;background:#00204e;color:#ffffff;">Academies</th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align:left;"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/Academy_of_Dramatic_Art,_University_of_Zagreb" title="Academy of Dramatic Art, University of Zagreb">Academy of Dramatic Art</a></li> 
+               <li><a href="/wiki/Academy_of_Fine_Arts,_University_of_Zagreb" title="Academy of Fine Arts, University of Zagreb">Academy of Fine Arts</a></li> 
+               <li><a href="/wiki/Academy_of_Music,_University_of_Zagreb" title="Academy of Music, University of Zagreb">Academy of Music</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group" style="text-align:center;background:#00204e;color:#ffffff;">Other related articles</th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align:left;"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/2009_student_protests_in_Croatia" title="2009 student protests in Croatia">2009 student protests in Croatia</a></li> 
+               <li><a href="/wiki/Mladost_(sports_society)" title="Mladost (sports society)">Mladost (sports society)</a></li> 
+               <li><a href="/wiki/National_and_University_Library_in_Zagreb" title="National and University Library in Zagreb">National and University Library in Zagreb</a></li> 
+               <li><a href="/wiki/SDEWES_Centre" title="SDEWES Centre">SDEWES Centre</a></li> 
+               <li><a href="/wiki/University_Computing_Centre" title="University Computing Centre">University Computing Centre</a></li> 
+               <li><a href="/wiki/Zagreb_Botanical_Garden" title="Zagreb Botanical Garden">Zagreb Botanical Garden</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+          </tbody>
+         </table> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <table class="navbox" style="border-spacing:0"> 
+      <tbody>
+       <tr> 
+        <td style="padding:2px"> 
+         <table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"> 
+          <tbody>
+           <tr> 
+            <th scope="col" class="navbox-title" colspan="3"> 
+             <div class="plainlinks hlist navbar mini"> 
+              <ul> 
+               <li class="nv-view"><a href="/wiki/Template:Zagreb" title="Template:Zagreb"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li> 
+               <li class="nv-talk"><a href="/wiki/Template_talk:Zagreb" title="Template talk:Zagreb"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li> 
+               <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Zagreb&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li> 
+              </ul> 
+             </div> 
+             <div style="font-size:114%">
+              <a href="/wiki/Zagreb" title="Zagreb">Zagreb</a>
+             </div> </th> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group"><a href="/wiki/History_of_Zagreb" title="History of Zagreb">History</a></th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/Timeline_of_Zagreb" title="Timeline of Zagreb">Timeline</a></li> 
+               <li><a href="/wiki/Golden_Bull_of_1242" title="Golden Bull of 1242">Golden Bull of 1242</a></li> 
+               <li><a href="/wiki/Gradec,_Zagreb" title="Gradec, Zagreb">Gradec</a></li> 
+               <li><a href="/wiki/Kaptol,_Zagreb" title="Kaptol, Zagreb">Kaptol</a></li> 
+               <li><a href="/wiki/Krvavi_Most" title="Krvavi Most">Krvavi most</a></li> 
+               <li><a href="/wiki/1880_Zagreb_earthquake" title="1880 Zagreb earthquake">1880 earthquake</a></li> 
+               <li><a href="/wiki/1895_visit_of_Emperor_Franz_Joseph_to_Zagreb" title="1895 visit of Emperor Franz Joseph to Zagreb">1895 Emperor Franz Joseph visit</a></li> 
+               <li><a href="/wiki/Zagreb_rocket_attacks" title="Zagreb rocket attacks">1995 rocket attacks</a></li> 
+               <li><a href="/wiki/Zagreb_crisis" title="Zagreb crisis">1995–97 Zagreb crisis</a></li> 
+               <li><a href="/wiki/List_of_mayors_of_Zagreb" title="List of mayors of Zagreb">Mayors</a></li> 
+              </ul> 
+             </div> </td> 
+            <td class="navbox-image" rowspan="23" style="width:0%;padding:0px 0px 0px 2px"> 
+             <div> 
+              <div class="floatright">
+               <a href="/wiki/File:Coat_of_arms_of_Zagreb.svg" class="image" title="Coat of arms of Zagreb"><img alt="Coat of arms of Zagreb" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Coat_of_arms_of_Zagreb.svg/64px-Coat_of_arms_of_Zagreb.svg.png" width="64" height="76" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Coat_of_arms_of_Zagreb.svg/96px-Coat_of_arms_of_Zagreb.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Coat_of_arms_of_Zagreb.svg/128px-Coat_of_arms_of_Zagreb.svg.png 2x" data-file-width="366" data-file-height="433"></a>
+              </div> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group"><a href="/wiki/Zagreb#Metropolitan_administration" title="Zagreb">Districts</a></th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/Brezovica,_Zagreb" title="Brezovica, Zagreb">Brezovica</a></li> 
+               <li><a href="/wiki/%C4%8Crnomerec" title="Črnomerec">Črnomerec</a></li> 
+               <li><a href="/wiki/Donja_Dubrava,_Zagreb" title="Donja Dubrava, Zagreb">Donja Dubrava</a></li> 
+               <li><a href="/wiki/Donji_grad" title="Donji grad">Donji grad</a></li> 
+               <li><a href="/wiki/Gornja_Dubrava" title="Gornja Dubrava">Gornja Dubrava</a></li> 
+               <li><a href="/wiki/Gornji_Grad%E2%80%93Medve%C5%A1%C4%8Dak" title="Gornji Grad–Medveščak">Gornji Grad–Medveščak</a></li> 
+               <li><a href="/wiki/Maksimir" title="Maksimir">Maksimir</a></li> 
+               <li><a href="/wiki/Novi_Zagreb_%E2%80%93_istok" title="Novi Zagreb – istok">Novi Zagreb-istok</a></li> 
+               <li><a href="/wiki/Novi_Zagreb_%E2%80%93_zapad" title="Novi Zagreb – zapad">Novi Zagreb-zapad</a></li> 
+               <li><a href="/wiki/Pe%C5%A1%C4%8Denica_%E2%80%93_%C5%BDitnjak" title="Peščenica – Žitnjak">Peščenica-Žitnjak</a></li> 
+               <li><a href="/wiki/Podsljeme" title="Podsljeme">Podsljeme</a></li> 
+               <li><a href="/wiki/Podsused_%E2%80%93_Vrap%C4%8De" title="Podsused – Vrapče">Podsused-Vrapče</a></li> 
+               <li><a href="/wiki/Sesvete" title="Sesvete">Sesvete</a></li> 
+               <li><a href="/wiki/Stenjevec" title="Stenjevec">Stenjevec</a></li> 
+               <li><a href="/wiki/Tre%C5%A1njevka_%E2%80%93_jug" title="Trešnjevka – jug">Trešnjevka-jug</a></li> 
+               <li><a href="/wiki/Tre%C5%A1njevka_%E2%80%93_sjever" title="Trešnjevka – sjever">Trešnjevka-sjever</a></li> 
+               <li><a href="/wiki/Trnje,_Zagreb" title="Trnje, Zagreb">Trnje</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group"><a href="/wiki/Category:Buildings_and_structures_in_Zagreb" title="Category:Buildings and structures in Zagreb">Buildings and<br> landmarks</a></th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/1_Ilica_Street" title="1 Ilica Street">1 Ilica Street</a></li> 
+               <li><a href="/wiki/Ban_Jela%C4%8Di%C4%87_Square" title="Ban Jelačić Square">Ban Jelačić Square</a></li> 
+               <li><a href="/wiki/Banski_dvori" title="Banski dvori">Banski dvori</a></li> 
+               <li><a href="/wiki/Zagreb_Botanical_Garden" title="Zagreb Botanical Garden">Botanical Garden</a></li> 
+               <li><a href="/wiki/British_Square_(Zagreb)" title="British Square (Zagreb)">British Square</a></li> 
+               <li><a href="/wiki/Cibona_Tower" title="Cibona Tower">Cibona Tower</a></li> 
+               <li><a href="/wiki/Dolac_Market" title="Dolac Market">Dolac Market</a></li> 
+               <li><a href="/wiki/General_Post_Office,_Zagreb" title="General Post Office, Zagreb">General Post Office</a></li> 
+               <li><a href="/wiki/Ilica_(street)" title="Ilica (street)">Ilica Street</a></li> 
+               <li><a href="/wiki/Jarun" title="Jarun">Jarun</a></li> 
+               <li><a href="/wiki/Kallina_House" title="Kallina House">Kallina House</a></li> 
+               <li><a href="/wiki/Lenuci_Horseshoe" title="Lenuci Horseshoe">Lenuci Horseshoe</a></li> 
+               <li><a href="/wiki/Lotr%C5%A1%C4%8Dak_Tower" title="Lotrščak Tower">Lotrščak Tower</a></li> 
+               <li><a href="/wiki/Maksimir_Park" title="Maksimir Park">Maksimir Park</a></li> 
+               <li><a href="/wiki/Marshal_Tito_Square" title="Marshal Tito Square">Marshal Tito Square</a></li> 
+               <li><a href="/wiki/Medvedgrad" title="Medvedgrad">Medvedgrad</a></li> 
+               <li><a href="/wiki/Me%C5%A1trovi%C4%87_Pavilion" title="Meštrović Pavilion">Meštrović Pavilion</a></li> 
+               <li><a href="/wiki/Mirogoj_Cemetery" title="Mirogoj Cemetery">Mirogoj Cemetery</a></li> 
+               <li><a href="/wiki/Nikola_%C5%A0ubi%C4%87_Zrinski_Square" title="Nikola Šubić Zrinski Square">Nikola Šubić Zrinski Square</a></li> 
+               <li><a href="/wiki/Nine_Views" title="Nine Views">Nine Views</a></li> 
+               <li><a href="/wiki/Old_City_Hall_(Zagreb)" title="Old City Hall (Zagreb)">Old City Hall</a></li> 
+               <li><a href="/wiki/Rudolf_barracks" title="Rudolf barracks">Rudolf barracks</a></li> 
+               <li><a href="/wiki/St._Mark%27s_Square,_Zagreb" title="St. Mark's Square, Zagreb">St. Mark's Square</a></li> 
+               <li><a href="/wiki/Tkal%C4%8Di%C4%87eva_Street" title="Tkalčićeva Street">Tkalčićeva Street</a></li> 
+               <li><a href="/wiki/Zagrep%C4%8Danka" title="Zagrepčanka">Zagrepčanka</a></li> 
+               <li><a href="/wiki/Sky_Office_Tower" title="Sky Office Tower">Sky Office Tower</a></li> 
+               <li><a href="/wiki/Adriatic_Bridge" title="Adriatic Bridge">Adriatic Bridge</a></li> 
+               <li><a href="/wiki/Homeland_Bridge" title="Homeland Bridge">Homeland Bridge</a></li> 
+               <li><a href="/wiki/HOTO_Tower" title="HOTO Tower">HOTO Tower</a></li> 
+               <li><a href="/wiki/Eurotower_(Zagreb)" title="Eurotower (Zagreb)">Eurotower</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Places of<br> worship</th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/St._Mark%27s_Church,_Zagreb" title="St. Mark's Church, Zagreb">St. Mark's Church</a></li> 
+               <li><a href="/wiki/St._Catherine%27s_Church,_Zagreb" title="St. Catherine's Church, Zagreb">St. Catherine's Church</a></li> 
+               <li><a href="/wiki/Zagreb_Cathedral" title="Zagreb Cathedral">Zagreb Cathedral</a></li> 
+               <li><a href="/wiki/Serbian_Orthodox_Cathedral,_Zagreb" title="Serbian Orthodox Cathedral, Zagreb">Orthodox Cathedral</a></li> 
+               <li><a href="/wiki/Zagreb_Mosque" title="Zagreb Mosque">Zagreb Mosque</a></li> 
+               <li><a href="/wiki/Zagreb_Synagogue" title="Zagreb Synagogue">Zagreb Synagogue</a></li> 
+               <li><a href="/wiki/Evangelical_Church,_Zagreb" title="Evangelical Church, Zagreb">Evangelical Church</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Culture</th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/Croatian_National_Theatre_in_Zagreb" title="Croatian National Theatre in Zagreb">Croatian National Theatre in Zagreb</a></li> 
+               <li><a href="/wiki/Gavella_Drama_Theatre" title="Gavella Drama Theatre">Gavella Drama Theatre</a></li> 
+               <li><a href="/wiki/Vatroslav_Lisinski_Concert_Hall" title="Vatroslav Lisinski Concert Hall">Vatroslav Lisinski Concert Hall</a></li> 
+               <li><a href="/wiki/National_and_University_Library_in_Zagreb" title="National and University Library in Zagreb">National and University Library</a></li> 
+               <li><a href="/wiki/Zagreb_Philharmonic_Orchestra" title="Zagreb Philharmonic Orchestra">Zagreb Philharmonic Orchestra</a></li> 
+               <li><a href="/wiki/Cravat_Regiment" title="Cravat Regiment">The Cravat Regiment</a></li> 
+               <li><a href="/wiki/Zagreb_Zoo" title="Zagreb Zoo">Zagreb Zoo</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Galleries and<br> museums</th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/Archaeological_Museum_in_Zagreb" title="Archaeological Museum in Zagreb">Archaeological Museum</a></li> 
+               <li><a href="/wiki/Art_Pavilion,_Zagreb" title="Art Pavilion, Zagreb">Art Pavilion</a></li> 
+               <li><a href="/wiki/Croatian_History_Museum" title="Croatian History Museum">Croatian History Museum</a></li> 
+               <li><a href="/wiki/Croatian_Museum_of_Na%C3%AFve_Art" title="Croatian Museum of Naïve Art">Croatian Museum of Naïve Art</a></li> 
+               <li><a href="/wiki/Croatian_Natural_History_Museum" title="Croatian Natural History Museum">Croatian Natural History Museum</a></li> 
+               <li><a href="/wiki/Croatian_Railway_Museum" title="Croatian Railway Museum">Croatian Railway Museum</a></li> 
+               <li><a href="/wiki/Ethnographic_Museum,_Zagreb" title="Ethnographic Museum, Zagreb">Ethnographic Museum</a></li> 
+               <li><a href="/wiki/Ferdinand_Budicki_Automobile_Museum" title="Ferdinand Budicki Automobile Museum">Ferdinand Budicki Automobile Museum</a></li> 
+               <li><a href="/wiki/Glyptotheque_(Zagreb)" title="Glyptotheque (Zagreb)">Glyptotheque</a></li> 
+               <li><a href="/wiki/Klovi%C4%87evi_Dvori_Gallery" title="Klovićevi Dvori Gallery">Klovićevi Dvori Gallery</a></li> 
+               <li><a href="/wiki/Lauba" title="Lauba">Lauba</a></li> 
+               <li><a href="/wiki/Mimara_Museum" title="Mimara Museum">Mimara Museum</a></li> 
+               <li><a href="/wiki/Modern_Gallery,_Zagreb" title="Modern Gallery, Zagreb">Modern Gallery</a></li> 
+               <li><a href="/wiki/Museum_of_Arts_and_Crafts,_Zagreb" title="Museum of Arts and Crafts, Zagreb">Museum of Arts and Crafts</a></li> 
+               <li><a href="/wiki/Museum_of_Broken_Relationships" title="Museum of Broken Relationships">Museum of Broken Relationships</a></li> 
+               <li><a href="/wiki/Museum_of_Contemporary_Art,_Zagreb" title="Museum of Contemporary Art, Zagreb">Museum of Contemporary Art</a></li> 
+               <li><a href="/wiki/Strossmayer_Gallery_of_Old_Masters" title="Strossmayer Gallery of Old Masters">Strossmayer Gallery</a></li> 
+               <li><a href="/wiki/Technical_Museum,_Zagreb" title="Technical Museum, Zagreb">Technical Museum</a></li> 
+               <li><a href="/wiki/Zagreb_City_Museum" title="Zagreb City Museum">Zagreb City Museum</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Local media</th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li>Newspapers: <i><a href="/wiki/Jutarnji_list" title="Jutarnji list">Jutarnji list</a></i></li> 
+               <li><i><a href="/wiki/Ve%C4%8Dernji_list" title="Večernji list">Večernji list</a></i></li> 
+               <li>Broadcast radio: <a href="/wiki/Radio_101_(Croatia)" title="Radio 101 (Croatia)">Radio 101</a></li> 
+               <li><a href="/wiki/Radio_Student" title="Radio Student">Radio Student</a></li> 
+               <li>Television stations: <a href="/wiki/Jabuka_TV" title="Jabuka TV">Jabuka TV</a></li> 
+               <li><a href="/wiki/Zagreba%C4%8Dka_Televizija" title="Zagrebačka Televizija">Z1</a></li> 
+               <li>Film companies: <a href="/wiki/Croatia_Film" title="Croatia Film">Croatia Film</a></li> 
+               <li><a href="/wiki/Jadran_Film" title="Jadran Film">Jadran Film</a></li> 
+               <li><a href="/wiki/Zagreb_Film" title="Zagreb Film">Zagreb Film</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Education</th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/List_of_high_schools_in_Zagreb" title="List of high schools in Zagreb">High schools in Zagreb</a></li> 
+               <li><a href="/wiki/Croatian_Academy_of_Sciences_and_Arts" title="Croatian Academy of Sciences and Arts">Croatian Academy of Sciences and Arts</a></li> 
+               <li><strong class="selflink">University of Zagreb</strong> 
+                <ul> 
+                 <li>Academies: <a href="/wiki/Academy_of_Dramatic_Art,_University_of_Zagreb" title="Academy of Dramatic Art, University of Zagreb">Dramatic Art</a></li> 
+                 <li><a href="/wiki/Academy_of_Fine_Arts,_University_of_Zagreb" title="Academy of Fine Arts, University of Zagreb">Fine Arts</a></li> 
+                 <li><a href="/wiki/Academy_of_Music,_University_of_Zagreb" title="Academy of Music, University of Zagreb">Music</a></li> 
+                 <li>Faculties: <a href="/wiki/Faculty_of_Architecture,_University_of_Zagreb" title="Faculty of Architecture, University of Zagreb">Architecture</a></li> 
+                 <li><a href="/wiki/Faculty_of_Chemical_Engineering_and_Technology,_University_of_Zagreb" title="Faculty of Chemical Engineering and Technology, University of Zagreb">Chemical Engineering</a></li> 
+                 <li><a href="/wiki/School_of_Dental_Medicine,_University_of_Zagreb" title="School of Dental Medicine, University of Zagreb">Dental Medicine</a></li> 
+                 <li><a href="/wiki/Faculty_of_Economics_and_Business,_University_of_Zagreb" title="Faculty of Economics and Business, University of Zagreb">Economics and Business</a></li> 
+                 <li><a href="/wiki/Faculty_of_Electrical_Engineering_and_Computing,_University_of_Zagreb" title="Faculty of Electrical Engineering and Computing, University of Zagreb">Electrical Engineering and Computing</a></li> 
+                 <li><a href="/wiki/Faculty_of_Geodesy,_University_of_Zagreb" title="Faculty of Geodesy, University of Zagreb">Geodesy</a></li> 
+                 <li><a href="/wiki/Faculty_of_Humanities_and_Social_Sciences,_University_of_Zagreb" title="Faculty of Humanities and Social Sciences, University of Zagreb">Humanities and Social Sciences</a></li> 
+                 <li><a href="/wiki/School_of_Medicine,_University_of_Zagreb" title="School of Medicine, University of Zagreb">Medicine</a></li> 
+                 <li><a href="/wiki/Faculty_of_Science,_University_of_Zagreb" title="Faculty of Science, University of Zagreb">Science</a></li> 
+                 <li><a href="/wiki/Faculty_of_Teacher_Education,_University_of_Zagreb" title="Faculty of Teacher Education, University of Zagreb">Teacher Education</a></li> 
+                </ul> </li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Sports venues</th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/Arena_Zagreb" title="Arena Zagreb">Arena Zagreb</a></li> 
+               <li><a href="/wiki/Dom_Sportova" title="Dom Sportova">Dom Sportova</a></li> 
+               <li><a href="/wiki/Dra%C5%BEen_Petrovi%C4%87_Basketball_Hall" title="Dražen Petrović Basketball Hall">Dražen Petrović Basketball Hall</a></li> 
+               <li><a href="/wiki/Stadion_Maksimir" title="Stadion Maksimir">Maksimir Stadium</a></li> 
+               <li><a href="/wiki/Stadion_Kranj%C4%8Devi%C4%87eva" title="Stadion Kranjčevićeva">Kranjčevićeva Stadium</a></li> 
+               <li><a href="/wiki/Stadion_%C5%A0RC_Sesvete" title="Stadion ŠRC Sesvete">ŠRC Sesvete Stadium</a></li> 
+               <li><a href="/wiki/Stadion_N%C5%A0C_Stjepan_Spaji%C4%87" title="Stadion NŠC Stjepan Spajić">NŠC Stjepan Spajić Stadium</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group"><a href="/wiki/Transport_in_Zagreb" title="Transport in Zagreb">Transport</a></th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/Zagreb_International_Airport" title="Zagreb International Airport">Zagreb International Airport</a></li> 
+               <li><a href="/wiki/Zagreb_Glavni_kolodvor" title="Zagreb Glavni kolodvor">Zagreb Glavni kolodvor</a></li> 
+               <li><a href="/wiki/Zagreb_Funicular" title="Zagreb Funicular">Funicular</a></li> 
+               <li><a href="/wiki/Trams_in_Zagreb" title="Trams in Zagreb">Trams</a></li> 
+               <li><a href="/wiki/Zagreb_Commuter_Rail" title="Zagreb Commuter Rail">Commuter Rail</a></li> 
+               <li><a href="/wiki/Zagreb_Metro" title="Zagreb Metro" class="mw-redirect">Metro</a> <small>(proposed)</small></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Events</th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/Animafest_Zagreb" title="Animafest Zagreb">Animafest Zagreb</a></li> 
+               <li><a href="/wiki/INmusic_festival" title="INmusic festival">INmusic Festival</a></li> 
+               <li><a href="/wiki/Music_Biennale_Zagreb" title="Music Biennale Zagreb">Music Biennale Zagreb</a></li> 
+               <li><a href="/wiki/Zagreb_Film_Festival" title="Zagreb Film Festival">Zagreb Film Festival</a></li> 
+               <li><a href="/wiki/ZagrebDox" title="ZagrebDox">ZagrebDox</a></li> 
+               <li><a href="/wiki/Zagreb_Fair" title="Zagreb Fair">Zagreb Fair</a></li> 
+               <li><a href="/wiki/Subversive_Festival" title="Subversive Festival">Subversive Festival</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Sport events</th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/Golden_Spin_of_Zagreb" title="Golden Spin of Zagreb">Golden Spin</a></li> 
+               <li><a href="/wiki/Han%C5%BEekovi%C4%87_Memorial" title="Hanžeković Memorial">Hanžeković Memorial</a></li> 
+               <li><a href="/wiki/Snow_Queen_Trophy" title="Snow Queen Trophy">Snow Queen Trophy</a></li> 
+               <li><a href="/wiki/Zagreb_Indoors" title="Zagreb Indoors">Zagreb Indoors</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+          </tbody>
+         </table> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <table class="navbox" style="border-spacing:0"> 
+      <tbody>
+       <tr> 
+        <td style="padding:2px"> 
+         <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"> 
+          <tbody>
+           <tr> 
+            <th scope="col" class="navbox-title" colspan="2"> 
+             <div class="plainlinks hlist navbar mini"> 
+              <ul> 
+               <li class="nv-view"><a href="/wiki/Template:Croatian_universities" title="Template:Croatian universities"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li> 
+               <li class="nv-talk"><a href="/wiki/Template_talk:Croatian_universities" title="Template talk:Croatian universities"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li> 
+               <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Croatian_universities&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li> 
+              </ul> 
+             </div> 
+             <div style="font-size:114%">
+              <a href="/wiki/List_of_institutions_of_higher_education_in_Croatia" title="List of institutions of higher education in Croatia">Universities</a> in 
+              <a href="/wiki/Croatia" title="Croatia">Croatia</a>
+             </div> </th> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/Catholic_University_of_Croatia" title="Catholic University of Croatia">Catholic</a></li> 
+               <li><a href="/wiki/University_of_Dubrovnik" title="University of Dubrovnik">Dubrovnik</a></li> 
+               <li><a href="/wiki/Dubrovnik_International_University" title="Dubrovnik International University">Dubrovnik International</a></li> 
+               <li><a href="/wiki/Juraj_Dobrila_University_of_Pula" title="Juraj Dobrila University of Pula">Juraj Dobrila</a></li> 
+               <li><a href="/w/index.php?title=University_North&amp;action=edit&amp;redlink=1" class="new" title="University North (page does not exist)">North</a></li> 
+               <li><a href="/wiki/University_of_Osijek" title="University of Osijek">Osijek</a></li> 
+               <li><a href="/wiki/University_of_Rijeka" title="University of Rijeka">Rijeka</a></li> 
+               <li><a href="/w/index.php?title=University_of_Slavonski_Brod&amp;action=edit&amp;redlink=1" class="new" title="University of Slavonski Brod (page does not exist)">Slavonski Brod</a></li> 
+               <li><a href="/wiki/University_of_Split" title="University of Split">Split</a></li> 
+               <li><a href="/wiki/University_of_Zadar" title="University of Zadar">Zadar</a></li> 
+               <li><strong class="selflink">Zagreb</strong></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+          </tbody>
+         </table> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <table class="navbox" style="border-spacing:0"> 
+      <tbody>
+       <tr> 
+        <td style="padding:2px"> 
+         <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"> 
+          <tbody>
+           <tr> 
+            <th scope="col" class="navbox-title" colspan="2"> 
+             <div class="plainlinks hlist navbar mini"> 
+              <ul> 
+               <li class="nv-view"><a href="/wiki/Template:UNICA" title="Template:UNICA"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li> 
+               <li class="nv-talk"><a href="/wiki/Template_talk:UNICA" title="Template talk:UNICA"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li> 
+               <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:UNICA&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li> 
+              </ul> 
+             </div> 
+             <div style="font-size:114%">
+              <a href="/wiki/Institutional_Network_of_the_Universities_from_the_Capitals_of_Europe" title="Institutional Network of the Universities from the Capitals of Europe">Institutional Network of the Universities from the Capitals of Europe (UNICA)</a>
+             </div> </th> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600"></span> <a href="/wiki/University_of_Amsterdam" title="University of Amsterdam">Amsterdam (UvA)</a></li> 
+               <li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/35px-Flag_of_Turkey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/45px-Flag_of_Turkey.svg.png 2x" data-file-width="1200" data-file-height="800"></span> <a href="/wiki/University_of_Ankara" title="University of Ankara" class="mw-redirect">Ankara (AU)</a></li> 
+               <li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/35px-Flag_of_Turkey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/45px-Flag_of_Turkey.svg.png 2x" data-file-width="1200" data-file-height="800"></span> <a href="/wiki/Middle_East_Technical_University" title="Middle East Technical University">Ankara (METU)</a></li> 
+               <li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/23px-Flag_of_Greece.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/35px-Flag_of_Greece.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/45px-Flag_of_Greece.svg.png 2x" data-file-width="600" data-file-height="400"></span> <a href="/wiki/National_and_Kapodistrian_University_of_Athens" title="National and Kapodistrian University of Athens">Athens</a></li> 
+               <li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/23px-Flag_of_Serbia.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/35px-Flag_of_Serbia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/45px-Flag_of_Serbia.svg.png 2x" data-file-width="1350" data-file-height="900"></span> <a href="/wiki/University_of_Belgrade" title="University of Belgrade">Belgrade</a></li> 
+               <li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></span> <a href="/wiki/Freie_Universit%C3%A4t_Berlin" title="Freie Universität Berlin" class="mw-redirect">Berlin (FU Berlin)</a></li> 
+               <li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></span> <a href="/wiki/Humboldt_University_of_Berlin" title="Humboldt University of Berlin">Berlin (HU Berlin)</a></li> 
+               <li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/23px-Flag_of_Slovakia.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/35px-Flag_of_Slovakia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/45px-Flag_of_Slovakia.svg.png 2x" data-file-width="900" data-file-height="600"></span> <a href="/wiki/Comenius_University_in_Bratislava" title="Comenius University in Bratislava" class="mw-redirect">Bratislava</a></li> 
+               <li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/23px-Flag_of_Belgium_%28civil%29.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/35px-Flag_of_Belgium_%28civil%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/45px-Flag_of_Belgium_%28civil%29.svg.png 2x" data-file-width="450" data-file-height="300"></span> <a href="/wiki/Universit%C3%A9_libre_de_Bruxelles" title="Université libre de Bruxelles">Brussels (ULB)</a></li> 
+               <li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/23px-Flag_of_Belgium_%28civil%29.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/35px-Flag_of_Belgium_%28civil%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/45px-Flag_of_Belgium_%28civil%29.svg.png 2x" data-file-width="450" data-file-height="300"></span> <a href="/wiki/Vrije_Universiteit_Brussel" title="Vrije Universiteit Brussel">Brussels (VUB)</a></li> 
+               <li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/23px-Flag_of_Romania.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/35px-Flag_of_Romania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/45px-Flag_of_Romania.svg.png 2x" data-file-width="600" data-file-height="400"></span> <a href="/wiki/University_of_Bucharest" title="University of Bucharest">Bucharest</a></li> 
+               <li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/23px-Flag_of_Hungary.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/35px-Flag_of_Hungary.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/46px-Flag_of_Hungary.svg.png 2x" data-file-width="1200" data-file-height="600"></span> <a href="/wiki/E%C3%B6tv%C3%B6s_Lor%C3%A1nd_University" title="Eötvös Loránd University">Budapest</a></li> 
+               <li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/20px-Flag_of_Denmark.svg.png" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/31px-Flag_of_Denmark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/40px-Flag_of_Denmark.svg.png 2x" data-file-width="370" data-file-height="280"></span> <a href="/wiki/University_of_Copenhagen" title="University of Copenhagen">Copenhagen</a></li> 
+               <li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/23px-Flag_of_Ireland.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/35px-Flag_of_Ireland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/46px-Flag_of_Ireland.svg.png 2x" data-file-width="1200" data-file-height="600"></span> <a href="/wiki/University_College_Dublin" title="University College Dublin">Dublin (UCD)</a></li> 
+               <li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100"></span> <a href="/wiki/University_of_Helsinki" title="University of Helsinki">Helsinki</a></li> 
+               <li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png" width="16" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/24px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/32px-Flag_of_Switzerland.svg.png 2x" data-file-width="1000" data-file-height="1000"></span> <a href="/wiki/University_of_Lausanne" title="University of Lausanne">Lausanne (UNIL)</a></li> 
+               <li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/23px-Flag_of_Portugal.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/35px-Flag_of_Portugal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/45px-Flag_of_Portugal.svg.png 2x" data-file-width="600" data-file-height="400"></span> <a href="/wiki/University_of_Lisbon" title="University of Lisbon">Lisbon (ULisboa)</a></li> 
+               <li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/23px-Flag_of_Portugal.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/35px-Flag_of_Portugal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/45px-Flag_of_Portugal.svg.png 2x" data-file-width="600" data-file-height="400"></span> <a href="/wiki/Universidade_Nova_de_Lisboa" title="Universidade Nova de Lisboa">Lisbon (NOVA)</a></li> 
+               <li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/23px-Flag_of_Slovenia.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/35px-Flag_of_Slovenia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/46px-Flag_of_Slovenia.svg.png 2x" data-file-width="1200" data-file-height="600"></span> <a href="/wiki/University_of_Ljubljana" title="University of Ljubljana">Ljubljana</a></li> 
+               <li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/35px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/46px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480"></span> <a href="/wiki/King%27s_College_London" title="King's College London">London (KCL)</a></li> 
+               <li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500"></span> <a href="/wiki/Autonomous_University_of_Madrid" title="Autonomous University of Madrid">Madrid (UAM)</a></li> 
+               <li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500"></span> <a href="/wiki/Complutense_University_of_Madrid" title="Complutense University of Madrid">Madrid (UCM)</a></li> 
+               <li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/45px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600"></span> <a href="/wiki/Moscow_State_University" title="Moscow State University">Moscow</a></li> 
+               <li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/23px-Flag_of_Cyprus.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/35px-Flag_of_Cyprus.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/45px-Flag_of_Cyprus.svg.png 2x" data-file-width="900" data-file-height="600"></span> <a href="/wiki/University_of_Cyprus" title="University of Cyprus">Nicosia</a></li> 
+               <li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png" width="21" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/32px-Flag_of_Norway.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/41px-Flag_of_Norway.svg.png 2x" data-file-width="1100" data-file-height="800"></span> <a href="/wiki/University_of_Oslo" title="University of Oslo">Oslo</a></li> 
+               <li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600"></span> <a href="/wiki/Pantheon-Sorbonne_University" title="Pantheon-Sorbonne University">Paris I</a></li> 
+               <li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600"></span> <a href="/wiki/University_of_Paris_III:_Sorbonne_Nouvelle" title="University of Paris III: Sorbonne Nouvelle">Paris III</a></li> 
+               <li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600"></span> <a href="/wiki/Pierre-and-Marie-Curie_University" title="Pierre-and-Marie-Curie University" class="mw-redirect">Paris VI</a></li> 
+               <li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600"></span> <a href="/wiki/Paris_Dauphine_University" title="Paris Dauphine University">Paris-Dauphine</a></li> 
+               <li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/23px-Flag_of_the_Czech_Republic.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/35px-Flag_of_the_Czech_Republic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/45px-Flag_of_the_Czech_Republic.svg.png 2x" data-file-width="900" data-file-height="600"></span> <a href="/wiki/Charles_University_in_Prague" title="Charles University in Prague">Prague</a></li> 
+               <li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/23px-Flag_of_Latvia.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/35px-Flag_of_Latvia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/46px-Flag_of_Latvia.svg.png 2x" data-file-width="1200" data-file-height="600"></span> <a href="/wiki/University_of_Latvia" title="University of Latvia">Riga</a></li> 
+               <li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000"></span> <a href="/wiki/Roma_Tre_University" title="Roma Tre University">Rome III</a></li> 
+               <li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000"></span> <a href="/wiki/Sapienza_University_of_Rome" title="Sapienza University of Rome">Rome-La Sapienza</a></li> 
+               <li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000"></span> <a href="/wiki/University_of_Rome_Tor_Vergata" title="University of Rome Tor Vergata">Rome-Tor Vergata</a></li> 
+               <li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_Macedonia.svg/23px-Flag_of_Macedonia.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_Macedonia.svg/35px-Flag_of_Macedonia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_Macedonia.svg/46px-Flag_of_Macedonia.svg.png 2x" data-file-width="1400" data-file-height="700"></span> <a href="/wiki/Ss._Cyril_and_Methodius_University_of_Skopje" title="Ss. Cyril and Methodius University of Skopje">Skopje</a></li> 
+               <li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/23px-Flag_of_Bulgaria.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/35px-Flag_of_Bulgaria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/46px-Flag_of_Bulgaria.svg.png 2x" data-file-width="1000" data-file-height="600"></span> <a href="/wiki/Sofia_University" title="Sofia University">Sofia</a></li> 
+               <li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/35px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/46px-Flag_of_Sweden.svg.png 2x" data-file-width="1600" data-file-height="1000"></span> <a href="/wiki/Stockholm_University" title="Stockholm University">Stockholm</a></li> 
+               <li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/23px-Flag_of_Estonia.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/35px-Flag_of_Estonia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/46px-Flag_of_Estonia.svg.png 2x" data-file-width="990" data-file-height="630"></span> <a href="/wiki/Tallinn_University" title="Tallinn University">Tallinn (TU)</a></li> 
+               <li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/23px-Flag_of_Estonia.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/35px-Flag_of_Estonia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/46px-Flag_of_Estonia.svg.png 2x" data-file-width="990" data-file-height="630"></span> <a href="/wiki/Tallinn_University_of_Technology" title="Tallinn University of Technology">Tallinn (TUT)</a></li> 
+               <li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/21px-Flag_of_Albania.svg.png" width="21" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/32px-Flag_of_Albania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/42px-Flag_of_Albania.svg.png 2x" data-file-width="700" data-file-height="500"></span> <a href="/wiki/University_of_Tirana" title="University of Tirana">Tirana</a></li> 
+               <li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/35px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/45px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600"></span> <a href="/wiki/University_of_Vienna" title="University of Vienna">Vienna</a></li> 
+               <li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/23px-Flag_of_Lithuania.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/35px-Flag_of_Lithuania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/46px-Flag_of_Lithuania.svg.png 2x" data-file-width="500" data-file-height="300"></span> <a href="/wiki/Vilnius_University" title="Vilnius University">Vilnius</a></li> 
+               <li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800"></span> <a href="/wiki/University_of_Warsaw" title="University of Warsaw">Warsaw</a></li> 
+               <li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/23px-Flag_of_Croatia.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/35px-Flag_of_Croatia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/46px-Flag_of_Croatia.svg.png 2x" data-file-width="1200" data-file-height="600"></span> <strong class="selflink">Zagreb</strong></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+          </tbody>
+         </table> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <table class="navbox" style="border-spacing:0"> 
+      <tbody>
+       <tr> 
+        <td style="padding:2px"> 
+         <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"> 
+          <tbody>
+           <tr> 
+            <th scope="col" class="navbox-title" colspan="3" style="background:#9D1939; color:#EEBD31;"> 
+             <div class="plainlinks hlist navbar mini"> 
+              <ul> 
+               <li class="nv-view"><a href="/wiki/Template:Balkan_Universities_Network" title="Template:Balkan Universities Network"><abbr title="View this template" style=";background:#9D1939; color:#EEBD31;;background:none transparent;border:none;">v</abbr></a></li> 
+               <li class="nv-talk"><a href="/wiki/Template_talk:Balkan_Universities_Network" title="Template talk:Balkan Universities Network"><abbr title="Discuss this template" style=";background:#9D1939; color:#EEBD31;;background:none transparent;border:none;">t</abbr></a></li> 
+               <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Balkan_Universities_Network&amp;action=edit"><abbr title="Edit this template" style=";background:#9D1939; color:#EEBD31;;background:none transparent;border:none;">e</abbr></a></li> 
+              </ul> 
+             </div> 
+             <div style="font-size:114%">
+              <a href="/wiki/Balkan_Universities_Network" title="Balkan Universities Network"><span style="color:#EEBD31; font-size:1em;">Balkan Universities Network</span></a>
+             </div> </th> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group" style="background:#11335D; color:#EEBD31;"><span style="color:#EEBD31">Albania</span></th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/University_of_Tirana" title="University of Tirana">University of Tirana</a></li> 
+               <li><a href="/wiki/University_of_Medicine,_Tirana" title="University of Medicine, Tirana">University of Medicine, Tirana</a></li> 
+               <li><a href="/wiki/Epoka_University" title="Epoka University">Epoka University</a></li> 
+               <li><a href="/wiki/Eqerem_%C3%87abej_University" title="Eqerem Çabej University" class="mw-redirect">Eqerem Çabej University</a></li> 
+               <li><a href="/wiki/University_of_Kor%C3%A7a" title="University of Korça" class="mw-redirect">University of Korça</a></li> 
+               <li><a href="/wiki/Luigj_Gurakuqi_University" title="Luigj Gurakuqi University">Luigj Gurakuqi University</a></li> 
+               <li><a href="/wiki/Vitrina_University" title="Vitrina University">Vitrina University</a></li> 
+              </ul> 
+             </div> </td> 
+            <td class="navbox-image" rowspan="27" style="width:0%;padding:0px 0px 0px 2px"> 
+             <div>
+              <a href="/wiki/File:Stielers_Handatlas_1891_50.jpg" class="image"><img alt="Stielers Handatlas 1891 50.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Stielers_Handatlas_1891_50.jpg/150px-Stielers_Handatlas_1891_50.jpg" width="150" height="128" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Stielers_Handatlas_1891_50.jpg/225px-Stielers_Handatlas_1891_50.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/62/Stielers_Handatlas_1891_50.jpg/300px-Stielers_Handatlas_1891_50.jpg 2x" data-file-width="5000" data-file-height="4250"></a>
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group" style="background:#11335D; color:#EEBD31;"><span style="color:#EEBD31">Bosnia and Herzegovina</span></th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/University_of_Mostar" title="University of Mostar">University of Mostar</a></li> 
+               <li><a href="/wiki/University_of_Sarajevo" title="University of Sarajevo">University of Sarajevo</a></li> 
+               <li><a href="/wiki/University_of_Tuzla" title="University of Tuzla">University of Tuzla</a></li> 
+               <li><a href="/wiki/University_of_Zenica" title="University of Zenica">University of Zenica</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group" style="background:#11335D; color:#EEBD31;"><span style="color:#EEBD31">Bulgaria</span></th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/American_University_in_Bulgaria" title="American University in Bulgaria">American University in Bulgaria</a></li> 
+               <li><a href="/wiki/Burgas_Free_University" title="Burgas Free University">Burgas Free University</a></li> 
+               <li><a href="/wiki/Medical_University_of_Varna" title="Medical University of Varna">Medical University of Varna</a></li> 
+               <li><a href="/wiki/Shumen_University" title="Shumen University">Shumen University</a></li> 
+               <li><a href="/wiki/Sofia_University" title="Sofia University">Sofia University</a></li> 
+               <li><a href="/wiki/State_University_of_Library_Studies_and_Information_Technologies" title="State University of Library Studies and Information Technologies" class="mw-redirect">State University of Library Studies and Information Technologies</a></li> 
+               <li><a href="/wiki/Technical_University_of_Gabrovo" title="Technical University of Gabrovo">Technical University of Gabrovo</a></li> 
+               <li><a href="/wiki/Technical_University_of_Varna" title="Technical University of Varna">Technical University of Varna</a></li> 
+               <li><a href="/wiki/University_of_National_and_World_Economy" title="University of National and World Economy">University of National and World Economy</a></li> 
+               <li><a href="/w/index.php?title=University_of_Food_Technologies&amp;action=edit&amp;redlink=1" class="new" title="University of Food Technologies (page does not exist)">University of Food Technologies</a></li> 
+               <li><a href="/wiki/Varna_Free_University" title="Varna Free University">Varna Free University</a></li> 
+               <li><a href="/wiki/Veliko_Tarnovo_University" title="Veliko Tarnovo University">Veliko Tarnovo University</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group" style="background:#11335D; color:#EEBD31;"><span style="color:#EEBD31">Croatia</span></th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/University_of_Zadar" title="University of Zadar">University of Zadar</a></li> 
+               <li><strong class="selflink">University of Zagreb</strong></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group" style="background:#11335D; color:#EEBD31;"><span style="color:#EEBD31">Cyprus</span></th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/European_University_of_Lefke" title="European University of Lefke">European University of Lefke</a> 
+                <ul> 
+                 <li><a href="/wiki/Northern_Cyprus" title="Northern Cyprus">Northern Cyprus</a></li> 
+                </ul> </li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group" style="background:#11335D; color:#EEBD31;"><span style="color:#EEBD31">Greece</span></th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/Aristotle_University_of_Thessaloniki" title="Aristotle University of Thessaloniki">Aristotle University of Thessaloniki</a></li> 
+               <li><a href="/wiki/Democritus_University_of_Thrace" title="Democritus University of Thrace">Democritus University of Thrace</a></li> 
+               <li><a href="/wiki/University_of_Ioannina" title="University of Ioannina">University of Ioannina</a></li> 
+               <li><a href="/wiki/University_of_Macedonia" title="University of Macedonia">University of Macedonia</a></li> 
+               <li><a href="/wiki/University_of_Thessaly" title="University of Thessaly">University of Thessaly</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group" style="background:#11335D; color:#EEBD31;"><span style="color:#EEBD31">Kosovo <small><i>(disputed status)</i></small></span></th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/Iliria_Royal_University" title="Iliria Royal University" class="mw-redirect">Iliria Royal University</a></li> 
+               <li><a href="/wiki/Univerzitet_u_Pri%C5%A1tini" title="Univerzitet u Prištini" class="mw-redirect">Univerzitet u Prištini</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group" style="background:#11335D; color:#EEBD31;"><span style="color:#EEBD31">Macedonia</span></th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/FON_University" title="FON University">FON University</a></li> 
+               <li><a href="/wiki/International_Balkan_University" title="International Balkan University">International Balkan University</a></li> 
+               <li><a href="/wiki/St._Clement_of_Ohrid_University_of_Bitola" title="St. Clement of Ohrid University of Bitola">St. Clement of Ohrid University of Bitola</a></li> 
+               <li><a href="/wiki/Ss._Cyril_and_Methodius_University_of_Skopje" title="Ss. Cyril and Methodius University of Skopje">Ss. Cyril and Methodius University of Skopje</a></li> 
+               <li><a href="/wiki/South_East_European_University" title="South East European University">South East European University</a></li> 
+               <li><a href="/wiki/State_University_of_Tetovo" title="State University of Tetovo" class="mw-redirect">State University of Tetovo</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group" style="background:#11335D; color:#EEBD31;"><span style="color:#EEBD31">Moldova</span></th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/Comrat_State_University" title="Comrat State University">Comrat State University</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group" style="background:#11335D; color:#EEBD31;"><span style="color:#EEBD31">Montenegro</span></th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/University_%22Mediterranean%22" title="University &quot;Mediterranean&quot;" class="mw-redirect">University "Mediterranean"</a></li> 
+               <li><a href="/wiki/University_of_Montenegro" title="University of Montenegro">University of Montenegro</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group" style="background:#11335D; color:#EEBD31;"><span style="color:#EEBD31">Romania</span></th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/Babe%C8%99-Bolyai_University" title="Babeș-Bolyai University">Babeș-Bolyai University</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group" style="background:#11335D; color:#EEBD31;"><span style="color:#EEBD31">Serbia</span></th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/University_of_Arts_in_Belgrade" title="University of Arts in Belgrade">University of Arts in Belgrade</a></li> 
+               <li><a href="/wiki/University_of_Belgrade" title="University of Belgrade">University of Belgrade</a></li> 
+               <li><a href="/wiki/University_of_Kragujevac" title="University of Kragujevac">University of Kragujevac</a></li> 
+               <li><a href="/wiki/University_of_Ni%C5%A1" title="University of Niš">University of Niš</a></li> 
+               <li><a href="/wiki/University_of_Novi_Sad" title="University of Novi Sad">University of Novi Sad</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group" style="background:#11335D; color:#EEBD31;"><span style="color:#EEBD31">Turkey</span></th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/Atat%C3%BCrk_University" title="Atatürk University">Atatürk University</a></li> 
+               <li><a href="/wiki/%C3%87anakkale_Onsekiz_Mart_University" title="Çanakkale Onsekiz Mart University">Çanakkale Onsekiz Mart University</a></li> 
+               <li><a href="/wiki/Dokuz_Eyl%C3%BCl_University" title="Dokuz Eylül University">Dokuz Eylül University</a></li> 
+               <li><a href="/wiki/F%C4%B1rat_University" title="Fırat University">Fırat University</a></li> 
+               <li><a href="/wiki/Galatasaray_University" title="Galatasaray University">Galatasaray University</a></li> 
+               <li><a href="/wiki/Istanbul_University" title="Istanbul University">Istanbul University</a></li> 
+               <li><a href="/wiki/K%C4%B1rklareli_University" title="Kırklareli University">Kırklareli University</a></li> 
+               <li><a href="/wiki/Nam%C4%B1k_Kemal_University" title="Namık Kemal University">Namık Kemal University</a></li> 
+               <li><a href="/wiki/S%C3%BCleyman_Demirel_University" title="Süleyman Demirel University">Süleyman Demirel University</a></li> 
+               <li><a href="/wiki/Trakya_University" title="Trakya University">Trakya University</a></li> 
+               <li><a href="/wiki/Bozok_University" title="Bozok University">Bozok University</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group" style="background:#11335D; color:#EEBD31;"><span style="color:#EEBD31"><i>Guest members</i></span></th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/Baden-Wuerttemberg_Cooperative_State_University_Loerrach" title="Baden-Wuerttemberg Cooperative State University Loerrach">Baden-Wuerttemberg Cooperative State University Loerrach</a></li> 
+               <li><a href="/wiki/Baku_State_University" title="Baku State University">Baku State University</a></li> 
+               <li><a href="/wiki/University_of_Graz" title="University of Graz">University of Graz</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+          </tbody>
+         </table> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=University_of_Zagreb&amp;params=45_48_38.42_N_15_58_12.35_E_dim:25_scale:250_region:HR-21_type:landmark_source:dewiki"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">45°48′38.42″N</span> <span class="longitude">15°58′12.35″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">45.8106722°N 15.9700972°E</span><span style="display:none">﻿ / <span class="geo">45.8106722; 15.9700972</span></span></span></a></span></span></span></p> 
+     <!-- 
+NewPP limit report
+Parsed by mw1117
+Cached time: 20160321124133
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.759 seconds
+Real time usage: 1.023 seconds
+Preprocessor visited node count: 4148/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 129993/2097152 bytes
+Template argument size: 2889/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 2/500
+Lua time usage: 0.175/10.000 seconds
+Lua memory usage: 3.63 MB/50 MB
+Number of Wikibase entities loaded: 1--> 
+     <!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  714.179      1 - -total
+ 37.14%  265.259      5 - Template:Navbox
+ 30.00%  214.233      1 - Template:UNICA
+ 28.14%  200.978     44 - Template:Flagdeco
+ 19.98%  142.726      1 - Template:Infobox_University
+ 17.65%  126.071      1 - Template:Infobox
+ 13.32%   95.160      1 - Template:Reflist
+  8.24%   58.882      4 - Template:Language_with_name
+  7.59%   54.214      4 - Template:Lang
+  7.47%   53.341      3 - Template:Lang-la
+--> 
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:899111-0!*!0!!en!4!* and timestamp 20160321124132 and revision id 707786006
+ --> 
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript>
+    </div> 
+    <div class="printfooter">
+      Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=University_of_Zagreb&amp;oldid=707786006">https://en.wikipedia.org/w/index.php?title=University_of_Zagreb&amp;oldid=707786006</a>" 
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:1669_establishments_in_Croatia" title="Category:1669 establishments in Croatia">1669 establishments in Croatia</a></li>
+       <li><a href="/wiki/Category:Educational_institutions_established_in_the_1660s" title="Category:Educational institutions established in the 1660s">Educational institutions established in the 1660s</a></li>
+       <li><a href="/wiki/Category:University_of_Zagreb" title="Category:University of Zagreb">University of Zagreb</a></li>
+       <li><a href="/wiki/Category:Universities_in_Croatia" title="Category:Universities in Croatia">Universities in Croatia</a></li>
+       <li><a href="/wiki/Category:Forestry_in_Croatia" title="Category:Forestry in Croatia">Forestry in Croatia</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Articles_containing_Latin-language_text" title="Category:Articles containing Latin-language text">Articles containing Latin-language text</a></li>
+       <li><a href="/wiki/Category:Articles_containing_Croatian-language_text" title="Category:Articles containing Croatian-language text">Articles containing Croatian-language text</a></li>
+       <li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li>
+      </ul>
+     </div>
+    </div> 
+    <div class="visualClear"></div> 
+   </div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> 
+    <div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label"> 
+     <h3 id="p-personal-label">Personal tools</h3> 
+     <ul> 
+      <li id="pt-anonuserpage">Not logged in</li>
+      <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+      <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+      <li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=University+of+Zagreb&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+      <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=University+of+Zagreb" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li> 
+     </ul> 
+    </div> 
+    <div id="left-navigation"> 
+     <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label"> 
+      <h3 id="p-namespaces-label">Namespaces</h3> 
+      <ul> 
+       <li id="ca-nstab-main" class="selected"><span><a href="/wiki/University_of_Zagreb" title="View the content page [c]" accesskey="c">Article</a></span></li> 
+       <li id="ca-talk"><span><a href="/wiki/Talk:University_of_Zagreb" title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span><a href="#"></a> </h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="right-navigation"> 
+     <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label"> 
+      <h3 id="p-views-label">Views</h3> 
+      <ul> 
+       <li id="ca-view" class="selected"><span><a href="/wiki/University_of_Zagreb">Read</a></span></li> 
+       <li id="ca-edit"><span><a href="/w/index.php?title=University_of_Zagreb&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li> 
+       <li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=University_of_Zagreb&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch"> 
+        <input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput">
+        <input type="hidden" value="Special:Search" name="title">
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton">
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a>
+    </div> 
+    <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label"> 
+     <h3 id="p-navigation-label">Navigation</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+       <li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label"> 
+     <h3 id="p-interaction-label">Interaction</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label"> 
+     <h3 id="p-tb-label">Tools</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/University_of_Zagreb" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/University_of_Zagreb" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=University_of_Zagreb&amp;oldid=707786006" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=University_of_Zagreb&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q675848" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=University_of_Zagreb&amp;id=707786006" title="Information on how to cite this page">Cite this page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label"> 
+     <h3 id="p-coll-print_export-label">Print/export</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=University+of+Zagreb">Create a book</a></li>
+       <li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=University+of+Zagreb&amp;returnto=University+of+Zagreb&amp;oldid=707786006&amp;writer=rdf2latex">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=University_of_Zagreb&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label"> 
+     <h3 id="p-wikibase-otherprojects-label">In other projects</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:University_of_Zagreb" hreflang="en">Wikimedia Commons</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label"> 
+     <h3 id="p-lang-label">Languages</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9_%D8%B2%D8%BA%D8%B1%D8%A8" title="جامعة زغرب – Arabic" lang="ar" hreflang="ar">العربية</a></li>
+       <li class="interlanguage-link interwiki-az"><a href="//az.wikipedia.org/wiki/Zaqreb_Universiteti" title="Zaqreb Universiteti – Azerbaijani" lang="az" hreflang="az">Azərbaycanca</a></li>
+       <li class="interlanguage-link interwiki-be"><a href="//be.wikipedia.org/wiki/%D0%97%D0%B0%D0%B3%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D1%96_%D1%9E%D0%BD%D1%96%D0%B2%D0%B5%D1%80%D1%81%D1%96%D1%82%D1%8D%D1%82" title="Заграбскі ўніверсітэт – Belarusian" lang="be" hreflang="be">Беларуская</a></li>
+       <li class="interlanguage-link interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%97%D0%B0%D0%B3%D1%80%D0%B5%D0%B1%D1%81%D0%BA%D0%B8_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82" title="Загребски университет – Bulgarian" lang="bg" hreflang="bg">Български</a></li>
+       <li class="interlanguage-link interwiki-bs"><a href="//bs.wikipedia.org/wiki/Univerzitet_u_Zagrebu" title="Univerzitet u Zagrebu – Bosnian" lang="bs" hreflang="bs">Bosanski</a></li>
+       <li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/Universitetet_i_Zagreb" title="Universitetet i Zagreb – Danish" lang="da" hreflang="da">Dansk</a></li>
+       <li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Universit%C3%A4t_Zagreb" title="Universität Zagreb – German" lang="de" hreflang="de">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Universidad_de_Zagreb" title="Universidad de Zagreb – Spanish" lang="es" hreflang="es">Español</a></li>
+       <li class="interlanguage-link interwiki-eo"><a href="//eo.wikipedia.org/wiki/Zagreba_universitato" title="Zagreba universitato – Esperanto" lang="eo" hreflang="eo">Esperanto</a></li>
+       <li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87_%D8%B2%D8%A7%DA%AF%D8%B1%D8%A8" title="دانشگاه زاگرب – Persian" lang="fa" hreflang="fa">فارسی</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Universit%C3%A9_de_Zagreb" title="Université de Zagreb – French" lang="fr" hreflang="fr">Français</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EC%9E%90%EA%B7%B8%EB%A0%88%EB%B8%8C_%EB%8C%80%ED%95%99%EA%B5%90" title="자그레브 대학교 – Korean" lang="ko" hreflang="ko">한국어</a></li>
+       <li class="interlanguage-link interwiki-hy"><a href="//hy.wikipedia.org/wiki/%D4%B6%D5%A1%D5%A3%D6%80%D5%A5%D5%A2%D5%AB_%D5%B0%D5%A1%D5%B4%D5%A1%D5%AC%D5%BD%D5%A1%D6%80%D5%A1%D5%B6" title="Զագրեբի համալսարան – Armenian" lang="hy" hreflang="hy">Հայերեն</a></li>
+       <li class="interlanguage-link interwiki-hr"><a href="//hr.wikipedia.org/wiki/Sveu%C4%8Dili%C5%A1te_u_Zagrebu" title="Sveučilište u Zagrebu – Croatian" lang="hr" hreflang="hr">Hrvatski</a></li>
+       <li class="interlanguage-link interwiki-la"><a href="//la.wikipedia.org/wiki/Universitas_Studiorum_Zagrabiensis" title="Universitas Studiorum Zagrabiensis – Latin" lang="la" hreflang="la">Latina</a></li>
+       <li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Universiteit_van_Zagreb" title="Universiteit van Zagreb – Dutch" lang="nl" hreflang="nl">Nederlands</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%B6%E3%82%B0%E3%83%AC%E3%83%96%E5%A4%A7%E5%AD%A6" title="ザグレブ大学 – Japanese" lang="ja" hreflang="ja">日本語</a></li>
+       <li class="interlanguage-link interwiki-uz"><a href="//uz.wikipedia.org/wiki/Zagreb_universiteti" title="Zagreb universiteti – Uzbek" lang="uz" hreflang="uz">Oʻzbekcha/ўзбекча</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Uniwersytet_w_Zagrzebiu" title="Uniwersytet w Zagrzebiu – Polish" lang="pl" hreflang="pl">Polski</a></li>
+       <li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Universidade_de_Zagreb" title="Universidade de Zagreb – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%B3%D1%80%D0%B5%D0%B1%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82" title="Загребский университет – Russian" lang="ru" hreflang="ru">Русский</a></li>
+       <li class="interlanguage-link interwiki-sl"><a href="//sl.wikipedia.org/wiki/Univerza_v_Zagrebu" title="Univerza v Zagrebu – Slovenian" lang="sl" hreflang="sl">Slovenščina</a></li>
+       <li class="interlanguage-link interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B5%D1%83%D1%87%D0%B8%D0%BB%D0%B8%D1%88%D1%82%D0%B5_%D1%83_%D0%97%D0%B0%D0%B3%D1%80%D0%B5%D0%B1%D1%83" title="Свеучилиште у Загребу – Serbian" lang="sr" hreflang="sr">Српски / srpski</a></li>
+       <li class="interlanguage-link interwiki-sh"><a href="//sh.wikipedia.org/wiki/Sveu%C4%8Dili%C5%A1te_u_Zagrebu" title="Sveučilište u Zagrebu – Serbo-Croatian" lang="sh" hreflang="sh">Srpskohrvatski / српскохрватски</a></li>
+       <li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Zagrebin_yliopisto" title="Zagrebin yliopisto – Finnish" lang="fi" hreflang="fi">Suomi</a></li>
+       <li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Universitetet_i_Zagreb" title="Universitetet i Zagreb – Swedish" lang="sv" hreflang="sv">Svenska</a></li>
+       <li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/Zagreb_%C3%9Cniversitesi" title="Zagreb Üniversitesi – Turkish" lang="tr" hreflang="tr">Türkçe</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%97%D0%B0%D0%B3%D1%80%D0%B5%D0%B1%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%83%D0%BD%D1%96%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82" title="Загребський університет – Ukrainian" lang="uk" hreflang="uk">Українська</a></li>
+       <li class="interlanguage-link interwiki-vi"><a href="//vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Zagreb" title="Đại học Zagreb – Vietnamese" lang="vi" hreflang="vi">Tiếng Việt</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E8%90%A8%E6%A0%BC%E5%8B%92%E5%B8%83%E5%A4%A7%E5%AD%A6" title="萨格勒布大学 – Chinese" lang="zh" hreflang="zh">中文</a></li>
+       <li class="uls-p-lang-dummy"><a href="#"></a></li> 
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q675848#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last modified on 1 March 2016, at 20:01.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-cookiestatement"><a href="//wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=University_of_Zagreb&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"> <a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"></a> </li> 
+    <li id="footer-poweredbyico"> <a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"></a> </li> 
+   </ul> 
+   <div style="clear:both"></div> 
+  </div> 
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.wikimediaEvents","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script>
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.config.set({"wgBackendResponseTime":64,"wgHostname":"mw1253"}); /* @nomin */
+} );</script>   
+ </body>
+</html>

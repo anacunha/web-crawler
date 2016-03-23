@@ -1,0 +1,315 @@
+https://en.wikipedia.org/wiki/Building_performance
+<!doctype html>
+<html lang="en" dir="ltr" class="client-nojs">
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Building performance - Wikipedia, the free encyclopedia</title> 
+  <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script> 
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Building_performance","wgTitle":"Building performance","wgCurRevisionId":709316290,"wgRevisionId":709316290,"wgArticleId":6234521,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with citations lacking titles","Pages with citations having bare URLs","Building engineering","Energy conservation"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Building_performance","wgRelevantArticleId":6234521,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCentralAuthMobileDomain":false,"wgWikibaseItemId":"Q4986602","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script> 
+  <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script> 
+  <meta name="generator" content="MediaWiki 1.27.0-wmf.17"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Building_performance"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Building_performance&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Building_performance&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Building_performance"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Building_performance skin-vector action-view"> 
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> 
+   <a id="top"></a> 
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Building performance</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="jump-to-nav" class="mw-jump">
+      Jump to: 
+     <a href="#mw-head">navigation</a>, 
+     <a href="#p-search">search</a> 
+    </div> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <p><b>Building performance</b> or <b>home performance</b> is a comprehensive whole-house approach to identifying and fixing comfort and <a href="/wiki/Efficient_energy_use" title="Efficient energy use">energy efficiency</a> problems in the built environment.<sup id="cite_ref-Wheeler_1-0" class="reference"><a href="#cite_note-Wheeler-1"><span>[</span>1<span>]</span></a></sup></p> 
+     <p><a href="/wiki/Energy_audit" title="Energy audit">Energy audits</a> are performed by energy auditors, also known as building analysts or consultants,<sup id="cite_ref-Consultantmodel_2-0" class="reference"><a href="#cite_note-Consultantmodel-2"><span>[</span>2<span>]</span></a></sup> which, in the United States, are usually certified by the <a href="/w/index.php?title=Building_Performance_Institute&amp;action=edit&amp;redlink=1" class="new" title="Building Performance Institute (page does not exist)">Building Performance Institute</a> (BPI) or the Residential Energy Services Network (<a href="/w/index.php?title=RESNET&amp;action=edit&amp;redlink=1" class="new" title="RESNET (page does not exist)">RESNET</a>).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-Southface_4-0" class="reference"><a href="#cite_note-Southface-4"><span>[</span>4<span>]</span></a></sup></p> 
+     <p>The United States <a href="/wiki/United_States_Environmental_Protection_Agency" title="United States Environmental Protection Agency">Environmental Protection Agency</a> and <a href="/wiki/United_States_Department_of_Energy" title="United States Department of Energy">Department of Energy</a> started a national program "<i>Home Performance with <a href="/wiki/Energy_Star" title="Energy Star">ENERGY STAR</a></i>" to offer a comprehensive, whole-house approach to improving energy efficiency and comfort at home, while helping to protect the environment.<sup id="cite_ref-energystar.gov_5-0" class="reference"><a href="#cite_note-energystar.gov-5"><span>[</span>5<span>]</span></a></sup> The Home Performance with ENERGY STAR program has 40 programs, to date, across the country which are administered by various utilities and state energy offices.<sup id="cite_ref-HpwES_6-0" class="reference"><a href="#cite_note-HpwES-6"><span>[</span>6<span>]</span></a></sup></p> 
+     <p>Home performance applies <a href="/wiki/Building_science" title="Building science">building science</a> to address the following issues:<sup id="cite_ref-STLCC.edu_7-0" class="reference"><a href="#cite_note-STLCC.edu-7"><span>[</span>7<span>]</span></a></sup></p> 
+     <ul> 
+      <li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Efficient energy use</a></li> 
+      <li><a href="//en.wiktionary.org/wiki/durability" class="extiw" title="wikt:durability">Durability</a></li> 
+      <li><a href="/wiki/Health_%26_Safety" title="Health &amp; Safety" class="mw-redirect">Health &amp; Safety</a></li> 
+      <li><a href="/wiki/Indoor_Air_Quality" title="Indoor Air Quality" class="mw-redirect">Indoor Air Quality</a><sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></li> 
+      <li><a href="/wiki/Thermal_Comfort" title="Thermal Comfort" class="mw-redirect">Thermal Comfort</a></li> 
+      <li>Indoor Moisture sources and solutions<sup id="cite_ref-CSUohio_9-0" class="reference"><a href="#cite_note-CSUohio-9"><span>[</span>9<span>]</span></a></sup></li> 
+     </ul> 
+     <p>Diagnostic equipment includes:<sup id="cite_ref-STLCC.edu_7-1" class="reference"><a href="#cite_note-STLCC.edu-7"><span>[</span>7<span>]</span></a></sup></p> 
+     <ul> 
+      <li><a href="/wiki/Blower_door" title="Blower door">Blower door</a></li> 
+      <li><a href="/w/index.php?title=Duct_leakage_tester_(Duct_Blaster_(R))&amp;action=edit&amp;redlink=1" class="new" title="Duct leakage tester (Duct Blaster (R)) (page does not exist)">Duct leakage tester (Duct Blaster (R))</a></li> 
+      <li><a href="/wiki/Thermal_Imaging_camera" title="Thermal Imaging camera" class="mw-redirect">Thermal Imaging camera</a></li> 
+      <li><a href="/w/index.php?title=Combustion_analyzer&amp;action=edit&amp;redlink=1" class="new" title="Combustion analyzer (page does not exist)">Combustion analyzer</a></li> 
+      <li><a href="/wiki/Carbon_monoxide_detector" title="Carbon monoxide detector">Carbon monoxide detector</a></li> 
+     </ul> 
+     <p>A home performance energy audit results in <a href="/wiki/Home_energy_retrofit" title="Home energy retrofit" class="mw-redirect">home energy retrofit</a> recommendations to improve the comfort and efficiency of the home, the most common of which include:</p> 
+     <ul> 
+      <li>Sealing air holes and gaps in the <a href="/wiki/Building_envelope" title="Building envelope">building envelope</a></li> 
+      <li>Sealing &amp; insulating structures like attic access stairways &amp; whole house fans</li> 
+      <li>installing new windows or sealing existing windows</li> 
+      <li>Adding insulation.</li> 
+      <li>Sealing <a href="/wiki/Duct_(HVAC)" title="Duct (HVAC)" class="mw-redirect">ducts</a>.</li> 
+      <li>Upgrading <a href="/wiki/HVAC" title="HVAC">heating and cooling systems</a>, <a href="/wiki/Home_appliance" title="Home appliance">appliances</a> and <a href="/wiki/Lighting" title="Lighting">lighting</a> by replacing them with energy efficient equipment such as <a href="/wiki/Energy_star" title="Energy star" class="mw-redirect">ENERGY STAR</a> appliances or devices, <a href="/wiki/Compact_fluorescent_lamp" title="Compact fluorescent lamp">compact fluorescent lamps</a>, or <a href="/wiki/LED_lamp" title="LED lamp">LED</a> lamps.</li> 
+      <li>Adding <a href="/wiki/Heat_recovery_ventilation" title="Heat recovery ventilation">heat recovery ventilation</a> or other means to control and upgrade fresh air ventilation.</li> 
+      <li>Controlling moisture.</li> 
+     </ul> 
+     <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Building_performance&amp;action=edit&amp;section=1" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <ul> 
+      <li><a href="/wiki/Energy_audit" title="Energy audit">Energy audit</a></li> 
+      <li><a href="/wiki/Building_science" title="Building science">Building science</a></li> 
+      <li><a href="/wiki/Green_retrofit" title="Green retrofit">Green retrofit</a></li> 
+      <li><a href="/wiki/Weatherization" title="Weatherization">Weatherization</a></li> 
+      <li><a href="/wiki/Architectural_engineering" title="Architectural engineering">Architectural engineering</a></li> 
+     </ul> 
+     <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Building_performance&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <ol class="references"> 
+      <li id="cite_note-Wheeler-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Wheeler_1-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.cpuc.ca.gov/NR/rdonlyres/B7966556-0F2D-4306-9B08-2D8F891ADFA3/0/ResidentialWholeHouseProgramDesign_0701draft.pdf">Residential Sector: Designing a prescriptive whole house retrofit program</a> Michael Wheeler, California Public Utilities Commission, page 15</span></li> 
+      <li id="cite_note-Consultantmodel-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Consultantmodel_2-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.energystar.gov/ia/home_improvement/Consultant_Model.pdf">http://www.energystar.gov/ia/home_improvement/Consultant_Model.pdf</a></span></li> 
+      <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.energy.ca.gov/HERS/index.html">http://www.energy.ca.gov/HERS/index.html</a></span></li> 
+      <li id="cite_note-Southface-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Southface_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.southface.org/learning-center/trainings/home-energy-rating-system">"Home Energy Rating System (HERS)"</a>. www.southface.org<span class="reference-accessdate">. Retrieved <span class="nowrap">15 September</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABuilding+performance&amp;rft.btitle=Home+Energy+Rating+System+%28HERS%29&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.southface.org%2Flearning-center%2Ftrainings%2Fhome-energy-rating-system&amp;rft.pub=www.southface.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+      <li id="cite_note-energystar.gov-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-energystar.gov_5-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.energystar.gov/index.cfm?fuseaction=hpwes_profiles.showsplash">Home Performance with ENERGY STAR</a></span></li> 
+      <li id="cite_note-HpwES-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-HpwES_6-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external free" href="http://web.archive.org/web/20100826072934/http://www.energystar.gov/index.cfm?c=home_improvement.hm_improvement_index">http://web.archive.org/web/20100826072934/http://www.energystar.gov/index.cfm?c=home_improvement.hm_improvement_index</a>. Archived from <a rel="nofollow" class="external text" href="http://www.energystar.gov/index.cfm?c%3Dhome_improvement.hm_improvement_index">the original</a> on August 26, 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">August 25,</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABuilding+performance&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.energystar.gov%2Findex.cfm%3Fc%253Dhome_improvement.hm_improvement_index&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span> <span style="font-size:100%" class="error citation-comment">Missing or empty <code style="color:inherit; border:inherit; padding:inherit;">|title=</code> (<a href="/wiki/Help:CS1_errors#citation_missing_title" title="Help:CS1 errors">help</a>)</span></span></li> 
+      <li id="cite_note-STLCC.edu-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-STLCC.edu_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-STLCC.edu_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.stlcc.edu/Workforce_Development/Events_and_Seminars.html">http://www.stlcc.edu/Workforce_Development/Events_and_Seminars.html</a></span></li> 
+      <li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://filterbuy.com/mold/">"Mold Overview and Health Concerns"</a>. www.filterbuy.com<span class="reference-accessdate">. Retrieved <span class="nowrap">15 September</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABuilding+performance&amp;rft.btitle=Mold+Overview+and+Health+Concerns&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Ffilterbuy.com%2Fmold%2F&amp;rft.pub=www.filterbuy.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+      <li id="cite_note-CSUohio-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-CSUohio_9-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.csuohio.edu/ce/catalog/courses/ENGR499101.html">http://www.csuohio.edu/ce/catalog/courses/ENGR499101.html</a></span></li> 
+     </ol> 
+     <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Building_performance&amp;action=edit&amp;section=3" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <ul> 
+      <li><a rel="nofollow" class="external text" href="http://www.globalbuildings.org">Global Buildings Performance Network</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.bpi.org">BPI Building Performance Institute</a> - U.S. organization setting home performance technical standards</li> 
+      <li><a rel="nofollow" class="external text" href="http://www.efficiencyfirst.org">Efficiency First</a> - U.S. trade association of home performance contractors and others promoting performance based energy retrofits.</li> 
+      <li><a rel="nofollow" class="external text" href="http://www.homeenergy.org/list/section/nav/homeperformance">Home Energy Magazine</a> - Home performance articles.</li> 
+     </ul> 
+     <!-- 
+NewPP limit report
+Parsed by mw1129
+Cached time: 20160310072142
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.100 seconds
+Real time usage: 0.114 seconds
+Preprocessor visited node count: 303/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 4688/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 3/40
+Expensive parser function count: 0/500
+Lua time usage: 0.036/10.000 seconds
+Lua memory usage: 1.64 MB/50 MB
+Number of Wikibase entities loaded: 0--> 
+     <!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   70.345      1 - -total
+ 99.66%   70.108      3 - Template:Cite_web
+--> 
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:6234521-0!*!0!!*!*!* and timestamp 20160310072142 and revision id 709316290
+ --> 
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript>
+    </div> 
+    <div class="printfooter">
+      Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Building_performance&amp;oldid=709316290">https://en.wikipedia.org/w/index.php?title=Building_performance&amp;oldid=709316290</a>" 
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Building_engineering" title="Category:Building engineering">Building engineering</a></li>
+       <li><a href="/wiki/Category:Energy_conservation" title="Category:Energy conservation">Energy conservation</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Pages_with_citations_lacking_titles" title="Category:Pages with citations lacking titles">Pages with citations lacking titles</a></li>
+       <li><a href="/wiki/Category:Pages_with_citations_having_bare_URLs" title="Category:Pages with citations having bare URLs">Pages with citations having bare URLs</a></li>
+      </ul>
+     </div>
+    </div> 
+    <div class="visualClear"></div> 
+   </div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> 
+    <div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label"> 
+     <h3 id="p-personal-label">Personal tools</h3> 
+     <ul> 
+      <li id="pt-anonuserpage">Not logged in</li>
+      <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+      <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+      <li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Building+performance&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+      <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Building+performance" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li> 
+     </ul> 
+    </div> 
+    <div id="left-navigation"> 
+     <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label"> 
+      <h3 id="p-namespaces-label">Namespaces</h3> 
+      <ul> 
+       <li id="ca-nstab-main" class="selected"><span><a href="/wiki/Building_performance" title="View the content page [c]" accesskey="c">Article</a></span></li> 
+       <li id="ca-talk"><span><a href="/wiki/Talk:Building_performance" title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span><a href="#"></a> </h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="right-navigation"> 
+     <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label"> 
+      <h3 id="p-views-label">Views</h3> 
+      <ul> 
+       <li id="ca-view" class="selected"><span><a href="/wiki/Building_performance">Read</a></span></li> 
+       <li id="ca-edit"><span><a href="/w/index.php?title=Building_performance&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li> 
+       <li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Building_performance&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch"> 
+        <input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput">
+        <input type="hidden" value="Special:Search" name="title">
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton">
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a>
+    </div> 
+    <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label"> 
+     <h3 id="p-navigation-label">Navigation</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+       <li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label"> 
+     <h3 id="p-interaction-label">Interaction</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label"> 
+     <h3 id="p-tb-label">Tools</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Building_performance" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Building_performance" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Building_performance&amp;oldid=709316290" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Building_performance&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q4986602" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Building_performance&amp;id=709316290" title="Information on how to cite this page">Cite this page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label"> 
+     <h3 id="p-coll-print_export-label">Print/export</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Building+performance">Create a book</a></li>
+       <li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Building+performance&amp;returnto=Building+performance&amp;oldid=709316290&amp;writer=rdf2latex">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Building_performance&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label"> 
+     <h3 id="p-lang-label">Languages</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="uls-p-lang-dummy"><a href="#"></a></li> 
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-add wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q4986602#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span>
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last modified on 10 March 2016, at 07:21.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-cookiestatement"><a href="//wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Building_performance&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"> <a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"></a> </li> 
+    <li id="footer-poweredbyico"> <a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"></a> </li> 
+   </ul> 
+   <div style="clear:both"></div> 
+  </div> 
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","ext.wikimediaEvents","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script>
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.config.set({"wgBackendResponseTime":77,"wgHostname":"mw1150"}); /* @nomin */
+} );</script>   
+ </body>
+</html>

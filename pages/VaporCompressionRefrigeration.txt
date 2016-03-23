@@ -1,0 +1,827 @@
+https://en.wikipedia.org/wiki/Vapor-compression_refrigeration
+<!doctype html>
+<html lang="en" dir="ltr" class="client-nojs">
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Vapor-compression refrigeration - Wikipedia, the free encyclopedia</title> 
+  <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script> 
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Vapor-compression_refrigeration","wgTitle":"Vapor-compression refrigeration","wgCurRevisionId":710828967,"wgRevisionId":710828967,"wgArticleId":4702515,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from September 2009","Articles with unsourced statements from June 2013","Wikipedia articles with GND identifiers","American inventions","Thermodynamic cycles","Chemical processes","Cooling technology","Heating, ventilating, and air conditioning","Industrial processes","Gas technologies","Industrial gases"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Vapor-compression_refrigeration","wgRelevantArticleId":4702515,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCentralAuthMobileDomain":false,"wgWikibaseItemId":"Q615475","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script> 
+  <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script> 
+  <meta name="generator" content="MediaWiki 1.27.0-wmf.17"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Vapor-compression_refrigeration"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Vapor-compression_refrigeration&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Vapor-compression_refrigeration&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Vapor-compression_refrigeration"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Vapor-compression_refrigeration skin-vector action-view"> 
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> 
+   <a id="top"></a> 
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Vapor-compression refrigeration</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="jump-to-nav" class="mw-jump">
+      Jump to: 
+     <a href="#mw-head">navigation</a>, 
+     <a href="#p-search">search</a> 
+    </div> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <p><b>Vapor-compression refrigeration</b> or <b>Vapor-compression refrigeration system (VCRS)</b>,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> in which the <a href="/wiki/Refrigerant" title="Refrigerant">refrigerant</a> undergoes <a href="/wiki/Phase_transition" title="Phase transition">phase changes</a>, is one of the many <a href="/wiki/Refrigeration_cycle" title="Refrigeration cycle" class="mw-redirect">refrigeration cycles</a> and is the most widely used method for <a href="/wiki/Air_conditioning" title="Air conditioning">air-conditioning</a> of buildings and automobiles. It is also used in domestic and commercial refrigerators, large-scale warehouses for chilled or frozen storage of foods and meats, refrigerated trucks and railroad cars, and a host of other commercial and industrial services. <a href="/wiki/Oil_refinery" title="Oil refinery">Oil refineries</a>, <a href="/wiki/Petrochemical" title="Petrochemical">petrochemical</a> and <a href="/wiki/Chemical_plant" title="Chemical plant">chemical</a> processing plants, and <a href="/wiki/Natural_gas_processing" title="Natural gas processing" class="mw-redirect">natural gas processing</a> plants are among the many types of industrial plants that often utilize large vapor-compression refrigeration systems.</p> 
+     <p>Refrigeration may be defined as lowering the temperature of an enclosed space by removing heat from that space and transferring it elsewhere. A device that performs this function may also be called an <a href="/wiki/Air_conditioner" title="Air conditioner" class="mw-redirect">air conditioner</a>, <a href="/wiki/Refrigerator" title="Refrigerator">refrigerator</a>, <a href="/wiki/Air_source_heat_pump" title="Air source heat pump" class="mw-redirect">air source heat pump</a>, <a href="/wiki/Geothermal_heat_pump" title="Geothermal heat pump">geothermal heat pump</a> or chiller (<i><a href="/wiki/Heat_pump_and_refrigeration_cycle" title="Heat pump and refrigeration cycle">heat pump</a></i>).</p> 
+     <p></p> 
+     <div id="toc" class="toc"> 
+      <div id="toctitle"> 
+       <h2>Contents</h2> 
+      </div> 
+      <ul> 
+       <li class="toclevel-1 tocsection-1"><a href="#Description_of_the_vapor-compression_refrigeration_system"><span class="tocnumber">1</span> <span class="toctext">Description of the vapor-compression refrigeration system</span></a> 
+        <ul> 
+         <li class="toclevel-2 tocsection-2"><a href="#Refrigerants"><span class="tocnumber">1.1</span> <span class="toctext">Refrigerants</span></a></li> 
+        </ul> </li> 
+       <li class="toclevel-1 tocsection-3"><a href="#Thermodynamic_analysis_of_the_system"><span class="tocnumber">2</span> <span class="toctext">Thermodynamic analysis of the system</span></a></li> 
+       <li class="toclevel-1 tocsection-4"><a href="#Types_of_gas_compressors"><span class="tocnumber">3</span> <span class="toctext">Types of gas compressors</span></a> 
+        <ul> 
+         <li class="toclevel-2 tocsection-5"><a href="#Reciprocating_compressors"><span class="tocnumber">3.1</span> <span class="toctext">Reciprocating compressors</span></a></li> 
+         <li class="toclevel-2 tocsection-6"><a href="#Rotary_screw_compressors"><span class="tocnumber">3.2</span> <span class="toctext">Rotary screw compressors</span></a></li> 
+         <li class="toclevel-2 tocsection-7"><a href="#Centrifugal_compressors"><span class="tocnumber">3.3</span> <span class="toctext">Centrifugal compressors</span></a></li> 
+         <li class="toclevel-2 tocsection-8"><a href="#Scroll_compressors"><span class="tocnumber">3.4</span> <span class="toctext">Scroll compressors</span></a></li> 
+         <li class="toclevel-2 tocsection-9"><a href="#Others"><span class="tocnumber">3.5</span> <span class="toctext">Others</span></a></li> 
+        </ul> </li> 
+       <li class="toclevel-1 tocsection-10"><a href="#Compressor_Lubrication"><span class="tocnumber">4</span> <span class="toctext">Compressor Lubrication</span></a></li> 
+       <li class="toclevel-1 tocsection-11"><a href="#Control"><span class="tocnumber">5</span> <span class="toctext">Control</span></a></li> 
+       <li class="toclevel-1 tocsection-12"><a href="#Other_features_and_facts_of_interest"><span class="tocnumber">6</span> <span class="toctext">Other features and facts of interest</span></a></li> 
+       <li class="toclevel-1 tocsection-13"><a href="#Applications"><span class="tocnumber">7</span> <span class="toctext">Applications</span></a></li> 
+       <li class="toclevel-1 tocsection-14"><a href="#Economic_analysis"><span class="tocnumber">8</span> <span class="toctext">Economic analysis</span></a> 
+        <ul> 
+         <li class="toclevel-2 tocsection-15"><a href="#Advantages"><span class="tocnumber">8.1</span> <span class="toctext">Advantages</span></a></li> 
+         <li class="toclevel-2 tocsection-16"><a href="#Disadvantages"><span class="tocnumber">8.2</span> <span class="toctext">Disadvantages</span></a></li> 
+        </ul> </li> 
+       <li class="toclevel-1 tocsection-17"><a href="#History"><span class="tocnumber">9</span> <span class="toctext">History</span></a></li> 
+       <li class="toclevel-1 tocsection-18"><a href="#See_also"><span class="tocnumber">10</span> <span class="toctext">See also</span></a></li> 
+       <li class="toclevel-1 tocsection-19"><a href="#References"><span class="tocnumber">11</span> <span class="toctext">References</span></a></li> 
+       <li class="toclevel-1 tocsection-20"><a href="#Further_reading"><span class="tocnumber">12</span> <span class="toctext">Further reading</span></a></li> 
+       <li class="toclevel-1 tocsection-21"><a href="#External_links"><span class="tocnumber">13</span> <span class="toctext">External links</span></a></li> 
+      </ul> 
+     </div> 
+     <p></p> 
+     <h2><span class="mw-headline" id="Description_of_the_vapor-compression_refrigeration_system">Description of the vapor-compression refrigeration system</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vapor-compression_refrigeration&amp;action=edit&amp;section=1" title="Edit section: Description of the vapor-compression refrigeration system">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:301px;">
+       <a href="/wiki/File:Refrigeration.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/5/5d/Refrigeration.png" width="299" height="281" class="thumbimage" data-file-width="299" data-file-height="281"></a> 
+       <div class="thumbcaption">
+        Figure 1: Vapor compression refrigeration
+       </div> 
+      </div> 
+     </div> 
+     <p>The vapor-compression uses a circulating liquid <a href="/wiki/Refrigerant" title="Refrigerant">refrigerant</a> as the medium which absorbs and removes heat from the space to be cooled and subsequently rejects that heat elsewhere. Figure 1 depicts a typical, single-stage vapor-compression system. All such systems have four components: a <a href="/wiki/Gas_compressor" title="Gas compressor">compressor</a>, a <a href="/wiki/Condenser_(heat_transfer)" title="Condenser (heat transfer)">condenser</a>, a <a href="/wiki/Thermal_expansion_valve" title="Thermal expansion valve">thermal expansion valve</a> (also called a <a href="/wiki/Throttle" title="Throttle">throttle</a> valve or metering device), and an evaporator. Circulating refrigerant enters the compressor in the thermodynamic state known as a <a href="/wiki/Boiling_point#Saturation_temperature_and_pressure" title="Boiling point">saturated vapor</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> and is compressed to a higher pressure, resulting in a higher temperature as well. The hot, compressed vapor is then in the thermodynamic state known as a superheated vapor and it is at a temperature and pressure at which it can be <a href="/wiki/Condensation" title="Condensation">condensed</a> with either cooling water or cooling air. That hot vapor is routed through a condenser where it is cooled and condensed into a liquid by flowing through a coil or tubes with cool water or cool air flowing across the coil or tubes. This is where the circulating refrigerant rejects heat from the system and the rejected heat is carried away by either the water or the air (whichever may be the case).</p> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:302px;">
+       <a href="/wiki/File:Refrigeration_PV_diagram.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Refrigeration_PV_diagram.svg/300px-Refrigeration_PV_diagram.svg.png" width="300" height="250" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Refrigeration_PV_diagram.svg/450px-Refrigeration_PV_diagram.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/42/Refrigeration_PV_diagram.svg/600px-Refrigeration_PV_diagram.svg.png 2x" data-file-width="512" data-file-height="427"></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Refrigeration_PV_diagram.svg" class="internal" title="Enlarge"></a>
+        </div> A fictitious pressure-volume diagram for a typical refrigeration cycle
+       </div> 
+      </div> 
+     </div> 
+     <p>The condensed liquid refrigerant, in the thermodynamic state known as a <a href="/wiki/Boiling_point#Saturation_temperature_and_pressure" title="Boiling point">saturated liquid</a>, is next routed through an expansion valve where it undergoes an abrupt reduction in pressure. That pressure reduction results in the adiabatic <a href="/wiki/Flash_evaporation" title="Flash evaporation">flash evaporation</a> of a part of the liquid refrigerant. The auto-refrigeration effect of the adiabatic flash evaporation lowers the temperature of the liquid and vapor refrigerant mixture to where it is colder than the temperature of the enclosed space to be refrigerated.</p> 
+     <p>The cold mixture is then routed through the coil or tubes in the evaporator. A fan circulates the warm air in the enclosed space across the coil or tubes carrying the cold refrigerant liquid and vapor mixture. That warm air <a href="/wiki/Evaporates" title="Evaporates" class="mw-redirect">evaporates</a> the liquid part of the cold refrigerant mixture. At the same time, the circulating air is cooled and thus lowers the temperature of the enclosed space to the desired temperature. The evaporator is where the circulating refrigerant absorbs and removes heat which is subsequently rejected in the condenser and transferred elsewhere by the water or air used in the condenser.</p> 
+     <p>To complete the <a href="/wiki/Refrigeration_cycle" title="Refrigeration cycle" class="mw-redirect">refrigeration cycle</a>, the refrigerant vapor from the evaporator is again a saturated vapor and is routed back into the compressor.</p> 
+     <h3><span class="mw-headline" id="Refrigerants">Refrigerants</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vapor-compression_refrigeration&amp;action=edit&amp;section=2" title="Edit section: Refrigerants">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>"<a href="/wiki/Haloalkane" title="Haloalkane">Freon</a>" is a trade name for a family of <a href="/wiki/Haloalkane" title="Haloalkane">haloalkane</a> <a href="/wiki/Refrigerants" title="Refrigerants" class="mw-redirect">refrigerants</a> manufactured by <a href="/wiki/DuPont" title="DuPont">DuPont</a> and other companies. These refrigerants were commonly used due to their superior stability and safety properties: they were not flammable at room temperature and atmospheric pressure, nor obviously toxic as were the fluids they replaced, such as <a href="/wiki/Sulfur_dioxide" title="Sulfur dioxide">sulfur dioxide</a>. Haloalkanes are also an order(s) of magnitude more expensive than petroleum derived flammable alkanes of similar or better cooling performance. Unfortunately, chlorine- and fluorine-bearing refrigerants reach the upper atmosphere when they escape. In the <a href="/wiki/Stratosphere" title="Stratosphere">stratosphere</a>, CFCs break up due to <a href="/wiki/UV" title="UV" class="mw-redirect">UV</a> radiation, releasing their chlorine free radicals. These chlorine free radicals act as <a href="/wiki/Catalyst" title="Catalyst" class="mw-redirect">catalysts</a> in the breakdown of ozone through chain reactions. One CFC molecule can cause thousands of ozone molecules to break down. This causes severe damage to the <a href="/wiki/Ozone_layer" title="Ozone layer">ozone layer</a> that shields the Earth's surface from the Sun's strong UV radiation, and has been shown to lead to increased rates of skin cancer. The chlorine will remain active as a catalyst until and unless it binds with another particle, forming a stable molecule. CFC refrigerants in common but receding usage include R-11 and R-12. Newer refrigerants with reduced <a href="/wiki/Ozone_depletion" title="Ozone depletion">ozone depletion</a> effect such as <a href="/wiki/HCFC" title="HCFC" class="mw-redirect">HCFCs</a> (<a href="/wiki/Chlorodifluoromethane" title="Chlorodifluoromethane">R-22</a>, used in most homes today) and <a href="/wiki/Hydrofluorocarbon" title="Hydrofluorocarbon" class="mw-redirect">HFCs</a> (<a href="/wiki/R-134a" title="R-134a" class="mw-redirect">R-134a</a>, used in most cars) have replaced most CFC use. HCFCs in turn are being phased out under the <a href="/wiki/Montreal_Protocol" title="Montreal Protocol">Montreal Protocol</a> and replaced by hydrofluorocarbons (HFCs), such as <a href="/wiki/R-410A" title="R-410A">R-410A</a>, which lack <a href="/wiki/Chlorine" title="Chlorine">chlorine</a>. However, CFCs, HCFCs, and HFCs all have large <a href="/wiki/Global_warming_potential" title="Global warming potential">global warming potential</a>.</p> 
+     <p>Newer refrigerants are currently the subject of research, such as <a href="/wiki/Supercritical_fluid" title="Supercritical fluid">supercritical</a> <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a>, known as <a href="/wiki/R-744" title="R-744" class="mw-redirect">R-744</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> These have similar efficiencies<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (September 2009)">citation needed</span></a></i>]</sup> compared to existing CFC and HFC based compounds, and have many orders of magnitude lower global warming potential.</p> 
+     <h2><span class="mw-headline" id="Thermodynamic_analysis_of_the_system">Thermodynamic analysis of the system</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vapor-compression_refrigeration&amp;action=edit&amp;section=3" title="Edit section: Thermodynamic analysis of the system">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:389px;">
+       <a href="/wiki/File:RefrigerationTS.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/f/f7/RefrigerationTS.png" width="387" height="319" class="thumbimage" data-file-width="387" data-file-height="319"></a> 
+       <div class="thumbcaption">
+        Figure 2: Temperature–Entropy diagram
+       </div> 
+      </div> 
+     </div> 
+     <p>The <a href="/wiki/Thermodynamics" title="Thermodynamics">thermodynamics</a> of the vapor compression cycle can be analyzed on a temperature versus <a href="/wiki/Entropy" title="Entropy">entropy</a> diagram as depicted in Figure 2. At point 1 in the diagram, the circulating refrigerant enters the <a href="/wiki/Gas_compressor" title="Gas compressor">compressor</a> as a saturated vapor. From point 1 to point 2, the vapor is <a href="/wiki/Isentropic_process" title="Isentropic process">isentropically</a> compressed (i.e., compressed at constant entropy) and exits the <a href="/wiki/Gas_compressor" title="Gas compressor">compressor</a> as a <a href="/wiki/Superheating" title="Superheating">superheated vapor</a>.</p> 
+     <p>From point 2 to point 3, the vapor travels through part of the condenser which removes the superheat by cooling the vapor. Between point 3 and point 4, the vapor travels through the remainder of the condenser and is condensed into a saturated liquid. The condensation process occurs at essentially constant pressure.</p> 
+     <p>Between points 4 and 5, the saturated liquid refrigerant passes through the expansion valve and undergoes an abrupt decrease of pressure. That process results in the adiabatic flash evaporation and auto-refrigeration of a portion of the liquid (typically, less than half of the liquid flashes). The adiabatic flash evaporation process is <a href="/wiki/Isenthalpic" title="Isenthalpic" class="mw-redirect">isenthalpic</a> (i.e., occurs at constant <a href="/wiki/Enthalpy" title="Enthalpy">enthalpy</a>).</p> 
+     <p>Between points 5 and 1, the cold and partially vaporized refrigerant travels through the coil or tubes in the evaporator where it is totally vaporized by the warm air (from the space being refrigerated) that a fan circulates across the coil or tubes in the evaporator. The evaporator operates at essentially constant pressure and boils off all available liquid there after adding 4-8 deg kelvin of superheat to the refrigerant as a safeguard for the compressor as it cannot pump liquid. The resulting refrigerant vapor returns to the <a href="/wiki/Gas_compressor" title="Gas compressor">compressor</a> inlet at point 1 to complete the thermodynamic cycle.</p> 
+     <p>It should be noted that the above discussion is based on the ideal vapor-compression refrigeration cycle which does not take into account real world items like frictional pressure drop in the system, slight internal irreversibility during the compression of the refrigerant vapor, or non-ideal gas behavior (if any).</p> 
+     <h2><span class="mw-headline" id="Types_of_gas_compressors">Types of gas compressors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vapor-compression_refrigeration&amp;action=edit&amp;section=4" title="Edit section: Types of gas compressors">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <div role="note" class="hatnote relarticle mainarticle">
+      Main article: 
+      <a href="/wiki/Gas_compressor" title="Gas compressor">Gas compressor</a>
+     </div> 
+     <p>The most common compressors used in chillers are <a href="/wiki/Reciprocating_compressor" title="Reciprocating compressor">reciprocating</a>, <a href="/wiki/Rotary_screw_compressor" title="Rotary screw compressor" class="mw-redirect">rotary screw</a>, <a href="/wiki/Centrifugal_compressor" title="Centrifugal compressor">centrifugal</a>, and <a href="/wiki/Scroll_compressor" title="Scroll compressor">scroll compressors</a>. Each application prefers one or another due to size, noise, efficiency and pressure issues. Compressors are often described as being either open, <a href="/wiki/Hermetic_seal" title="Hermetic seal">hermetic</a>, or semi-hermetic, to describe how the compressor and/or motor is situated in relation to the refrigerant being compressed. Variations of motor/compressor types can lead to the following configurations:</p> 
+     <ul> 
+      <li>Hermetic motor, hermetic compressor</li> 
+      <li>Hermetic motor, semi-hermetic compressor</li> 
+      <li>Open motor (belt driven or close coupled), hermetic compressor</li> 
+      <li>Open motor (belt driven or close coupled), semi-hermetic compressor</li> 
+     </ul> 
+     <p>Typically in hermetic, and most semi-hermetic compressors (sometimes known as accessible hermetic compressors), the compressor and motor driving the compressor are integrated, and operate within the refrigerant system. The motor is hermetic and is designed to operate, and be cooled by, the refrigerant being compressed. The obvious disadvantage of hermetic motor compressors is that the motor drive cannot be maintained in situ, and the entire compressor must be removed if a motor fails. A further disadvantage is that burnt out windings can contaminate whole refrigeration systems requiring the system to be entirely pumped down and the refrigerant replaced.</p> 
+     <p>An open compressor has a motor drive which is outside of the refrigeration system, and provides drive to the compressor by means of an input shaft with suitable gland seals. Open compressor motors are typically air-cooled and can be fairly easily exchanged or repaired without degassing of the refrigeration system. The disadvantage of this type of compressor is a failure of the shaft seals, leading to loss of refrigerant.</p> 
+     <p>Open motor compressors are generally easier to cool (using ambient air) and therefore tend to be simpler in design and more reliable, especially in high pressure applications where compressed gas temperatures can be very high. However the use of liquid injection for additional cooling can generally overcome this issue in most hermetic motor compressors.</p> 
+     <h3><span class="mw-headline" id="Reciprocating_compressors">Reciprocating compressors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vapor-compression_refrigeration&amp;action=edit&amp;section=5" title="Edit section: Reciprocating compressors">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:112px;">
+       <a href="/wiki/File:Kompresors.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Kompresors.svg/110px-Kompresors.svg.png" width="110" height="70" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Kompresors.svg/165px-Kompresors.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/61/Kompresors.svg/220px-Kompresors.svg.png 2x" data-file-width="744" data-file-height="475"></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Kompresors.svg" class="internal" title="Enlarge"></a>
+        </div> Reciprocating compressor
+       </div> 
+      </div> 
+     </div> 
+     <div role="note" class="hatnote relarticle mainarticle">
+      Main article: 
+      <a href="/wiki/Reciprocating_compressor" title="Reciprocating compressor">Reciprocating compressor</a>
+     </div> 
+     <p>Reciprocating compressors are piston-style, positive displacement compressors.</p> 
+     <h3><span class="mw-headline" id="Rotary_screw_compressors">Rotary screw compressors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vapor-compression_refrigeration&amp;action=edit&amp;section=6" title="Edit section: Rotary screw compressors">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:112px;">
+       <a href="/wiki/File:Lysholm_screw_rotors.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Lysholm_screw_rotors.jpg/110px-Lysholm_screw_rotors.jpg" width="110" height="108" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Lysholm_screw_rotors.jpg/165px-Lysholm_screw_rotors.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Lysholm_screw_rotors.jpg/220px-Lysholm_screw_rotors.jpg 2x" data-file-width="506" data-file-height="496"></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Lysholm_screw_rotors.jpg" class="internal" title="Enlarge"></a>
+        </div> Lysholm
+        <br> screw compressor
+       </div> 
+      </div> 
+     </div> 
+     <div role="note" class="hatnote relarticle mainarticle">
+      Main article: 
+      <a href="/wiki/Rotary_screw_compressor" title="Rotary screw compressor" class="mw-redirect">Rotary screw compressor</a>
+     </div> 
+     <p>Rotary screw compressors are also positive displacement compressors. Two meshing screw-rotors rotate in opposite directions, trapping refrigerant vapor, and reducing the volume of the refrigerant along the rotors to the discharge point.</p> 
+     <h3><span class="mw-headline" id="Centrifugal_compressors">Centrifugal compressors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vapor-compression_refrigeration&amp;action=edit&amp;section=7" title="Edit section: Centrifugal compressors">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:112px;">
+       <a href="/wiki/File:CentrifugalFan.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/CentrifugalFan.png/110px-CentrifugalFan.png" width="110" height="71" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/CentrifugalFan.png/165px-CentrifugalFan.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/95/CentrifugalFan.png/220px-CentrifugalFan.png 2x" data-file-width="290" data-file-height="188"></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:CentrifugalFan.png" class="internal" title="Enlarge"></a>
+        </div> Centrifugal principle
+       </div> 
+      </div> 
+     </div> 
+     <div role="note" class="hatnote relarticle mainarticle">
+      Main article: 
+      <a href="/wiki/Centrifugal_compressor" title="Centrifugal compressor">Centrifugal compressor</a>
+     </div> 
+     <p>Centrifugal compressors are dynamic compressors. These compressors raise the pressure of the refrigerant by imparting velocity or dynamic energy, using a rotating impeller, and converting it to pressure energy.</p> 
+     <h3><span class="mw-headline" id="Scroll_compressors">Scroll compressors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vapor-compression_refrigeration&amp;action=edit&amp;section=8" title="Edit section: Scroll compressors">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:222px;">
+       <a href="/wiki/File:Scroll_scrollcrompressor.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Scroll_scrollcrompressor.png/220px-Scroll_scrollcrompressor.png" width="220" height="56" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Scroll_scrollcrompressor.png/330px-Scroll_scrollcrompressor.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Scroll_scrollcrompressor.png/440px-Scroll_scrollcrompressor.png 2x" data-file-width="958" data-file-height="245"></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Scroll_scrollcrompressor.png" class="internal" title="Enlarge"></a>
+        </div> Figure 4: Operating principle of a Scroll Compressor
+       </div> 
+      </div> 
+     </div> 
+     <div role="note" class="hatnote relarticle mainarticle">
+      Main article: 
+      <a href="/wiki/Scroll_compressor" title="Scroll compressor">Scroll compressor</a>
+     </div> 
+     <p>Scroll compressors are also positive displacement compressors. The refrigerant is compressed when one spiral orbits around a second stationary spiral, creating smaller and smaller pockets and higher pressures. By the time the refrigerant is discharged, it is fully pressurized.</p> 
+     <h3><span class="mw-headline" id="Others">Others</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vapor-compression_refrigeration&amp;action=edit&amp;section=9" title="Edit section: Others">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <div role="note" class="hatnote relarticle mainarticle">
+      Main articles: 
+      <a href="/wiki/Diaphragm_compressor" title="Diaphragm compressor">Diaphragm compressor</a>, 
+      <a href="/wiki/Axial-flow_compressor" title="Axial-flow compressor" class="mw-redirect">Axial-flow compressor</a>, 
+      <a href="/wiki/Diagonal_or_mixed-flow_compressor" title="Diagonal or mixed-flow compressor" class="mw-redirect">Diagonal or mixed-flow compressor</a>, 
+      <a href="/wiki/Liquid_ring_compressor" title="Liquid ring compressor" class="mw-redirect">Liquid ring compressor</a> and 
+      <a href="/wiki/Roots_blower" title="Roots blower" class="mw-redirect">Roots blower</a>
+     </div> 
+     <ul class="gallery mw-gallery-traditional"> 
+      <li class="gallerybox" style="width: 95px"> 
+       <div style="width: 95px"> 
+        <div class="thumb" style="width: 90px;"> 
+         <div style="margin:56.5px auto;">
+          <a href="/wiki/File:Diaphram_pump.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Diaphram_pump.svg/60px-Diaphram_pump.svg.png" width="60" height="37" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Diaphram_pump.svg/90px-Diaphram_pump.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Diaphram_pump.svg/120px-Diaphram_pump.svg.png 2x" data-file-width="220" data-file-height="136"></a>
+         </div> 
+        </div> 
+        <div class="gallerytext"> 
+         <p>Diaphragm pump</p> 
+        </div> 
+       </div> </li> 
+      <li class="gallerybox" style="width: 95px"> 
+       <div style="width: 95px"> 
+        <div class="thumb" style="width: 90px;"> 
+         <div style="margin:41.5px auto;">
+          <a href="/wiki/File:TF30_Side_Cut_Compressor_HP.jpeg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/TF30_Side_Cut_Compressor_HP.jpeg/60px-TF30_Side_Cut_Compressor_HP.jpeg" width="60" height="67" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/TF30_Side_Cut_Compressor_HP.jpeg/90px-TF30_Side_Cut_Compressor_HP.jpeg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/TF30_Side_Cut_Compressor_HP.jpeg/120px-TF30_Side_Cut_Compressor_HP.jpeg 2x" data-file-width="1352" data-file-height="1502"></a>
+         </div> 
+        </div> 
+        <div class="gallerytext"> 
+         <p>Axial-flow compressor</p> 
+        </div> 
+       </div> </li> 
+      <li class="gallerybox" style="width: 95px"> 
+       <div style="width: 95px"> 
+        <div class="thumb" style="width: 90px;"> 
+         <div style="margin:52.5px auto;">
+          <a href="/wiki/File:Eclipse-N503EA-060825-33comp-12.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Eclipse-N503EA-060825-33comp-12.jpg/60px-Eclipse-N503EA-060825-33comp-12.jpg" width="60" height="45" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Eclipse-N503EA-060825-33comp-12.jpg/90px-Eclipse-N503EA-060825-33comp-12.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Eclipse-N503EA-060825-33comp-12.jpg/120px-Eclipse-N503EA-060825-33comp-12.jpg 2x" data-file-width="1200" data-file-height="900"></a>
+         </div> 
+        </div> 
+        <div class="gallerytext"> 
+         <p>mixed-flow compressor</p> 
+        </div> 
+       </div> </li> 
+      <li class="gallerybox" style="width: 95px"> 
+       <div style="width: 95px"> 
+        <div class="thumb" style="width: 90px;"> 
+         <div style="margin:46.5px auto;">
+          <a href="/wiki/File:Liquid_ring.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Liquid_ring.png/60px-Liquid_ring.png" width="60" height="57" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Liquid_ring.png/90px-Liquid_ring.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Liquid_ring.png/120px-Liquid_ring.png 2x" data-file-width="472" data-file-height="445"></a>
+         </div> 
+        </div> 
+        <div class="gallerytext"> 
+         <p>Liquid ring</p> 
+        </div> 
+       </div> </li> 
+      <li class="gallerybox" style="width: 95px"> 
+       <div style="width: 95px"> 
+        <div class="thumb" style="width: 90px;"> 
+         <div style="margin:38px auto;">
+          <a href="/wiki/File:Roots_blower_-_2_lobes.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Roots_blower_-_2_lobes.svg/60px-Roots_blower_-_2_lobes.svg.png" width="60" height="74" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Roots_blower_-_2_lobes.svg/90px-Roots_blower_-_2_lobes.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Roots_blower_-_2_lobes.svg/120px-Roots_blower_-_2_lobes.svg.png 2x" data-file-width="250" data-file-height="310"></a>
+         </div> 
+        </div> 
+        <div class="gallerytext"> 
+         <p>Roots blower</p> 
+        </div> 
+       </div> </li> 
+     </ul> 
+     <h2><span class="mw-headline" id="Compressor_Lubrication">Compressor Lubrication</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vapor-compression_refrigeration&amp;action=edit&amp;section=10" title="Edit section: Compressor Lubrication">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>In order to lubricate the moving parts of the compressor,oil is added to the refrigerant during installation or commissioning. The type of oil may be mineral or synthetic to suit the compressor type, and also chosen so as not to react with the refrigerant type and other components in the system. In small refrigeration systems the oil is allowed to circulate throughout the whole circuit, but care must be taken to design the pipework and components such that oil can drain back under gravity to the compressor. In larger more distributed systems, especially in retail refrigeration, the oil is normally captured at an oil separator immediately after the compressor, and is in turn re-delivered, by an oil level management system, back to the compressor(s). Oil separators are not 100% efficient so system pipework must still be designed so that oil can drain back by gravity to the oil separator or compressor.</p> 
+     <p>Some newer compressor technologies use <a href="/wiki/Magnetic_bearing" title="Magnetic bearing">magnetic bearings</a> and require no lubrication, for example the <a href="/wiki/Danfoss" title="Danfoss">Danfoss</a> Turbocor range of centrifugal compressors. Avoiding the need for oil lubrication and the design requirements and ancillaries associated with it, simplifies the design of the refrigerant system and reduces maintenance requirements.</p> 
+     <h2><span class="mw-headline" id="Control">Control</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vapor-compression_refrigeration&amp;action=edit&amp;section=11" title="Edit section: Control">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>In simple commercial refrigeration systems the compressor is normally controlled by a simple pressure switch, with the expansion performed by a capillary tube or simple thermostatic expansion valve. In more complex systems, including multiple compressor installations, the use of electronic controls is typical, with adjustable set points to control the pressure at which compressors cut in and cut out, and temperature control by the use of electronic expansion valves.</p> 
+     <p>In addition to the operational controls, separate high pressure and low pressure switches are normally utilised to provide secondary protection to the compressors and other components of the system from operating outside of safe parameters.</p> 
+     <p>In more advanced electronic control systems the use of floating head pressure, and proactive suction pressure, control routines allow the compressor operation to be adjusted to accurately meet differing cooling demands whilst reducing energy consumption.</p> 
+     <h2><span class="mw-headline" id="Other_features_and_facts_of_interest">Other features and facts of interest</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vapor-compression_refrigeration&amp;action=edit&amp;section=12" title="Edit section: Other features and facts of interest">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>The schematic diagram of a single-stage refrigeration system shown in Figure 1 does not include other equipment items that would be provided in a large commercial or industrial vapor compression refrigeration system, such as:</p> 
+     <ul> 
+      <li>A horizontal or vertical <a href="/wiki/Pressure_vessel" title="Pressure vessel">pressure vessel</a>, equipped internally with a <a href="/wiki/Demister_(vapor)" title="Demister (vapor)">demister</a>, between the evaporator and the compressor inlet to capture and remove any residual, entrained liquid in the refrigerant vapor because liquid may damage the compressor. Such <a href="/wiki/Vapor-liquid_separator" title="Vapor-liquid separator" class="mw-redirect">vapor-liquid separators</a> are most often referred to as "suction line accumulators". (In other industrial processes, they are called "compressor suction drums" or "knockout pots".)</li> 
+      <li>Large commercial or industrial refrigeration systems may have multiple expansion valves and multiple evaporators in order to refrigerate multiple enclosed spaces or rooms. In such systems, the condensed liquid refrigerant may be routed into a pressure vessel, called a receiver, from which liquid refrigerant is withdrawn and routed through multiple pipelines to the multiple expansion valves and evaporators.</li> 
+      <li>Filter Dryers, installed before the compressors to catch any moisture or contaminants in the system and thus protect the compressors from internal damage</li> 
+      <li>Some refrigeration units may have multiple stages which requires the use of multiple compressors in various arrangements.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></li> 
+     </ul> 
+     <p>The <a href="/wiki/Cooling_capacity" title="Cooling capacity">cooling capacity</a> of refrigeration systems is often defined in units called "tons of refrigeration". The most common definition of that unit is: 1 <a href="/wiki/Ton" title="Ton">ton</a> of refrigeration is the rate of heat removal required to freeze a <a href="/wiki/Short_ton" title="Short ton">short ton</a> (i.e., <span class="nowrap">2000 <a href="/wiki/Pound_(mass)" title="Pound (mass)">pounds</a></span>, <span class="nowrap">907.2 kg</span>) of water at <span class="nowrap">32 <a href="/wiki/Fahrenheit" title="Fahrenheit">°F</a></span> (<span class="nowrap">0 ⁰C</span>) in <span class="nowrap">24 hours</span>. Based on the <a href="/wiki/Heat_of_fusion" title="Heat of fusion" class="mw-redirect">heat of fusion</a> for water being 144 <a href="/wiki/Btu" title="Btu" class="mw-redirect">Btu</a> per pound, 1 ton of refrigeration = 12,000 Btu/h = 12,660 kJ/h = <span class="nowrap">3.517 kW</span>. Most residential air conditioning units range in capacity from about 1 to 5 tons (<span class="nowrap">3.5 - 18 kW</span>) of refrigeration.</p> 
+     <p>A much less common definition is: 1 <a href="/wiki/Tonne" title="Tonne">tonne</a> of refrigeration is the rate of heat removal required to freeze a <a href="/wiki/Tonne" title="Tonne">metric ton</a> (i.e., <span class="nowrap">1000 kg</span>) of water at <span class="nowrap">0 <a href="/wiki/Celsius" title="Celsius">°C</a></span> in <span class="nowrap">24 hours</span>. Based on the <a href="/wiki/Heat_of_fusion" title="Heat of fusion" class="mw-redirect">heat of fusion</a> being <span class="nowrap">334.9 kJ/kg</span>, 1 tonne of refrigeration = 13,954 kJ/h = <span class="nowrap">3.876 kW</span>. As can be seen, the definition of 1 tonne of refrigeration in metric units is 10 percent larger than 1 ton of refrigeration using old imperial units.</p> 
+     <h2><span class="mw-headline" id="Applications">Applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vapor-compression_refrigeration&amp;action=edit&amp;section=13" title="Edit section: Applications">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <table class="wikitable"> 
+      <tbody>
+       <tr> 
+        <th>Refrigeration application</th> 
+        <th>Short descriptions</th> 
+        <th>Typical refrigerants used</th> 
+       </tr> 
+       <tr> 
+        <td>Domestic refrigeration</td> 
+        <td>Appliances used for keeping food in dwelling units</td> 
+        <td><a href="/wiki/List_of_refrigerants" title="List of refrigerants">R-600a, R-134a, R-22</a>,</td> 
+       </tr> 
+       <tr> 
+        <td>Commercial refrigeration</td> 
+        <td>Holding and displaying frozen and fresh food in retail outlets</td> 
+        <td><a href="/wiki/List_of_refrigerants" title="List of refrigerants">R-134a, R-404A, R-507</a></td> 
+       </tr> 
+       <tr> 
+        <td>Food processing and cold storage</td> 
+        <td>Equipment to preserve, process and store food from its source to the wholesale distribution point</td> 
+        <td><a href="/wiki/List_of_refrigerants" title="List of refrigerants">R-123, R-134a, R-407C, R-410A, R-507</a></td> 
+       </tr> 
+       <tr> 
+        <td>Industrial refrigeration</td> 
+        <td>Large equipment, typically 25&nbsp;kW to 30 MW, used for chemical processing, cold storage, food processing, building and district heating and cooling</td> 
+        <td><a href="/wiki/List_of_refrigerants" title="List of refrigerants">R-123, R-134a, R-404A, R-407C, R-507, R-717</a></td> 
+       </tr> 
+       <tr> 
+        <td>Transport refrigeration</td> 
+        <td>Equipment to preserve and store goods, primarily foodstuffs, during transport by road, rail, air and sea</td> 
+        <td><a href="/wiki/List_of_refrigerants" title="List of refrigerants">R-134a, R-407C, R-410A</a></td> 
+       </tr> 
+       <tr> 
+        <td>Electronic cooling</td> 
+        <td>Low-temperature cooling of CMOS circuitry and other components in large computers and servers<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></td> 
+        <td><a href="/wiki/List_of_refrigerants" title="List of refrigerants">R-134a, R-404A, R-507</a></td> 
+       </tr> 
+       <tr> 
+        <td>Medical refrigeration</td> 
+        <td>&nbsp;</td> 
+        <td><a href="/wiki/List_of_refrigerants" title="List of refrigerants">R-134a, R-404A, R-507</a></td> 
+       </tr> 
+       <tr> 
+        <td>Cryogenic refrigeration</td> 
+        <td>&nbsp;</td> 
+        <td><a href="/wiki/Ethylene" title="Ethylene">Ethylene</a>, <a href="/wiki/Propane" title="Propane">Propane</a>, <a href="/wiki/Nitrogen" title="Nitrogen">Nitrogen</a>, <a href="/wiki/Helium" title="Helium">Helium</a></td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:222px;">
+       <a href="/wiki/File:Chiller.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Chiller.jpg/220px-Chiller.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Chiller.jpg/330px-Chiller.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Chiller.jpg/440px-Chiller.jpg 2x" data-file-width="1352" data-file-height="1014"></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Chiller.jpg" class="internal" title="Enlarge"></a>
+        </div> Figure 5: Commercial water-cooled liquid chiller installation for building air conditioning
+       </div> 
+      </div> 
+     </div> 
+     <h2><span class="mw-headline" id="Economic_analysis">Economic analysis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vapor-compression_refrigeration&amp;action=edit&amp;section=14" title="Edit section: Economic analysis">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <h3><span class="mw-headline" id="Advantages">Advantages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vapor-compression_refrigeration&amp;action=edit&amp;section=15" title="Edit section: Advantages">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <ul> 
+      <li>Very mature technology.</li> 
+      <li>Relatively inexpensive.</li> 
+      <li>Can be driven directly using mechanical energy (water, car/truck motor) or with electrical energy.</li> 
+      <li>Efficient up to 60% of <a href="/wiki/Cycle_efficiency" title="Cycle efficiency" class="mw-redirect">Carnot's</a> theoretical limit (as evaluated in <a href="/wiki/ASHRAE" title="ASHRAE">ASHRAE</a> testing conditions: evaporation temperature of -23.3&nbsp;°C, condensing temperature of 54.4&nbsp;°C, and ambient temperature of 32&nbsp;°C)<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2013)">citation needed</span></a></i>]</sup> based on some of the best commercially available compressors, as produced by manufacturers <a href="/wiki/Danfoss" title="Danfoss">Danfoss</a>, <a href="/wiki/Panasonic_Electric_Works" title="Panasonic Electric Works">Matsushita</a>, <a rel="nofollow" class="external text" href="http://www.copeland-corp.com/">Copeland</a>, <a href="/wiki/Embraco" title="Embraco">Embraco</a>, <a rel="nofollow" class="external text" href="http://www.bristolcompressors.com/">Bristol</a> and <a href="/wiki/Tecumseh_Products" title="Tecumseh Products">Tecumseh</a>. However, many refrigeration systems use compressors that have lower efficiencies of between 40-55%, since the 60% efficient ones cost almost twice as much as the lower efficiency ones.</li> 
+     </ul> 
+     <h3><span class="mw-headline" id="Disadvantages">Disadvantages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vapor-compression_refrigeration&amp;action=edit&amp;section=16" title="Edit section: Disadvantages">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>Many systems still use <a href="/wiki/Hydrochlorofluorocarbon" title="Hydrochlorofluorocarbon" class="mw-redirect">HCFC</a> <a href="/wiki/Refrigerant" title="Refrigerant">refrigerants</a>, which contribute to <a href="/wiki/Ozone_depletion" title="Ozone depletion">depletion of the Earth's ozone layer</a>. In countries adhering to the <a href="/wiki/Montreal_Protocol" title="Montreal Protocol">Montreal Protocol</a>, HCFCs are due to be phased out and are largely being replaced by ozone-friendly <a href="/wiki/Hydrofluorocarbons" title="Hydrofluorocarbons" class="mw-redirect">HFCs</a>. However, systems using HFC refrigerants tend to be slightly less efficient than systems using HCFCs. HFCs also have an extremely large <a href="/wiki/Global_warming_potential" title="Global warming potential">global warming potential</a>, because they remain in the atmosphere for many years and trap heat more effectively than <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a>.</p> 
+     <p>With the ultimate phasing out of HCFCs already a certainty, alternative non-<a href="/wiki/Haloalkane" title="Haloalkane">haloalkane</a> refrigerants are gaining popularity. In particular, once-abandoned refrigerants such as <a href="/wiki/Hydrocarbons" title="Hydrocarbons" class="mw-redirect">hydrocarbons</a> (<a href="/wiki/Butane" title="Butane">butane</a> for example) and CO<sub>2</sub> are coming back into more extensive use. For example, <a href="/wiki/Coca-Cola" title="Coca-Cola">Coca-Cola</a>'s vending machines at the <a href="/wiki/2006_FIFA_World_Cup" title="2006 FIFA World Cup">2006 FIFA World Cup</a> in Germany used refrigeration utilizing CO<sub>2</sub>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> <a href="/wiki/Ammonia" title="Ammonia">Ammonia</a> (NH<sub>3</sub>) is one of the oldest refrigerants, with excellent performance and essentially no pollution problems. However, ammonia has two disadvantages: it is toxic and it is incompatible with copper tubing.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p> 
+     <h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vapor-compression_refrigeration&amp;action=edit&amp;section=17" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:182px;">
+       <a href="/wiki/File:Gorrie_Ice_Machine.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Gorrie_Ice_Machine.png/180px-Gorrie_Ice_Machine.png" width="180" height="188" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Gorrie_Ice_Machine.png/270px-Gorrie_Ice_Machine.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Gorrie_Ice_Machine.png/360px-Gorrie_Ice_Machine.png 2x" data-file-width="400" data-file-height="417"></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Gorrie_Ice_Machine.png" class="internal" title="Enlarge"></a>
+        </div> Schematic of Dr. John Gorrie's 1841 mechanical ice machine.
+       </div> 
+      </div> 
+     </div> 
+     <p>In 1805, the American inventor <a href="/wiki/Oliver_Evans" title="Oliver Evans">Oliver Evans</a> described a closed vapor-compression refrigeration cycle for the production of ice by ether under vacuum. Heat would be removed from the environment by recycling vaporized refrigerant, where it would move through a <a href="/wiki/Gas_compressor" title="Gas compressor">compressor</a> and <a href="/wiki/Heating_coil" title="Heating coil" class="mw-redirect">condenser</a> and would eventually revert to a liquid form in order to repeat the refrigeration process over again. However, no such refrigeration unit was built by Evans.<sup id="cite_ref-Hempstead_8-0" class="reference"><a href="#cite_note-Hempstead-8">[8]</a></sup></p> 
+     <p>In 1834, an American expatriate to Great Britain, <a href="/wiki/Jacob_Perkins" title="Jacob Perkins">Jacob Perkins</a>, built the first working vapor-compression refrigeration system in the world.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> It was a closed-cycle that could operate continuously, as he described in his patent:</p> 
+     <dl> 
+      <dd>
+       I am enabled to use volatile fluids for the purpose of producing the cooling or freezing of fluids, and yet at the same time constantly condensing such volatile fluids, and bringing them again into operation without waste.
+      </dd> 
+     </dl> 
+     <p>His prototype system worked although it did not succeed commercially.<sup id="cite_ref-burstall_10-0" class="reference"><a href="#cite_note-burstall-10">[10]</a></sup></p> 
+     <p>A similar attempt was made in 1842, by American physician, <a href="/wiki/John_Gorrie" title="John Gorrie">John Gorrie</a>,<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> who built a working prototype, but it was a commercial failure. American engineer <a href="/wiki/Alexander_Twining" title="Alexander Twining" class="mw-redirect">Alexander Twining</a> took out a British patent in 1850 for a vapour compression system that used ether.</p> 
+     <div class="thumb tleft"> 
+      <div class="thumbinner" style="width:222px;">
+       <a href="/wiki/File:AppareilCarr%C3%A9.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AppareilCarr%C3%A9.jpg/220px-AppareilCarr%C3%A9.jpg" width="220" height="131" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AppareilCarr%C3%A9.jpg/330px-AppareilCarr%C3%A9.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AppareilCarr%C3%A9.jpg/440px-AppareilCarr%C3%A9.jpg 2x" data-file-width="1096" data-file-height="654"></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:AppareilCarr%C3%A9.jpg" class="internal" title="Enlarge"></a>
+        </div> 
+        <a href="/wiki/Ferdinand_Carr%C3%A9" title="Ferdinand Carré">Ferdinand Carré</a>'s ice-making device.
+       </div> 
+      </div> 
+     </div> 
+     <p>The first practical vapor compression refrigeration system was built by <a href="/wiki/James_Harrison_(engineer)" title="James Harrison (engineer)">James Harrison</a>, a British journalist who had emigrated to <a href="/wiki/Australia" title="Australia">Australia</a>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> His 1856 patent was for a vapour compression system using ether, alcohol or ammonia. He built a mechanical ice-making machine in 1851 on the banks of the Barwon River at Rocky Point in <a href="/wiki/Geelong" title="Geelong">Geelong</a>, <a href="/wiki/Victoria_(Australia)" title="Victoria (Australia)">Victoria</a>, and his first commercial ice-making machine followed in 1854. Harrison also introduced commercial vapour-compression refrigeration to breweries and meat packing houses, and by 1861, a dozen of his systems were in operation in Australia and England.</p> 
+     <p>The first <a href="/wiki/Absorption_refrigeration" title="Absorption refrigeration" class="mw-redirect">gas absorption</a> refrigeration system using gaseous ammonia dissolved in water (referred to as "aqua ammonia") was developed by <a href="/wiki/Ferdinand_Carr%C3%A9" title="Ferdinand Carré">Ferdinand Carré</a> of France in 1859 and patented in 1860. <a href="/wiki/Carl_von_Linde" title="Carl von Linde">Carl von Linde</a>, an engineering professor at the Technological University Munich in Germany, patented an improved method of liquefying gases in 1876. His new process made possible using gases such as <a href="/wiki/Ammonia" title="Ammonia">ammonia</a>, <a href="/wiki/Sulfur_dioxide" title="Sulfur dioxide">sulfur dioxide</a> (SO2) and <a href="/wiki/Methyl_chloride" title="Methyl chloride" class="mw-redirect">methyl chloride</a> (CH<sub>3</sub>Cl) as refrigerants and they were widely used for that purpose until the late 1920s.</p> 
+     <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vapor-compression_refrigeration&amp;action=edit&amp;section=18" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <ul> 
+      <li><a href="/wiki/Absorption_refrigeration" title="Absorption refrigeration" class="mw-redirect">Absorption refrigeration</a> or <a href="/wiki/Einstein_refrigerator" title="Einstein refrigerator">Einstein refrigerator</a> or <a href="/wiki/Gas_absorption_refrigerator" title="Gas absorption refrigerator" class="mw-redirect">Gas absorption refrigerator</a></li> 
+      <li><a href="/wiki/Air_conditioning" title="Air conditioning">Air conditioning</a></li> 
+      <li><a href="/wiki/Flash_evaporation" title="Flash evaporation">Flash evaporation</a></li> 
+      <li><a href="/wiki/Heat_pump" title="Heat pump">Heat pump</a></li> 
+      <li><a href="/wiki/HVAC" title="HVAC">HVAC</a> - heating, ventilation, and air conditioning</li> 
+      <li><a href="/wiki/Magnetic_refrigeration" title="Magnetic refrigeration">Magnetic refrigeration</a></li> 
+      <li><a href="/wiki/Refrigeration" title="Refrigeration">Refrigeration</a></li> 
+      <li><a href="/wiki/Refrigeration_cycle" title="Refrigeration cycle" class="mw-redirect">Refrigeration cycle</a></li> 
+      <li><a href="/wiki/Phase_diagram" title="Phase diagram">Phase diagram</a> - diagram over solid-liquid-gas vs pressure-temperature</li> 
+     </ul> 
+     <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vapor-compression_refrigeration&amp;action=edit&amp;section=19" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <div class="reflist" style="list-style-type: decimal;"> 
+      <ol class="references"> 
+       <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">Y.V.C. Rao (2003). <a rel="nofollow" class="external text" href="http://universitiespress.com/display.asp?categoryID=0&amp;isbn=978-81-7371-461-0&amp;detail=2"><i>An Introduction to Thermodynamics</i></a> (2nd ed.). Universities Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-81-7371-461-0" title="Special:BookSources/978-81-7371-461-0">978-81-7371-461-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVapor-compression+refrigeration&amp;rft.au=Y.V.C.+Rao&amp;rft.btitle=An+Introduction+to+Thermodynamics&amp;rft.date=2003&amp;rft.edition=2nd&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Funiversitiespress.com%2Fdisplay.asp%3FcategoryID%3D0%26isbn%3D978-81-7371-461-0%26detail%3D2&amp;rft.isbn=978-81-7371-461-0&amp;rft.pub=Universities+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Saturated vapors and saturated liquids are vapors and liquids at their <a href="/wiki/Saturation_temperature" title="Saturation temperature" class="mw-redirect">saturation temperature</a> and <a href="/wiki/Saturation_pressure" title="Saturation pressure" class="mw-redirect">saturation pressure</a>. A superheated vapor is at a temperature higher than the saturation temperature corresponding to its pressure.</span></li> 
+       <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.r744.com/knowledge/faq">r744.com - Everything R744</a>, The Natural Refrigerant R744 (CO)<sub>2</sub>, 2006-2012</span></li> 
+       <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.engr.siu.edu/staff1/weston/thermo/Refrigeration/VCRefrigeration.html">Vapor-Compression Refrigeration Cycles</a>, Schematic diagrams of multi-stage units, Southern Illinois University Carbondale, 1998-11-30</span></li> 
+       <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Schmidt, R.R. and Notohardjono, B.D. (2002), <a rel="nofollow" class="external text" href="http://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&amp;queryText=High-end+server+low-temperature+cooling&amp;x=39&amp;y=16">"High-end server low-temperature cooling"</a>, <i>IBM Journal of Research and Development</i>, Vol. 46, Issue 6, pp.739-751.</span></li> 
+       <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.thecoca-colacompany.com/citizenship/environmental_report2006.pdf">2006 Environmental Performance, the Coca-Cola Company</a> (scroll down to pdf page 6 of 9 pdf pages).</span></li> 
+       <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.osha.gov/SLTC/etools/ammonia_refrigeration/ammonia/index.html">osha.gov - Ammonia Refrigeration - Properties of Ammonia</a>, 2011</span></li> 
+       <li id="cite_note-Hempstead-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Hempstead_8-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Colin Hempstead and William E. Worthington (Editors) (2005). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=0wkIlnNjDWcC&amp;printsec=frontcover"><i>Encyclopedia of 20th-Century Technology, Volume 2</i></a>. Taylor&amp; Francis. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/1-57958-464-0" title="Special:BookSources/1-57958-464-0">1-57958-464-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVapor-compression+refrigeration&amp;rft.au=Colin+Hempstead+and+William+E.+Worthington+%28Editors%29&amp;rft.btitle=Encyclopedia+of+20th-Century+Technology%2C+Volume+2&amp;rft.date=2005&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D0wkIlnNjDWcC%26printsec%3Dfrontcover&amp;rft.isbn=1-57958-464-0&amp;rft.pub=Taylor%26+Francis&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation book">Robert T. Balmer (2011). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=VC-RuN6moREC&amp;pg=PA543&amp;dq=Jacob+Perkins+refrigeration#v=onepage&amp;q&amp;f=false"><i>Modern Engineering Thermodynamic</i></a>. Academic Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0-12-374996-3" title="Special:BookSources/978-0-12-374996-3">978-0-12-374996-3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVapor-compression+refrigeration&amp;rft.au=Robert+T.+Balmer&amp;rft.btitle=Modern+Engineering+Thermodynamic&amp;rft.date=2011&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DVC-RuN6moREC%26pg%3DPA543%26dq%3DJacob%2BPerkins%2Brefrigeration%23v%3Donepage%26q%26f%3Dfalse&amp;rft.isbn=978-0-12-374996-3&amp;rft.pub=Academic+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-burstall-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-burstall_10-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Burstall, Aubrey F. (1965). <i>A History of Mechanical Engineering</i>. The MIT Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/0-262-52001-X" title="Special:BookSources/0-262-52001-X">0-262-52001-X</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVapor-compression+refrigeration&amp;rft.aufirst=Aubrey+F.&amp;rft.aulast=Burstall&amp;rft.btitle=A+History+of+Mechanical+Engineering&amp;rft.date=1965&amp;rft.genre=book&amp;rft.isbn=0-262-52001-X&amp;rft.pub=The+MIT+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://patimg2.uspto.gov/.piw?Docid=00008080&amp;homeurl=http%3A%2F%2Fpatft.uspto.gov%2Fnetacgi%2Fnph-Parser%3FSect1%3DPTO2%2526Sect2%3DHITOFF%2526p%3D1%2526u%3D%25252Fnetahtml%25252FPTO%25252Fsearch-bool.html%2526r%3D1%2526f%3DG%2526l%3D50%2526co1%3DAND%2526d%3DPALL%2526s1%3D0008080.PN.%2526OS%3DPN%2F0008080%2526RS%3DPN%2F0008080&amp;PageNum=&amp;Rtype=&amp;SectionNum=&amp;idkey=NONE&amp;Input=View+first+page">"Improved process for the artificial production of ice", U.S. Patent Office, Patent 8080, 1851</a></span></li> 
+       <li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://museumvictoria.com.au/scienceworks/whatson/event/?event=562783">"Harrison Refrigerator Model"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVapor-compression+refrigeration&amp;rft.btitle=Harrison+Refrigerator+Model&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fmuseumvictoria.com.au%2Fscienceworks%2Fwhatson%2Fevent%2F%3Fevent%3D562783&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+      </ol> 
+     </div> 
+     <h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vapor-compression_refrigeration&amp;action=edit&amp;section=20" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <ul> 
+      <li><cite class="citation book">Yunus A. Cengel and Michael A. Boles (2008). <a rel="nofollow" class="external text" href="https://highered.mcgraw-hill.com/classware/infoCenter.do?isbn=0073529214"><i>Thermodynamics: An Engineering Approach</i></a> (6th ed.). McGraw-Hill. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/0-07-352921-4" title="Special:BookSources/0-07-352921-4">0-07-352921-4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVapor-compression+refrigeration&amp;rft.au=Yunus+A.+Cengel+and+Michael+A.+Boles&amp;rft.btitle=Thermodynamics%3A+An+Engineering+Approach&amp;rft.date=2008&amp;rft.edition=6th&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fhighered.mcgraw-hill.com%2Fclassware%2FinfoCenter.do%3Fisbn%3D0073529214&amp;rft.isbn=0-07-352921-4&amp;rft.pub=McGraw-Hill&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></li> 
+     </ul> 
+     <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vapor-compression_refrigeration&amp;action=edit&amp;section=21" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <ul> 
+      <li><a rel="nofollow" class="external text" href="http://web.me.unr.edu/me372/Spring2001/Vapor%20Compression%20Refrigeration%20Cycles.pdf">"The ideal vapor compression refrigeration cycle", University of Nevada (US)</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.central-air-conditioner-and-refrigeration.com/Refrigeration_Cycle.html">"The Refrigeration Cycle: Central Air Conditioner For Homeowners"</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://home.howstuffworks.com/refrigerator4.htm">"The Refrigeration Cycle", from HowStuffWorks</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.r744.com/knowledge/">Scientific Papers about CO<sub>2</sub> Heat Pumps / Refrigeration</a></li> 
+     </ul> 
+     <table class="navbox" style="border-spacing:0"> 
+      <tbody>
+       <tr> 
+        <td style="padding:2px"> 
+         <table class="nowraplinks collapsible uncollapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"> 
+          <tbody>
+           <tr> 
+            <th scope="col" class="navbox-title" colspan="2"> 
+             <div class="plainlinks hlist navbar mini"> 
+              <ul> 
+               <li class="nv-view"><a href="/wiki/Template:Thermodynamic_cycles" title="Template:Thermodynamic cycles"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li> 
+               <li class="nv-talk"><a href="/wiki/Template_talk:Thermodynamic_cycles" title="Template talk:Thermodynamic cycles"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li> 
+               <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Thermodynamic_cycles&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li> 
+              </ul> 
+             </div> 
+             <div style="font-size:114%">
+              <a href="/wiki/Thermodynamic_cycle" title="Thermodynamic cycle">Thermodynamic cycles</a>
+             </div> </th> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group"><a href="/wiki/External_combustion" title="External combustion" class="mw-redirect">External combustion</a></th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+             <div style="padding:0em 0.25em"></div> 
+             <table class="nowraplinks navbox-subgroup" style="border-spacing:0"> 
+              <tbody>
+               <tr> 
+                <th scope="row" class="navbox-group" style="font-weight:normal;"> 
+                 <div style="padding:0.1em 0;line-height:1.2em;">
+                  Without phase change
+                  <br> (
+                  <a href="/wiki/Hot_air_engine" title="Hot air engine">hot air engines</a>)
+                 </div> </th> 
+                <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+                 <div style="padding:0em 0.25em"> 
+                  <ul> 
+                   <li><a href="/wiki/Brayton_cycle#Reverse_Brayton_cycle" title="Brayton cycle">Bell Coleman</a></li> 
+                   <li><a href="/wiki/Brayton_cycle" title="Brayton cycle">Brayton / Joule</a></li> 
+                   <li><a href="/wiki/Carnot_cycle" title="Carnot cycle">Carnot</a></li> 
+                   <li><a href="/wiki/Ericsson_cycle" title="Ericsson cycle">Ericsson</a></li> 
+                   <li><a href="/wiki/Stirling_cycle" title="Stirling cycle">Stirling</a></li> 
+                   <li><a href="/wiki/Pseudo_Stirling_cycle" title="Pseudo Stirling cycle">Stirling (pseudo / adiabatic)</a></li> 
+                   <li><a href="/wiki/Stoddard_cycle" title="Stoddard cycle" class="mw-redirect">Stoddard</a></li> 
+                  </ul> 
+                 </div> </td> 
+               </tr> 
+               <tr style="height:2px"> 
+                <td colspan="2"></td> 
+               </tr> 
+               <tr> 
+                <th scope="row" class="navbox-group" style="font-weight:normal;">With phase change</th> 
+                <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+                 <div style="padding:0em 0.25em"> 
+                  <ul> 
+                   <li><a href="/wiki/Kalina_cycle" title="Kalina cycle">Kalina</a></li> 
+                   <li><a href="/wiki/Hygroscopic_cycle" title="Hygroscopic cycle">Hygroscopic</a></li> 
+                   <li><a href="/wiki/Rankine_cycle" title="Rankine cycle">Rankine</a> (<a href="/wiki/Organic_Rankine_cycle" title="Organic Rankine cycle">Organic Rankine</a>)</li> 
+                   <li><a href="/wiki/Regenerative_cycle" title="Regenerative cycle" class="mw-redirect">Regenerative</a></li> 
+                  </ul> 
+                 </div> </td> 
+               </tr> 
+              </tbody>
+             </table> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group"><a href="/wiki/Internal_combustion" title="Internal combustion" class="mw-redirect">Internal combustion</a></th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/Atkinson_cycle" title="Atkinson cycle">Atkinson</a></li> 
+               <li><a href="/wiki/Brayton_cycle" title="Brayton cycle">Brayton / Joule</a></li> 
+               <li><a href="/wiki/Diesel_cycle" title="Diesel cycle">Diesel</a></li> 
+               <li><a href="/wiki/Expander_cycle_(rocket)" title="Expander cycle (rocket)" class="mw-redirect">Expander</a></li> 
+               <li><a href="/wiki/Gas-generator_cycle_(rocket)" title="Gas-generator cycle (rocket)" class="mw-redirect">Gas-generator</a></li> 
+               <li><a href="/wiki/Homogeneous_charge_compression_ignition" title="Homogeneous charge compression ignition">Homogeneous charge compression ignition</a></li> 
+               <li><a href="/wiki/Lenoir_cycle" title="Lenoir cycle">Lenoir</a></li> 
+               <li><a href="/wiki/Miller_cycle" title="Miller cycle">Miller</a></li> 
+               <li><a href="/wiki/Otto_cycle" title="Otto cycle">Otto</a></li> 
+               <li><a href="/wiki/Scuderi_cycle" title="Scuderi cycle">Scuderi</a></li> 
+               <li><a href="/wiki/Staged_combustion_cycle_(rocket)" title="Staged combustion cycle (rocket)" class="mw-redirect">Staged combustion</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Mixed</th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/Combined_cycle" title="Combined cycle">Combined</a></li> 
+               <li><a href="/wiki/High-efficiency_hybrid_cycle" title="High-efficiency hybrid cycle">HEHC</a></li> 
+               <li><a href="/wiki/Mixed/dual_cycle" title="Mixed/dual cycle">Mixed / Dual</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group"><a href="/wiki/Heat_pump_and_refrigeration_cycle" title="Heat pump and refrigeration cycle">Refrigeration</a></th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/Hampson%E2%80%93Linde_cycle" title="Hampson–Linde cycle">Hampson–Linde</a></li> 
+               <li><a href="/wiki/Kleemenko_cycle" title="Kleemenko cycle">Kleemenko</a></li> 
+               <li><a href="/wiki/Pulse_tube_refrigerator" title="Pulse tube refrigerator">Pulse tube</a></li> 
+               <li><a href="/wiki/Regenerative_cooling" title="Regenerative cooling">Regenerative cooling</a></li> 
+               <li><a href="/wiki/Transcritical_cycle" title="Transcritical cycle">Transcritical</a></li> 
+               <li><a href="/wiki/Absorption_refrigerator" title="Absorption refrigerator">Vapor absorption</a></li> 
+               <li><strong class="selflink">Vapor-compression</strong></li> 
+               <li><a href="/wiki/Siemens_cycle" title="Siemens cycle">Siemens</a></li> 
+               <li><a href="/wiki/Vuilleumier_cycle" title="Vuilleumier cycle">Vuilleumier</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Uncategorized</th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/Barton_evaporation_engine" title="Barton evaporation engine">Barton</a></li> 
+               <li><a href="/wiki/Humphrey_cycle" title="Humphrey cycle">Humphrey</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+          </tbody>
+         </table> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <table class="navbox" style="border-spacing:0"> 
+      <tbody>
+       <tr> 
+        <td style="padding:2px"> 
+         <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"> 
+          <tbody>
+           <tr> 
+            <th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th> 
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4133942-3">4133942-3</a></span></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+          </tbody>
+         </table> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <!-- 
+NewPP limit report
+Parsed by mw1126
+Cached time: 20160319075929
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.344 seconds
+Real time usage: 0.389 seconds
+Preprocessor visited node count: 1261/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 32044/2097152 bytes
+Template argument size: 1162/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 0/500
+Lua time usage: 0.120/10.000 seconds
+Lua memory usage: 2.69 MB/50 MB
+Number of Wikibase entities loaded: 1--> 
+     <!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  270.105      1 - -total
+ 33.43%   90.301      1 - Template:Reflist
+ 24.95%   67.396      2 - Template:Citation_needed
+ 23.85%   64.411      5 - Template:Cite_book
+ 16.39%   44.258      2 - Template:Fix
+ 14.73%   39.783      4 - Template:Category_handler
+ 13.10%   35.396      2 - Template:Navbox
+ 11.06%   29.870      1 - Template:Thermodynamic_cycles
+  8.68%   23.437      6 - Template:Main
+  7.61%   20.565      1 - Template:Authority_control
+--> 
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:4702515-0!*!0!!en!4!* and timestamp 20160319075928 and revision id 710828967
+ --> 
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript>
+    </div> 
+    <div class="printfooter">
+      Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Vapor-compression_refrigeration&amp;oldid=710828967">https://en.wikipedia.org/w/index.php?title=Vapor-compression_refrigeration&amp;oldid=710828967</a>" 
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:American_inventions" title="Category:American inventions">American inventions</a></li>
+       <li><a href="/wiki/Category:Thermodynamic_cycles" title="Category:Thermodynamic cycles">Thermodynamic cycles</a></li>
+       <li><a href="/wiki/Category:Chemical_processes" title="Category:Chemical processes">Chemical processes</a></li>
+       <li><a href="/wiki/Category:Cooling_technology" title="Category:Cooling technology">Cooling technology</a></li>
+       <li><a href="/wiki/Category:Heating,_ventilating,_and_air_conditioning" title="Category:Heating, ventilating, and air conditioning">Heating, ventilating, and air conditioning</a></li>
+       <li><a href="/wiki/Category:Industrial_processes" title="Category:Industrial processes">Industrial processes</a></li>
+       <li><a href="/wiki/Category:Gas_technologies" title="Category:Gas technologies">Gas technologies</a></li>
+       <li><a href="/wiki/Category:Industrial_gases" title="Category:Industrial gases">Industrial gases</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li>
+       <li><a href="/wiki/Category:Articles_with_unsourced_statements_from_September_2009" title="Category:Articles with unsourced statements from September 2009">Articles with unsourced statements from September 2009</a></li>
+       <li><a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2013" title="Category:Articles with unsourced statements from June 2013">Articles with unsourced statements from June 2013</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li>
+      </ul>
+     </div>
+    </div> 
+    <div class="visualClear"></div> 
+   </div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> 
+    <div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label"> 
+     <h3 id="p-personal-label">Personal tools</h3> 
+     <ul> 
+      <li id="pt-anonuserpage">Not logged in</li>
+      <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+      <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+      <li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Vapor-compression+refrigeration&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+      <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Vapor-compression+refrigeration" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li> 
+     </ul> 
+    </div> 
+    <div id="left-navigation"> 
+     <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label"> 
+      <h3 id="p-namespaces-label">Namespaces</h3> 
+      <ul> 
+       <li id="ca-nstab-main" class="selected"><span><a href="/wiki/Vapor-compression_refrigeration" title="View the content page [c]" accesskey="c">Article</a></span></li> 
+       <li id="ca-talk"><span><a href="/wiki/Talk:Vapor-compression_refrigeration" title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span><a href="#"></a> </h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="right-navigation"> 
+     <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label"> 
+      <h3 id="p-views-label">Views</h3> 
+      <ul> 
+       <li id="ca-view" class="selected"><span><a href="/wiki/Vapor-compression_refrigeration">Read</a></span></li> 
+       <li id="ca-edit"><span><a href="/w/index.php?title=Vapor-compression_refrigeration&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li> 
+       <li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Vapor-compression_refrigeration&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch"> 
+        <input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput">
+        <input type="hidden" value="Special:Search" name="title">
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton">
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a>
+    </div> 
+    <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label"> 
+     <h3 id="p-navigation-label">Navigation</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+       <li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label"> 
+     <h3 id="p-interaction-label">Interaction</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label"> 
+     <h3 id="p-tb-label">Tools</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Vapor-compression_refrigeration" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Vapor-compression_refrigeration" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Vapor-compression_refrigeration&amp;oldid=710828967" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Vapor-compression_refrigeration&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q615475" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Vapor-compression_refrigeration&amp;id=710828967" title="Information on how to cite this page">Cite this page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label"> 
+     <h3 id="p-coll-print_export-label">Print/export</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Vapor-compression+refrigeration">Create a book</a></li>
+       <li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Vapor-compression+refrigeration&amp;returnto=Vapor-compression+refrigeration&amp;oldid=710828967&amp;writer=rdf2latex">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Vapor-compression_refrigeration&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label"> 
+     <h3 id="p-lang-label">Languages</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Refrigeraci%C3%B3_per_compressi%C3%B3_de_vapor" title="Refrigeració per compressió de vapor – Catalan" lang="ca" hreflang="ca">Català</a></li>
+       <li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Kompressionsk%C3%A4ltemaschine" title="Kompressionskältemaschine – German" lang="de" hreflang="de">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Refrigeraci%C3%B3n_por_compresi%C3%B3n" title="Refrigeración por compresión – Spanish" lang="es" hreflang="es">Español</a></li>
+       <li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%84%D8%B1_%DA%AF%D8%A7%D8%B2%DB%8C" title="کولر گازی – Persian" lang="fa" hreflang="fa">فارسی</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/R%C3%A9frig%C3%A9rateur_%C3%A0_compression_de_vapeur" title="Réfrigérateur à compression de vapeur – French" lang="fr" hreflang="fr">Français</a></li>
+       <li class="interlanguage-link interwiki-gl"><a href="//gl.wikipedia.org/wiki/Refrixeraci%C3%B3n_por_compresi%C3%B3n" title="Refrixeración por compresión – Galician" lang="gl" hreflang="gl">Galego</a></li>
+       <li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/G%C5%91zkompresszi%C3%B3s_h%C5%B1t%C5%91g%C3%A9p" title="Gőzkompressziós hűtőgép – Hungarian" lang="hu" hreflang="hu">Magyar</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E8%92%B8%E6%B0%97%E5%9C%A7%E7%B8%AE%E5%86%B7%E5%87%8D%E6%A9%9F" title="蒸気圧縮冷凍機 – Japanese" lang="ja" hreflang="ja">日本語</a></li>
+       <li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Refrigera%C3%A7%C3%A3o_por_compress%C3%A3o" title="Refrigeração por compressão – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+       <li class="uls-p-lang-dummy"><a href="#"></a></li> 
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q615475#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last modified on 19 March 2016, at 07:59.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-cookiestatement"><a href="//wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Vapor-compression_refrigeration&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"> <a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"></a> </li> 
+    <li id="footer-poweredbyico"> <a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"></a> </li> 
+   </ul> 
+   <div style="clear:both"></div> 
+  </div> 
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.wikimediaEvents","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script>
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.config.set({"wgBackendResponseTime":85,"wgHostname":"mw1086"}); /* @nomin */
+} );</script>   
+ </body>
+</html>

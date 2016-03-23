@@ -1,0 +1,546 @@
+https://en.wikipedia.org/wiki/Low-energy_house
+<!doctype html>
+<html lang="en" dir="ltr" class="client-nojs">
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Low-energy house - Wikipedia, the free encyclopedia</title> 
+  <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script> 
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Low-energy_house","wgTitle":"Low-energy house","wgCurRevisionId":710457125,"wgRevisionId":710457125,"wgArticleId":1866529,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking in-text citations from February 2008","All articles lacking in-text citations","Low-energy building","Sustainable architecture","Sustainable building","Energy conservation","Building","House types","Sustainable urban planning"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Low-energy_house","wgRelevantArticleId":1866529,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["en-us"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCentralAuthMobileDomain":false,"wgWikibaseItemId":"Q1190371","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script> 
+  <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script> 
+  <meta name="generator" content="MediaWiki 1.27.0-wmf.17"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Low-energy_house"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Low-energy_house&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Low-energy_house&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Low-energy_house"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Low-energy_house skin-vector action-view"> 
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> 
+   <a id="top"></a> 
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Low-energy house</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="jump-to-nav" class="mw-jump">
+      Jump to: 
+     <a href="#mw-head">navigation</a>, 
+     <a href="#p-search">search</a> 
+    </div> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div role="note" class="hatnote">
+      See also: 
+      <a href="/wiki/Passive_house" title="Passive house">Passive house</a>
+     </div> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:352px;">
+       <a href="/wiki/File:Passivhaus_thermogram_gedaemmt_ungedaemmt.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Passivhaus_thermogram_gedaemmt_ungedaemmt.png/350px-Passivhaus_thermogram_gedaemmt_ungedaemmt.png" width="350" height="221" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/f/f2/Passivhaus_thermogram_gedaemmt_ungedaemmt.png 1.5x, //upload.wikimedia.org/wikipedia/commons/f/f2/Passivhaus_thermogram_gedaemmt_ungedaemmt.png 2x" data-file-width="460" data-file-height="290"></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Passivhaus_thermogram_gedaemmt_ungedaemmt.png" class="internal" title="Enlarge"></a>
+        </div> A 
+        <a href="/wiki/Thermogram" title="Thermogram" class="mw-redirect">thermogram</a> compares the "heat radiation" of the windows and walls of two buildings: sustainable low-energy 
+        <a href="/wiki/Passive_house" title="Passive house">passive house</a> (right) and conventional leaking house (left)
+       </div> 
+      </div> 
+     </div> 
+     <p>A <b>low-energy house</b> is any type of house that from design, technologies and building products uses less energy, from any source, than a traditional or average contemporary house. In the practice of <a href="/wiki/Sustainable_design" title="Sustainable design">sustainable design</a>, <a href="/wiki/Sustainable_architecture" title="Sustainable architecture">sustainable architecture</a>, <a href="/wiki/Low-energy_building" title="Low-energy building" class="mw-redirect">low-energy building</a>, <a href="/wiki/Energy-efficient_landscaping" title="Energy-efficient landscaping">energy-efficient landscaping</a> low-energy houses often use <a href="/wiki/Active_solar" title="Active solar">active solar</a> and <a href="/wiki/Passive_solar_building_design" title="Passive solar building design">passive solar building design</a> techniques and components to reduce their energy expenditure.</p> 
+     <p></p> 
+     <div id="toc" class="toc"> 
+      <div id="toctitle"> 
+       <h2>Contents</h2> 
+      </div> 
+      <ul> 
+       <li class="toclevel-1 tocsection-1"><a href="#General_usage"><span class="tocnumber">1</span> <span class="toctext">General usage</span></a></li> 
+       <li class="toclevel-1 tocsection-2"><a href="#National_standards"><span class="tocnumber">2</span> <span class="toctext">National standards</span></a> 
+        <ul> 
+         <li class="toclevel-2 tocsection-3"><a href="#Europe"><span class="tocnumber">2.1</span> <span class="toctext">Europe</span></a></li> 
+         <li class="toclevel-2 tocsection-4"><a href="#North_America"><span class="tocnumber">2.2</span> <span class="toctext">North America</span></a></li> 
+        </ul> </li> 
+       <li class="toclevel-1 tocsection-5"><a href="#Zero-energy_and_energy-plus_buildings"><span class="tocnumber">3</span> <span class="toctext">Zero-energy and energy-plus buildings</span></a></li> 
+       <li class="toclevel-1 tocsection-6"><a href="#Low-energy_technology"><span class="tocnumber">4</span> <span class="toctext">Low-energy technology</span></a> 
+        <ul> 
+         <li class="toclevel-2 tocsection-7"><a href="#Introduction"><span class="tocnumber">4.1</span> <span class="toctext">Introduction</span></a></li> 
+         <li class="toclevel-2 tocsection-8"><a href="#Improvements_to_heating.2C_cooling.2C_ventilation_and_water_heating"><span class="tocnumber">4.2</span> <span class="toctext">Improvements to heating, cooling, ventilation and water heating</span></a></li> 
+         <li class="toclevel-2 tocsection-9"><a href="#Passive_solar_design_and_landscape"><span class="tocnumber">4.3</span> <span class="toctext">Passive solar design and landscape</span></a></li> 
+         <li class="toclevel-2 tocsection-10"><a href="#Lighting_and_electrical_appliances"><span class="tocnumber">4.4</span> <span class="toctext">Lighting and electrical appliances</span></a></li> 
+        </ul> </li> 
+       <li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li> 
+       <li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li> 
+       <li class="toclevel-1 tocsection-13"><a href="#Literature"><span class="tocnumber">7</span> <span class="toctext">Literature</span></a></li> 
+       <li class="toclevel-1 tocsection-14"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a> 
+        <ul> 
+         <li class="toclevel-2 tocsection-15"><a href="#External_links_-_examples"><span class="tocnumber">8.1</span> <span class="toctext">External links - examples</span></a></li> 
+        </ul> </li> 
+      </ul> 
+     </div> 
+     <p></p> 
+     <h2><span class="mw-headline" id="General_usage">General usage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Low-energy_house&amp;action=edit&amp;section=1" title="Edit section: General usage">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>The meaning of the term 'low-energy house' has changed over time, but in <a href="/wiki/Europe" title="Europe">Europe</a> it generally refers to a house that uses around half of the German or Swiss low-energy standards referred to below for <a href="/wiki/Space_heating" title="Space heating" class="mw-redirect">space heating</a>, typically in the range from 30 kWh/m²a to 20 kWh/m²a (9,500 Btu/ft²/yr to 6,300 Btu/ft²/yr). Below this the term 'Ultra-low-energy building' is often used.</p> 
+     <p>The term can also refer to any dwelling whose energy use is below the standards demanded by current <a href="/wiki/Building_code" title="Building code">building codes</a>. Because national standards vary considerably around the world, 'low-energy' developments in one country may not meet 'normal practice' in another.</p> 
+     <h2><span class="mw-headline" id="National_standards">National standards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Low-energy_house&amp;action=edit&amp;section=2" title="Edit section: National standards">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>In some countries the term relates to a specific building standard.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> In particular, these seek to limit the energy used for space heating, since in many <a href="/wiki/Climate_zone" title="Climate zone" class="mw-redirect">climate zones</a> it represents the largest energy use. Other energy use may also be regulated. The <a href="/wiki/History_of_passive_solar_building_design" title="History of passive solar building design">history of passive solar building design</a> gives an international look at one form of low-energy building development and standards.</p> 
+     <h3><span class="mw-headline" id="Europe">Europe</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Low-energy_house&amp;action=edit&amp;section=3" title="Edit section: Europe">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>In <a href="/wiki/Germany" title="Germany">Germany</a> a low-energy house <i>(Niedrigenergiehaus)</i> has a limit equivalent to 7 litres of heating oil for each square metre of room <i>for space heating</i> annually (50 kWh/m²a or 15,850 Btu/ft²/yr). In <a href="/wiki/Switzerland" title="Switzerland">Switzerland</a>, the term is used in connection with the <i>MINERGIE</i> standard (42 kWh/m²a or 13,300&nbsp;Btu/ft²/yr) or the Minergie-P (equivalent to the Passivhaus).</p> 
+     <p>In comparison, the German <i><a href="/wiki/Passivhaus" title="Passivhaus" class="mw-redirect">Passivhaus</a></i> ultra-low-energy standard, currently undergoing adoption in some other <a href="/wiki/Europe" title="Europe">European</a> countries, has a maximum space heating requirement of 15 kWh/m²a or 4,755&nbsp;Btu/ft²/yr.</p> 
+     <p>A "sub-10 passive house" is under construction in Ireland that has an independently evaluated PHPP (Passive House) rating of 9.5&nbsp;kW/m<sup>2</sup>/year. Its form of construction also tackles the issue of embodied energy, which can significantly distort the lifecycle CO<sub>2</sub> emissions associated with even low energy use houses.</p> 
+     <h3><span class="mw-headline" id="North_America">North America</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Low-energy_house&amp;action=edit&amp;section=4" title="Edit section: North America">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>In the United States, the <a href="/wiki/Energy_Star" title="Energy Star">ENERGY STAR</a> program is the largest program defining low-energy homes and <a href="/wiki/Consumer_product" title="Consumer product" class="mw-redirect">consumer products</a>. Homes earning ENERGY STAR certification use at least 15% less energy than standard new homes built to the International Residential Code, although homes typically achieve 20%–30% savings.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></p> 
+     <p>In addition, the US Department of Energy launched a program in 2008 with the goal of spreading zero-energy housing over the US. Currently, participating builders commit to constructing new homes that achieve 30% savings on a <a href="/wiki/Home_energy_rating" title="Home energy rating">home energy rating</a> scale.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></p> 
+     <h2><span class="mw-headline" id="Zero-energy_and_energy-plus_buildings">Zero-energy and energy-plus buildings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Low-energy_house&amp;action=edit&amp;section=5" title="Edit section: Zero-energy and energy-plus buildings">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>Beyond ultra-low-energy buildings are those that use, on average over the course of a year, no imported energy - <a href="/wiki/Zero-energy_building" title="Zero-energy building">zero-energy buildings</a> – or even those that generate a surplus - <a href="/wiki/Energy-plus_house" title="Energy-plus house" class="mw-redirect">energy-plus houses</a> – both of which have been and are being successfully built.</p> 
+     <p>This can be achieved by a mixture of <a href="/wiki/Energy_conservation" title="Energy conservation">energy conservation</a> technologies and the use of <a href="/wiki/Renewable_energy" title="Renewable energy">renewable energy</a> sources. However, in the absence of recognized standards, the mix between these – and consequently the energy-use profile and environmental impact of the building – can vary significantly.</p> 
+     <p>At one end of the spectrum are buildings with an ultra-low space heating requirement that therefore require low levels of imported energy, even in winter, approaching the concept of an <a href="/wiki/Autonomous_building" title="Autonomous building">autonomous building</a>.</p> 
+     <p>At the opposite end of the spectrum are buildings where few attempts are made to reduce the space heating requirement and which therefore use high levels of imported energy in winter. While this can be balanced by high levels of renewable energy generation throughout the year, it imposes greater demands on the traditional national energy infrastructure during the peak winter season.</p> 
+     <ul> 
+      <li><a href="/wiki/Zero-energy_building" title="Zero-energy building">Zero-energy building</a></li> 
+      <li><a href="/wiki/Superinsulation" title="Superinsulation">Superinsulation</a></li> 
+      <li><a href="/wiki/PlusEnergy" title="PlusEnergy">PlusEnergy</a></li> 
+     </ul> 
+     <h2><span class="mw-headline" id="Low-energy_technology">Low-energy technology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Low-energy_house&amp;action=edit&amp;section=6" title="Edit section: Low-energy technology">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <h3><span class="mw-headline" id="Introduction">Introduction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Low-energy_house&amp;action=edit&amp;section=7" title="Edit section: Introduction">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <div role="note" class="hatnote relarticle mainarticle">
+      Main article: 
+      <a href="/wiki/List_of_low-energy_building_techniques" title="List of low-energy building techniques">List of low-energy building techniques</a>
+     </div> 
+     <div role="note" class="hatnote">
+      For history and further detail, see 
+      <a href="/wiki/Zero_energy_building" title="Zero energy building" class="mw-redirect">Zero energy building</a> and 
+      <a href="/wiki/Passivhaus" title="Passivhaus" class="mw-redirect">Passivhaus</a>.
+     </div> 
+     <p>Low-energy buildings typically use high levels of <a href="/wiki/Building_insulation" title="Building insulation">insulation</a>, energy efficient <a href="/wiki/Insulated_glazing" title="Insulated glazing">windows</a>, low levels of air infiltration and <a href="/wiki/Heat_recovery_ventilation" title="Heat recovery ventilation">heat recovery ventilation</a> to lower heating and cooling energy. They may also use <a href="/wiki/Passive_solar_building_design" title="Passive solar building design">passive solar building design</a> techniques or <a href="/wiki/Active_solar" title="Active solar">active solar</a> technologies. These homes may use <a href="/wiki/Hot_water_heat_recycling" title="Hot water heat recycling" class="mw-redirect">hot water heat recycling</a> technologies to recover heat from showers and dishwashers. Lighting and <a href="/wiki/Miscellaneous_electric_load" title="Miscellaneous electric load">miscellaneous</a> energy use is allieviated with <a href="/wiki/Fluorescent_lamp" title="Fluorescent lamp">fluorescent lighting</a> and efficient appliances. <a href="/wiki/Weatherization" title="Weatherization">Weatherization</a> provides more information on increasing building energy efficiency.</p> 
+     <p><a href="/wiki/Passive_House" title="Passive House" class="mw-redirect">Passive Houses</a> are required to achieve a whole building <a href="/wiki/Air_changes_per_hour" title="Air changes per hour">air change rate</a> of no more than 0.6 ac/hr <sup id="cite_ref-Passivhaus_ac_4-0" class="reference"><a href="#cite_note-Passivhaus_ac-4"><span>[</span>4<span>]</span></a></sup> <sup id="cite_ref-ac.2Fhr_5-0" class="reference"><a href="#cite_note-ac.2Fhr-5"><span>[</span>footnote 1<span>]</span></a></sup> under forced pressurisation and depressurisation testing at 50Pa minimum. On site blower door testing by certified testers is used to prove compliance.</p> 
+     <p>A significant feature of ultra-low-energy buildings is the increasing importance of heat loss through linear thermal bridging within the construction. Failure to eliminate thermal pathways from warm to cold surfaces ("bridges") creates the conditions for <a href="/wiki/Interstitial_condensation" title="Interstitial condensation">interstitial condensation</a> forming deep within the construction and lead to potentially serious issues of mould growth and rot. With near zero filtration losses through the fabric of the dwelling, air movement cannot be relied upon to dry out the construction and a comprehensive condensation risk analysis of every abutment detail is recommended.</p> 
+     <h3><span class="mw-headline" id="Improvements_to_heating.2C_cooling.2C_ventilation_and_water_heating">Improvements to heating, cooling, ventilation and water heating</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Low-energy_house&amp;action=edit&amp;section=8" title="Edit section: Improvements to heating, cooling, ventilation and water heating">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;"> 
+      <tbody>
+       <tr> 
+        <td style="width:50%; text-align:left; vertical-align:top;"> 
+         <ul> 
+          <li><a href="/wiki/Absorption_refrigerator" title="Absorption refrigerator">Absorption refrigerator</a></li> 
+          <li><a href="/wiki/Annualized_geothermal_solar" title="Annualized geothermal solar" class="mw-redirect">Annualized geothermal solar</a></li> 
+          <li><a href="/wiki/Earth_cooling_tubes" title="Earth cooling tubes" class="mw-redirect">Earth cooling tubes</a></li> 
+          <li><a href="/wiki/Geothermal_heat_pump" title="Geothermal heat pump">Geothermal heat pump</a></li> 
+          <li><a href="/wiki/Heat_recovery_ventilation" title="Heat recovery ventilation">Heat recovery ventilation</a></li> 
+          <li><a href="/wiki/Hot_water_heat_recycling" title="Hot water heat recycling" class="mw-redirect">Hot water heat recycling</a></li> 
+         </ul> </td> 
+        <td style="width:50%; text-align:left; vertical-align:top;"> 
+         <ul> 
+          <li><a href="/wiki/Passive_cooling" title="Passive cooling">Passive cooling</a></li> 
+          <li><a href="/wiki/Renewable_heat" title="Renewable heat">Renewable heat</a></li> 
+          <li><a href="/wiki/Seasonal_thermal_energy_storage" title="Seasonal thermal energy storage">Seasonal thermal energy storage</a> (STES)</li> 
+          <li><a href="/wiki/Solar_air_conditioning" title="Solar air conditioning">Solar air conditioning</a></li> 
+          <li><a href="/wiki/Solar_hot_water" title="Solar hot water" class="mw-redirect">Solar hot water</a></li> 
+          <li><a href="/w/index.php?title=Category:Solar_powered_devices&amp;action=edit&amp;redlink=1" class="new" title="Category:Solar powered devices (page does not exist)">Solar devices</a></li> 
+         </ul> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <h3><span class="mw-headline" id="Passive_solar_design_and_landscape">Passive solar design and landscape</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Low-energy_house&amp;action=edit&amp;section=9" title="Edit section: Passive solar design and landscape">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p><a href="/wiki/Passive_solar_building_design" title="Passive solar building design">Passive solar building design</a> and <a href="/wiki/Energy-efficient_landscaping" title="Energy-efficient landscaping">energy-efficient landscaping</a> support the low-energy house in conservation and can integrate them into a <a href="/wiki/Neighborhood" title="Neighborhood" class="mw-redirect">neighborhood</a> and environment. Following <a href="/wiki/List_of_low-energy_building_techniques" title="List of low-energy building techniques">passive solar building techniques</a>, where possible buildings are compact in shape to reduce their surface area, with principal windows oriented towards the equator - south in the northern hemisphere and north in the southern hemisphere - to maximize passive <a href="/wiki/Solar_gain" title="Solar gain">solar gain</a>. However, the use of solar gain, especially in <a href="/wiki/Temperate" title="Temperate" class="mw-redirect">temperate</a> <a href="/wiki/Climate" title="Climate">climate</a> regions, is secondary to minimizing the overall house energy requirements. In climates and regions needing to reduce excessive summer passive solar heat gain, whether from the direct or reflected sources, can be done with a <a href="/wiki/Brise_soleil" title="Brise soleil">Brise soleil</a>, <a href="/wiki/Tree" title="Tree">trees</a>, attached <a href="/wiki/Pergola" title="Pergola">pergolas</a> with <a href="/wiki/Vine" title="Vine">vines</a>, <a href="/wiki/Vertical_garden" title="Vertical garden" class="mw-redirect">vertical gardens</a>, <a href="/wiki/Green_roof" title="Green roof">green roofs</a>, and other techniques.</p> 
+     <p>Low-energy houses can be constructed from dense or lightweight materials, but some internal <a href="/wiki/Thermal_mass" title="Thermal mass">thermal mass</a> is normally incorporated to reduce summer peak temperatures, maintain stable winter temperatures, and prevent possible overheating in spring or autumn before the higher <a href="/wiki/Effect_of_sun_angle_on_climate" title="Effect of sun angle on climate" class="mw-redirect">sun angle</a> "shades" mid-day wall exposure and window penetration. Exterior wall color, when the surface allows choice, for reflection or absorption <a href="/wiki/Insolation" title="Insolation" class="mw-redirect">insolation</a> qualities depends on the predominant year-round ambient outdoor temperature. The use of <a href="/wiki/Deciduous" title="Deciduous">deciduous</a> trees and wall <a href="/wiki/Trellis_(architecture)" title="Trellis (architecture)">trellised</a> or self attaching vines can assist in climates not at the temperature extremes.</p> 
+     <ul> 
+      <li><a href="/wiki/Sustainable_landscaping" title="Sustainable landscaping">Sustainable landscaping</a></li> 
+      <li><a href="/wiki/Sustainable_landscape_architecture" title="Sustainable landscape architecture">Sustainable landscape architecture</a></li> 
+      <li><a href="/wiki/Sustainable_gardening" title="Sustainable gardening">Sustainable gardening</a></li> 
+      <li><a href="/wiki/Rainwater_harvesting" title="Rainwater harvesting">Rainwater harvesting</a></li> 
+      <li><a href="/wiki/Water_conservation" title="Water conservation">Water conservation</a></li> 
+     </ul> 
+     <h3><span class="mw-headline" id="Lighting_and_electrical_appliances">Lighting and electrical appliances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Low-energy_house&amp;action=edit&amp;section=10" title="Edit section: Lighting and electrical appliances">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <div role="note" class="hatnote">
+      See also: 
+      <a href="/wiki/Daylighting" title="Daylighting">Daylighting</a>, 
+      <a href="/wiki/Passive_daylighting" title="Passive daylighting">Passive daylighting</a> and 
+      <a href="/wiki/Active_daylighting" title="Active daylighting">Active daylighting</a>
+     </div> 
+     <p>To minimize the total primary energy consumption, the many <a href="/wiki/Passive_daylighting" title="Passive daylighting">passive</a> and <a href="/wiki/Active_daylighting" title="Active daylighting">active</a> <a href="/wiki/Daylighting" title="Daylighting">daylighting</a> techniques are the first daytime solution to employ. For low light level days, non-daylighted spaces, and nighttime; the use of creative-sustainable <a href="/wiki/Lighting_design" title="Lighting design" class="mw-redirect">lighting design</a> using low-energy sources such as 'standard voltage' <a href="/wiki/Compact_fluorescent_lamp" title="Compact fluorescent lamp">compact fluorescent lamps</a> and <a href="/wiki/Solid-state_lighting" title="Solid-state lighting">solid-state lighting</a> with <a href="/wiki/Light-emitting_diode" title="Light-emitting diode">Light-emitting diode</a>-<a href="/wiki/LED_lamp" title="LED lamp">LED lamps</a>, <a href="/wiki/Organic_light-emitting_diode" title="Organic light-emitting diode" class="mw-redirect">organic light-emitting diodes</a>, and <a href="/wiki/Solid-state_lighting#Polymer_light-emitting_diodes" title="Solid-state lighting">PLED - polymer light-emitting diodes</a>; and 'low voltage' <a href="/wiki/Electrical_filament" title="Electrical filament" class="mw-redirect">electrical filament</a>-<a href="/wiki/Incandescent_light_bulb" title="Incandescent light bulb">Incandescent light bulbs</a>, and <a href="/wiki/Ceramic_discharge_metal_halide_lamp" title="Ceramic discharge metal halide lamp" class="mw-redirect">compact Metal halide</a>, <a href="/wiki/Xenon_arc_lamps" title="Xenon arc lamps" class="mw-redirect">Xenon</a> and <a href="/wiki/Halogen_lamps" title="Halogen lamps" class="mw-redirect">Halogen lamps</a>, can be used.</p> 
+     <p>Solar powered exterior circulation, security, and <a href="/wiki/Landscape_lighting" title="Landscape lighting">landscape lighting</a> - with <a href="/wiki/Photovoltaic_cell" title="Photovoltaic cell" class="mw-redirect">photovoltaic cells</a> on each fixture or connecting to a central <a href="/wiki/Solar_panel" title="Solar panel">Solar panel</a> system, are available for <a href="/wiki/Garden" title="Garden">gardens</a> and outdoor needs. Low voltage systems can be used for more controlled or independent illumination, while still using less electricity than conventional fixtures and lamps. Timers, <a href="/wiki/Motion_detection" title="Motion detection">motion detection</a> and <a href="/wiki/Natural_lighting" title="Natural lighting" class="mw-redirect">natural light</a> operation sensors reduce energy consumption, and <a href="/wiki/Light_pollution" title="Light pollution">light pollution</a> even further for a Low-energy house setting.</p> 
+     <p><a href="/wiki/Home_appliance" title="Home appliance">Appliance</a> <a href="/wiki/Consumer_product" title="Consumer product" class="mw-redirect">consumer products</a> meeting independent energy efficiency testing and receiving <a href="/wiki/Ecolabel" title="Ecolabel">Ecolabel</a> <a href="/wiki/Certification_mark" title="Certification mark">certification marks</a> for reduced electrical-'natural-gas' consumption and product manufacturing <a href="/wiki/Carbon_emission_label" title="Carbon emission label">carbon emission labels</a> are preferred for use in Low-energy houses. The ecolabel certification marks of <a href="/wiki/Energy_Star" title="Energy Star">Energy Star</a> and <a href="/wiki/EKOenergy" title="EKOenergy">EKOenergy</a> are examples.</p> 
+     <ul> 
+      <li><a href="/wiki/Category:Energy-saving_lighting" title="Category:Energy-saving lighting">Energy-saving lighting</a></li> 
+      <li><a href="/wiki/Category:Lighting" title="Category:Lighting">Lighting</a></li> 
+      <li><a href="/wiki/Category:Windows" title="Category:Windows">Windows</a></li> 
+      <li><a href="/wiki/Category:Energy_conservation" title="Category:Energy conservation">Energy conservation</a></li> 
+      <li><a href="/wiki/Category:Alternative_energy" title="Category:Alternative energy">Alternative energy</a></li> 
+     </ul> 
+     <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Low-energy_house&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <div class="noprint portal tright" style="border:solid #aaa 1px;margin:0.5em 0 0.5em 1em"> 
+      <table style="background:#f9f9f9;font-size:85%;line-height:110%;max-width:175px"> 
+       <tbody>
+        <tr style="vertical-align:middle"> 
+         <td style="text-align:center"><a href="/wiki/File:Crystal_energy.svg" class="image"><img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" width="29" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" data-file-width="130" data-file-height="124"></a></td> 
+         <td style="padding:0 0.2em;vertical-align:middle;font-style:italic;font-weight:bold"><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></td> 
+        </tr> 
+        <tr style="vertical-align:middle"> 
+         <td style="text-align:center"><a href="/wiki/File:Sustainable_development.svg" class="image"><img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/32px-Sustainable_development.svg.png" width="32" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/48px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/64px-Sustainable_development.svg.png 2x" data-file-width="800" data-file-height="510"></a></td> 
+         <td style="padding:0 0.2em;vertical-align:middle;font-style:italic;font-weight:bold"><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development portal</a></td> 
+        </tr> 
+       </tbody>
+      </table> 
+     </div> 
+     <div class="div-col columns column-count column-count-3" style="-moz-column-count: 3; -webkit-column-count: 3; column-count: 3;"> 
+      <p><i>Buildings</i></p> 
+      <ul> 
+       <li><a href="/wiki/Zero_energy_building" title="Zero energy building" class="mw-redirect">Zero energy building</a></li> 
+       <li><a href="/wiki/Self-sufficient_homes" title="Self-sufficient homes" class="mw-redirect">Self-sufficient homes</a></li> 
+       <li><a href="/wiki/Passive_house" title="Passive house">Passive house</a></li> 
+       <li><a href="/wiki/PlusEnergy" title="PlusEnergy">PlusEnergy</a> buildings</li> 
+       <li><a href="/wiki/Energy-plus-house" title="Energy-plus-house">Energy-plus buildings</a></li> 
+       <li><a href="/wiki/Low-energy_building" title="Low-energy building" class="mw-redirect">Low-energy buildings</a></li> 
+       <li><a href="/wiki/List_of_low-energy_building_techniques" title="List of low-energy building techniques">List of low-energy building techniques</a></li> 
+       <li><a href="/wiki/Green_building" title="Green building">Green building</a></li> 
+       <li><a href="/wiki/Energy_audit" title="Energy audit">Energy audit</a></li> 
+      </ul> 
+      <p><i>Air and temperature</i></p> 
+      <ul> 
+       <li><a href="/wiki/Renewable_heat" title="Renewable heat">Renewable heat</a></li> 
+       <li><a href="/wiki/Solar_thermal_collector" title="Solar thermal collector">Solar thermal collector</a></li> 
+       <li><a href="/wiki/Solar_air_heat" title="Solar air heat">Solar air heat</a></li> 
+       <li><a href="/wiki/Solar_air_conditioning" title="Solar air conditioning">Solar air conditioning</a></li> 
+       <li><a href="/wiki/Thermal_conductivity" title="Thermal conductivity">Thermal conductivity</a></li> 
+       <li><a href="/wiki/Superinsulation" title="Superinsulation">Superinsulation</a></li> 
+      </ul> 
+      <p><i>Solar</i></p> 
+      <ul> 
+       <li><a href="/wiki/Active_solar" title="Active solar">Active solar</a></li> 
+       <li><a href="/wiki/Passive_solar" title="Passive solar" class="mw-redirect">Passive solar</a></li> 
+       <li><a href="/wiki/Passive_solar_building_design" title="Passive solar building design">Passive solar building design</a></li> 
+       <li><a href="/wiki/History_of_passive_solar_building_design" title="History of passive solar building design">History of passive solar building design</a></li> 
+       <li><a href="/wiki/Daylighting" title="Daylighting">Daylighting</a></li> 
+       <li><a href="/wiki/Passive_daylighting" title="Passive daylighting">Passive daylighting</a></li> 
+       <li><a href="/wiki/Active_daylighting" title="Active daylighting">Active daylighting</a></li> 
+       <li><a href="/wiki/Category:Energy-saving_lighting" title="Category:Energy-saving lighting">Energy-saving lighting</a></li> 
+       <li><a href="/wiki/List_of_pioneering_solar_buildings" title="List of pioneering solar buildings">List of pioneering solar buildings</a></li> 
+      </ul> 
+      <p><i>Sustainable</i></p> 
+      <ul> 
+       <li><a href="/wiki/Sustainability" title="Sustainability">Sustainability</a></li> 
+       <li><a href="/wiki/Sustainable_architecture" title="Sustainable architecture">Sustainable architecture</a></li> 
+       <li><a href="/wiki/Sustainable_landscaping" title="Sustainable landscaping">Sustainable landscaping</a></li> 
+       <li><a href="/wiki/Sustainable_landscape_architecture" title="Sustainable landscape architecture">Sustainable landscape architecture</a></li> 
+       <li><a href="/wiki/Sustainable_gardening" title="Sustainable gardening">Sustainable gardening</a></li> 
+       <li><a href="/wiki/Sustainable_energy" title="Sustainable energy">Sustainable energy</a></li> 
+       <li><a href="/wiki/Autonomous_building" title="Autonomous building">Autonomous building</a></li> 
+       <li><a href="/wiki/Green_building" title="Green building">Green building</a></li> 
+      </ul> 
+      <p><i>Energy Rating standards</i></p> 
+      <ul> 
+       <li><a href="/wiki/House_Energy_Rating" title="House Energy Rating">House Energy Rating</a> (Australia)</li> 
+       <li><a href="/wiki/Home_energy_rating" title="Home energy rating">Home energy rating</a> (U.S.)</li> 
+       <li><a href="/wiki/EnerGuide" title="EnerGuide">EnerGuide</a> (Canada)</li> 
+       <li><a href="/wiki/National_Home_Energy_Rating" title="National Home Energy Rating">National Home Energy Rating</a> (U.K.)</li> 
+       <li><a href="/wiki/Leadership_in_Energy_and_Environmental_Design" title="Leadership in Energy and Environmental Design">LEED - (Leadership in Energy and Environmental Design)</a></li> 
+       <li><a href="/wiki/Ecolabel" title="Ecolabel">Ecolabel</a>-<a href="/wiki/Certification_mark" title="Certification mark">certification mark</a></li> 
+       <li><a href="/wiki/Carbon_emission_label" title="Carbon emission label">Carbon emission label</a></li> 
+       <li><a href="/wiki/Low-carbon_economy" title="Low-carbon economy">Low-carbon economy</a></li> 
+      </ul> 
+     </div> 
+     <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Low-energy_house&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <div class="reflist" style="list-style-type: decimal;"> 
+      <ol class="references"> 
+       <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Raad Z. Homod, (2014) “Assessment regarding energy saving and decoupling for different AHU (air handling unit) and control strategies in the hot-humid climatic region of Iraq” <a rel="nofollow" class="external text" href="http://www.sciencedirect.com/science/article/pii/S036054421400869X">Energy, 74 (2014) 762-774</a></span></li> 
+       <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.energystar.gov/index.cfm?c=new_homes.nh_features">"Features of ENERGY STAR Qualified New Homes."</a> - EnergyStar.gov, Retrieved 7 March 2008.</span></li> 
+       <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www1.eere.energy.gov/buildings/challenge/about.html">"About Builders Challenge."</a> - March 2008. Energy Efficiency and Renewable Energy, U.S. Department of Energy. Retrieved 7 March 2008.</span></li> 
+       <li id="cite_note-Passivhaus_ac-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Passivhaus_ac_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a href="/wiki/Wolfgang_Feist" title="Wolfgang Feist" class="mw-redirect">Feist, Wolfgang</a>. <a rel="nofollow" class="external text" href="http://www.passivehouse.com/English/PassiveH.HTM">"What is a Passive House?"</a>. Passivhaus Institut<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-05-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALow-energy+house&amp;rft.aufirst=Wolfgang&amp;rft.aulast=Feist&amp;rft.btitle=What+is+a+Passive+House%3F&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.passivehouse.com%2FEnglish%2FPassiveH.HTM&amp;rft.pub=Passivhaus+Institut&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+      </ol> 
+     </div> 
+     <div class="reflist" style="list-style-type: decimal;"> 
+      <ol class="references"> 
+       <li id="cite_note-ac.2Fhr-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac.2Fhr_5-0">^</a></b></span> <span class="reference-text">ac/hr = air changes per hour; "<i>air change</i>" refers to the house volume</span></li> 
+      </ol> 
+     </div> 
+     <h2><span class="mw-headline" id="Literature">Literature</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Low-energy_house&amp;action=edit&amp;section=13" title="Edit section: Literature">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <ul> 
+      <li>Voss, Karsten and Musall, Eike: Net zero energy buildings - International projects of carbon neutrality in buildings 2nd edition, November 2012, Institut für internationale Architektur-Dokumentation GmbH &amp; Co. KG, München, <a href="/wiki/Special:BookSources/9783920034805" class="internal mw-magiclink-isbn">ISBN 978-3-920034-80-5</a></li> 
+      <li>Raad Z. Homod, Intelligent HVAC Control for High Energy Efficiency in Buildings,LAP LAMBERT Academic Publishing, (2014), <a href="/wiki/Special:BookSources/9783847306252" class="internal mw-magiclink-isbn">ISBN 978-3-8473-0625-2</a>.</li> 
+     </ul> 
+     <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Low-energy_house&amp;action=edit&amp;section=14" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <ul> 
+      <li><a rel="nofollow" class="external text" href="http://bigee.net/">bigEE - Your guide to energy efficiency in buildings</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://task40.iea-shc.org/">IEA research program "Net Zero Energy Solar Buildings"</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.europarl.europa.eu/activities/committees/studies/download.do?file=24491">Study on Energy Performance of buildings</a> The <a href="/wiki/European_Parliament" title="European Parliament">European Parliament</a> 2009</li> 
+      <li><a rel="nofollow" class="external text" href="http://www.leonardo-energy.org/drupal/disknode/get/399/LowEHouse.pdf">Very Low-Energy Houses - discussion paper - Nov 2006</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.ecbcs.org">IEA Energy Conservation in Buildings and Community Systems Programme.</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.commonfire.org/green">Common Fire Foundation</a> Comprehensive Overview of Green Building, plus info on the net zero energy "Greenest Building in the Eastern US" (non-profit)</li> 
+      <li><a rel="nofollow" class="external text" href="http://www.minergie.com">MINERGIE (official site)</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.greenbuildingsolutions.org/s_greenbuilding/doc.asp?CID=2150&amp;DID=9058">Article on Low-Energy Housing</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.enob.info/en/net-zero-energy-buildings/">Net zero energy- , energy-plus or climate-neutral buildings in the next generation of electricity grids</a></li> 
+     </ul> 
+     <h3><span class="mw-headline" id="External_links_-_examples">External links - examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Low-energy_house&amp;action=edit&amp;section=15" title="Edit section: External links - examples">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <ul> 
+      <li><a rel="nofollow" class="external text" href="http://batchgeo.com/map/net-zero-energy-buildings">World Map of international known Net Zero Energy Buildings</a></li> 
+      <li><a rel="nofollow" class="external text" href="https://sites.google.com/site/lowenergyhome/">Building of low energy houses with Insulating Concrete Forms</a></li> 
+     </ul> 
+     <div style="clear:both;"></div> 
+     <table class="metadata plainlinks ambox ambox-style ambox-More_footnotes" role="presentation"> 
+      <tbody>
+       <tr> 
+        <td class="mbox-image"> 
+         <div style="width:52px">
+          <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" data-file-width="48" data-file-height="48">
+         </div> </td> 
+        <td class="mbox-text"><span class="mbox-text-span">This article includes a <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, but <b>its sources remain unclear</b> because it has <b>insufficient <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>. <span class="hide-when-compact">Please help to <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">introducing</a> more precise citations.</span> <small><i>(February 2008)</i></small></span></td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <!-- 
+NewPP limit report
+Parsed by mw1176
+Cached time: 20160317041803
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.189 seconds
+Real time usage: 0.264 seconds
+Preprocessor visited node count: 752/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 8348/2097152 bytes
+Template argument size: 126/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 1/500
+Lua time usage: 0.067/10.000 seconds
+Lua memory usage: 1.77 MB/50 MB
+Number of Wikibase entities loaded: 0--> 
+     <!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  204.398      1 - -total
+ 28.15%   57.542      2 - Template:Reflist
+ 23.24%   47.511      1 - Template:More_footnotes
+ 21.68%   44.310      1 - Template:Cite_web
+ 19.60%   40.055      1 - Template:Ambox
+ 17.59%   35.951      2 - Template:See_also
+  7.22%   14.756      1 - Template:Portal
+  4.57%    9.338      1 - Template:Main
+  4.32%    8.837      1 - Template:For
+  4.12%    8.429      1 - Template:Div_col
+--> 
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:1866529-0!*!0!!en!4!* and timestamp 20160317041803 and revision id 710457125
+ --> 
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript>
+    </div> 
+    <div class="printfooter">
+      Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Low-energy_house&amp;oldid=710457125">https://en.wikipedia.org/w/index.php?title=Low-energy_house&amp;oldid=710457125</a>" 
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Low-energy_building" title="Category:Low-energy building">Low-energy building</a></li>
+       <li><a href="/wiki/Category:Sustainable_architecture" title="Category:Sustainable architecture">Sustainable architecture</a></li>
+       <li><a href="/wiki/Category:Sustainable_building" title="Category:Sustainable building">Sustainable building</a></li>
+       <li><a href="/wiki/Category:Energy_conservation" title="Category:Energy conservation">Energy conservation</a></li>
+       <li><a href="/wiki/Category:Building" title="Category:Building">Building</a></li>
+       <li><a href="/wiki/Category:House_types" title="Category:House types">House types</a></li>
+       <li><a href="/wiki/Category:Sustainable_urban_planning" title="Category:Sustainable urban planning">Sustainable urban planning</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_February_2008" title="Category:Articles lacking in-text citations from February 2008">Articles lacking in-text citations from February 2008</a></li>
+       <li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li>
+      </ul>
+     </div>
+    </div> 
+    <div class="visualClear"></div> 
+   </div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> 
+    <div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label"> 
+     <h3 id="p-personal-label">Personal tools</h3> 
+     <ul> 
+      <li id="pt-anonuserpage">Not logged in</li>
+      <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+      <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+      <li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Low-energy+house&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+      <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Low-energy+house" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li> 
+     </ul> 
+    </div> 
+    <div id="left-navigation"> 
+     <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label"> 
+      <h3 id="p-namespaces-label">Namespaces</h3> 
+      <ul> 
+       <li id="ca-nstab-main" class="selected"><span><a href="/wiki/Low-energy_house" title="View the content page [c]" accesskey="c">Article</a></span></li> 
+       <li id="ca-talk"><span><a href="/wiki/Talk:Low-energy_house" title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span><a href="#"></a> </h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="right-navigation"> 
+     <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label"> 
+      <h3 id="p-views-label">Views</h3> 
+      <ul> 
+       <li id="ca-view" class="selected"><span><a href="/wiki/Low-energy_house">Read</a></span></li> 
+       <li id="ca-edit"><span><a href="/w/index.php?title=Low-energy_house&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li> 
+       <li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Low-energy_house&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch"> 
+        <input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput">
+        <input type="hidden" value="Special:Search" name="title">
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton">
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a>
+    </div> 
+    <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label"> 
+     <h3 id="p-navigation-label">Navigation</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+       <li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label"> 
+     <h3 id="p-interaction-label">Interaction</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label"> 
+     <h3 id="p-tb-label">Tools</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Low-energy_house" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Low-energy_house" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Low-energy_house&amp;oldid=710457125" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Low-energy_house&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q1190371" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Low-energy_house&amp;id=710457125" title="Information on how to cite this page">Cite this page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label"> 
+     <h3 id="p-coll-print_export-label">Print/export</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Low-energy+house">Create a book</a></li>
+       <li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Low-energy+house&amp;returnto=Low-energy+house&amp;oldid=710457125&amp;writer=rdf2latex">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Low-energy_house&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label"> 
+     <h3 id="p-wikibase-otherprojects-label">In other projects</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Low-energy_buildings" hreflang="en">Wikimedia Commons</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label"> 
+     <h3 id="p-lang-label">Languages</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="interlanguage-link interwiki-bs"><a href="//bs.wikipedia.org/wiki/Niskoenergetska_ku%C4%87a" title="Niskoenergetska kuća – Bosnian" lang="bs" hreflang="bs">Bosanski</a></li>
+       <li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/N%C3%ADzkoenergetick%C3%BD_d%C5%AFm" title="Nízkoenergetický dům – Czech" lang="cs" hreflang="cs">Čeština</a></li>
+       <li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Niedrigenergiehaus" title="Niedrigenergiehaus – German" lang="de" hreflang="de">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86_%DA%A9%D9%85%E2%80%8C%D9%85%D8%B5%D8%B1%D9%81" title="ساختمان کم‌مصرف – Persian" lang="fa" hreflang="fa">فارسی</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/B%C3%A2timent_basse_consommation" title="Bâtiment basse consommation – French" lang="fr" hreflang="fr">Français</a></li>
+       <li class="interlanguage-link interwiki-hr"><a href="//hr.wikipedia.org/wiki/Niskoenergetska_ku%C4%87a" title="Niskoenergetska kuća – Croatian" lang="hr" hreflang="hr">Hrvatski</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E7%9C%81%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E4%BD%8F%E5%AE%85" title="省エネルギー住宅 – Japanese" lang="ja" hreflang="ja">日本語</a></li>
+       <li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Lavenergihus" title="Lavenergihus – Norwegian" lang="no" hreflang="no">Norsk bokmål</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Dom_niskoenergetyczny" title="Dom niskoenergetyczny – Polish" lang="pl" hreflang="pl">Polski</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%B7%D0%BA%D0%BE%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%BE%D0%BC" title="Низкоэнергетический дом – Russian" lang="ru" hreflang="ru">Русский</a></li>
+       <li class="interlanguage-link interwiki-sk"><a href="//sk.wikipedia.org/wiki/N%C3%ADzkoenergetick%C3%BD_dom" title="Nízkoenergetický dom – Slovak" lang="sk" hreflang="sk">Slovenčina</a></li>
+       <li class="interlanguage-link interwiki-sh"><a href="//sh.wikipedia.org/wiki/Niskoenergetska_ku%C4%87a" title="Niskoenergetska kuća – Serbo-Croatian" lang="sh" hreflang="sh">Srpskohrvatski / српскохрватски</a></li>
+       <li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Matalaenergiatalo" title="Matalaenergiatalo – Finnish" lang="fi" hreflang="fi">Suomi</a></li>
+       <li class="uls-p-lang-dummy"><a href="#"></a></li> 
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q1190371#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last modified on 17 March 2016, at 02:02.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-cookiestatement"><a href="//wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Low-energy_house&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"> <a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"></a> </li> 
+    <li id="footer-poweredbyico"> <a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"></a> </li> 
+   </ul> 
+   <div style="clear:both"></div> 
+  </div> 
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.wikimediaEvents","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script>
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.config.set({"wgBackendResponseTime":68,"wgHostname":"mw1180"}); /* @nomin */
+} );</script>   
+ </body>
+</html>

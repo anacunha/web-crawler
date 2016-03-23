@@ -1,0 +1,442 @@
+https://en.wikipedia.org/wiki/Insulating_concrete_form
+<!doctype html>
+<html lang="en" dir="ltr" class="client-nojs">
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Insulating concrete form - Wikipedia, the free encyclopedia</title> 
+  <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script> 
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Insulating_concrete_form","wgTitle":"Insulating concrete form","wgCurRevisionId":707771488,"wgRevisionId":707771488,"wgArticleId":1589872,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Building engineering","Building insulation materials","Building materials","Building technology","Structural engineering","Earthquake engineering"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Insulating_concrete_form","wgRelevantArticleId":1589872,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["en-us"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCentralAuthMobileDomain":false,"wgWikibaseItemId":"Q3799251","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script> 
+  <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script> 
+  <meta name="generator" content="MediaWiki 1.27.0-wmf.17"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Insulating_concrete_form"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Insulating_concrete_form&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Insulating_concrete_form&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Insulating_concrete_form"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Insulating_concrete_form skin-vector action-view"> 
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> 
+   <a id="top"></a> 
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Insulating concrete form</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="jump-to-nav" class="mw-jump">
+      Jump to: 
+     <a href="#mw-head">navigation</a>, 
+     <a href="#p-search">search</a> 
+    </div> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:222px;">
+       <a href="/wiki/File:FEMA_-_5754_-_Photograph_by_Kent_Baxter_taken_on_11-23-2001_in_Oklahoma.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/FEMA_-_5754_-_Photograph_by_Kent_Baxter_taken_on_11-23-2001_in_Oklahoma.jpg/220px-FEMA_-_5754_-_Photograph_by_Kent_Baxter_taken_on_11-23-2001_in_Oklahoma.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/FEMA_-_5754_-_Photograph_by_Kent_Baxter_taken_on_11-23-2001_in_Oklahoma.jpg/330px-FEMA_-_5754_-_Photograph_by_Kent_Baxter_taken_on_11-23-2001_in_Oklahoma.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/71/FEMA_-_5754_-_Photograph_by_Kent_Baxter_taken_on_11-23-2001_in_Oklahoma.jpg/440px-FEMA_-_5754_-_Photograph_by_Kent_Baxter_taken_on_11-23-2001_in_Oklahoma.jpg 2x" data-file-width="1600" data-file-height="1200"></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:FEMA_-_5754_-_Photograph_by_Kent_Baxter_taken_on_11-23-2001_in_Oklahoma.jpg" class="internal" title="Enlarge"></a>
+        </div> This insulated concrete form is cut away to show the inner structure of the formwork and the reinforcing bar (rebar). The cavity is filled with concrete to create the permanent wall.
+       </div> 
+      </div> 
+     </div> 
+     <p><b>Insulating concrete form</b> or <b>insulated concrete form</b> (ICF) is a system of <a href="/wiki/Formwork" title="Formwork">formwork</a> for <a href="/wiki/Reinforced_concrete" title="Reinforced concrete">reinforced concrete</a> usually made with a rigid <a href="/wiki/Thermal_insulation" title="Thermal insulation">thermal insulation</a> that stays in place as a permanent interior and exterior substrate for walls, floors, and roofs. The forms are interlocking modular units that are dry-stacked (without <a href="/wiki/Mortar_(masonry)" title="Mortar (masonry)">mortar</a>) and filled with <a href="/wiki/Concrete" title="Concrete">concrete</a>. The units lock together somewhat like <a href="/wiki/Lego" title="Lego">Lego</a> bricks and create a form for the structural walls or floors of a building. ICF construction has become commonplace for both low rise commercial and high performance residential construction as more stringent energy efficiency and natural disaster resistant <a href="/wiki/Building_code" title="Building code">building codes</a> are adopted. ICFs may be used with frost protected shallow foundations (FPSF).</p> 
+     <p></p> 
+     <div id="toc" class="toc"> 
+      <div id="toctitle"> 
+       <h2>Contents</h2> 
+      </div> 
+      <ul> 
+       <li class="toclevel-1 tocsection-1"><a href="#Development"><span class="tocnumber">1</span> <span class="toctext">Development</span></a></li> 
+       <li class="toclevel-1 tocsection-2"><a href="#Construction"><span class="tocnumber">2</span> <span class="toctext">Construction</span></a></li> 
+       <li class="toclevel-1 tocsection-3"><a href="#Categorization"><span class="tocnumber">3</span> <span class="toctext">Categorization</span></a> 
+        <ul> 
+         <li class="toclevel-2 tocsection-4"><a href="#By_Concrete_Shape"><span class="tocnumber">3.1</span> <span class="toctext">By Concrete Shape</span></a> 
+          <ul> 
+           <li class="toclevel-3 tocsection-5"><a href="#Flat_Wall_System"><span class="tocnumber">3.1.1</span> <span class="toctext">Flat Wall System</span></a></li> 
+           <li class="toclevel-3 tocsection-6"><a href="#Grid_System"><span class="tocnumber">3.1.2</span> <span class="toctext">Grid System</span></a> 
+            <ul> 
+             <li class="toclevel-4 tocsection-7"><a href="#Screen_Grid_System"><span class="tocnumber">3.1.2.1</span> <span class="toctext">Screen Grid System</span></a></li> 
+             <li class="toclevel-4 tocsection-8"><a href="#Waffle_Grid_System"><span class="tocnumber">3.1.2.2</span> <span class="toctext">Waffle Grid System</span></a></li> 
+            </ul> </li> 
+           <li class="toclevel-3 tocsection-9"><a href="#Post_and_Lintel_System"><span class="tocnumber">3.1.3</span> <span class="toctext">Post and Lintel System</span></a></li> 
+          </ul> </li> 
+         <li class="toclevel-2 tocsection-10"><a href="#By_Form_Characteristic"><span class="tocnumber">3.2</span> <span class="toctext">By Form Characteristic</span></a> 
+          <ul> 
+           <li class="toclevel-3 tocsection-11"><a href="#Block"><span class="tocnumber">3.2.1</span> <span class="toctext">Block</span></a></li> 
+           <li class="toclevel-3 tocsection-12"><a href="#Panel"><span class="tocnumber">3.2.2</span> <span class="toctext">Panel</span></a></li> 
+           <li class="toclevel-3 tocsection-13"><a href="#Plank"><span class="tocnumber">3.2.3</span> <span class="toctext">Plank</span></a></li> 
+          </ul> </li> 
+        </ul> </li> 
+       <li class="toclevel-1 tocsection-14"><a href="#Characteristics"><span class="tocnumber">4</span> <span class="toctext">Characteristics</span></a> 
+        <ul> 
+         <li class="toclevel-2 tocsection-15"><a href="#Energy_efficiency"><span class="tocnumber">4.1</span> <span class="toctext">Energy efficiency</span></a></li> 
+         <li class="toclevel-2 tocsection-16"><a href="#Strength"><span class="tocnumber">4.2</span> <span class="toctext">Strength</span></a></li> 
+         <li class="toclevel-2 tocsection-17"><a href="#Sound_absorption"><span class="tocnumber">4.3</span> <span class="toctext">Sound absorption</span></a></li> 
+         <li class="toclevel-2 tocsection-18"><a href="#Fire_protection"><span class="tocnumber">4.4</span> <span class="toctext">Fire protection</span></a></li> 
+         <li class="toclevel-2 tocsection-19"><a href="#Indoor_air_quality"><span class="tocnumber">4.5</span> <span class="toctext">Indoor air quality</span></a></li> 
+         <li class="toclevel-2 tocsection-20"><a href="#Environmental_sensitivity"><span class="tocnumber">4.6</span> <span class="toctext">Environmental sensitivity</span></a></li> 
+         <li class="toclevel-2 tocsection-21"><a href="#Vermin"><span class="tocnumber">4.7</span> <span class="toctext">Vermin</span></a></li> 
+        </ul> </li> 
+       <li class="toclevel-1 tocsection-22"><a href="#Building_Design_Considerations"><span class="tocnumber">5</span> <span class="toctext">Building Design Considerations</span></a></li> 
+       <li class="toclevel-1 tocsection-23"><a href="#Building_process"><span class="tocnumber">6</span> <span class="toctext">Building process</span></a> 
+        <ul> 
+         <li class="toclevel-2 tocsection-24"><a href="#Floors_and_foundations"><span class="tocnumber">6.1</span> <span class="toctext">Floors and foundations</span></a></li> 
+         <li class="toclevel-2 tocsection-25"><a href="#Walls"><span class="tocnumber">6.2</span> <span class="toctext">Walls</span></a></li> 
+         <li class="toclevel-2 tocsection-26"><a href="#Plumbing_and_Electrical"><span class="tocnumber">6.3</span> <span class="toctext">Plumbing and Electrical</span></a></li> 
+        </ul> </li> 
+       <li class="toclevel-1 tocsection-27"><a href="#Cost"><span class="tocnumber">7</span> <span class="toctext">Cost</span></a></li> 
+       <li class="toclevel-1 tocsection-28"><a href="#ICFs_advantages_and_drawbacks"><span class="tocnumber">8</span> <span class="toctext">ICFs advantages and drawbacks</span></a></li> 
+       <li class="toclevel-1 tocsection-29"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li> 
+       <li class="toclevel-1 tocsection-30"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li> 
+      </ul> 
+     </div> 
+     <p></p> 
+     <h2><span class="mw-headline" id="Development">Development</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Insulating_concrete_form&amp;action=edit&amp;section=1" title="Edit section: Development">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>The ICF construction technique was first developed in Europe following <a href="/wiki/World_War_II" title="World War II">World War II</a> as an inexpensive and durable way to rebuild damaged structures. The first patent for an insulated stay-in-place formwork for concrete was registered in the early 1940s using recycled waste wood and cement as the insulating material. This patent was registered by August Schnell and Alex Bosshard in Switzerland. The first polystyrene ICF forms were developed in the late 1960s with the expiration of the original patent and the advent of modern foam plastics. Canadian contractor Werner Gregori filed the first patent for a foam concrete form in 1966 with a block "measuring 16 inches high by 48 inches long with a tongue-and-groove interlock, metal ties, and a waffle-grid core."<sup id="cite_ref-icfhistory_1-0" class="reference"><a href="#cite_note-icfhistory-1"><span>[</span>1<span>]</span></a></sup></p> 
+     <p>The adoption of ICF construction has steadily increased since the 1970s, though it was initially hampered by lack of awareness, building codes, and confusion caused by many different manufacturers selling slightly different ICF designs rather than focusing on industry <a href="/wiki/Standardization" title="Standardization">standardization</a>. ICF construction is now part of most building codes and accepted in most jurisdictions in the developed world.</p> 
+     <h2><span class="mw-headline" id="Construction">Construction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Insulating_concrete_form&amp;action=edit&amp;section=2" title="Edit section: Construction">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>Insulating concrete forms are manufactured from any of the following materials:</p> 
+     <ul> 
+      <li><a href="/wiki/Polystyrene" title="Polystyrene">Polystyrene foam</a> (most commonly expanded or extruded)</li> 
+      <li><a href="/wiki/Polyurethane" title="Polyurethane">Polyurethane foam</a> (including soy-based foam)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></li> 
+      <li><a href="/wiki/Cement-bonded_wood_fiber" title="Cement-bonded wood fiber">Cement-bonded wood fiber</a></li> 
+      <li>Cement-bonded polystyrene beads</li> 
+      <li><a href="/wiki/Types_of_concrete#Cellular_concrete" title="Types of concrete">Cellular concrete</a></li> 
+      <li>Thastyron, a mixture of cement, water and recycled expanded polystyrene.<sup id="cite_ref-rastra_3-0" class="reference"><a href="#cite_note-rastra-3"><span>[</span>3<span>]</span></a></sup></li> 
+     </ul> 
+     <p>Reinforcing steel bars (<a href="/wiki/Rebar" title="Rebar">rebar</a>) are usually placed inside the forms before concrete is poured to give the concrete <a href="/wiki/Flexural_strength" title="Flexural strength">flexural strength</a>, similar to bridges and high-rise buildings made of reinforced concrete. Like other concrete formwork, the forms are filled with concrete in 1-foot to 12-foot high "lifts" to manage the concrete pressure and reduce the risk of blowouts.</p> 
+     <p>After the concrete has cured, the forms are left in place permanently to provide a variety of benefits, depending on materials used:</p> 
+     <ul> 
+      <li><a href="/wiki/Thermal_insulation" title="Thermal insulation">Thermal insulation</a></li> 
+      <li><a href="/wiki/Soundproofing" title="Soundproofing">Soundproofing</a></li> 
+      <li>Good <a href="/wiki/Surface_burning_characteristics_rating" title="Surface burning characteristics rating" class="mw-redirect">Surface burning characteristics rating</a></li> 
+      <li>Space to run <a href="/wiki/Electrical_conduit" title="Electrical conduit">electrical conduit</a> and <a href="/wiki/Plumbing" title="Plumbing">plumbing</a>. The form material on either side of the walls can easily accommodate electrical and plumbing installations.</li> 
+      <li>Backing for <a href="/wiki/Drywall" title="Drywall">drywall</a> or other finishes on the interior and <a href="/wiki/Stucco" title="Stucco">stucco</a>, brick, or other siding on the exterior</li> 
+      <li>Improved <a href="/wiki/Indoor_air_quality" title="Indoor air quality">indoor air quality</a></li> 
+      <li>Regulated humidity levels and mitigated mold growth (hygric buffer)</li> 
+     </ul> 
+     <h2><span class="mw-headline" id="Categorization">Categorization</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Insulating_concrete_form&amp;action=edit&amp;section=3" title="Edit section: Categorization">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>Insulating concrete forms are commonly categorized in two manners. Organizations whose first concern relates to the concrete classify them first by the shape of the concrete inside the form.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> Organizations whose first concern relates to the fabrication of the forms classify them first by the characteristics of the forms themselves.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></p> 
+     <h3><span class="mw-headline" id="By_Concrete_Shape">By Concrete Shape</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Insulating_concrete_form&amp;action=edit&amp;section=4" title="Edit section: By Concrete Shape">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <h4><span class="mw-headline" id="Flat_Wall_System">Flat Wall System</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Insulating_concrete_form&amp;action=edit&amp;section=5" title="Edit section: Flat Wall System">edit</a><span class="mw-editsection-bracket">]</span></span></h4> 
+     <p>For Flat Wall System ICFs, the concrete has the shape of a flat wall of solid reinforced concrete, similar to the shape of a concrete wall constructed using removable forms.</p> 
+     <h4><span class="mw-headline" id="Grid_System">Grid System</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Insulating_concrete_form&amp;action=edit&amp;section=6" title="Edit section: Grid System">edit</a><span class="mw-editsection-bracket">]</span></span></h4> 
+     <h5><span class="mw-headline" id="Screen_Grid_System">Screen Grid System</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Insulating_concrete_form&amp;action=edit&amp;section=7" title="Edit section: Screen Grid System">edit</a><span class="mw-editsection-bracket">]</span></span></h5> 
+     <p>For Screen Grid System ICFs, the concrete has the shape of the metal in a screen, with horizontal and vertical channels of reinforced concrete separated by areas of solid form material.</p> 
+     <h5><span class="mw-headline" id="Waffle_Grid_System">Waffle Grid System</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Insulating_concrete_form&amp;action=edit&amp;section=8" title="Edit section: Waffle Grid System">edit</a><span class="mw-editsection-bracket">]</span></span></h5> 
+     <p>For Waffle Grid System ICFs, the concrete has the shape of a hybrid between Screen Grid and Flat Wall system concrete, with a grid of thicker reinforced concrete and having thinner concrete in the center areas where a screen grid would have solid ICF material.</p> 
+     <h4><span class="mw-headline" id="Post_and_Lintel_System">Post and Lintel System</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Insulating_concrete_form&amp;action=edit&amp;section=9" title="Edit section: Post and Lintel System">edit</a><span class="mw-editsection-bracket">]</span></span></h4> 
+     <p>For Post and Lintel System ICFs, the concrete has a horizontal member, called a lintel, only at the top of the wall (Horizontal concrete at the bottom of the wall is often present in the form of the building's footer or the lintel of the wall below.) and vertical members, called posts, between the lintel and the surface on which the wall is resting.</p> 
+     <h3><span class="mw-headline" id="By_Form_Characteristic">By Form Characteristic</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Insulating_concrete_form&amp;action=edit&amp;section=10" title="Edit section: By Form Characteristic">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <h4><span class="mw-headline" id="Block">Block</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Insulating_concrete_form&amp;action=edit&amp;section=11" title="Edit section: Block">edit</a><span class="mw-editsection-bracket">]</span></span></h4> 
+     <p>For Block ICFs, the exterior shape of the ICF is similar to that of a <a href="/wiki/Concrete_masonry_unit" title="Concrete masonry unit">Concrete masonry unit</a>, although ICF blocks are often larger in size as they are made from a material having a lower specific gravity. Very frequently, the edges of block ICFs are made to interlock, reducing or eliminating the need for the use of a bonding material between the blocks.</p> 
+     <h4><span class="mw-headline" id="Panel">Panel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Insulating_concrete_form&amp;action=edit&amp;section=12" title="Edit section: Panel">edit</a><span class="mw-editsection-bracket">]</span></span></h4> 
+     <p>Panel ICFs have the flat rectangular shape of a section of flat wall they are often the height of the wall and have a width limited by the manipulability of the material at larger sizes and by the general usefulness of the panel size for constructing walls.</p> 
+     <h4><span class="mw-headline" id="Plank">Plank</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Insulating_concrete_form&amp;action=edit&amp;section=13" title="Edit section: Plank">edit</a><span class="mw-editsection-bracket">]</span></span></h4> 
+     <p>Plank ICFs have the size of Block ICFs in one dimension and Panel ICFs in the other dimension.</p> 
+     <h2><span class="mw-headline" id="Characteristics">Characteristics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Insulating_concrete_form&amp;action=edit&amp;section=14" title="Edit section: Characteristics">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <h3><span class="mw-headline" id="Energy_efficiency">Energy efficiency</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Insulating_concrete_form&amp;action=edit&amp;section=15" title="Edit section: Energy efficiency">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <ul> 
+      <li>Minimal, if any, air leaks, which improves comfort and reduces heat loss compared to walls without a solid <a href="/wiki/Air_barrier" title="Air barrier">air barrier</a></li> 
+      <li>High <a href="/wiki/Thermal_resistance" title="Thermal resistance">thermal resistance</a> (<a href="/wiki/R-value_(insulation)" title="R-value (insulation)">R-value</a>) typically above 3 K·m²/W (in American customary units: R-17<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup>); this results in saving energy compared with uninsulated masonry (see <a href="/wiki/R-value_(insulation)#Example_values" title="R-value (insulation)">comparison</a>)</li> 
+      <li>Continuous insulation without <a href="/wiki/Thermal_bridge" title="Thermal bridge">thermal bridges</a> or "insulation gaps", as is common in framed construction</li> 
+      <li><a href="/wiki/Thermal_mass" title="Thermal mass">Thermal mass</a>, when used well and combined with passive solar design, can play an important role in further reductions in energy use, especially in climates where it's common to have outside temperatures swing above inside temperatures during the day and below at night.</li> 
+     </ul> 
+     <h3><span class="mw-headline" id="Strength">Strength</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Insulating_concrete_form&amp;action=edit&amp;section=16" title="Edit section: Strength">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <ul> 
+      <li>Insulating concrete forms create a structural concrete wall, either monolithic or post and beam, that is up to ten times stronger than wood framed structures.</li> 
+      <li>Structural integrity for better resistance to forces of nature, compared to framed walls.</li> 
+      <li>The components of ICF systems&nbsp;— both the poured concrete and the material used to make the ICF&nbsp;— do not rot when they get wet.</li> 
+     </ul> 
+     <h3><span class="mw-headline" id="Sound_absorption">Sound absorption</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Insulating_concrete_form&amp;action=edit&amp;section=17" title="Edit section: Sound absorption">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>ICF walls have much lower rates of <a href="/wiki/Acoustic_transmission" title="Acoustic transmission">acoustic transmission</a>. Standard thickness ICF walls have shown sound transmission coefficients (STC) between 46 and 72 compared to 36 for standard fiberglass insulation and drywall. The level of sound attenuation achieved is a function of wall thickness, mass, component materials and air tightness.</p> 
+     <h3><span class="mw-headline" id="Fire_protection">Fire protection</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Insulating_concrete_form&amp;action=edit&amp;section=18" title="Edit section: Fire protection">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>ICF walls can have four- to six-hour fire resistance rating and negligible surface burning properties. It is worth pointing out that the International Building Code: 2603.5.2<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup> requires plastic foam insulation (e.g. Polystyrene foam, Polyurethane foam) to be separated from the building interior by a thermal barrier (e.g. <a href="/wiki/Drywall" title="Drywall">drywall</a>), regardless of the fire barrier provided by the central concrete. Forms made from cement bonded - wood fibers (eg<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup>), polystyrene beads (e.g.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup>), or air (i.e. cellular concrete - e.g.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup>) have a fire rating inherently.</p> 
+     <h3><span class="mw-headline" id="Indoor_air_quality">Indoor air quality</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Insulating_concrete_form&amp;action=edit&amp;section=19" title="Edit section: Indoor air quality">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>Because they are generally constructed without a sheet plastic vapor barrier, ICF walls can regulate humidity levels, mitigate the potential for mold and facilitate a more comfortable interior while maintaining high thermal performance.</p> 
+     <h3><span class="mw-headline" id="Environmental_sensitivity">Environmental sensitivity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Insulating_concrete_form&amp;action=edit&amp;section=20" title="Edit section: Environmental sensitivity">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>ICF walls can be made with a variety of recycled materials that can minimize the environmental impact of the building. The large volume of concrete used in ICF walls has been criticized, as concrete production is a large contributor to greenhouse gas emissions.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup></p> 
+     <h3><span class="mw-headline" id="Vermin">Vermin</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Insulating_concrete_form&amp;action=edit&amp;section=21" title="Edit section: Vermin">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>Because the entire interior space of ICF walls is continuously occupied (no gaps as can occur between blown or fiberglass insulation and a wood frame wall) they pose more difficulty for casual transit by insects and vermin. Additionally, while plastic foam forms can occasionally be tunneled through, interior concrete wall, and the Portland cement of cement-bonded type forms create a much more challenging barrier to insects and vermin than do walls made of wood.</p> 
+     <h2><span class="mw-headline" id="Building_Design_Considerations">Building Design Considerations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Insulating_concrete_form&amp;action=edit&amp;section=22" title="Edit section: Building Design Considerations">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>When designing a building to be constructed with ICF walls, consideration must be given to supporting the weight of any walls not resting directly on other walls or the building's foundation. Consideration must also be given to the understanding that the load bearing part of an ICF wall is the concrete, which, without special preparations, does not extend in any direction to the edge of the form. For grid and post &amp; lintel systems, the placement of vertical members of the concrete must be organized in such a fashion (e.g., starting at opposite corners or breaks (e.g. doorways) and working to meet in unbroken wall) as to properly transfer load from the lintel (or bond beam) to the surface supporting the wall.</p> 
+     <h2><span class="mw-headline" id="Building_process">Building process</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Insulating_concrete_form&amp;action=edit&amp;section=23" title="Edit section: Building process">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>ICF construction is less demanding, owing to its <a href="/wiki/Modularity" title="Modularity">modularity</a>. Less-skilled labor can be employed to lay the ICF forms, though careful consideration must be made when pouring the concrete to make sure it consolidates fully and <a href="/wiki/Curing_(chemistry)" title="Curing (chemistry)">cures</a> evenly without cracking. Unlike traditional wood beam construction, no additional structural support other than temporary <a href="/wiki/Scaffolding" title="Scaffolding">scaffolding</a> is required for openings, doors, windows, or utilities, though modifying the structure after the concrete cures requires special concrete cutting tools.</p> 
+     <h3><span class="mw-headline" id="Floors_and_foundations">Floors and foundations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Insulating_concrete_form&amp;action=edit&amp;section=24" title="Edit section: Floors and foundations">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>ICF walls are conventionally placed on a <a href="/wiki/Concrete_slab" title="Concrete slab">monolithic slab</a> with embedded rebar <a href="/wiki/Dowel#In_stonemasonry" title="Dowel">dowels</a> connecting the walls to the foundation.</p> 
+     <p>ICF decking is becoming an increasingly popular addition to general ICF wall construction. ICF decking weighs up to 40% less than standard concrete flooring and provides superior insulation. ICF decking can also be designed in conjunction with ICF walls to form a continuous monolithic structure joined together by rebar. ICF deck roofs are less common, as it is difficult to pour concrete on an angled surface.<sup id="cite_ref-Panushev.2C_p._58_14-0" class="reference"><a href="#cite_note-Panushev.2C_p._58-14"><span>[</span>14<span>]</span></a></sup></p> 
+     <h3><span class="mw-headline" id="Walls">Walls</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Insulating_concrete_form&amp;action=edit&amp;section=25" title="Edit section: Walls">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>ICF walls are constructed one row at a time, usually starting at the corners and working toward the middle of the walls. End blocks are then cut to fit so as to waste the least material possible. As the wall rises, blocks are staggered to avoid long vertical seams that can weaken the polystyrene formwork.<sup id="cite_ref-Panushev.2C_p._80_15-0" class="reference"><a href="#cite_note-Panushev.2C_p._80-15"><span>[</span>15<span>]</span></a></sup> Structure frames known as <i>bucks</i> are placed around openings to give added strength to the openings and to serve as attachment points for windows and doors.</p> 
+     <p>Interior and exterior finishes and facades are affixed directly to the ICF surface or tie ends, depending on the type of ICF. Brick and masonry facades require an extended ledge or shelf angle at the main floor level, but otherwise no modifications are necessary. Interior ICF polystyrene wall surfaces must be covered with drywall panels or other wall coatings.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup> During the first months immediately after construction, minor problems with interior humidity may be evident as the concrete cures, which can damage the drywall. Dehumidification can be accomplished with small residential dehumidifiers or using the building's air conditioning system.</p> 
+     <p>Depending on the experience of the contractor and their quality of work, improperly installed exterior foam insulation could be easy access for groundwater and insects. To help prevent these problems, some manufacturers make insecticide-treated foam blocks and promote installation of drainage sheeting and other methods for waterproofing. Drain tiles are installed to eliminate water.</p> 
+     <h3><span class="mw-headline" id="Plumbing_and_Electrical">Plumbing and Electrical</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Insulating_concrete_form&amp;action=edit&amp;section=26" title="Edit section: Plumbing and Electrical">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>Plumbing and <a href="/wiki/Electrical_conduit" title="Electrical conduit">electrical conduit</a> can be placed inside the forms and poured into place, though <a href="/wiki/Settling" title="Settling">settling</a> problems could cause pipes to break, creating costly repairs. For this reason, plumbing and conduit as well as electrical cables are usually embedded directly into the foam before the wall coverings are applied. A <a href="/wiki/Hot_knife" title="Hot knife" class="mw-disambig">hot knife</a> or electric chainsaw is commonly used to create openings in the foam to lay piping and cabling. electrical cables are inserted into the ICF using a <a href="/wiki/Cable_Punch" title="Cable Punch">Cable Punch</a>.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup> while ICFs made from other materials are typically cut or <a href="/wiki/Router_(woodworking)" title="Router (woodworking)">routed</a> with simple carpentry tools. Versions of simple carpentry tools suitable for cement-bonded type forms are made for similar use with <a href="/wiki/Autoclaved_aerated_concrete" title="Autoclaved aerated concrete">autoclaved aerated concrete</a>.</p> 
+     <h2><span class="mw-headline" id="Cost">Cost</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Insulating_concrete_form&amp;action=edit&amp;section=27" title="Edit section: Cost">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>The initial cost of using ICFs rather than conventional construction techniques is sensitive to the price of materials and labor, but building using ICF can generally add 3 to 5 percent in construction cost over building using wood frame.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup> In most cases ICF construction will cost about 40% less than conventional (basement) construction because of the labor savings from combining multiple steps into one step. Above grade, ICF construction is typically more expensive, but when adding large openings, ICF construction becomes very cost effective. Large openings in conventional construction require large headers and supporting posts, whereas ICF construction reduces the cost, as only reinforcing steel is needed directly around the opening.</p> 
+     <p>ICF construction can allow up to 60% smaller heating and cooling units to service the same floor area, which can cut the cost of the final house by an estimated $0.75 per square foot. So, the estimated net extra cost can be as much as $0.25 to $3.25.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup><sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>20<span>]</span></a></sup> ICF homes can also qualify for <a href="/wiki/Tax_credit" title="Tax credit">tax credits</a>, further lowering the costs.</p> 
+     <p>ICF buildings are less expensive over time, as they require less energy to heat and cool the same size space compared to a variety of other common construction methods. Additionally, <a href="/wiki/Insurance" title="Insurance">insurance</a> costs can be much lower, as ICF homes are much less susceptible to damage from earthquakes, floods, hurricanes, fires, and other natural disasters. Maintenance and upkeep costs are also lessened, as ICF buildings do not contain wood, which can rot over time or be attacked by insects and rodents.<sup id="cite_ref-pan16_21-0" class="reference"><a href="#cite_note-pan16-21"><span>[</span>21<span>]</span></a></sup></p> 
+     <h2><span class="mw-headline" id="ICFs_advantages_and_drawbacks">ICFs advantages and drawbacks</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Insulating_concrete_form&amp;action=edit&amp;section=28" title="Edit section: ICFs advantages and drawbacks">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>ICF construction is great in seismic and hurricane-prone areas. It provides strength, durability, excellent sound insulation and airtightness. ICF construction is ideal in moderate and mixed climates with significant daily temperature variations, in buildings designed to benefit from <a href="/wiki/Thermal_mass" title="Thermal mass">thermal mass</a> strategies.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup></p> 
+     <p>The typical insulating value (<a href="/wiki/R-value_(insulation)" title="R-value (insulation)">R-value</a>) of ICFs range from R-12 to R-26, which can be a good R-value for walls in a moderate or hot climate, but falls short of the best for high-efficient buildings in cold climates.</p> 
+     <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Insulating_concrete_form&amp;action=edit&amp;section=29" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <div class="reflist" style="list-style-type: decimal;"> 
+      <ol class="references"> 
+       <li id="cite_note-icfhistory-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-icfhistory_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.icfmag.com/articles/features/history_of_icfs.html">"History of ICFs"</a>. ICF Mag<span class="reference-accessdate">. Retrieved <span class="nowrap">8 June</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInsulating+concrete+form&amp;rft.btitle=History+of+ICFs&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.icfmag.com%2Farticles%2Ffeatures%2Fhistory_of_icfs.html&amp;rft.pub=ICF+Mag&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web">Haefs, Brian. <a rel="nofollow" class="external text" href="http://www.greenbuildingsolutions.org/s_greenbuilding/doc.asp?CID=2150&amp;DID=9058">"Forms and Function"</a>. <i>Green Building Solutions</i>. American Chemistry Council, Inc<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-05-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInsulating+concrete+form&amp;rft.atitle=Forms+and+Function&amp;rft.aufirst=Brian&amp;rft.aulast=Haefs&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.greenbuildingsolutions.org%2Fs_greenbuilding%2Fdoc.asp%3FCID%3D2150%26DID%3D9058&amp;rft.jtitle=Green+Building+Solutions&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-rastra-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-rastra_3-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.rastra.com">Rastra Insulated Concrete Form System (ICF) Construction Building Blocks For Houses &amp; Commercial Buildings</a></span></li> 
+       <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cement.org/think-harder-concrete-/homes/building-systems/insulated-concrete-forms">"Insulating Concrete Forms"</a>. The Portland Cement Association<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-07-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInsulating+concrete+form&amp;rft.btitle=Insulating+Concrete+Forms&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.cement.org%2Fthink-harder-concrete-%2Fhomes%2Fbuilding-systems%2Finsulated-concrete-forms&amp;rft.pub=The+Portland+Cement+Association&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.concretebuildings.org/icf/faq.html">"Commercial Construction Concrete Buildings, Design for Tilt Up and ICF"</a>. The National Ready Mixed Concrete Association<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-07-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInsulating+concrete+form&amp;rft.btitle=Commercial+Construction+Concrete+Buildings%2C+Design+for+Tilt+Up+and+ICF&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.concretebuildings.org%2Ficf%2Ffaq.html&amp;rft.pub=The+National+Ready+Mixed+Concrete+Association&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.forms.org/index.cfm/ICFtypes">"Types of ICF"</a>. The Expanded PolyStyrene - Industry Alliance<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-07-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInsulating+concrete+form&amp;rft.btitle=Types+of+ICF&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.forms.org%2Findex.cfm%2FICFtypes&amp;rft.pub=The+Expanded+PolyStyrene+-+Industry+Alliance&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://apps1.eere.energy.gov/consumer/your_home/insulation_airsealing/index.cfm/mytopic=11640">"Insulating Concrete Forms"</a>. <i>EERE Consumer's Guide</i>. U.S. <a href="/wiki/United_States_Department_of_Energy" title="United States Department of Energy">Department of Energy</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInsulating+concrete+form&amp;rft.atitle=Insulating+Concrete+Forms&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fapps1.eere.energy.gov%2Fconsumer%2Fyour_home%2Finsulation_airsealing%2Findex.cfm%2Fmytopic%3D11640&amp;rft.jtitle=EERE+Consumer%27s+Guide&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://publicecodes.cyberregs.com/icod/ibc/2012/icod_ibc_2012_26_sec003_par021.htm">"Chapter 26 - Plastic"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2014-10-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInsulating+concrete+form&amp;rft.btitle=Chapter+26+-+Plastic&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fpublicecodes.cyberregs.com%2Ficod%2Fibc%2F2012%2Ficod_ibc_2012_26_sec003_par021.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://durisolbuild.com/Webdocs/Durisol%20Material%20Properties.pdf">"Property Value Units Test Standard - Durisol Material Properties"</a> <span style="font-size:85%;">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">2014-10-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInsulating+concrete+form&amp;rft.btitle=Property+Value+Units+Test+Standard+-+Durisol+Material+Properties&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fdurisolbuild.com%2FWebdocs%2FDurisol%2520Material%2520Properties.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.rastra.com/technicaldata.html">"Rastra Technical Data"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2014-10-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInsulating+concrete+form&amp;rft.btitle=Rastra+Technical+Data&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.rastra.com%2Ftechnicaldata.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.performwall.com/testing.sstg">"Performwall Panel System Testing"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2014-10-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInsulating+concrete+form&amp;rft.btitle=Performwall+Panel+System+Testing&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.performwall.com%2Ftesting.sstg&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.greisel.de/Cellular-concrete-sh.93972.0.html?&amp;L=2">"Greisel Klimanorm:Cellular Concrete shows what it is made of in the event of a fire"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2014-10-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInsulating+concrete+form&amp;rft.btitle=Greisel+Klimanorm%3ACellular+Concrete+shows+what+it+is+made+of+in+the+event+of+a+fire&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.greisel.de%2FCellular-concrete-sh.93972.0.html%3F%26L%3D2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Mahasenan, Natesan; Steve Smith; Kenneth Humphreys; Y. Kaya (2003). "The Cement Industry and Global Climate Change: Current and Potential Future Cement Industry CO2 Emissions". Greenhouse Gas Control Technologies – 6th International Conference. Oxford: Pergamon. pp. 995–1000. doi:10.1016/B978-008044276-1/50157-4. <a href="/wiki/Special:BookSources/9780080442761" class="internal mw-magiclink-isbn">ISBN 978-0-08-044276-1</a>.</span></li> 
+       <li id="cite_note-Panushev.2C_p._58-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-Panushev.2C_p._58_14-0">^</a></b></span> <span class="reference-text">Panushev, Ivan S.; Pieter A. Vanderwerf (2004). Insulating Concrete Forms Construction. McGraw Hill. <a href="/wiki/Special:BookSources/0071430571" class="internal mw-magiclink-isbn">ISBN 0-07-143057-1</a>."&gt; Panushev, p. 58</span></li> 
+       <li id="cite_note-Panushev.2C_p._80-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-Panushev.2C_p._80_15-0">^</a></b></span> <span class="reference-text">Panushev, p.80</span></li> 
+       <li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.icfmag.com/articles/features/icf_interior_finishes.html">http://www.icfmag.com/articles/features/icf_interior_finishes.html</a></span></li> 
+       <li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://journeymantools.com/cable-punch/">"Cable Punch"</a>. <i>JourneymanTools</i>. Journeyman Tools<span class="reference-accessdate">. Retrieved <span class="nowrap">20 June</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInsulating+concrete+form&amp;rft.atitle=Cable+Punch&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fjourneymantools.com%2Fcable-punch%2F&amp;rft.jtitle=JourneymanTools&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.huduser.org/portal/publications/destech/icfbenefits.html">http://www.huduser.org/portal/publications/destech/icfbenefits.html</a></span></li> 
+       <li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.concretebuildings.org/ICF%20financial.html">http://www.concretebuildings.org/ICF%20financial.html</a></span></li> 
+       <li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.concretenetwork.com/concrete-homes/cost.html">http://www.concretenetwork.com/concrete-homes/cost.html</a></span></li> 
+       <li id="cite_note-pan16-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-pan16_21-0">^</a></b></span> <span class="reference-text">Panushev, p. 16</span></li> 
+       <li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">["The homeowner’s handbook to energy efficiency, p. 166"], John Krigger and Chris Dorsi</span></li> 
+      </ol> 
+     </div> 
+     <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Insulating_concrete_form&amp;action=edit&amp;section=30" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <ul> 
+      <li><a rel="nofollow" class="external text" href="http://www.forms.org/">Insulating Concrete Form Association (North America)</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.icfinfo.org.uk/">Insulating Concrete Formwork Association (UK)</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.huduser.org/portal/publications/destech/icfbenefits.html">US Housing and Urban Development on cost and benefit of ICF</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://isoshell.com">IsoShell, the European ICF manufacturer</a></li> 
+     </ul> 
+     <!-- 
+NewPP limit report
+Parsed by mw1234
+Cached time: 20160301182601
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.141 seconds
+Real time usage: 0.159 seconds
+Preprocessor visited node count: 861/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 15243/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 4/40
+Expensive parser function count: 0/500
+Lua time usage: 0.055/10.000 seconds
+Lua memory usage: 2.55 MB/50 MB
+Number of Wikibase entities loaded: 0--> 
+     <!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  107.420      1 - Template:Reflist
+100.00%  107.420      1 - -total
+ 77.66%   83.417     12 - Template:Cite_web
+--> 
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:1589872-0!*!0!!en!4!* and timestamp 20160301182601 and revision id 707771488
+ --> 
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript>
+    </div> 
+    <div class="printfooter">
+      Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Insulating_concrete_form&amp;oldid=707771488">https://en.wikipedia.org/w/index.php?title=Insulating_concrete_form&amp;oldid=707771488</a>" 
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Building_engineering" title="Category:Building engineering">Building engineering</a></li>
+       <li><a href="/wiki/Category:Building_insulation_materials" title="Category:Building insulation materials">Building insulation materials</a></li>
+       <li><a href="/wiki/Category:Building_materials" title="Category:Building materials">Building materials</a></li>
+       <li><a href="/wiki/Category:Building_technology" title="Category:Building technology">Building technology</a></li>
+       <li><a href="/wiki/Category:Structural_engineering" title="Category:Structural engineering">Structural engineering</a></li>
+       <li><a href="/wiki/Category:Earthquake_engineering" title="Category:Earthquake engineering">Earthquake engineering</a></li>
+      </ul>
+     </div>
+    </div> 
+    <div class="visualClear"></div> 
+   </div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> 
+    <div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label"> 
+     <h3 id="p-personal-label">Personal tools</h3> 
+     <ul> 
+      <li id="pt-anonuserpage">Not logged in</li>
+      <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+      <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+      <li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Insulating+concrete+form&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+      <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Insulating+concrete+form" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li> 
+     </ul> 
+    </div> 
+    <div id="left-navigation"> 
+     <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label"> 
+      <h3 id="p-namespaces-label">Namespaces</h3> 
+      <ul> 
+       <li id="ca-nstab-main" class="selected"><span><a href="/wiki/Insulating_concrete_form" title="View the content page [c]" accesskey="c">Article</a></span></li> 
+       <li id="ca-talk"><span><a href="/wiki/Talk:Insulating_concrete_form" title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span><a href="#"></a> </h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="right-navigation"> 
+     <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label"> 
+      <h3 id="p-views-label">Views</h3> 
+      <ul> 
+       <li id="ca-view" class="selected"><span><a href="/wiki/Insulating_concrete_form">Read</a></span></li> 
+       <li id="ca-edit"><span><a href="/w/index.php?title=Insulating_concrete_form&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li> 
+       <li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Insulating_concrete_form&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch"> 
+        <input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput">
+        <input type="hidden" value="Special:Search" name="title">
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton">
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a>
+    </div> 
+    <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label"> 
+     <h3 id="p-navigation-label">Navigation</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+       <li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label"> 
+     <h3 id="p-interaction-label">Interaction</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label"> 
+     <h3 id="p-tb-label">Tools</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Insulating_concrete_form" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Insulating_concrete_form" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Insulating_concrete_form&amp;oldid=707771488" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Insulating_concrete_form&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q3799251" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Insulating_concrete_form&amp;id=707771488" title="Information on how to cite this page">Cite this page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label"> 
+     <h3 id="p-coll-print_export-label">Print/export</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Insulating+concrete+form">Create a book</a></li>
+       <li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Insulating+concrete+form&amp;returnto=Insulating+concrete+form&amp;oldid=707771488&amp;writer=rdf2latex">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Insulating_concrete_form&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label"> 
+     <h3 id="p-lang-label">Languages</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%A8%D8%AA%D9%86_%D9%85%D8%B3%D9%84%D8%AD_%D8%A8%D8%A7_%D8%B9%D8%A7%DB%8C%D9%82_%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1" title="بتن مسلح با عایق ماندگار – Persian" lang="fa" hreflang="fa">فارسی</a></li>
+       <li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Insulated_concrete_form" title="Insulated concrete form – Italian" lang="it" hreflang="it">Italiano</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Pustak_styropianowy" title="Pustak styropianowy – Polish" lang="pl" hreflang="pl">Polski</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/Icf" title="Icf – Russian" lang="ru" hreflang="ru">Русский</a></li>
+       <li class="uls-p-lang-dummy"><a href="#"></a></li> 
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q3799251#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last modified on 1 March 2016, at 18:26.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-cookiestatement"><a href="//wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Insulating_concrete_form&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"> <a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"></a> </li> 
+    <li id="footer-poweredbyico"> <a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"></a> </li> 
+   </ul> 
+   <div style="clear:both"></div> 
+  </div> 
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.wikimediaEvents","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script>
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.config.set({"wgBackendResponseTime":71,"wgHostname":"mw1170"}); /* @nomin */
+} );</script>   
+ </body>
+</html>

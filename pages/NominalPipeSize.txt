@@ -1,0 +1,1116 @@
+https://en.wikipedia.org/wiki/Nominal_Pipe_Size
+<!doctype html>
+<html lang="en" dir="ltr" class="client-nojs">
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Nominal Pipe Size - Wikipedia, the free encyclopedia</title> 
+  <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script> 
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Nominal_Pipe_Size","wgTitle":"Nominal Pipe Size","wgCurRevisionId":710335068,"wgRevisionId":710335068,"wgArticleId":4015299,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using web citations with no URL","Pages using citations with accessdate and no URL","Piping","Mechanical standards"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Nominal_Pipe_Size","wgRelevantArticleId":4015299,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCentralAuthMobileDomain":false,"wgWikibaseItemId":"Q1931528","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script> 
+  <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script> 
+  <meta name="generator" content="MediaWiki 1.27.0-wmf.17"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Nominal_Pipe_Size"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Nominal_Pipe_Size&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Nominal_Pipe_Size&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Nominal_Pipe_Size"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Nominal_Pipe_Size skin-vector action-view"> 
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> 
+   <a id="top"></a> 
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Nominal Pipe Size</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="jump-to-nav" class="mw-jump">
+      Jump to: 
+     <a href="#mw-head">navigation</a>, 
+     <a href="#p-search">search</a> 
+    </div> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <p><b>Nominal Pipe Size</b> (<b>NPS</b>) is a North American set of standard sizes for pipes used for high or low pressures and temperatures.<sup id="cite_ref-FOOTNOTEASME_B36.1020041_1-0" class="reference"><a href="#cite_note-FOOTNOTEASME_B36.1020041-1"><span>[</span>1<span>]</span></a></sup> "Nominal" refers to pipe in non-specific terms and identifies the diameter of the hole with a non-dimensional number (for example – "2-inch nominal steel pipe" consists of many varieties of steel pipe with the only criterion being a 2-inch diameter hole through the center). Specific pipe is identified by pipe diameter and another non-dimensional number for wall thickness referred to as the Schedule (Sched. or Sch., for example – "2 inch diameter pipe, Schedule 40"). NPS is often incorrectly called National Pipe Size, due to confusion with <a href="/wiki/National_pipe_thread" title="National pipe thread">national pipe thread (NPT)</a>. The European and international designation equivalent to NPS is <i>DN</i> (<i>diamètre nominal</i>/nominal diameter/Durchmesser nach Norm), in which sizes are measured in millimetres, see ISO 6708.<sup id="cite_ref-DN_2-0" class="reference"><a href="#cite_note-DN-2"><span>[</span>2<span>]</span></a></sup> The term <b>NB</b> (<b>nominal bore</b>) is also frequently used interchangeably with NPS.</p> 
+     <p><br> In March 1927 the <a href="/wiki/American_National_Standards_Institute" title="American National Standards Institute">American Standards Association</a> authorized a committee to standardize the dimensions of wrought steel and <a href="/wiki/Wrought_iron" title="Wrought iron">wrought iron</a> pipe and tubing. At that time only a small selection of wall thicknesses were in use: standard weight (STD), extra-strong (XS), and double extra-strong (XXS), based on the <a href="/wiki/Iron_pipe_size" title="Iron pipe size">iron pipe size (IPS)</a> system of the day. However these three sizes did not fit all applications. Also, in 1939, it was hoped that the designations of STD, XS, and XXS would be phased out by schedule numbers, however those original terms are still in common use today (although sometimes referred to as <i>standard, extra-heavy (XH),</i> and <i>double extra-heavy (XXH)</i>, respectively). Since the original schedules were created, there have been many revisions and additions to the tables of pipe sizes based on industry use and on standards from <a href="/wiki/American_Petroleum_Institute" title="American Petroleum Institute">API</a>, <a href="/wiki/ASTM_International" title="ASTM International">ASTM</a>, and others.<sup id="cite_ref-FOOTNOTEASME_B36.102004iv_3-0" class="reference"><a href="#cite_note-FOOTNOTEASME_B36.102004iv-3"><span>[</span>3<span>]</span></a></sup></p> 
+     <p>Stainless steel pipes, which were coming into more common use in the mid 20th century, permitted the use of thinner pipe walls with much less risk of failure due to corrosion. By 1949 thinner schedules 5S and 10S, which were based on the pressure requirements modified to the nearest <a href="/wiki/Stubs_Iron_Wire_Gauge" title="Stubs Iron Wire Gauge">BWG</a> number, had been created, and other "S" sizes followed later. Due to their thin walls, the smaller "S" sizes can not be threaded together according to ASME code, but must be <a href="/wiki/Fusion_welding" title="Fusion welding">fusion welded</a>.<sup id="cite_ref-FOOTNOTEASME_B36.192004iv_4-0" class="reference"><a href="#cite_note-FOOTNOTEASME_B36.192004iv-4"><span>[</span>4<span>]</span></a></sup></p> 
+     <p></p> 
+     <div id="toc" class="toc"> 
+      <div id="toctitle"> 
+       <h2>Contents</h2> 
+      </div> 
+      <ul> 
+       <li class="toclevel-1 tocsection-1"><a href="#Application"><span class="tocnumber">1</span> <span class="toctext">Application</span></a></li> 
+       <li class="toclevel-1 tocsection-2"><a href="#NPS_tables_for_selected_sizes"><span class="tocnumber">2</span> <span class="toctext">NPS tables for selected sizes</span></a> 
+        <ul> 
+         <li class="toclevel-2 tocsection-3"><a href="#NPS_.E2.85.9B_to_NPS_3.C2.BD"><span class="tocnumber">2.1</span> <span class="toctext">NPS ⅛ to NPS 3½</span></a></li> 
+         <li class="toclevel-2 tocsection-4"><a href="#NPS_4_to_NPS_9"><span class="tocnumber">2.2</span> <span class="toctext">NPS 4 to NPS 9</span></a></li> 
+         <li class="toclevel-2 tocsection-5"><a href="#NPS_10_to_NPS_24"><span class="tocnumber">2.3</span> <span class="toctext">NPS 10 to NPS 24</span></a></li> 
+         <li class="toclevel-2 tocsection-6"><a href="#Additional_sizes_.28NPS.29"><span class="tocnumber">2.4</span> <span class="toctext">Additional sizes (NPS)</span></a></li> 
+        </ul> </li> 
+       <li class="toclevel-1 tocsection-7"><a href="#International_usage"><span class="tocnumber">3</span> <span class="toctext">International usage</span></a></li> 
+       <li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li> 
+       <li class="toclevel-1 tocsection-9"><a href="#Notes"><span class="tocnumber">5</span> <span class="toctext">Notes</span></a></li> 
+       <li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li> 
+       <li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li> 
+      </ul> 
+     </div> 
+     <p></p> 
+     <h2><span class="mw-headline" id="Application">Application</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nominal_Pipe_Size&amp;action=edit&amp;section=1" title="Edit section: Application">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>Based on the NPS and schedule of a pipe,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> the pipe outside diameter (OD) and wall thickness can be obtained from reference tables such as those below, which are based on ASME standards B36.10M and B36.19M. For example, NPS 14 Sch 40 has an OD of 14&nbsp;inches and a wall thickness of 0.437&nbsp;inches. However the NPS and OD values are not always equal, which can create confusion.</p> 
+     <ul> 
+      <li>For NPS ⅛ to 12, the NPS and OD values are different. For example, the OD of an NPS 12 pipe is actually 12.75&nbsp;inches. To find the actual OD for each NPS value, refer to the tables below. (Note that for <a href="/wiki/Tubing_(material)" title="Tubing (material)" class="mw-redirect">tubing</a>, the size indicates actual dimensions, not nominal.)</li> 
+      <li>For NPS 14 and up, the NPS and OD values are equal. In other words, an NPS 14 pipe is actually 14&nbsp;inches OD.</li> 
+     </ul> 
+     <p>The reason for the discrepancy for NPS ⅛ to 12&nbsp;inches is that these NPS values were originally set to give the same <i>inside</i> diameter (ID) based on wall thicknesses standard at the time. However, as the set of available wall thicknesses evolved, the ID changed and NPS became only indirectly related to ID and OD.</p> 
+     <p>For a given NPS, the OD stays fixed and the wall thickness increases with schedule. For a given schedule, the OD increases with NPS while the wall thickness stays constant or increases. Using equations and rules in ASME B31.3 Process Piping, it can be shown that pressure rating decreases with increasing NPS and constant schedule.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>a<span>]</span></a></sup></p> 
+     <p>Some specifications use pipe schedules called standard wall (STD), extra strong (XS), and double extra strong (XXS), although these actually belong to an older system called iron pipe size (IPS). The IPS number is the same as the NPS number. STD is identical to SCH 40S, and 40S is identical to 40 for NPS 1/8 to NPS 10, inclusive. XS is identical to SCH 80S, and 80S is identical to 80 for NPS 1/8 to NPS 8, inclusive. XXS wall is thicker than schedule 160 from NPS 1/8" to NPS 6" inclusive, and schedule 160 is thicker than XXS wall for NPS 8" and larger.</p> 
+     <p><b>Blockage or Ball Test:</b> When a pipe is welded or bent the most common method to inspect blockages, misalignment, ovality, and weld bead dimensional conformity is to pass a round ball through the pipe coil or circuit. If the inner pipe dimension is to be measured then you should subtract the weld bead, if welding is applicable. Typically, the clearance tolerance for the ball must not exceed 1mm. Allowable ovality of any pipe is measured on the inside dimension of the pipe, normally 5% to 10% ovality can be accepted. If no other test is conducted to verify ovality, or blockages, this test must be seen as a <b>standard requirement</b>. A flow test can not be used in lieu of a Blockage or Ball Test. See pipe dimensional table, Specification ASME B36.10M or B36.19M for pipe dimensions per schedule.</p> 
+     <p>Stainless steel pipe is most often available in standard weight sizes (noted by the "S" designation, for example "NPS Sch 10S"). However stainless steel pipe can also be available in other schedules.</p> 
+     <p>Both <a href="/wiki/Polyvinyl_chloride" title="Polyvinyl chloride">polyvinyl chloride</a> pipe (PVC) and <a href="/wiki/Chlorinated_polyvinyl_chloride" title="Chlorinated polyvinyl chloride">chlorinated polyvinyl chloride</a> pipe (CPVC) are made in NPS sizes.</p> 
+     <h2><span class="mw-headline" id="NPS_tables_for_selected_sizes">NPS tables for selected sizes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nominal_Pipe_Size&amp;action=edit&amp;section=2" title="Edit section: NPS tables for selected sizes">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <h3><span class="mw-headline" id="NPS_.E2.85.9B_to_NPS_3.C2.BD">NPS ⅛ to NPS 3½</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nominal_Pipe_Size&amp;action=edit&amp;section=3" title="Edit section: NPS ⅛ to NPS 3½">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <table class="wikitable"> 
+      <tbody>
+       <tr> 
+        <th rowspan="2">NPS<sup id="cite_ref-table_8-0" class="reference"><a href="#cite_note-table-8"><span>[</span>7<span>]</span></a></sup></th> 
+        <th rowspan="2">DN<sup id="cite_ref-DN_2-1" class="reference"><a href="#cite_note-DN-2"><span>[</span>2<span>]</span></a></sup></th> 
+        <th rowspan="2">OD<br> [in (mm)]</th> 
+        <th colspan="8">Wall thickness<br> [in (mm)]</th> 
+       </tr> 
+       <tr> 
+        <th>SCH 5s</th> 
+        <th>SCH 10s/20</th> 
+        <th>SCH 30</th> 
+        <th>SCH 40s/40<br> /STD</th> 
+        <th>SCH 80s/80<br> /XS</th> 
+        <th>SCH 120</th> 
+        <th>SCH 160</th> 
+        <th>XXS</th> 
+       </tr> 
+       <tr> 
+        <th>⅛</th> 
+        <th>6</th> 
+        <td>0.404 (10.26)</td> 
+        <td>0.035 (0.889)</td> 
+        <td>0.049 (1.245)</td> 
+        <td>0.057 (1.448)</td> 
+        <td>0.068 (1.727)</td> 
+        <td>0.095 (2.413)</td> 
+        <td>—</td> 
+        <td>—</td> 
+        <td>—</td> 
+       </tr> 
+       <tr> 
+        <th>¼</th> 
+        <th>8</th> 
+        <td>0.540 (13.72)</td> 
+        <td>0.049 (1.245)</td> 
+        <td>0.065 (1.651)</td> 
+        <td>0.073 (1.854)</td> 
+        <td>0.088 (2.235)</td> 
+        <td>0.119 (3.023)</td> 
+        <td>—</td> 
+        <td>—</td> 
+        <td>—</td> 
+       </tr> 
+       <tr> 
+        <th>⅜</th> 
+        <th>10</th> 
+        <td>0.675 (17.15)</td> 
+        <td>0.049 (1.245)</td> 
+        <td>0.065 (1.651)</td> 
+        <td>0.073 (1.854)</td> 
+        <td>0.091 (2.311)</td> 
+        <td>0.126 (3.200)</td> 
+        <td>—</td> 
+        <td></td> 
+        <td>—</td> 
+       </tr> 
+       <tr> 
+        <th>½</th> 
+        <th>15</th> 
+        <td>0.840 (21.34)</td> 
+        <td>0.065 (1.651)</td> 
+        <td>0.083 (2.108)</td> 
+        <td>0.095 (2.413)</td> 
+        <td>0.109 (2.769)</td> 
+        <td>0.147 (3.734)</td> 
+        <td>—</td> 
+        <td>0.188 (4.775)</td> 
+        <td>0.294 (7.468)</td> 
+       </tr> 
+       <tr> 
+        <th>¾</th> 
+        <th>20</th> 
+        <td>1.050 (26.67)</td> 
+        <td>0.065 (1.651)</td> 
+        <td>0.083 (2.108)</td> 
+        <td>0.095 (2.413)</td> 
+        <td>0.113 (2.870)</td> 
+        <td>0.154 (3.912)</td> 
+        <td>—</td> 
+        <td>0.219 (5.563)</td> 
+        <td>0.308 (7.823)</td> 
+       </tr> 
+       <tr> 
+        <th>1</th> 
+        <th>25</th> 
+        <td>1.315 (33.40)</td> 
+        <td>0.065 (1.651)</td> 
+        <td>0.109 (2.769)</td> 
+        <td>0.114 (2.896)</td> 
+        <td>0.133 (3.378)</td> 
+        <td>0.179 (4.547)</td> 
+        <td>—</td> 
+        <td>0.250 (6.350)</td> 
+        <td>0.358 (9.093)</td> 
+       </tr> 
+       <tr> 
+        <th>1¼</th> 
+        <th>32</th> 
+        <td>1.660 (42.16)</td> 
+        <td>0.065 (1.651)</td> 
+        <td>0.109 (2.769)</td> 
+        <td>0.117 (2.972)</td> 
+        <td>0.140 (3.556)</td> 
+        <td>0.191 (4.851)</td> 
+        <td>—</td> 
+        <td>0.250 (6.350)</td> 
+        <td>0.382 (9.703)</td> 
+       </tr> 
+       <tr> 
+        <th>1½</th> 
+        <th>40</th> 
+        <td>1.900 (48.26)</td> 
+        <td>0.065 (1.651)</td> 
+        <td>0.109 (2.769)</td> 
+        <td>0.125 (3.175)</td> 
+        <td>0.145 (3.683)</td> 
+        <td>0.200 (5.080)</td> 
+        <td>—</td> 
+        <td>0.281 (7.137)</td> 
+        <td>0.400 (10.160)</td> 
+       </tr> 
+       <tr> 
+        <th>2</th> 
+        <th>50</th> 
+        <td>2.375 (60.33)</td> 
+        <td>0.065 (1.651)</td> 
+        <td>0.109 (2.769)</td> 
+        <td>0.125 (3.175)</td> 
+        <td>0.154 (3.912)</td> 
+        <td>0.218 (5.537)</td> 
+        <td>0.250 (6.350)</td> 
+        <td>0.344 (8.738)</td> 
+        <td>0.436 (11.074)</td> 
+       </tr> 
+       <tr> 
+        <th>2½</th> 
+        <th>65</th> 
+        <td>2.875 (73.03)</td> 
+        <td>0.083 (2.108)</td> 
+        <td>0.120 (3.048)</td> 
+        <td>0.188 (4.775)</td> 
+        <td>0.203 (5.156)</td> 
+        <td>0.276 (7.010)</td> 
+        <td>0.300 (7.620)</td> 
+        <td>0.375 (9.525)</td> 
+        <td>0.552 (14.021)</td> 
+       </tr> 
+       <tr> 
+        <th>3</th> 
+        <th>80</th> 
+        <td>3.500 (88.90)</td> 
+        <td>0.083 (2.108)</td> 
+        <td>0.120 (3.048)</td> 
+        <td>0.188 (4.775)</td> 
+        <td>0.216 (5.486)</td> 
+        <td>0.300 (7.620)</td> 
+        <td>0.350 (8.890)</td> 
+        <td>0.438 (11.125)</td> 
+        <td>0.600 (15.240)</td> 
+       </tr> 
+       <tr> 
+        <th>3½</th> 
+        <th>90</th> 
+        <td>4.000 (101.60)</td> 
+        <td>0.083 (2.108)</td> 
+        <td>0.120 (3.048)</td> 
+        <td>0.188 (4.775)</td> 
+        <td>0.226 (5.740)</td> 
+        <td>0.318 (8.077)</td> 
+        <td>—</td> 
+        <td>—</td> 
+        <td>0.636 (16.154)</td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <p>Tolerance: The tolerance on pipe OD is +1/64 (.0156)inch, -1/32 (.0312)inch.<sup id="cite_ref-FOOTNOTEA9992014_9-0" class="reference"><a href="#cite_note-FOOTNOTEA9992014-9"><span>[</span>8<span>]</span></a></sup></p> 
+     <h3><span class="mw-headline" id="NPS_4_to_NPS_9">NPS 4 to NPS 9</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nominal_Pipe_Size&amp;action=edit&amp;section=4" title="Edit section: NPS 4 to NPS 9">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <table class="wikitable"> 
+      <tbody>
+       <tr> 
+        <th rowspan="2">NPS<sup id="cite_ref-table_8-1" class="reference"><a href="#cite_note-table-8"><span>[</span>7<span>]</span></a></sup></th> 
+        <th rowspan="2">DN<sup id="cite_ref-DN_2-2" class="reference"><a href="#cite_note-DN-2"><span>[</span>2<span>]</span></a></sup></th> 
+        <th rowspan="2">OD<br> [in (mm)]</th> 
+        <th colspan="12">Wall thickness<br> [in (mm)]</th> 
+       </tr> 
+       <tr> 
+        <th>SCH 5</th> 
+        <th>SCH 10s/10</th> 
+        <th>SCH 20</th> 
+        <th>SCH 30</th> 
+        <th>SCH 40s/40<br> /STD</th> 
+        <th>SCH 60</th> 
+        <th>SCH 80s/80<br> /XS</th> 
+        <th>SCH 100</th> 
+        <th>SCH 120</th> 
+        <th>SCH 140</th> 
+        <th>SCH 160</th> 
+        <th>XXS<sup id="cite_ref-table_8-2" class="reference"><a href="#cite_note-table-8"><span>[</span>7<span>]</span></a></sup></th> 
+       </tr> 
+       <tr> 
+        <th>4</th> 
+        <th>100</th> 
+        <td>4.500 (114.30)</td> 
+        <td>0.083 (2.108)</td> 
+        <td>0.120 (3.048)</td> 
+        <td>—</td> 
+        <td>0.188 (4.775)</td> 
+        <td>0.237 (6.020)</td> 
+        <td>—</td> 
+        <td>0.337 (8.560)</td> 
+        <td>—</td> 
+        <td>0.437 (11.100)</td> 
+        <td>—</td> 
+        <td>0.531 (13.487)</td> 
+        <td>0.674 (17.120)</td> 
+       </tr> 
+       <tr> 
+        <th>4½</th> 
+        <th>115</th> 
+        <td>5.000 (127.00)</td> 
+        <td>—</td> 
+        <td>—</td> 
+        <td>—</td> 
+        <td>—</td> 
+        <td>0.247 (6.274)</td> 
+        <td>—</td> 
+        <td>0.355 (9.017)</td> 
+        <td>—</td> 
+        <td>—</td> 
+        <td>—</td> 
+        <td>—</td> 
+        <td>0.710 (18.034)</td> 
+       </tr> 
+       <tr> 
+        <th>5</th> 
+        <th>125</th> 
+        <td>5.563 (141.30)</td> 
+        <td>0.109 (2.769)</td> 
+        <td>0.134 (3.404)</td> 
+        <td>—</td> 
+        <td>—</td> 
+        <td>0.258 (6.553)</td> 
+        <td>—</td> 
+        <td>0.375 (9.525)</td> 
+        <td>—</td> 
+        <td>0.500 (12.700)</td> 
+        <td>—</td> 
+        <td>0.625 (15.875)</td> 
+        <td>0.750 (19.050)</td> 
+       </tr> 
+       <tr> 
+        <th>6</th> 
+        <th>150</th> 
+        <td>6.625 (168.28)</td> 
+        <td>0.109 (2.769)</td> 
+        <td>0.134 (3.404)</td> 
+        <td>—</td> 
+        <td>—</td> 
+        <td>0.280 (7.112)</td> 
+        <td>—</td> 
+        <td>0.432 (10.973)</td> 
+        <td>—</td> 
+        <td>0.562 (14.275)</td> 
+        <td>—</td> 
+        <td>0.719 (18.263)</td> 
+        <td>0.864 (21.946)</td> 
+       </tr> 
+       <tr> 
+        <th>7</th> 
+        <th>—</th> 
+        <td>7.625 (193.68)</td> 
+        <td>—</td> 
+        <td>—</td> 
+        <td>—</td> 
+        <td>—</td> 
+        <td>0.301 (7.645)</td> 
+        <td>—</td> 
+        <td>0.500 (12.700)</td> 
+        <td>—</td> 
+        <td>—</td> 
+        <td>—</td> 
+        <td>—</td> 
+        <td>0.875 (22.225)</td> 
+       </tr> 
+       <tr> 
+        <th>8</th> 
+        <th>200</th> 
+        <td>8.625 (219.08)</td> 
+        <td>0.109 (2.769)</td> 
+        <td>0.148 (3.759)</td> 
+        <td>0.250 (6.350)</td> 
+        <td>0.277 (7.036)</td> 
+        <td>0.322 (8.179)</td> 
+        <td>0.406 (10.312)</td> 
+        <td>0.500 (12.700)</td> 
+        <td>0.593 (15.062)</td> 
+        <td>0.719 (18.263)</td> 
+        <td>0.812 (20.625)</td> 
+        <td>0.906 (23.012)</td> 
+        <td>0.875 (22.225)</td> 
+       </tr> 
+       <tr> 
+        <th>9</th> 
+        <th>—</th> 
+        <td>9.625 (244.48)</td> 
+        <td>—</td> 
+        <td>—</td> 
+        <td>—</td> 
+        <td>—</td> 
+        <td>0.342 (8.687)</td> 
+        <td>—</td> 
+        <td>0.500 (12.700)</td> 
+        <td>—</td> 
+        <td>—</td> 
+        <td>—</td> 
+        <td>—</td> 
+        <td>—</td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <h3><span class="mw-headline" id="NPS_10_to_NPS_24">NPS 10 to NPS 24</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nominal_Pipe_Size&amp;action=edit&amp;section=5" title="Edit section: NPS 10 to NPS 24">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <table class="wikitable"> 
+      <tbody>
+       <tr> 
+        <th rowspan="2">NPS<sup id="cite_ref-table_8-3" class="reference"><a href="#cite_note-table-8"><span>[</span>7<span>]</span></a></sup></th> 
+        <th rowspan="2">DN<sup id="cite_ref-DN_2-3" class="reference"><a href="#cite_note-DN-2"><span>[</span>2<span>]</span></a></sup></th> 
+        <th rowspan="2">OD<br> [in (mm)]</th> 
+        <th colspan="7">Wall thickness<br> [in (mm)]</th> 
+       </tr> 
+       <tr> 
+        <th>SCH 5s</th> 
+        <th>SCH 5</th> 
+        <th>SCH 10s</th> 
+        <th>SCH 10</th> 
+        <th>SCH 20</th> 
+        <th>SCH 30</th> 
+        <th>SCH STD/40S</th> 
+       </tr> 
+       <tr> 
+        <th>10</th> 
+        <th>250</th> 
+        <td>10.75 (273.05)</td> 
+        <td>0.134 (3.404)</td> 
+        <td>0.134 (3.404)</td> 
+        <td>0.165 (4.191)</td> 
+        <td>0.165 (4.191)</td> 
+        <td>0.250 (6.350)</td> 
+        <td>0.307 (7.798)</td> 
+        <td>0.365 (9.271)</td> 
+       </tr> 
+       <tr> 
+        <th>12</th> 
+        <th>300</th> 
+        <td>12.75 (323.85)</td> 
+        <td>0.156 (3.962)</td> 
+        <td>0.156 (3.962)</td> 
+        <td>0.180 (4.572)</td> 
+        <td>0.180 (4.572)</td> 
+        <td>0.250 (6.350)</td> 
+        <td>0.330 (8.382)</td> 
+        <td>0.375 (9.525)</td> 
+       </tr> 
+       <tr> 
+        <th>14</th> 
+        <th>350</th> 
+        <td>14.00 (355.60)</td> 
+        <td>0.156 (3.962)</td> 
+        <td>0.156 (3.962)</td> 
+        <td>0.188 (4.775)</td> 
+        <td>0.250 (6.350)</td> 
+        <td>0.312 (7.925)</td> 
+        <td>0.375 (9.525)</td> 
+        <td>0.375 (9.525)</td> 
+       </tr> 
+       <tr> 
+        <th>16</th> 
+        <th>400</th> 
+        <td>16.00 (406.40)</td> 
+        <td>0.165 (4.191)</td> 
+        <td>0.165 (4.191)</td> 
+        <td>0.188 (4.775)</td> 
+        <td>0.250 (6.350)</td> 
+        <td>0.312 (7.925)</td> 
+        <td>0.375 (9.525)</td> 
+        <td>0.375 (9.525)</td> 
+       </tr> 
+       <tr> 
+        <th>18</th> 
+        <th>450</th> 
+        <td>18.00 (457.20)</td> 
+        <td>0.165 (4.191)</td> 
+        <td>0.165 (4.191)</td> 
+        <td>0.188 (4.775)</td> 
+        <td>0.250 (6.350)</td> 
+        <td>0.312 (7.925)</td> 
+        <td>0.437 (11.100)</td> 
+        <td>0.375 (9.525)</td> 
+       </tr> 
+       <tr> 
+        <th>20</th> 
+        <th>500</th> 
+        <td>20.00 (508.00)</td> 
+        <td>0.188 (4.775)</td> 
+        <td>0.188 (4.775)</td> 
+        <td>0.218 (5.537)</td> 
+        <td>0.250 (6.350)</td> 
+        <td>0.375 (9.525)</td> 
+        <td>0.500 (12.700)</td> 
+        <td>0.375 (9.525)</td> 
+       </tr> 
+       <tr> 
+        <th>22</th> 
+        <th>550</th> 
+        <td>22.00 (558.80)</td> 
+        <td>0.188 (4.775)</td> 
+        <td>0.188 (4.775)</td> 
+        <td>0.218 (5.537)</td> 
+        <td>0.250 (6.350)</td> 
+        <td>0.375 (9.525)</td> 
+        <td>0.500 (12.700)</td> 
+        <td>0.375 (9.525)</td> 
+       </tr> 
+       <tr> 
+        <th>24</th> 
+        <th>600</th> 
+        <td>24.00 (609.60)</td> 
+        <td>0.218 (5.537)</td> 
+        <td>0.218 (5.537)</td> 
+        <td>0.250 (6.350)</td> 
+        <td>0.250 (6.350)</td> 
+        <td>0.375 (9.525)</td> 
+        <td>0.562 (14.275)</td> 
+        <td>0.375 (9.525)</td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <table class="wikitable"> 
+      <tbody>
+       <tr> 
+        <th rowspan="2">NPS<sup id="cite_ref-table_8-4" class="reference"><a href="#cite_note-table-8"><span>[</span>7<span>]</span></a></sup></th> 
+        <th rowspan="2">DN<sup id="cite_ref-DN_2-4" class="reference"><a href="#cite_note-DN-2"><span>[</span>2<span>]</span></a></sup></th> 
+        <th colspan="8">Wall thickness<br> [in (mm)]</th> 
+       </tr> 
+       <tr> 
+        <th>SCH 40</th> 
+        <th>SCH 60</th> 
+        <th>SCH 80s/XS</th> 
+        <th>SCH 80</th> 
+        <th>SCH 100</th> 
+        <th>SCH 120</th> 
+        <th>SCH 140</th> 
+        <th>SCH 160</th> 
+       </tr> 
+       <tr> 
+        <th>10</th> 
+        <th>250</th> 
+        <td>0.365 (9.271)</td> 
+        <td>0.500 (12.700)</td> 
+        <td>0.500 (12.700)</td> 
+        <td>0.593 (15.062)</td> 
+        <td>0.718 (18.237)</td> 
+        <td>0.843 (21.412)</td> 
+        <td>1.000 (25.400)</td> 
+        <td>1.125 (28.575)</td> 
+       </tr> 
+       <tr> 
+        <th>12</th> 
+        <th>300</th> 
+        <td>0.406 (10.312)</td> 
+        <td>0.562 (14.275)</td> 
+        <td>0.500 (12.700)</td> 
+        <td>0.687 (17.450)</td> 
+        <td>0.843 (21.412)</td> 
+        <td>1.000 (25.400)</td> 
+        <td>1.125 (28.575)</td> 
+        <td>1.312 (33.325)</td> 
+       </tr> 
+       <tr> 
+        <th>14</th> 
+        <th>350</th> 
+        <td>0.437 (11.100)</td> 
+        <td>0.593 (15.062)</td> 
+        <td>0.500 (12.700)</td> 
+        <td>0.750 (19.050)</td> 
+        <td>0.937 (23.800)</td> 
+        <td>1.093 (27.762)</td> 
+        <td>1.250 (31.750)</td> 
+        <td>1.406 (35.712)</td> 
+       </tr> 
+       <tr> 
+        <th>16</th> 
+        <th>400</th> 
+        <td>0.500 (12.700)</td> 
+        <td>0.656 (16.662)</td> 
+        <td>0.500 (12.700)</td> 
+        <td>0.843 (21.412)</td> 
+        <td>1.031 (26.187)</td> 
+        <td>1.218 (30.937)</td> 
+        <td>1.437 (36.500)</td> 
+        <td>1.593 (40.462)</td> 
+       </tr> 
+       <tr> 
+        <th>18</th> 
+        <th>450</th> 
+        <td>0.562 (14.275)</td> 
+        <td>0.750 (19.050)</td> 
+        <td>0.500 (12.700)</td> 
+        <td>0.937 (23.800)</td> 
+        <td>1.156 (29.362)</td> 
+        <td>1.375 (34.925)</td> 
+        <td>1.562 (39.675)</td> 
+        <td>1.781 (45.237)</td> 
+       </tr> 
+       <tr> 
+        <th>20</th> 
+        <th>500</th> 
+        <td>0.593 (15.062)</td> 
+        <td>0.812 (20.625)</td> 
+        <td>0.500 (12.700)</td> 
+        <td>1.031 (26.187)</td> 
+        <td>1.280 (32.512)</td> 
+        <td>1.500 (38.100)</td> 
+        <td>1.750 (44.450)</td> 
+        <td>1.968 (49.987)</td> 
+       </tr> 
+       <tr> 
+        <th>22</th> 
+        <th>550</th> 
+        <td>—</td> 
+        <td>0.875 (22.225)</td> 
+        <td>0.500 (12.700)</td> 
+        <td>1.125 (28.575)</td> 
+        <td>1.375 (34.925)</td> 
+        <td>1.625 (41.275)</td> 
+        <td>1.875 (47.625)</td> 
+        <td>2.125 (53.975)</td> 
+       </tr> 
+       <tr> 
+        <th>24</th> 
+        <th>600</th> 
+        <td>0.687 (17.450)</td> 
+        <td>0.968 (24.587)</td> 
+        <td>0.500 (12.700)</td> 
+        <td>1.218 (30.937)</td> 
+        <td>1.531 (38.887)</td> 
+        <td>1.812 (46.025)</td> 
+        <td>2.062 (52.375)</td> 
+        <td>2.343 (59.512)</td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <table class="wikitable"> 
+      <tbody>
+       <tr> 
+        <th rowspan="2">NPS<sup id="cite_ref-table_8-5" class="reference"><a href="#cite_note-table-8"><span>[</span>7<span>]</span></a></sup></th> 
+        <th rowspan="2">DN<sup id="cite_ref-DN_2-5" class="reference"><a href="#cite_note-DN-2"><span>[</span>2<span>]</span></a></sup></th> 
+        <th rowspan="2">OD<br> [in (mm)]</th> 
+        <th colspan="8">Wall thickness<br> [in (mm)]</th> 
+       </tr> 
+       <tr> 
+        <th>SCH 5s</th> 
+        <th>SCH 10s</th> 
+        <th>SCH 10</th> 
+        <th>SCH 20</th> 
+        <th>SCH 30</th> 
+        <th>SCH 40s/STD</th> 
+        <th>SCH 40</th> 
+       </tr> 
+       <tr> 
+        <th>26</th> 
+        <th>650</th> 
+        <td>26.000 (660.400)</td> 
+        <td>—</td> 
+        <td>—</td> 
+        <td>0.312 (7.925)</td> 
+        <td>0.500 (12.700)</td> 
+        <td>—</td> 
+        <td>0.375 (9.525)</td> 
+        <td>—</td> 
+       </tr> 
+       <tr> 
+        <th>28</th> 
+        <th>700</th> 
+        <td>28.000 (711.200)</td> 
+        <td>—</td> 
+        <td>&nbsp;?</td> 
+        <td>0.312 (7.925)</td> 
+        <td>0.500 (12.700)</td> 
+        <td>0.625 (15.875)</td> 
+        <td>0.375 (9.525)</td> 
+        <td>—</td> 
+       </tr> 
+       <tr> 
+        <th>30</th> 
+        <th>750</th> 
+        <td>30.000 (762.000)</td> 
+        <td>0.250 (6.350)</td> 
+        <td>0.312 (7.925)</td> 
+        <td>0.312 (7.925)</td> 
+        <td>0.500 (12.700)</td> 
+        <td>0.625 (15.875)</td> 
+        <td>0.375 (9.525)</td> 
+        <td>—</td> 
+       </tr> 
+       <tr> 
+        <th>32</th> 
+        <th>800</th> 
+        <td>32.000 (812.800)</td> 
+        <td>—</td> 
+        <td>—</td> 
+        <td>0.312 (7.925)</td> 
+        <td>0.500 (12.700)</td> 
+        <td>0.625 (15.875)</td> 
+        <td>0.375 (9.525)</td> 
+        <td>0.688 (17.475)</td> 
+       </tr> 
+       <tr> 
+        <th>34</th> 
+        <th>850</th> 
+        <td>34.000 (863.600)</td> 
+        <td>—</td> 
+        <td>—</td> 
+        <td>0.312 (7.925)</td> 
+        <td>0.500 (12.700)</td> 
+        <td>0.625 (15.875)</td> 
+        <td>0.375 (9.525)</td> 
+        <td>0.688 (17.475)</td> 
+       </tr> 
+       <tr> 
+        <th>36</th> 
+        <th>900</th> 
+        <td>36.000 (914.400)</td> 
+        <td>—</td> 
+        <td>—</td> 
+        <td>0.312 (7.925)</td> 
+        <td>0.500 (12.700)</td> 
+        <td>—</td> 
+        <td>0.375 (9.525)</td> 
+        <td>—</td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <h3><span class="mw-headline" id="Additional_sizes_.28NPS.29">Additional sizes (NPS)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nominal_Pipe_Size&amp;action=edit&amp;section=6" title="Edit section: Additional sizes (NPS)">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <table class="wikitable"> 
+      <tbody>
+       <tr> 
+        <th rowspan="3">NPS</th> 
+       </tr> 
+       <tr> 
+        <th rowspan="2">DN<sup id="cite_ref-DN_2-6" class="reference"><a href="#cite_note-DN-2"><span>[</span>2<span>]</span></a></sup></th> 
+        <th rowspan="2">OD<br> [in (mm)]</th> 
+        <th colspan="2">Wall thickness<br> [in (mm)]</th> 
+       </tr> 
+       <tr> 
+        <th>SCH STD</th> 
+        <th>SCH XS</th> 
+       </tr> 
+       <tr> 
+        <th>40</th> 
+        <th>1000</th> 
+        <td>40.000 (1,016.000)</td> 
+        <td>0.375 (9.525)</td> 
+        <td>0.500 (12.700)</td> 
+       </tr> 
+       <tr> 
+        <th>42</th> 
+        <th>1050</th> 
+        <td>42.000 (1,066.800)</td> 
+        <td>0.375 (9.525)</td> 
+        <td>0.500 (12.700)</td> 
+       </tr> 
+       <tr> 
+        <th>44</th> 
+        <th>1100</th> 
+        <td>44.000 (1,117.600)</td> 
+        <td>0.375 (9.525)</td> 
+        <td>0.500 (12.700)</td> 
+       </tr> 
+       <tr> 
+        <th>46</th> 
+        <th>1150</th> 
+        <td>46.000 (1,168.400)</td> 
+        <td>0.375 (9.525)</td> 
+        <td>0.500 (12.700)</td> 
+       </tr> 
+       <tr> 
+        <th>48</th> 
+        <th>1200</th> 
+        <td>48.000 (1,219.200)</td> 
+        <td>0.375 (9.525)</td> 
+        <td>0.500 (12.700)</td> 
+       </tr> 
+       <tr> 
+        <th>52</th> 
+        <th>1300</th> 
+        <td>52.000 (1,320.800)</td> 
+        <td>&nbsp;?</td> 
+        <td>&nbsp;?</td> 
+       </tr> 
+       <tr> 
+        <th>56</th> 
+        <th>1400</th> 
+        <td>56.000 (1,422.400)</td> 
+        <td>&nbsp;?</td> 
+        <td>&nbsp;?</td> 
+       </tr> 
+       <tr> 
+        <th>60</th> 
+        <th>1500</th> 
+        <td>60.000 (1,524.000)</td> 
+        <td>&nbsp;?</td> 
+        <td>&nbsp;?</td> 
+       </tr> 
+       <tr> 
+        <th>64</th> 
+        <th>1600</th> 
+        <td>64.000 (1,625.600)</td> 
+        <td>&nbsp;?</td> 
+        <td>&nbsp;?</td> 
+       </tr> 
+       <tr> 
+        <th>68</th> 
+        <th>1700</th> 
+        <td>68.000 (1,727.200)</td> 
+        <td>&nbsp;?</td> 
+        <td>&nbsp;?</td> 
+       </tr> 
+       <tr> 
+        <th>72</th> 
+        <th>1800</th> 
+        <td>72.000 (1,828.800)</td> 
+        <td>&nbsp;?</td> 
+        <td>&nbsp;?</td> 
+       </tr> 
+       <tr> 
+        <th>76</th> 
+        <th>1900</th> 
+        <td>76.000 (1,930.400)</td> 
+        <td>&nbsp;?</td> 
+        <td>&nbsp;?</td> 
+       </tr> 
+       <tr> 
+        <th>80</th> 
+        <th>2000</th> 
+        <td>80.000 (2,032.000)</td> 
+        <td>&nbsp;?</td> 
+        <td>&nbsp;?</td> 
+       </tr> 
+       <tr> 
+        <th>88</th> 
+        <th>2200</th> 
+        <td>88.000 (2,235.200)</td> 
+        <td>&nbsp;?</td> 
+        <td>&nbsp;?</td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <h2><span class="mw-headline" id="International_usage">International usage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nominal_Pipe_Size&amp;action=edit&amp;section=7" title="Edit section: International usage">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>The term <b>Nominal Bore</b> is used in Australia and New Zealand with millimeter measurements. Hence 'NB50' indicates a nominal bore of 50mm</p> 
+     <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nominal_Pipe_Size&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;"> 
+      <ul> 
+       <li><a href="/wiki/British_standard_pipe_thread#Pipe_thread_sizes" title="British standard pipe thread" class="mw-redirect">British standard pipe thread sizes</a></li> 
+       <li><a href="/wiki/Copper_tubing#Sizes" title="Copper tubing">Copper tubing sizes</a></li> 
+       <li><a href="/wiki/National_pipe_thread#Pipe_thread_sizes" title="National pipe thread">Pipe thread sizes</a></li> 
+       <li><a href="/wiki/National_pipe_thread#Pipe_thread_sizes" title="National pipe thread">National pipe thread sizes</a></li> 
+       <li><a href="/wiki/Pipe_(fluid_conveyance)" title="Pipe (fluid conveyance)">Pipe (fluid conveyance)</a></li> 
+       <li><a href="/wiki/Pipe_(fluid_conveyance)#Sizes" title="Pipe (fluid conveyance)">Pipe sizes</a></li> 
+       <li><a href="/wiki/Standard_dimension_ratio" title="Standard dimension ratio">Standard dimension ratio</a></li> 
+      </ul> 
+     </div> 
+     <h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nominal_Pipe_Size&amp;action=edit&amp;section=9" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <div class="reflist" style="list-style-type: lower-alpha;"> 
+      <ol class="references"> 
+       <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">This is contrary to the <i>Piping Handbook</i>, which says that the schedule number can be converted to pressure by dividing the schedule by 1000 and multiplying by the allowable stress of the material.<sup id="cite_ref-FOOTNOTENayyar2000_6-0" class="reference"><a href="#cite_note-FOOTNOTENayyar2000-6"><span>[</span>6<span>]</span></a></sup></span></li> 
+      </ol> 
+     </div> 
+     <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nominal_Pipe_Size&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <div class="reflist" style="list-style-type: decimal;"> 
+      <ol class="references"> 
+       <li id="cite_note-FOOTNOTEASME_B36.1020041-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEASME_B36.1020041_1-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFASME_B36.102004">ASME B36.10 2004</a>, p.&nbsp;1.</span></li> 
+       <li id="cite_note-DN-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-DN_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-DN_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-DN_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-DN_2-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-DN_2-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-DN_2-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-DN_2-6"><sup><i><b>g</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.engineeringtoolbox.com/nps-nominal-pipe-sizes-d_45.html">NPS - "Nominal Pipe Size" and DN - "Diamètre Nominal"</a>, EngineeringToolbox.com</span></li> 
+       <li id="cite_note-FOOTNOTEASME_B36.102004iv-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEASME_B36.102004iv_3-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFASME_B36.102004">ASME B36.10 2004</a>, p.&nbsp;iv.</span></li> 
+       <li id="cite_note-FOOTNOTEASME_B36.192004iv-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEASME_B36.192004iv_4-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFASME_B36.192004">ASME B36.19 2004</a>, p.&nbsp;iv.</span></li> 
+       <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.hysteelpipe.com/pipe-standards/steel-pipe-schedule-chart-welded-seamless-wrought-steel-pipeasme_b36-10m-2004/">"Pipe Schedule Chart"</a>. <i>HYSP Steel Pipe</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANominal+Pipe+Size&amp;rft.atitle=Pipe+Schedule+Chart&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.hysteelpipe.com%2Fpipe-standards%2Fsteel-pipe-schedule-chart-welded-seamless-wrought-steel-pipeasme_b36-10m-2004%2F&amp;rft.jtitle=HYSP+Steel+Pipe&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-FOOTNOTENayyar2000-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTENayyar2000_6-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFNayyar2000">Nayyar 2000</a>.</span></li> 
+       <li id="cite_note-table-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-table_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-table_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-table_8-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-table_8-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-table_8-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-table_8-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.engineersedge.com/pipe_schedules.htm">Table of Pipe Schedules</a> from EngineersEdge.com.</span></li> 
+       <li id="cite_note-FOOTNOTEA9992014-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEA9992014_9-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFA9992014">A999 2014</a>.</span></li> 
+      </ol> 
+     </div> 
+     <div class="refbegin" style=""> 
+      <ul> 
+       <li><cite id="CITEREFA9992014" class="citation web">"ASTM A999 / A999M - 14 Standard Specification for General Requirements for Alloy and Stainless Steel Pipe". ASTM International. 2014. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1520%2FA0999_A0999M">10.1520/A0999_A0999M</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANominal+Pipe+Size&amp;rft.btitle=ASTM+A999+%2F+A999M+-+14+Standard+Specification+for+General+Requirements+for+Alloy+and+Stainless+Steel+Pipe&amp;rft.date=2014&amp;rft.genre=unknown&amp;rft_id=info%3Adoi%2F10.1520%2FA0999_A0999M&amp;rft.pub=ASTM+International&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span> <span style="display:none;font-size:100%" class="error citation-comment">Missing or empty <code style="color:inherit; border:inherit; padding:inherit;">|url=</code> (<a href="/wiki/Help:CS1_errors#cite_web_url" title="Help:CS1 errors">help</a>);</span> <span style="display:none;font-size:100%" class="error citation-comment"><code style="color:inherit; border:inherit; padding:inherit;">|access-date=</code> requires <code style="color:inherit; border:inherit; padding:inherit;">|url=</code> (<a href="/wiki/Help:CS1_errors#accessdate_missing_url" title="Help:CS1 errors">help</a>)</span></li> 
+       <li><cite id="CITEREFNayyar2000" class="citation book">Nayyar, Mohinder L. (2000). "A1". In Nayyar, Mohinder L. <i>Piping Handbook</i> (7th ed.). New York: McGraw-Hill. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/0-07-047106-1" title="Special:BookSources/0-07-047106-1">0-07-047106-1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANominal+Pipe+Size&amp;rft.atitle=A1&amp;rft.aufirst=Mohinder+L.&amp;rft.aulast=Nayyar&amp;rft.btitle=Piping+Handbook&amp;rft.date=2000&amp;rft.edition=7th&amp;rft.genre=bookitem&amp;rft.isbn=0-07-047106-1&amp;rft.place=New+York&amp;rft.pub=McGraw-Hill&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></li> 
+       <li><cite id="CITEREFASME_B36.102004" class="citation book"><a rel="nofollow" class="external text" href="https://www.asme.org/products/codes-standards/b3610m-2004-welded-seamless-wrought-steel-pipe"><i>B36.10M Welded and Seamless Wrought Steel Pipe</i></a>. The American Society of Mechanical Engineers. 2004. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/0791829162" title="Special:BookSources/0791829162">0791829162</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-10-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANominal+Pipe+Size&amp;rft.btitle=B36.10M+Welded+and+Seamless+Wrought+Steel+Pipe&amp;rft.date=2004&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fwww.asme.org%2Fproducts%2Fcodes-standards%2Fb3610m-2004-welded-seamless-wrought-steel-pipe&amp;rft.isbn=0791829162&amp;rft.pub=The+American+Society+of+Mechanical+Engineers&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></li> 
+       <li><cite id="CITEREFASME_B36.192004" class="citation book"><a rel="nofollow" class="external text" href="https://www.asme.org/products/codes-standards/b3619m-2004-stainless-steel-pipe"><i>B36.19M Stainless Steel Pipe</i></a>. The American Society of Mechanical Engineers. 2004. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/0791829170" title="Special:BookSources/0791829170">0791829170</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-10-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANominal+Pipe+Size&amp;rft.btitle=B36.19M+Stainless+Steel+Pipe&amp;rft.date=2004&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fwww.asme.org%2Fproducts%2Fcodes-standards%2Fb3619m-2004-stainless-steel-pipe&amp;rft.isbn=0791829170&amp;rft.pub=The+American+Society+of+Mechanical+Engineers&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></li> 
+      </ul> 
+     </div> 
+     <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nominal_Pipe_Size&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <ul> 
+      <li><a rel="nofollow" class="external text" href="http://www.gizmology.net/pipe.htm">Notes on Pipe</a>—PVC Pipe weights and max PSI</li> 
+      <li><a rel="nofollow" class="external text" href="http://www.enggcyclopedia.com/welcome-to-enggcyclopedia/pipe-dim/standard-piping-dimensions-carbon-steel-stainless-steel-ansi">Quick calculator to determine standard pipe dimensions</a> For Carbon Steel and Stainless Steel pipes as per ANSI.</li> 
+      <li><a rel="nofollow" class="external text" href="http://www.piping-engineering.com/nominal-pipe-size-nps-nominal-bore-nb-outside-diameter-od.html">Nominal Pipe Size NPS, Nominal Bore NB, Outside Diameter OD</a></li> 
+     </ul> 
+     <!-- 
+NewPP limit report
+Parsed by mw1226
+Cached time: 20160316101528
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.614 seconds
+Real time usage: 0.651 seconds
+Preprocessor visited node count: 5009/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 18971/2097152 bytes
+Template argument size: 307/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 0/500
+Lua time usage: 0.386/10.000 seconds
+Lua memory usage: 4.14 MB/50 MB
+Number of Wikibase entities loaded: 0--> 
+     <!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  587.531      1 - -total
+ 74.86%  439.820    324 - Template:Convert
+  7.97%   46.845      2 - Template:Reflist
+  7.11%   41.771      2 - Template:Cite_web
+  4.23%   24.842      5 - Template:Sfn
+  2.33%   13.679      3 - Template:Cite_book
+  1.03%    6.023      1 - Template:Notelist
+  1.00%    5.879      1 - Template:Efn
+  0.99%    5.800      1 - Template:Div_col
+  0.88%    5.146      3 - Template:Sfnref
+--> 
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:4015299-0!*!0!!en!*!* and timestamp 20160316101532 and revision id 710335068
+ --> 
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript>
+    </div> 
+    <div class="printfooter">
+      Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Nominal_Pipe_Size&amp;oldid=710335068">https://en.wikipedia.org/w/index.php?title=Nominal_Pipe_Size&amp;oldid=710335068</a>" 
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Piping" title="Category:Piping">Piping</a></li>
+       <li><a href="/wiki/Category:Mechanical_standards" title="Category:Mechanical standards">Mechanical standards</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Pages_using_web_citations_with_no_URL" title="Category:Pages using web citations with no URL">Pages using web citations with no URL</a></li>
+       <li><a href="/wiki/Category:Pages_using_citations_with_accessdate_and_no_URL" title="Category:Pages using citations with accessdate and no URL">Pages using citations with accessdate and no URL</a></li>
+      </ul>
+     </div>
+    </div> 
+    <div class="visualClear"></div> 
+   </div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> 
+    <div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label"> 
+     <h3 id="p-personal-label">Personal tools</h3> 
+     <ul> 
+      <li id="pt-anonuserpage">Not logged in</li>
+      <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+      <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+      <li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Nominal+Pipe+Size&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+      <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Nominal+Pipe+Size" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li> 
+     </ul> 
+    </div> 
+    <div id="left-navigation"> 
+     <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label"> 
+      <h3 id="p-namespaces-label">Namespaces</h3> 
+      <ul> 
+       <li id="ca-nstab-main" class="selected"><span><a href="/wiki/Nominal_Pipe_Size" title="View the content page [c]" accesskey="c">Article</a></span></li> 
+       <li id="ca-talk"><span><a href="/wiki/Talk:Nominal_Pipe_Size" title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span><a href="#"></a> </h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="right-navigation"> 
+     <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label"> 
+      <h3 id="p-views-label">Views</h3> 
+      <ul> 
+       <li id="ca-view" class="selected"><span><a href="/wiki/Nominal_Pipe_Size">Read</a></span></li> 
+       <li id="ca-edit"><span><a href="/w/index.php?title=Nominal_Pipe_Size&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li> 
+       <li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Nominal_Pipe_Size&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch"> 
+        <input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput">
+        <input type="hidden" value="Special:Search" name="title">
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton">
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a>
+    </div> 
+    <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label"> 
+     <h3 id="p-navigation-label">Navigation</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+       <li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label"> 
+     <h3 id="p-interaction-label">Interaction</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label"> 
+     <h3 id="p-tb-label">Tools</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Nominal_Pipe_Size" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Nominal_Pipe_Size" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Nominal_Pipe_Size&amp;oldid=710335068" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Nominal_Pipe_Size&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q1931528" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Nominal_Pipe_Size&amp;id=710335068" title="Information on how to cite this page">Cite this page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label"> 
+     <h3 id="p-coll-print_export-label">Print/export</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Nominal+Pipe+Size">Create a book</a></li>
+       <li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Nominal+Pipe+Size&amp;returnto=Nominal+Pipe+Size&amp;oldid=710335068&amp;writer=rdf2latex">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Nominal_Pipe_Size&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label"> 
+     <h3 id="p-lang-label">Languages</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Nennweite" title="Nennweite – German" lang="de" hreflang="de">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Di%C3%A1metro_nominal" title="Diámetro nominal – Spanish" lang="es" hreflang="es">Español</a></li>
+       <li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Diametro_nominale" title="Diametro nominale – Italian" lang="it" hreflang="it">Italiano</a></li>
+       <li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Di%C3%A2metro_nominal" title="Diâmetro nominal – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A3%D1%81%D0%BB%D0%BE%D0%B2%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D0%BE%D1%85%D0%BE%D0%B4" title="Условный проход – Russian" lang="ru" hreflang="ru">Русский</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%A3%D0%BC%D0%BE%D0%B2%D0%BD%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D1%85%D1%96%D0%B4" title="Умовний прохід – Ukrainian" lang="uk" hreflang="uk">Українська</a></li>
+       <li class="interlanguage-link interwiki-vi"><a href="//vi.wikipedia.org/wiki/DN" title="DN – Vietnamese" lang="vi" hreflang="vi">Tiếng Việt</a></li>
+       <li class="uls-p-lang-dummy"><a href="#"></a></li> 
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q1931528#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last modified on 16 March 2016, at 10:15.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-cookiestatement"><a href="//wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Nominal_Pipe_Size&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"> <a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"></a> </li> 
+    <li id="footer-poweredbyico"> <a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"></a> </li> 
+   </ul> 
+   <div style="clear:both"></div> 
+  </div> 
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","ext.wikimediaEvents","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script>
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.config.set({"wgBackendResponseTime":58,"wgHostname":"mw1249"}); /* @nomin */
+} );</script>   
+ </body>
+</html>

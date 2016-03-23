@@ -1,0 +1,406 @@
+https://en.wikipedia.org/wiki/High-density_polyethylene
+<!doctype html>
+<html lang="en" dir="ltr" class="client-nojs">
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>High-density polyethylene - Wikipedia, the free encyclopedia</title> 
+  <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script> 
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"High-density_polyethylene","wgTitle":"High-density polyethylene","wgCurRevisionId":707897050,"wgRevisionId":707897050,"wgArticleId":1911597,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: external links","Articles needing additional references from May 2010","All articles needing additional references","Plastics","Polyolefins"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"High-density_polyethylene","wgRelevantArticleId":1911597,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCentralAuthMobileDomain":false,"wgWikibaseItemId":"Q2641430","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script> 
+  <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script> 
+  <meta name="generator" content="MediaWiki 1.27.0-wmf.17"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/High-density_polyethylene"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=High-density_polyethylene&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=High-density_polyethylene&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/High-density_polyethylene"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-High-density_polyethylene skin-vector action-view"> 
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> 
+   <a id="top"></a> 
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">High-density polyethylene</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="jump-to-nav" class="mw-jump">
+      Jump to: 
+     <a href="#mw-head">navigation</a>, 
+     <a href="#p-search">search</a> 
+    </div> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <table class="metadata plainlinks ambox ambox-content ambox-Refimprove" role="presentation"> 
+      <tbody>
+       <tr> 
+        <td class="mbox-image"> 
+         <div style="width:52px">
+          <a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="262" data-file-height="204"></a>
+         </div> </td> 
+        <td class="mbox-text"><span class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=High-density_polyethylene&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(May 2010)</i></small></span></td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:122px;">
+       <a href="/wiki/File:U%2B2674_DejaVu_Sans.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/U%2B2674_DejaVu_Sans.svg/120px-U%2B2674_DejaVu_Sans.svg.png" width="120" height="116" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/U%2B2674_DejaVu_Sans.svg/180px-U%2B2674_DejaVu_Sans.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c6/U%2B2674_DejaVu_Sans.svg/240px-U%2B2674_DejaVu_Sans.svg.png 2x" data-file-width="107" data-file-height="103"></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:U%2B2674_DejaVu_Sans.svg" class="internal" title="Enlarge"></a>
+        </div> HDPE has 
+        <a href="/wiki/Society_of_the_Plastics_Industry" title="Society of the Plastics Industry">SPI</a> 
+        <a href="/wiki/Resin_identification_code" title="Resin identification code">resin ID code</a> 2
+       </div> 
+      </div> 
+     </div> 
+     <p><b>High-density polyethylene</b> (<b>HDPE</b>) or <b>polyethylene high-density</b> (<b>PEHD</b>) is a <a href="/wiki/Polyethylene" title="Polyethylene">polyethylene</a> <a href="/wiki/Thermoplastic" title="Thermoplastic">thermoplastic</a> made from <a href="/wiki/Petroleum" title="Petroleum">petroleum</a>. It is sometimes called "alkathene" or "polythene" when used for pipes.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> With a high strength-to-density ratio, HDPE is used in the production of <a href="/wiki/Plastic_bottles" title="Plastic bottles" class="mw-redirect">plastic bottles</a>, corrosion-resistant piping, <a href="/wiki/Geomembrane" title="Geomembrane">geomembranes</a>, and <a href="/wiki/Plastic_lumber" title="Plastic lumber">plastic lumber</a>. HDPE is commonly recycled, and has the number "2" as its resin identification code (formerly known as <a href="/wiki/Resin_identification_code" title="Resin identification code">recycling symbol</a>).</p> 
+     <p>In 2007, the global HDPE market reached a volume of more than 30 million tons.<sup id="cite_ref-ceresana_2-0" class="reference"><a href="#cite_note-ceresana-2"><span>[</span>2<span>]</span></a></sup></p> 
+     <p></p> 
+     <div id="toc" class="toc"> 
+      <div id="toctitle"> 
+       <h2>Contents</h2> 
+      </div> 
+      <ul> 
+       <li class="toclevel-1 tocsection-1"><a href="#Properties"><span class="tocnumber">1</span> <span class="toctext">Properties</span></a></li> 
+       <li class="toclevel-1 tocsection-2"><a href="#Applications"><span class="tocnumber">2</span> <span class="toctext">Applications</span></a></li> 
+       <li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li> 
+       <li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li> 
+       <li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li> 
+      </ul> 
+     </div> 
+     <p></p> 
+     <h2><span class="mw-headline" id="Properties">Properties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=High-density_polyethylene&amp;action=edit&amp;section=1" title="Edit section: Properties">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>HDPE is known for its large strength-to-density ratio.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> The density of HDPE can range from 0.93 to 0.97 g/cm<sup>3</sup> or 970&nbsp;kg/m<sup>3</sup>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> Although the density of HDPE is only marginally higher than that of <a href="/wiki/Low-density_polyethylene" title="Low-density polyethylene">low-density polyethylene</a>, HDPE has little <a href="/wiki/Branching_(chemistry)" title="Branching (chemistry)" class="mw-redirect">branching</a>, giving it stronger <a href="/wiki/Intermolecular_force" title="Intermolecular force">intermolecular forces</a> and <a href="/wiki/Tensile_strength" title="Tensile strength" class="mw-redirect">tensile strength</a> than LDPE. The difference in strength exceeds the difference in density, giving HDPE a higher <a href="/wiki/Specific_strength" title="Specific strength">specific strength</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> It is also harder and more opaque and can withstand somewhat higher <a href="/wiki/Temperature" title="Temperature">temperatures</a> (120&nbsp;°C/ 248&nbsp;°F for short periods, 110&nbsp;°C /230&nbsp;°F continuously). High-density polyethylene, unlike <a href="/wiki/Polypropylene" title="Polypropylene">polypropylene</a>, cannot withstand normally required <a href="/wiki/Autoclave" title="Autoclave">autoclaving</a> conditions. The lack of branching is ensured by an appropriate choice of <a href="/wiki/Catalyst" title="Catalyst" class="mw-redirect">catalyst</a> (<i>e.g.</i>, <a href="/wiki/Ziegler-Natta_catalyst" title="Ziegler-Natta catalyst" class="mw-redirect">Ziegler-Natta catalysts</a>) and <a href="/wiki/Chemical_reaction" title="Chemical reaction">reaction</a> conditions.</p> 
+     <h2><span class="mw-headline" id="Applications">Applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=High-density_polyethylene&amp;action=edit&amp;section=2" title="Edit section: Applications">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:222px;">
+       <a href="/wiki/File:Hdpe_pipe_installation.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hdpe_pipe_installation.jpg/220px-Hdpe_pipe_installation.jpg" width="220" height="155" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hdpe_pipe_installation.jpg/330px-Hdpe_pipe_installation.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hdpe_pipe_installation.jpg/440px-Hdpe_pipe_installation.jpg 2x" data-file-width="4142" data-file-height="2912"></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Hdpe_pipe_installation.jpg" class="internal" title="Enlarge"></a>
+        </div> HDPE pipe installation in storm drain project in 
+        <a href="/wiki/Mexico" title="Mexico">Mexico</a>
+       </div> 
+      </div> 
+     </div> 
+     <p>HDPE is resistant to many different <a href="/wiki/Solvent" title="Solvent">solvents</a> and has a wide variety of applications:</p> 
+     <ul> 
+      <li>Swimming pool installation</li> 
+      <li><a href="/wiki/3-D_printer" title="3-D printer" class="mw-redirect">3-D printer</a> filament</li> 
+      <li>Arena Board (puck board)</li> 
+      <li>Backpacking frames</li> 
+      <li>Ballistic plates</li> 
+      <li>Banners</li> 
+      <li><a href="/wiki/Bottle_cap" title="Bottle cap">Bottle caps</a></li> 
+      <li><a href="/wiki/Chemical_resistance" title="Chemical resistance">Chemical-resistant</a> piping</li> 
+      <li><a href="/wiki/Coax_cable" title="Coax cable" class="mw-redirect">Coax cable</a> inner insulator</li> 
+      <li><a href="/wiki/Food_storage_container" title="Food storage container">Food storage containers</a></li> 
+      <li><a href="/wiki/Fuel_tank" title="Fuel tank">Fuel tanks</a> for vehicles</li> 
+      <li><a href="/wiki/Corrosion" title="Corrosion">Corrosion</a> protection for steel pipelines</li> 
+      <li>Personal Hovercraft; albeit too heavy for good performance</li> 
+      <li>Electrical and plumbing boxes</li> 
+      <li>Far-IR <a href="/wiki/Lens_(optics)" title="Lens (optics)">lenses</a></li> 
+      <li><a href="/wiki/Folding_chair" title="Folding chair">Folding chairs</a> and tables</li> 
+      <li><a href="/wiki/Geomembrane" title="Geomembrane">Geomembrane</a> for hydraulic applications (such as canals and bank reinforcements) and <a href="/wiki/Chemical_compound" title="Chemical compound">chemical</a> containment</li> 
+      <li><a href="/wiki/Geothermal_heating" title="Geothermal heating">Geothermal</a> heat transfer piping systems</li> 
+      <li>Heat-resistant firework <a href="/wiki/Mortar_(weapon)" title="Mortar (weapon)">mortars</a></li> 
+      <li>* <a href="/wiki/Last" title="Last">Last</a> for shoes</li> 
+      <li><a href="/wiki/Natural_gas" title="Natural gas">Natural gas</a> distribution pipe systems</li> 
+      <li><a href="/wiki/Fireworks" title="Fireworks">Fireworks</a></li> 
+      <li><a href="/wiki/Plastic_bag" title="Plastic bag">Plastic bags</a></li> 
+      <li><a href="/wiki/Plastic_bottles" title="Plastic bottles" class="mw-redirect">Plastic bottles</a> suitable both for recycling (such as milk jugs) or re-use</li> 
+      <li><a href="/wiki/Plastic_lumber" title="Plastic lumber">Plastic lumber</a></li> 
+      <li><a href="/wiki/Plastic_surgery" title="Plastic surgery">Plastic surgery</a> (skeletal and facial reconstruction)<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></li> 
+      <li><a href="/wiki/Root_barrier" title="Root barrier">Root barrier</a></li> 
+      <li><a href="/wiki/Snowboard" title="Snowboard">Snowboard</a> rails and boxes</li> 
+      <li><a href="/wiki/Stone_paper" title="Stone paper">Stone paper</a></li> 
+      <li>Storage sheds</li> 
+      <li>Telecom ducts</li> 
+      <li><a href="/wiki/Tyvek" title="Tyvek">Tyvek</a></li> 
+      <li><a href="/wiki/Water_pipe" title="Water pipe">Water pipes</a> for domestic water supply and agricultural processes</li> 
+      <li><a href="/wiki/Wood_plastic_composite" title="Wood plastic composite" class="mw-redirect">Wood plastic composites</a> (utilizing <a href="/wiki/Plastic_recycling" title="Plastic recycling">recycled polymers</a>)</li> 
+     </ul> 
+     <p>HDPE is also used for <a href="/wiki/Landfill_liner" title="Landfill liner">cell liners</a> in <a href="/wiki/Resource_Conservation_and_Recovery_Act#Subtitle_D:_Non-hazardous_Solid_Wastes" title="Resource Conservation and Recovery Act">subtitle D</a> <a href="/wiki/Sanitary_landfill" title="Sanitary landfill" class="mw-redirect">sanitary landfills</a>, wherein large sheets of HDPE are either <a href="/wiki/Extrusion" title="Extrusion">extrusion</a> or <a href="/w/index.php?title=Wedge_welding&amp;action=edit&amp;redlink=1" class="new" title="Wedge welding (page does not exist)">wedge welded</a> to form a <a href="//en.wiktionary.org/wiki/Homogeneous" class="extiw" title="wiktionary:Homogeneous">homogeneous</a> chemical-resistant barrier, with the intention of preventing the <a href="/wiki/Pollution" title="Pollution">pollution</a> of <a href="/wiki/Soil" title="Soil">soil</a> and <a href="/wiki/Groundwater" title="Groundwater">groundwater</a> by the liquid constituents of <a href="/wiki/Solid_waste" title="Solid waste" class="mw-redirect">solid waste</a>.</p> 
+     <p>HDPE is preferred by the <a href="/wiki/Pyrotechnics" title="Pyrotechnics">pyrotechnics</a> trade for mortars over steel or <a href="/wiki/PVC" title="PVC" class="mw-redirect">PVC</a> tubes, being more durable and safer. HDPE tends to rip or tear in a malfunction instead of shattering and becoming shrapnel like the other materials.</p> 
+     <p>Milk jugs and other hollow goods manufactured through <a href="/wiki/Blow_molding" title="Blow molding">blow molding</a> are the most important application area for HDPE, accounting for one-third of worldwide production, or more than 8 million tons. In addition to being <a href="/wiki/Recycled" title="Recycled" class="mw-redirect">recycled</a> using conventional processes, HDPE can also be processed by <a href="/wiki/Recyclebots" title="Recyclebots" class="mw-redirect">recyclebots</a> into filament for <a href="/wiki/3-D_printers" title="3-D printers" class="mw-redirect">3-D printers</a> via <a href="/w/index.php?title=Distributed_recycling&amp;action=edit&amp;redlink=1" class="new" title="Distributed recycling (page does not exist)">distributed recycling</a>.<sup id="cite_ref-RPJ_7-0" class="reference"><a href="#cite_note-RPJ-7"><span>[</span>7<span>]</span></a></sup> There is some evidence that this form of recycling is less energy intensive than conventional recycling, which can involve a large <a href="/wiki/Embodied_energy" title="Embodied energy">embodied energy</a> for transportation.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></p> 
+     <p>Above all, China, where beverage bottles made from HDPE were first imported in 2005, is a growing market for rigid HDPE packaging, as a result of its improving standard of living. In India and other highly populated, emerging nations, infrastructure expansion includes the deployment of pipes and cable insulation made from HDPE.<sup id="cite_ref-ceresana_2-1" class="reference"><a href="#cite_note-ceresana-2"><span>[</span>2<span>]</span></a></sup> The material has benefited from discussions about possible health and environmental problems caused by PVC and Polycarbonate associated <a href="/wiki/Bisphenol_A" title="Bisphenol A">Bisphenol A</a>, as well as its advantages over glass, metal, and cardboard.</p> 
+     <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=High-density_polyethylene&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;"> 
+      <ul> 
+       <li><a href="/wiki/Cross-linked_polyethylene" title="Cross-linked polyethylene">Cross-linked polyethylene</a> (PEX)</li> 
+       <li><a href="/wiki/Linear_low-density_polyethylene" title="Linear low-density polyethylene">Linear low-density polyethylene</a> (LLDPE)</li> 
+       <li><a href="/wiki/Low-density_polyethylene" title="Low-density polyethylene">Low-density polyethylene</a> (LDPE)</li> 
+       <li><a href="/wiki/Medium_density_polyethylene" title="Medium density polyethylene" class="mw-redirect">Medium density polyethylene</a> (MDPE)</li> 
+       <li><a href="/wiki/Phillips_Disaster" title="Phillips Disaster" class="mw-redirect">Phillips Disaster</a></li> 
+       <li><a href="/wiki/Plastic_recycling" title="Plastic recycling">Plastic recycling</a></li> 
+       <li><a href="/wiki/Resin_identification_code" title="Resin identification code">Resin identification code</a></li> 
+       <li><a href="/wiki/Ultra-high-molecular-weight_polyethylene" title="Ultra-high-molecular-weight polyethylene">Ultra-high-molecular-weight polyethylene</a> (UHMWPE)</li> 
+       <li><a href="/wiki/Stretch_wrap" title="Stretch wrap">Stretch wrap</a></li> 
+      </ul> 
+     </div> 
+     <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=High-density_polyethylene&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <div class="reflist" style="list-style-type: decimal;"> 
+      <ol class="references"> 
+       <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.level.org.nz/water/water-supply/system-layout-and-pipework/pipe-materials/">Pipe materials</a>. level.org.nz</span></li> 
+       <li id="cite_note-ceresana-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-ceresana_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ceresana_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ceresana.com/en/market-studies/plastics/polyethylene-hdpe/">"Market Study: Polyethylene HDPE"</a>. <a rel="nofollow" class="external text" href="http://www.ceresana.com/en/">Ceresana Research</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHigh-density+polyethylene&amp;rft.btitle=Market+Study%3A+Polyethylene+HDPE&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.ceresana.com%2Fen%2Fmarket-studies%2Fplastics%2Fpolyethylene-hdpe%2F&amp;rft.pub=%5Bhttp%3A%2F%2Fwww.ceresana.com%2Fen%2F+Ceresana+Research%5D&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span> <span style="font-size:100%" class="error citation-comment">External link in <code style="color:inherit; border:inherit; padding:inherit;">|publisher=</code> (<a href="/wiki/Help:CS1_errors#param_has_ext_link" title="Help:CS1 errors">help</a>)</span></span></li> 
+       <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.peninsulaplastics.com/thermoforming-capabilities">Thermoforming HDPE</a>. Dermnet.org.nz</span></li> 
+       <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ides.com/generics/PE/PE_typical_properties.htm">Typical Properties of Polyethylene (PE)</a>. Ides.com. Retrieved on 2011-12-30.</span></li> 
+       <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.makeitfrom.com/compare-materials/?A=High-Density-Polyethylene-HDPE&amp;B=Low-Density-Polyethylene-LDPE">Compare Materials: HDPE and LDPE</a>. Makeitfrom.com. Retrieved on 2011-12-30.</span></li> 
+       <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.dermnet.org.nz/procedures/polyethylene.html">Dermnet.org.nz</a>. Dermnet.org.nz (2011-07-01). Retrieved on 2011-12-30.</span></li> 
+       <li id="cite_note-RPJ-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-RPJ_7-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Baechler, C.; Devuono, M.; Pearce, J. M. (2013). <a rel="nofollow" class="external text" href="http://www.academia.edu/2643418/Distributed_Recycling_of_Waste_Polymer_into_RepRap_Feedstock">"Distributed recycling of waste polymer into Rep <i>Rap</i> feedstock"</a>. <i>Rapid Prototyping Journal</i> <b>19</b> (2): 118. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1108%2F13552541311302978">10.1108/13552541311302978</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHigh-density+polyethylene&amp;rft.atitle=Distributed+recycling+of+waste+polymer+into+Rep+Rap+feedstock&amp;rft.au=Devuono%2C+M.&amp;rft.aufirst=C.&amp;rft.aulast=Baechler&amp;rft.au=Pearce%2C+J.+M.&amp;rft.date=2013&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.academia.edu%2F2643418%2FDistributed_Recycling_of_Waste_Polymer_into_RepRap_Feedstock&amp;rft_id=info%3Adoi%2F10.1108%2F13552541311302978&amp;rft.issue=2&amp;rft.jtitle=Rapid+Prototyping+Journal&amp;rft.pages=118&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=19" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">Kreiger, M. A.; Mulder, M. L.; Glover, A. G.; Pearce, J. M. (2014). <a rel="nofollow" class="external text" href="https://www.academia.edu/6188555/Life_cycle_analysis_of_distributed_recycling_of_post-consumer_high_density_polyethylene_for_3-D_printing_filament">"Life cycle analysis of distributed recycling of post-consumer high density polyethylene for 3-D printing filament"</a>. <i>Journal of Cleaner Production</i> <b>70</b>: 90. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.jclepro.2014.02.009">10.1016/j.jclepro.2014.02.009</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHigh-density+polyethylene&amp;rft.atitle=Life+cycle+analysis+of+distributed+recycling+of+post-consumer+high+density+polyethylene+for+3-D+printing+filament&amp;rft.aufirst=M.+A.&amp;rft.au=Glover%2C+A.+G.&amp;rft.aulast=Kreiger&amp;rft.au=Mulder%2C+M.+L.&amp;rft.au=Pearce%2C+J.+M.&amp;rft.date=2014&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fwww.academia.edu%2F6188555%2FLife_cycle_analysis_of_distributed_recycling_of_post-consumer_high_density_polyethylene_for_3-D_printing_filament&amp;rft_id=info%3Adoi%2F10.1016%2Fj.jclepro.2014.02.009&amp;rft.jtitle=Journal+of+Cleaner+Production&amp;rft.pages=90&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=70" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://voxelfab.com/blog/2013/03/the-importance-of-the-lyman-extruder-filamaker-recyclebot-and-filabot-to-3d-printing/">The importance of the Lyman Extruder, Filamaker, Recyclebot and Filabot to 3D printing</a> – VoxelFab, 2013.</span></li> 
+       <li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation journal">Kreiger, M.; Anzalone, G. C.; Mulder, M. L.; Glover, A.; Pearce, J. M. (2013). <a rel="nofollow" class="external text" href="http://www.academia.edu/2921972/Distributed_Recycling_of_Post-Consumer_Plastic_Waste_in_Rural_Areas">"Distributed Recycling of Post-Consumer Plastic Waste in Rural Areas"</a>. <i>MRS Proceedings</i> <b>1492</b>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1557%2Fopl.2013.258">10.1557/opl.2013.258</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHigh-density+polyethylene&amp;rft.atitle=Distributed+Recycling+of+Post-Consumer+Plastic+Waste+in+Rural+Areas&amp;rft.au=Anzalone%2C+G.+C.&amp;rft.aufirst=M.&amp;rft.au=Glover%2C+A.&amp;rft.aulast=Kreiger&amp;rft.au=Mulder%2C+M.+L.&amp;rft.au=Pearce%2C+J.+M.&amp;rft.date=2013&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.academia.edu%2F2921972%2FDistributed_Recycling_of_Post-Consumer_Plastic_Waste_in_Rural_Areas&amp;rft_id=info%3Adoi%2F10.1557%2Fopl.2013.258&amp;rft.jtitle=MRS+Proceedings&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=1492" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+      </ol> 
+     </div> 
+     <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=High-density_polyethylene&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <ul> 
+      <li><a rel="nofollow" class="external text" href="http://www.societyofrobots.com/materials_hdpe.shtml">HDPE for Robotics</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.ides.com/pm/HDPE.asp">HDPE Advantages &amp; Disadvantages</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://ern-est.github.io/projects/recycle-plastic-bags-into-plastic-sheets.html">How to Recycle Plastic</a></li> 
+     </ul> 
+     <!-- 
+NewPP limit report
+Parsed by mw1135
+Cached time: 20160307100349
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.195 seconds
+Real time usage: 0.242 seconds
+Preprocessor visited node count: 632/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 12478/2097152 bytes
+Template argument size: 11/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 1/500
+Lua time usage: 0.077/10.000 seconds
+Lua memory usage: 2.04 MB/50 MB
+Number of Wikibase entities loaded: 0--> 
+     <!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  193.184      1 - -total
+ 51.19%   98.888      1 - Template:Reflist
+ 33.09%   63.918      1 - Template:Refimprove
+ 28.60%   55.243      1 - Template:Cite_web
+ 21.12%   40.804      1 - Template:Ambox
+ 10.94%   21.136      3 - Template:Cite_journal
+  6.03%   11.651      1 - Template:Colbegin
+  2.09%    4.037      1 - Template:Colend
+  1.25%    2.416      1 - Template:Column-count
+--> 
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:1911597-0!*!0!!en!4!* and timestamp 20160307100349 and revision id 707897050
+ --> 
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript>
+    </div> 
+    <div class="printfooter">
+      Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=High-density_polyethylene&amp;oldid=707897050">https://en.wikipedia.org/w/index.php?title=High-density_polyethylene&amp;oldid=707897050</a>" 
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Plastics" title="Category:Plastics">Plastics</a></li>
+       <li><a href="/wiki/Category:Polyolefins" title="Category:Polyolefins">Polyolefins</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:CS1_errors:_external_links" title="Category:CS1 errors: external links">CS1 errors: external links</a></li>
+       <li><a href="/wiki/Category:Articles_needing_additional_references_from_May_2010" title="Category:Articles needing additional references from May 2010">Articles needing additional references from May 2010</a></li>
+       <li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li>
+      </ul>
+     </div>
+    </div> 
+    <div class="visualClear"></div> 
+   </div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> 
+    <div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label"> 
+     <h3 id="p-personal-label">Personal tools</h3> 
+     <ul> 
+      <li id="pt-anonuserpage">Not logged in</li>
+      <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+      <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+      <li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=High-density+polyethylene&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+      <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=High-density+polyethylene" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li> 
+     </ul> 
+    </div> 
+    <div id="left-navigation"> 
+     <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label"> 
+      <h3 id="p-namespaces-label">Namespaces</h3> 
+      <ul> 
+       <li id="ca-nstab-main" class="selected"><span><a href="/wiki/High-density_polyethylene" title="View the content page [c]" accesskey="c">Article</a></span></li> 
+       <li id="ca-talk"><span><a href="/wiki/Talk:High-density_polyethylene" title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span><a href="#"></a> </h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="right-navigation"> 
+     <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label"> 
+      <h3 id="p-views-label">Views</h3> 
+      <ul> 
+       <li id="ca-view" class="selected"><span><a href="/wiki/High-density_polyethylene">Read</a></span></li> 
+       <li id="ca-edit"><span><a href="/w/index.php?title=High-density_polyethylene&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li> 
+       <li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=High-density_polyethylene&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch"> 
+        <input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput">
+        <input type="hidden" value="Special:Search" name="title">
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton">
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a>
+    </div> 
+    <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label"> 
+     <h3 id="p-navigation-label">Navigation</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+       <li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label"> 
+     <h3 id="p-interaction-label">Interaction</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label"> 
+     <h3 id="p-tb-label">Tools</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/High-density_polyethylene" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/High-density_polyethylene" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=High-density_polyethylene&amp;oldid=707897050" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=High-density_polyethylene&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q2641430" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=High-density_polyethylene&amp;id=707897050" title="Information on how to cite this page">Cite this page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label"> 
+     <h3 id="p-coll-print_export-label">Print/export</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=High-density+polyethylene">Create a book</a></li>
+       <li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=High-density+polyethylene&amp;returnto=High-density+polyethylene&amp;oldid=707897050&amp;writer=rdf2latex">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=High-density_polyethylene&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label"> 
+     <h3 id="p-lang-label">Languages</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%B9%D8%AF%D8%AF_%D8%A5%D8%AB%D9%8A%D9%84%D9%8A%D9%86_%D8%B9%D8%A7%D9%84%D9%8A_%D8%A7%D9%84%D9%83%D8%AB%D8%A7%D9%81%D8%A9" title="متعدد إثيلين عالي الكثافة – Arabic" lang="ar" hreflang="ar">العربية</a></li>
+       <li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Polietil%C3%A8_d%27alta_densitat" title="Polietilè d'alta densitat – Catalan" lang="ca" hreflang="ca">Català</a></li>
+       <li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Polyethylen_s_vysokou_hustotou" title="Polyethylen s vysokou hustotou – Czech" lang="cs" hreflang="cs">Čeština</a></li>
+       <li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Polyethylen" title="Polyethylen – German" lang="de" hreflang="de">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Polietileno_de_alta_densidad" title="Polietileno de alta densidad – Spanish" lang="es" hreflang="es">Español</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Poly%C3%A9thyl%C3%A8ne_haute_densit%C3%A9" title="Polyéthylène haute densité – French" lang="fr" hreflang="fr">Français</a></li>
+       <li class="interlanguage-link interwiki-id"><a href="//id.wikipedia.org/wiki/Polietilena_berdensitas_tinggi" title="Polietilena berdensitas tinggi – Indonesian" lang="id" hreflang="id">Bahasa Indonesia</a></li>
+       <li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Polietilene_ad_alta_densit%C3%A0" title="Polietilene ad alta densità – Italian" lang="it" hreflang="it">Italiano</a></li>
+       <li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/Nagy_s%C5%B1r%C5%B1s%C3%A9g%C5%B1_polietil%C3%A9n" title="Nagy sűrűségű polietilén – Hungarian" lang="hu" hreflang="hu">Magyar</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E9%AB%98%E5%AF%86%E5%BA%A6%E3%83%9D%E3%83%AA%E3%82%A8%E3%83%81%E3%83%AC%E3%83%B3" title="高密度ポリエチレン – Japanese" lang="ja" hreflang="ja">日本語</a></li>
+       <li class="interlanguage-link interwiki-th"><a href="//th.wikipedia.org/wiki/%E0%B8%9E%E0%B8%AD%E0%B8%A5%E0%B8%B4%E0%B9%80%E0%B8%AD%E0%B8%97%E0%B8%B4%E0%B8%A5%E0%B8%B5%E0%B8%99%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%AB%E0%B8%99%E0%B8%B2%E0%B9%81%E0%B8%99%E0%B9%88%E0%B8%99%E0%B8%AA%E0%B8%B9%E0%B8%87" title="พอลิเอทิลีนความหนาแน่นสูง – Thai" lang="th" hreflang="th">ไทย</a></li>
+       <li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/HDPE" title="HDPE – Turkish" lang="tr" hreflang="tr">Türkçe</a></li>
+       <li class="uls-p-lang-dummy"><a href="#"></a></li> 
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q2641430#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last modified on 2 March 2016, at 12:35.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-cookiestatement"><a href="//wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=High-density_polyethylene&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"> <a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"></a> </li> 
+    <li id="footer-poweredbyico"> <a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"></a> </li> 
+   </ul> 
+   <div style="clear:both"></div> 
+  </div> 
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.wikimediaEvents","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script>
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.config.set({"wgBackendResponseTime":57,"wgHostname":"mw1242"}); /* @nomin */
+} );</script>   
+ </body>
+</html>

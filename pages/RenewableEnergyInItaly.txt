@@ -1,0 +1,636 @@
+https://en.wikipedia.org/wiki/Renewable_energy_in_Italy
+<!doctype html>
+<html lang="en" dir="ltr" class="client-nojs">
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Renewable energy in Italy - Wikipedia, the free encyclopedia</title> 
+  <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script> 
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Renewable_energy_in_Italy","wgTitle":"Renewable energy in Italy","wgCurRevisionId":711108752,"wgRevisionId":711108752,"wgArticleId":32847002,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Italian-language sources (it)","Commons category with page title same as on Wikidata","Renewable energy in Italy","Pages with obsolete Vega 1.0 graphs","Pages with graphs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Renewable_energy_in_Italy","wgRelevantArticleId":32847002,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCentralAuthMobileDomain":false,"wgWikibaseItemId":"Q7313102","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script> 
+  <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script> 
+  <meta name="generator" content="MediaWiki 1.27.0-wmf.17"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Renewable_energy_in_Italy"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Renewable_energy_in_Italy&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Renewable_energy_in_Italy&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Renewable_energy_in_Italy"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Renewable_energy_in_Italy skin-vector action-view"> 
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> 
+   <a id="top"></a> 
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Renewable energy in Italy</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="jump-to-nav" class="mw-jump">
+      Jump to: 
+     <a href="#mw-head">navigation</a>, 
+     <a href="#p-search">search</a> 
+    </div> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <p><b><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a></b> primary consumption in <a href="/wiki/Italy" title="Italy">Italy</a> was 14.6 <a href="/wiki/Tonne_of_oil_equivalent" title="Tonne of oil equivalent">Mtoe</a> in 2013.<sup id="cite_ref-legambiente2015_1-0" class="reference"><a href="#cite_note-legambiente2015-1">[1]</a></sup> This number has been growing steadily in the last decade and today accounts for a significant percentage of the <a href="/wiki/Energy_in_Italy" title="Energy in Italy">national energy consumption</a>. In 2014, 38.2% of the national electric energy consumption came from renewable sources (in 2005 this value was 15.4%), covering 16.2% of the total energy consumption of the country (5.3% in 2005).<sup id="cite_ref-legambiente2015_1-1" class="reference"><a href="#cite_note-legambiente2015-1">[1]</a></sup></p> 
+     <p>All of the 8.047 Italian municipalities (<a href="/wiki/Comune" title="Comune">comune</a>) have deployed some source of renewable energy, with <a href="/wiki/Hydroelectricity_in_Italy" title="Hydroelectricity in Italy">hydroelectric power</a> being the leading renewable energy source in terms of production. <a href="/wiki/Solar_power_in_Italy" title="Solar power in Italy">Solar energy</a> production alone accounted for almost 9% of the total electric consumption in the country in 2014, making Italy the country with the highest contribution from solar energy in the world.<sup id="cite_ref-legambiente2015_1-2" class="reference"><a href="#cite_note-legambiente2015-1">[1]</a></sup></p> 
+     <p></p> 
+     <div id="toc" class="toc"> 
+      <div id="toctitle"> 
+       <h2>Contents</h2> 
+      </div> 
+      <ul> 
+       <li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li> 
+       <li class="toclevel-1 tocsection-2"><a href="#Electricity"><span class="tocnumber">2</span> <span class="toctext">Electricity</span></a></li> 
+       <li class="toclevel-1 tocsection-3"><a href="#Current_targets_and_progress"><span class="tocnumber">3</span> <span class="toctext">Current targets and progress</span></a></li> 
+       <li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li> 
+       <li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li> 
+       <li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li> 
+      </ul> 
+     </div> 
+     <p></p> 
+     <h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Renewable_energy_in_Italy&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>The urge to produce exclusively green energy in Italy came from the need to reduce the country's historical heavy dependence on <a href="/wiki/Fossil_fuels" title="Fossil fuels" class="mw-redirect">fossil fuels</a> and supply flows of <a href="/wiki/Hydrocarbons" title="Hydrocarbons" class="mw-redirect">hydrocarbons</a> coming from <a href="/wiki/Eastern_Europe" title="Eastern Europe">Eastern Europe</a>, the <a href="/wiki/Middle_East" title="Middle East">Middle East</a> and <a href="/wiki/North_Africa" title="North Africa">North Africa</a>,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> and to comply with the binding international agreements of the <a href="/wiki/Kyoto_Protocol" title="Kyoto Protocol">Kyoto Protocol</a> (signed in 1997 and implemented in 2005).</p> 
+     <p>During the twentieth century, Italy was at the forefront of technological development and the production of energy from <a href="/wiki/Renewable_energy" title="Renewable energy">renewable sources</a>. In the field of <a href="/wiki/Geothermal_energy" title="Geothermal energy">geothermal energy</a>, the first plant dates back to 1904, at <a href="/wiki/Larderello" title="Larderello">Larderello</a> in <a href="/wiki/Tuscany" title="Tuscany">Tuscany</a>, where in 1913 the first geothermal power plant was also built, and remained the only one in the world until 1958.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> With regards to <a href="/wiki/Hydropower" title="Hydropower">hydropower</a>, the first plant in <a href="/wiki/Europe" title="Europe">Europe</a> was built in Paderno d'Adda in <a href="/wiki/Lombardy" title="Lombardy">Lombardy</a> between 1895 and 1898.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> In the <a href="/wiki/Solar_energy" title="Solar energy">solar energy</a> industry, the first power plant (that could produce steam at 450&nbsp;°C) was built in <a href="/wiki/Genoa" title="Genoa">Genoa</a> in 1963, and in 1980 the first <a href="/wiki/Solar_power_tower" title="Solar power tower">solar power tower</a> that uses mirrors was built at <a href="/wiki/Adrano" title="Adrano">Adrano</a> in <a href="/wiki/Sicily" title="Sicily">Sicily</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> As for the production of <a href="/wiki/Wind_power" title="Wind power">wind power</a>, the first experimental projects (sponsored by the <a href="/wiki/National_Research_Council_(Italy)" title="National Research Council (Italy)">National Research Council</a> and in collaboration with <a href="/wiki/Enel" title="Enel">Enel</a>) were started in the second half of the seventies as part of the restructuring of the entire system of production and supply of energy that followed the <a href="/wiki/1973_oil_crisis" title="1973 oil crisis">1973</a> and <a href="/wiki/1979_energy_crisis" title="1979 energy crisis">1979</a> energy crisis.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p> 
+     <p>During the eighties and the nineties <a href="/wiki/Renewable_energy" title="Renewable energy">renewable energy</a> projects drew new life from three co-occurring factors: the rapid price increase of crude oil (caused by the tension and armed conflicts in the <a href="/wiki/Middle_East" title="Middle East">Middle East</a> and <a href="/wiki/Persian_Gulf" title="Persian Gulf">Persian Gulf</a>); a new public awareness of environmentalism (fuelled by the <a href="/wiki/Chernobyl_disaster" title="Chernobyl disaster">Chernobyl disaster</a> in 1986<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>); and the interruption of all construction of <a href="/wiki/Nuclear_power_plants" title="Nuclear power plants" class="mw-redirect">nuclear power plants</a> in Italy and the ban on <a href="/wiki/Enel" title="Enel">Enel</a> on the participating in the construction or management of nuclear power plants beyond national borders (following the <a href="/wiki/Italian_referendums,_1987" title="Italian referendums, 1987">referendum of 1987</a>).</p> 
+     <h2><span class="mw-headline" id="Electricity">Electricity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Renewable_energy_in_Italy&amp;action=edit&amp;section=2" title="Edit section: Electricity">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>Between 2005 and 2011 a surge in renewable energy investments and production took place in Italy, particularly in <a href="/wiki/Wind_power_in_Italy" title="Wind power in Italy">wind</a> and <a href="/wiki/Solar_power_in_Italy" title="Solar power in Italy">solar</a> energy during the latter years.. Total electricity produced from <a href="/wiki/Solar_PV" title="Solar PV" class="mw-redirect">solar PV</a> quintupled in 2011 compared to the previous year.<sup id="cite_ref-gse1_8-0" class="reference"><a href="#cite_note-gse1-8">[8]</a></sup> This was mainly due to a drop in costs and to high incentives introduced since 2005.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> The Italian fossil fuel electricity generation sector underwent a profound crisis.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> Many Italian power plants burning fossil fuels were running at half capacity and others were in the process of being shut down.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p> 
+     <p>By 2011 Renewable electricity accounted for the 24.5% of all electric energy produced in Italy.<sup id="cite_ref-gse1_8-1" class="reference"><a href="#cite_note-gse1-8">[8]</a></sup> This percentage grew rapidly and reached 38.5% in 2013, when a spike in hydroelectric production contributed with more than 9 TWh.<sup id="cite_ref-qua1_12-0" class="reference"><a href="#cite_note-qua1-12">[12]</a></sup> The total gross capacity in 2011 was 41,352 MW and the total energy produced during the year was 84,190 GWh.<sup id="cite_ref-gse1_8-2" class="reference"><a href="#cite_note-gse1-8">[8]</a></sup></p> 
+     <p>In 2013 the renewable electricity produced during the year was 106.5 TWh.<sup id="cite_ref-qua1_12-1" class="reference"><a href="#cite_note-qua1-12">[12]</a></sup></p> 
+     <p>During the first quarter of 2014, renewables generated 39,8% of all electric energy produced,<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> and 49,1% during April.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></p> 
+     <p><b>Renewable electricity prodution in GWh from various renewable sources in Italy, 2012-2015</b>*<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup><sup id="cite_ref-:1_16-0" class="reference"><a href="#cite_note-:1-16">[16]</a></sup></p> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:442px;">
+       <a href="/wiki/File:Italy_2015.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Italy_2015.png/440px-Italy_2015.png" width="440" height="264" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/d/da/Italy_2015.png 1.5x, //upload.wikimedia.org/wikipedia/commons/d/da/Italy_2015.png 2x" data-file-width="481" data-file-height="289"></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Italy_2015.png" class="internal" title="Enlarge"></a>
+        </div> Estimated composition of renewable generated electricity in Italy in 2015
+        <sup id="cite_ref-:1_16-1" class="reference"><a href="#cite_note-:1-16">[16]</a></sup>
+        <sup id="cite_ref-:0_17-0" class="reference"><a href="#cite_note-:0-17">[17]</a></sup> *biomass based on 2013 data
+       </div> 
+      </div> 
+     </div> 
+     <table class="wikitable"> 
+      <tbody>
+       <tr> 
+        <th></th> 
+        <th>2012</th> 
+        <th>2013</th> 
+        <th>2014</th> 
+        <th>2015</th> 
+       </tr> 
+       <tr> 
+        <td><b>Net Wind, Photovoltaic and Geothermal production</b></td> 
+        <td>37,222</td> 
+        <td>41,360</td> 
+        <td>42,493</td> 
+        <td>45,081</td> 
+       </tr> 
+       <tr> 
+        <td>% of National Electricity Production</td> 
+        <td>12.9%</td> 
+        <td>14.8%</td> 
+        <td>15.8%</td> 
+        <td>16.7%</td> 
+       </tr> 
+       <tr> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+       </tr> 
+       <tr> 
+        <td><b>Net Hydro Production</b></td> 
+        <td>43,256</td> 
+        <td>54,068</td> 
+        <td>59,575</td> 
+        <td>44,751</td> 
+       </tr> 
+       <tr> 
+        <td>% of National Electricity Production</td> 
+        <td>15.0%</td> 
+        <td>19.4%</td> 
+        <td>22.1%</td> 
+        <td>16.5%</td> 
+       </tr> 
+       <tr> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+       </tr> 
+       <tr> 
+        <td><b>Total Production from above sources</b></td> 
+        <td>80,478</td> 
+        <td>95,428</td> 
+        <td>102,068</td> 
+        <td>89,832</td> 
+       </tr> 
+       <tr> 
+        <td>% of National Electricity Production*</td> 
+        <td>27.9%</td> 
+        <td>34.2%</td> 
+        <td>37.9%</td> 
+        <td>33.2%</td> 
+       </tr> 
+       <tr> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+        <td></td> 
+       </tr> 
+       <tr> 
+        <td><b>Total Net Production (includes non renewable)</b></td> 
+        <td>287,805</td> 
+        <td>278,832</td> 
+        <td>269,148</td> 
+        <td>270,703</td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <p>*excludes contribution from biomass in each year (e.g. approximately an additional 6% (17,100Gwh) of total electricity production in 2013)<sup id="cite_ref-:0_17-1" class="reference"><a href="#cite_note-:0-17">[17]</a></sup>)</p> 
+     <dl> 
+      <dt>
+       Share of electricity production in Italy from wind, photovoltaic, geothermal and hydroelectric sources (%)*
+      </dt> 
+     </dl> 
+     <div class="mw-graph" style="min-width:300px;min-height:150px">
+      <img class="mw-graph-img" src="/api/rest_v1/page/graph/png/Renewable_energy_in_Italy/0/3217034105f92d4bd4d931f0b813e2e9d9ed6be6.png">
+     </div> 
+     <p>∗ excludes contribution from biomass</p> 
+     <p>Electricity production potential from renewables has been rising although hydroelectric figures vary considerably from one year to the next. Including biomass energy production of electricity from renewable sources reached a record of around 44% of total electricity production. In 2015 production from Wind, Photovoltaic and Geothermal sources exceeded Hydroelectric production for the first time.</p> 
+     <h2><span class="mw-headline" id="Current_targets_and_progress">Current targets and progress</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Renewable_energy_in_Italy&amp;action=edit&amp;section=3" title="Edit section: Current targets and progress">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>Italy has a 17 percent target in its total energy use set by the European Union for 2020 and is close to meeting its goal having reached 16.2% of renewable energy consumption in 2014.<sup id="cite_ref-legambiente2015_1-3" class="reference"><a href="#cite_note-legambiente2015-1">[1]</a></sup></p> 
+     <p>Italy has planned to subsidize electric cars.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> Transport accounts for a large amount of fossil fuel use so a quick transition to sustainable transport such as <a href="/wiki/Electric_cars" title="Electric cars" class="mw-redirect">electric cars</a> and <a href="/wiki/Tram#Electric_.28trolley_cars.29" title="Tram">trams</a> will be a key element of transition to renewable energy use.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></p> 
+     <p>The <a href="/wiki/Italy_National_Renewable_Energy_Action_Plan" title="Italy National Renewable Energy Action Plan">Italian National Renewable Energy Action Plan</a> has a target to reach the total share of renewable energies to 26%. 39% in the electricity sector, 17,09% in the heating/cooling sector and 14% in the transport sector by 2020.</p> 
+     <p>On June 16, 2013, renewables covered 100% of the entire Italian electricity demand for 2 hours.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></p> 
+     <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Renewable_energy_in_Italy&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <div class="noprint portal tright" style="border:solid #aaa 1px;margin:0.5em 0 0.5em 1em"> 
+      <table style="background:#f9f9f9;font-size:85%;line-height:110%;max-width:175px"> 
+       <tbody>
+        <tr style="vertical-align:middle"> 
+         <td style="text-align:center"><a href="/wiki/File:Wind-turbine-icon.svg" class="image"><img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/28px-Wind-turbine-icon.svg.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/42px-Wind-turbine-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/56px-Wind-turbine-icon.svg.png 2x" data-file-width="128" data-file-height="128"></a></td> 
+         <td style="padding:0 0.2em;vertical-align:middle;font-style:italic;font-weight:bold"><a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy portal</a></td> 
+        </tr> 
+        <tr style="vertical-align:middle"> 
+         <td style="text-align:center"><a href="/wiki/File:Flag_of_Italy.svg" class="image"><img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/32px-Flag_of_Italy.svg.png" width="32" height="21" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/48px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/64px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000"></a></td> 
+         <td style="padding:0 0.2em;vertical-align:middle;font-style:italic;font-weight:bold"><a href="/wiki/Portal:Italy" title="Portal:Italy">Italy portal</a></td> 
+        </tr> 
+       </tbody>
+      </table> 
+     </div> 
+     <div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;"> 
+      <ul> 
+       <li><a href="/wiki/Wind_power_in_Italy" title="Wind power in Italy">Wind power in Italy</a></li> 
+       <li><a href="/wiki/Solar_power_in_Italy" title="Solar power in Italy">Solar power in Italy</a></li> 
+       <li><a href="/wiki/Geothermal_power_in_Italy" title="Geothermal power in Italy">Geothermal power in Italy</a></li> 
+       <li><a href="/wiki/Hydroelectricity_in_Italy" title="Hydroelectricity in Italy">Hydroelectricity in Italy</a></li> 
+       <li><a href="/wiki/Electricity_sector_in_Italy" title="Electricity sector in Italy">Electricity sector in Italy</a></li> 
+       <li><a href="/wiki/Energy_in_Italy" title="Energy in Italy">Energy in Italy</a></li> 
+       <li><a href="/wiki/Energy_policy_of_the_European_Union" title="Energy policy of the European Union">Energy policy of the European Union</a></li> 
+       <li><a href="/wiki/Renewable_energy_in_the_European_Union" title="Renewable energy in the European Union">Renewable energy in the European Union</a></li> 
+       <li><a href="/wiki/Renewable_energy_commercialization" title="Renewable energy commercialization">Renewable energy commercialization</a></li> 
+       <li><a href="/wiki/List_of_countries_by_renewable_electricity_production" title="List of countries by renewable electricity production" class="mw-redirect">List of countries by renewable electricity production</a></li> 
+      </ul> 
+     </div> 
+     <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Renewable_energy_in_Italy&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <div class="reflist" style="list-style-type: decimal;"> 
+      <ol class="references"> 
+       <li id="cite_note-legambiente2015-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-legambiente2015_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-legambiente2015_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-legambiente2015_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-legambiente2015_1-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.comunirinnovabili.it/il-rapporto-comuni-rinnovabili-2015/">"Il rapporto Comuni Rinnovabili 2015"</a>. <i>Comuni Rinnovabili</i> (in Italian). Legambiente<span class="reference-accessdate">. Retrieved <span class="nowrap">13 March</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARenewable+energy+in+Italy&amp;rft.atitle=Il+rapporto+Comuni+Rinnovabili+2015&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.comunirinnovabili.it%2Fil-rapporto-comuni-rinnovabili-2015%2F&amp;rft.jtitle=Comuni+Rinnovabili&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation journal">Petri, Rolf (1997). "Dalla ricostruzione al miracolo economico". <i>Storia d'Italia. La Repubblica 1943-1963, Vol. V (a cura di Giovanni Sabbatucci e Vittorio Vidotto)</i> (Rome-Bari: Laterza): 313 and 352.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARenewable+energy+in+Italy&amp;rft.atitle=Dalla+ricostruzione+al+miracolo+economico&amp;rft.aufirst=Rolf&amp;rft.aulast=Petri&amp;rft.date=1997&amp;rft.genre=article&amp;rft.jtitle=Storia+d%27Italia.+La+Repubblica+1943-1963%2C+Vol.+V+%28a+cura+di+Giovanni+Sabbatucci+e+Vittorio+Vidotto%29&amp;rft.pages=313+and+352&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal">Lungonelli, Michele (1993). "Sviluppi tecnologici e applicazioni produttive". <i>Storia dell'industria elettrica in Italia. Il potenziamento tecnico e finanziario 1914-1925, Vol. II (a cura di Luigi De Rosa)</i> (Roma-Bari: Laterza): 517–25.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARenewable+energy+in+Italy&amp;rft.atitle=Sviluppi+tecnologici+e+applicazioni+produttive&amp;rft.aufirst=Michele&amp;rft.aulast=Lungonelli&amp;rft.date=1993&amp;rft.genre=article&amp;rft.jtitle=Storia+dell%27industria+elettrica+in+Italia.+Il+potenziamento+tecnico+e+finanziario+1914-1925%2C+Vol.+II+%28a+cura+di+Luigi+De+Rosa%29&amp;rft.pages=517-25&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Giannetti, Renato (1985). "La conquista della forza. Risorse, tecnologia ed economia nell'industria elettrica italiana (1883-1940)". Milan: Franco Angeli: 71–76.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARenewable+energy+in+Italy&amp;rft.atitle=La+conquista+della+forza.+Risorse%2C+tecnologia+ed+economia+nell%27industria+elettrica+italiana+%281883-1940%29&amp;rft.aufirst=Renato&amp;rft.aulast=Giannetti&amp;rft.date=1985&amp;rft.genre=article&amp;rft.pages=71-76&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Paoloni, Giovanni; Martelli, Margherita (2010). "Storia dell'Energia Verde". Naples: Archivio storico Enel: 8.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARenewable+energy+in+Italy&amp;rft.atitle=Storia+dell%27Energia+Verde&amp;rft.aufirst=Giovanni&amp;rft.aulast=Paoloni&amp;rft.au=Martelli%2C+Margherita&amp;rft.date=2010&amp;rft.genre=article&amp;rft.pages=8&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal">Lanzavecchia, Giuseppe (1994). "Progresso tecnico e innovazione". <i>Storia dell'energia elettrica in Italia. Gli sviluppi dell'Enel 1963-1990, Vol. 5 (a cura di Giovanni Zanetti)</i> (Rome-Bari: Laterza): 548–49.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARenewable+energy+in+Italy&amp;rft.atitle=Progresso+tecnico+e+innovazione&amp;rft.aufirst=Giuseppe&amp;rft.aulast=Lanzavecchia&amp;rft.date=1994&amp;rft.genre=article&amp;rft.jtitle=Storia+dell%27energia+elettrica+in+Italia.+Gli+sviluppi+dell%27Enel+1963-1990%2C+Vol.+5+%28a+cura+di+Giovanni+Zanetti%29&amp;rft.pages=548-49&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">Diani, Mario (1988). "Isole nell'arcipelago. Il movimento ecologista in Italia". Bologna: il Mulino.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARenewable+energy+in+Italy&amp;rft.atitle=Isole+nell%27arcipelago.+Il+movimento+ecologista+in+Italia&amp;rft.aufirst=Mario&amp;rft.aulast=Diani&amp;rft.date=1988&amp;rft.genre=article&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-gse1-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-gse1_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-gse1_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-gse1_8-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.gse.it/it/Dati%20e%20Bilanci/GSE_Documenti/osservatorio%20statistico/Dati%20Statistici%20a%20fonti%20rinnovabili%20in%20Italia%206-03-2012.pdf">"Rapporto Statistico 2011"</a> <span style="font-size:85%;">(PDF)</span>. <i>Statistiche sulle fonti rinnovabili</i> (in Italian). Gestore Servizi Energetici (GSE)<span class="reference-accessdate">. Retrieved <span class="nowrap">28 March</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARenewable+energy+in+Italy&amp;rft.atitle=Rapporto+Statistico+2011&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.gse.it%2Fit%2FDati%2520e%2520Bilanci%2FGSE_Documenti%2Fosservatorio%2520statistico%2FDati%2520Statistici%2520a%2520fonti%2520rinnovabili%2520in%2520Italia%25206-03-2012.pdf&amp;rft.jtitle=Statistiche+sulle+fonti+rinnovabili&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">See also (in Italian): <i><a href="//it.wikipedia.org/wiki/Conto_energia" class="extiw" title="it:Conto energia">Conto energia</a></i>.</span></li> 
+       <li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.qualenergia.it/articoli/20130903-termoelettrico-crisi-è-record-negativo-i-consumi-gas-record-negativo">http://www.qualenergia.it/articoli/20130903-termoelettrico-crisi-è-record-negativo-i-consumi-gas-record-negativo</a></span></li> 
+       <li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.assoelettrica.it/termoelettrico-centrali-a-meta-servizio-allarme-dei-sindacati/">http://www.assoelettrica.it/termoelettrico-centrali-a-meta-servizio-allarme-dei-sindacati/</a></span></li> 
+       <li id="cite_note-qua1-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-qua1_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-qua1_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.qualenergia.it/articoli/20140110-domanda-elettrica-nel-2013-in-calo-un-terzo-da-fonti-rinnovabili-dati-terna">http://www.qualenergia.it/articoli/20140110-domanda-elettrica-nel-2013-in-calo-un-terzo-da-fonti-rinnovabili-dati-terna</a></span></li> 
+       <li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.qualenergia.it/articoli/20140408-primo-trimestre-2014-cresce-contributo-rinnovabili-su-anno-precedente">http://www.qualenergia.it/articoli/20140408-primo-trimestre-2014-cresce-contributo-rinnovabili-su-anno-precedente</a></span></li> 
+       <li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.qualenergia.it/articoli/20140512-primo-quadrimestre-2014-rinnovabili-al-35-virgola8-percento-della-domanda-elettrica">http://www.qualenergia.it/articoli/20140512-primo-quadrimestre-2014-rinnovabili-al-35-virgola8-percento-della-domanda-elettrica</a></span></li> 
+       <li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">TERNA, Sustainability Report 2014</span></li> 
+       <li id="cite_note-:1-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-:1_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:1_16-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://download.terna.it/terna/0000/0695/11.PDF">TERNA</a>, Rapporto Mesile sul Sistema Elettrico consuntivo Dicember 2015</span></li> 
+       <li id="cite_note-:0-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">TERNA, Statistical Data on Electricity in Italy 2013, Summary Note.</span></li> 
+       <li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.plugincars.com/big-italian-subsidy-could-jump-start-slow-ev-sales-123535.html">http://www.plugincars.com/big-italian-subsidy-could-jump-start-slow-ev-sales-123535.html</a></span></li> 
+       <li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://technorati.com/lifestyle/green/article/electric-cars-renewable-energy-and-the1/">http://technorati.com/lifestyle/green/article/electric-cars-renewable-energy-and-the1/</a></span></li> 
+       <li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.fondazioneuniverde.it/fuoco/a-giugno-in-italia-il-picco-delle-rinnovabili/">http://www.fondazioneuniverde.it/fuoco/a-giugno-in-italia-il-picco-delle-rinnovabili/</a></span></li> 
+      </ol> 
+     </div> 
+     <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Renewable_energy_in_Italy&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9"> 
+      <tbody>
+       <tr> 
+        <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></td> 
+        <td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="//commons.wikimedia.org/wiki/Category:Renewable_energy_in_Italy" class="extiw" title="commons:Category:Renewable energy in Italy">Renewable energy in Italy</a></b></i>.</td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <ul> 
+      <li><a rel="nofollow" class="external text" href="http://www.gse.it/">Gestore dei Servizi Energetici (GSE)</a> (Italian)</li> 
+     </ul> 
+     <table class="navbox" style="border-spacing:0"> 
+      <tbody>
+       <tr> 
+        <td style="padding:2px"> 
+         <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"> 
+          <tbody>
+           <tr> 
+            <th scope="col" class="navbox-title" colspan="2"> 
+             <div class="plainlinks hlist navbar mini"> 
+              <ul> 
+               <li class="nv-view"><a href="/wiki/Template:Renewable_energy_by_country" title="Template:Renewable energy by country"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li> 
+               <li class="nv-talk"><a href="/wiki/Template_talk:Renewable_energy_by_country" title="Template talk:Renewable energy by country"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li> 
+               <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Renewable_energy_by_country&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li> 
+              </ul> 
+             </div> 
+             <div style="font-size:114%">
+              <a href="/wiki/List_of_renewable_energy_topics_by_country" title="List of renewable energy topics by country">Renewable energy by country</a>
+             </div> </th> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group"><a href="/wiki/Renewable_energy_in_Africa" title="Renewable energy in Africa">Africa</a></th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/Renewable_energy_in_Algeria" title="Renewable energy in Algeria">Algeria</a></li> 
+               <li><a href="/wiki/Renewable_energy_in_Ethiopia" title="Renewable energy in Ethiopia">Ethiopia</a></li> 
+               <li><a href="/wiki/Renewable_energy_in_Kenya" title="Renewable energy in Kenya">Kenya</a></li> 
+               <li><a href="/wiki/Renewable_energy_in_Morocco" title="Renewable energy in Morocco">Morocco</a></li> 
+               <li><a href="/wiki/Renewable_energy_in_Seychelles" title="Renewable energy in Seychelles">Seychelles</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group"><a href="/wiki/Renewable_energy_in_Asia" title="Renewable energy in Asia">Asia</a></th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/Renewable_energy_in_Afghanistan" title="Renewable energy in Afghanistan">Afghanistan</a></li> 
+               <li><a href="/wiki/Renewable_energy_in_Armenia" title="Renewable energy in Armenia">Armenia</a></li> 
+               <li><a href="/wiki/Renewable_energy_in_Bangladesh" title="Renewable energy in Bangladesh">Bangladesh</a></li> 
+               <li><a href="/wiki/Renewable_energy_in_Bhutan" title="Renewable energy in Bhutan">Bhutan</a></li> 
+               <li><a href="/wiki/Renewable_energy_in_Brunei" title="Renewable energy in Brunei">Brunei</a></li> 
+               <li><a href="/wiki/Renewable_energy_in_China" title="Renewable energy in China">China</a></li> 
+               <li><a href="/wiki/Renewable_energy_in_India" title="Renewable energy in India">India</a></li> 
+               <li><a href="/wiki/Energy_in_Lebanon#Renewable_energy" title="Energy in Lebanon">Lebanon</a></li> 
+               <li><a href="/wiki/Renewable_energy_in_Nepal" title="Renewable energy in Nepal">Nepal</a></li> 
+               <li><a href="/wiki/Renewable_energy_in_Pakistan" title="Renewable energy in Pakistan">Pakistan</a></li> 
+               <li><a href="/wiki/Renewable_energy_in_Taiwan" title="Renewable energy in Taiwan">Taiwan</a></li> 
+               <li><a href="/wiki/Renewable_energy_in_Thailand" title="Renewable energy in Thailand">Thailand</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group"><a href="/wiki/Renewable_energy_in_the_European_Union" title="Renewable energy in the European Union">Europe</a></th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/Renewable_energy_in_Albania" title="Renewable energy in Albania">Albania</a></li> 
+               <li><a href="/wiki/Renewable_energy_in_the_Czech_Republic" title="Renewable energy in the Czech Republic">Czech Republic</a></li> 
+               <li><a href="/wiki/Renewable_energy_in_Finland" title="Renewable energy in Finland">Finland</a></li> 
+               <li><a href="/wiki/Renewable_energy_in_Germany" title="Renewable energy in Germany">Germany</a></li> 
+               <li><a href="/wiki/Renewable_energy_in_Greece" title="Renewable energy in Greece">Greece</a></li> 
+               <li><a href="/wiki/Renewable_energy_in_Iceland" title="Renewable energy in Iceland">Iceland</a></li> 
+               <li><strong class="selflink">Italy</strong></li> 
+               <li><a href="/wiki/Renewable_energy_in_Lithuania" title="Renewable energy in Lithuania">Lithuania</a></li> 
+               <li><a href="/wiki/Renewable_energy_in_Luxembourg" title="Renewable energy in Luxembourg">Luxembourg</a></li> 
+               <li><a href="/wiki/Renewable_energy_in_the_Netherlands" title="Renewable energy in the Netherlands">Netherlands</a></li> 
+               <li><a href="/wiki/Renewable_energy_in_Norway" title="Renewable energy in Norway">Norway</a></li> 
+               <li><a href="/wiki/Renewable_energy_in_Portugal" title="Renewable energy in Portugal">Portugal</a></li> 
+               <li><a href="/wiki/Renewable_energy_in_Russia" title="Renewable energy in Russia">Russia</a></li> 
+               <li><a href="/wiki/Renewable_energy_in_Spain" title="Renewable energy in Spain">Spain</a></li> 
+               <li><a href="/wiki/Renewable_energy_in_the_United_Kingdom" title="Renewable energy in the United Kingdom">United Kingdom</a> (<a href="/wiki/Renewable_energy_in_Scotland" title="Renewable energy in Scotland">Scotland</a>)</li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">North America</th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/Renewable_energy_in_Canada" title="Renewable energy in Canada">Canada</a></li> 
+               <li><a href="/wiki/Renewable_energy_in_Honduras" title="Renewable energy in Honduras">Honduras</a></li> 
+               <li><a href="/wiki/Renewable_energy_in_Mexico" title="Renewable energy in Mexico">Mexico</a></li> 
+               <li><a href="/wiki/Renewable_energy_in_the_United_States" title="Renewable energy in the United States">United States</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Oceania</th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/Renewable_energy_in_Australia" title="Renewable energy in Australia">Australia</a></li> 
+               <li><a href="/wiki/Renewable_energy_in_New_Zealand" title="Renewable energy in New Zealand">New Zealand</a></li> 
+               <li><a href="/wiki/Renewable_energy_in_Tuvalu" title="Renewable energy in Tuvalu">Tuvalu</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">South America</th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/Renewable_energy_in_Argentina" title="Renewable energy in Argentina">Argentina</a></li> 
+               <li><a href="/wiki/Renewable_energy_in_Brazil" title="Renewable energy in Brazil">Brazil</a></li> 
+               <li><a href="/wiki/Renewable_energy_in_Chile" title="Renewable energy in Chile">Chile</a></li> 
+               <li><a href="/wiki/Renewable_energy_in_Colombia" title="Renewable energy in Colombia">Colombia</a></li> 
+               <li><a href="/wiki/Renewable_energy_in_Uruguay" title="Renewable energy in Uruguay">Uruguay</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <td class="navbox-abovebelow hlist" colspan="2"> 
+             <div> 
+              <dl> 
+               <dt>
+                Portals
+               </dt> 
+               <dd>
+                <img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28"> 
+                <a href="/wiki/Portal:Energy" title="Portal:Energy">Energy</a>
+               </dd> 
+               <dd>
+                <img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28"> 
+                <a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy</a>
+               </dd> 
+               <dd>
+                <img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28"> 
+                <a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development</a>
+               </dd> 
+              </dl> 
+             </div> </td> 
+           </tr> 
+          </tbody>
+         </table> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <!-- 
+NewPP limit report
+Parsed by mw1206
+Cached time: 20160320230937
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.248 seconds
+Real time usage: 0.486 seconds
+Preprocessor visited node count: 1052/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 31373/2097152 bytes
+Template argument size: 193/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 0/500
+Lua time usage: 0.093/10.000 seconds
+Lua memory usage: 2.84 MB/50 MB
+Number of Wikibase entities loaded: 1--> 
+     <!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  398.078      1 - -total
+ 52.75%  209.996      1 - Template:Commons_category
+ 51.76%  206.042      1 - Template:Commons
+ 51.17%  203.682      1 - Template:Sister_project
+ 50.45%  200.838      1 - Template:Side_box
+ 27.48%  109.396      1 - Template:Reflist
+ 13.56%   53.980      2 - Template:Cite_web
+  9.15%   36.412      1 - Template:Portal
+  8.12%   32.326      1 - Template:Renewable_energy_by_country
+  7.90%   31.457      6 - Template:Cite_journal
+--> 
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:32847002-0!*!0!!en!4!* and timestamp 20160320230951 and revision id 711108752
+ --> 
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript>
+    </div> 
+    <div class="printfooter">
+      Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Renewable_energy_in_Italy&amp;oldid=711108752">https://en.wikipedia.org/w/index.php?title=Renewable_energy_in_Italy&amp;oldid=711108752</a>" 
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Renewable_energy_in_Italy" title="Category:Renewable energy in Italy">Renewable energy in Italy</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:CS1_Italian-language_sources_(it)" title="Category:CS1 Italian-language sources (it)">CS1 Italian-language sources (it)</a></li>
+       <li><a href="/wiki/Category:Commons_category_with_page_title_same_as_on_Wikidata" title="Category:Commons category with page title same as on Wikidata">Commons category with page title same as on Wikidata</a></li>
+       <li><a href="/wiki/Category:Pages_with_obsolete_Vega_1.0_graphs" title="Category:Pages with obsolete Vega 1.0 graphs">Pages with obsolete Vega 1.0 graphs</a></li>
+       <li><a href="/wiki/Category:Pages_with_graphs" title="Category:Pages with graphs">Pages with graphs</a></li>
+      </ul>
+     </div>
+    </div> 
+    <div class="visualClear"></div> 
+   </div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> 
+    <div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label"> 
+     <h3 id="p-personal-label">Personal tools</h3> 
+     <ul> 
+      <li id="pt-anonuserpage">Not logged in</li>
+      <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+      <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+      <li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Renewable+energy+in+Italy&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+      <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Renewable+energy+in+Italy" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li> 
+     </ul> 
+    </div> 
+    <div id="left-navigation"> 
+     <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label"> 
+      <h3 id="p-namespaces-label">Namespaces</h3> 
+      <ul> 
+       <li id="ca-nstab-main" class="selected"><span><a href="/wiki/Renewable_energy_in_Italy" title="View the content page [c]" accesskey="c">Article</a></span></li> 
+       <li id="ca-talk"><span><a href="/wiki/Talk:Renewable_energy_in_Italy" title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span><a href="#"></a> </h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="right-navigation"> 
+     <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label"> 
+      <h3 id="p-views-label">Views</h3> 
+      <ul> 
+       <li id="ca-view" class="selected"><span><a href="/wiki/Renewable_energy_in_Italy">Read</a></span></li> 
+       <li id="ca-edit"><span><a href="/w/index.php?title=Renewable_energy_in_Italy&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li> 
+       <li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Renewable_energy_in_Italy&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch"> 
+        <input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput">
+        <input type="hidden" value="Special:Search" name="title">
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton">
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a>
+    </div> 
+    <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label"> 
+     <h3 id="p-navigation-label">Navigation</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+       <li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label"> 
+     <h3 id="p-interaction-label">Interaction</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label"> 
+     <h3 id="p-tb-label">Tools</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Renewable_energy_in_Italy" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Renewable_energy_in_Italy" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Renewable_energy_in_Italy&amp;oldid=711108752" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Renewable_energy_in_Italy&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q7313102" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Renewable_energy_in_Italy&amp;id=711108752" title="Information on how to cite this page">Cite this page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label"> 
+     <h3 id="p-coll-print_export-label">Print/export</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Renewable+energy+in+Italy">Create a book</a></li>
+       <li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Renewable+energy+in+Italy&amp;returnto=Renewable+energy+in+Italy&amp;oldid=711108752&amp;writer=rdf2latex">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Renewable_energy_in_Italy&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label"> 
+     <h3 id="p-wikibase-otherprojects-label">In other projects</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Renewable_energy_in_Italy" hreflang="en">Wikimedia Commons</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label"> 
+     <h3 id="p-lang-label">Languages</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Uusiutuva_energia_Italiassa" title="Uusiutuva energia Italiassa – Finnish" lang="fi" hreflang="fi">Suomi</a></li>
+       <li class="uls-p-lang-dummy"><a href="#"></a></li> 
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q7313102#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last modified on 20 March 2016, at 23:09.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-cookiestatement"><a href="//wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Renewable_energy_in_Italy&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"> <a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"></a> </li> 
+    <li id="footer-poweredbyico"> <a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"></a> </li> 
+   </ul> 
+   <div style="clear:both"></div> 
+  </div> 
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.wikimediaEvents","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script>
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.config.set({"wgBackendResponseTime":293,"wgHostname":"mw1077"}); /* @nomin */
+} );</script>   
+ </body>
+</html>

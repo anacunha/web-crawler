@@ -1,0 +1,403 @@
+https://en.wikipedia.org/wiki/Svartsengi_Power_Station
+<!doctype html>
+<html lang="en" dir="ltr" class="client-nojs">
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Svartsengi Power Station - Wikipedia, the free encyclopedia</title> 
+  <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script> 
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Svartsengi_Power_Station","wgTitle":"Svartsengi Power Station","wgCurRevisionId":689181630,"wgRevisionId":689181630,"wgArticleId":25651120,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles in need of updating from June 2011","All Wikipedia articles in need of updating","Coordinates on Wikidata","Commons category with local link same as on Wikidata","Geothermal power stations in Iceland","Reykjanes","Keflavík","All stub articles","Power station stubs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Svartsengi_Power_Station","wgRelevantArticleId":25651120,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCoordinates":{"lat":63.878611111111,"lon":-22.432777777778},"wgCentralAuthMobileDomain":false,"wgWikibaseItemId":"Q2944551","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script> 
+  <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script> 
+  <meta name="generator" content="MediaWiki 1.27.0-wmf.17"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Svartsengi_Power_Station"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Svartsengi_Power_Station&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Svartsengi_Power_Station&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Svartsengi_Power_Station"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Svartsengi_Power_Station skin-vector action-view"> 
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> 
+   <a id="top"></a> 
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Svartsengi Power Station</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="jump-to-nav" class="mw-jump">
+      Jump to: 
+     <a href="#mw-head">navigation</a>, 
+     <a href="#p-search">search</a> 
+    </div> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <table class="metadata plainlinks ambox ambox-content ambox-Update" role="presentation"> 
+      <tbody>
+       <tr> 
+        <td class="mbox-image"> 
+         <div style="width:52px">
+          <a href="/wiki/File:Ambox_current_red.svg" class="image"><img alt="Ambox current red.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/42px-Ambox_current_red.svg.png" width="42" height="34" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/63px-Ambox_current_red.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/84px-Ambox_current_red.svg.png 2x" data-file-width="360" data-file-height="290"></a>
+         </div> </td> 
+        <td class="mbox-text"><span class="mbox-text-span">This article is <b>outdated</b>. <span class="hide-when-compact">Please update this article to reflect recent events or newly available information.</span> <small><i>(June 2011)</i></small></span></td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <table class="infobox vcard" style="width:22em"> 
+      <tbody>
+       <tr> 
+        <th colspan="2" class="fn org" style="text-align:center;font-size:125%;font-weight:bold;background-color:Gold;">Svartsengi Power Station</th> 
+       </tr> 
+       <tr> 
+        <td colspan="2" style="text-align:center"><a href="/wiki/File:Iceland_Geothermal_facility.jpg" class="image"><img alt="Iceland Geothermal facility.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Iceland_Geothermal_facility.jpg/220px-Iceland_Geothermal_facility.jpg" width="220" height="165" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Iceland_Geothermal_facility.jpg/330px-Iceland_Geothermal_facility.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Iceland_Geothermal_facility.jpg/440px-Iceland_Geothermal_facility.jpg 2x" data-file-width="2272" data-file-height="1704"></a> 
+         <div>
+          The 
+          <a href="/wiki/Blue_Lagoon_(geothermal_spa)" title="Blue Lagoon (geothermal spa)">Blue Lagoon</a> with the power station in the background.
+         </div> </td> 
+       </tr> 
+       <tr> 
+        <td colspan="2" style="text-align:center"> 
+         <div class="center"> 
+          <div style="width:235px;float:none;clear:both;margin-left:auto;margin-right:auto"> 
+           <div style="width:235px;padding:0"> 
+            <div style="position:relative;width:235px">
+             <a href="/wiki/File:Iceland_relief_map.jpg" class="image" title="Svartsengi Power Station is located in Iceland"><img alt="Svartsengi Power Station is located in Iceland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Iceland_relief_map.jpg/235px-Iceland_relief_map.jpg" width="235" height="167" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Iceland_relief_map.jpg/353px-Iceland_relief_map.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Iceland_relief_map.jpg/470px-Iceland_relief_map.jpg 2x" data-file-width="1200" data-file-height="851"></a> 
+             <div style="position:absolute;top:78.956%;left:21.394%"> 
+              <div style="position:absolute;left:-4px;top:-4px;line-height:0">
+               <img alt="Svartsengi Power Station" src="//upload.wikimedia.org/wikipedia/en/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png" title="Svartsengi Power Station" width="8" height="8" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/0c/Red_pog.svg/16px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64">
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <div>
+          Location of Svartsengi Power Station in Iceland
+         </div> </td> 
+       </tr> 
+       <tr> 
+        <th scope="row">Country</th> 
+        <td><a href="/wiki/Iceland" title="Iceland">Iceland</a></td> 
+       </tr> 
+       <tr> 
+        <th scope="row">Location</th> 
+        <td><a href="/wiki/Keflav%C3%ADk" title="Keflavík">Keflavík</a></td> 
+       </tr> 
+       <tr> 
+        <th scope="row">Coordinates</th> 
+        <td><small><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Svartsengi_Power_Station&amp;params=63_52_43_N_22_25_58_W_type:landmark_region:IS"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">63°52′43″N</span> <span class="longitude">22°25′58″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">63.87861°N 22.43278°W</span><span style="display:none">﻿ / <span class="geo">63.87861; -22.43278</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Svartsengi_Power_Station&amp;params=63_52_43_N_22_25_58_W_type:landmark_region:IS"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">63°52′43″N</span> <span class="longitude">22°25′58″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">63.87861°N 22.43278°W</span><span style="display:none">﻿ / <span class="geo">63.87861; -22.43278</span></span></span></a></span></span></span></small></td> 
+       </tr> 
+       <tr> 
+        <th scope="row">Status</th> 
+        <td>Operational</td> 
+       </tr> 
+       <tr> 
+        <th scope="row"><a href="/wiki/Project_commissioning" title="Project commissioning">Commission&nbsp;date</a></th> 
+        <td>1976</td> 
+       </tr> 
+       <tr> 
+        <th scope="row">Owner(s)</th> 
+        <td><a href="/wiki/HS_Orka" title="HS Orka" class="mw-redirect">HS Orka</a></td> 
+       </tr> 
+       <tr> 
+        <th colspan="2" style="text-align:center;background-color:Gold;">Power&nbsp;generation</th> 
+       </tr> 
+       <tr> 
+        <th scope="row">Thermal&nbsp;capacity</th> 
+        <td>150 <a href="/wiki/Megawatt" title="Megawatt" class="mw-redirect">MW</a></td> 
+       </tr> 
+       <tr> 
+        <th scope="row"><a href="/wiki/Nameplate_capacity" title="Nameplate capacity">Nameplate&nbsp;capacity</a></th> 
+        <td>76.5 <a href="/wiki/Megawatt" title="Megawatt" class="mw-redirect">MW</a></td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <p>The <b>Svartsengi Power Station</b> (<i>Svartsengi</i> (<small>Icelandic pronunciation:&nbsp;</small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA_for_Icelandic" title="Help:IPA for Icelandic">[ˈsvar̥sˌɛi̯ɲcɪ]</a></span>); "black meadow" in <a href="/wiki/Icelandic_language" title="Icelandic language">Icelandic</a>) is a <a href="/wiki/Geothermal_power" title="Geothermal power" class="mw-redirect">geothermal</a> power station located about 4&nbsp;km north of <a href="/wiki/Grindav%C3%ADk" title="Grindavík">Grindavík</a>, <a href="/wiki/Iceland" title="Iceland">Iceland</a>, near the <a href="/wiki/Keflav%C3%ADk_International_Airport" title="Keflavík International Airport">Keflavík International Airport</a> on the <a href="/wiki/Reykjanes" title="Reykjanes">Reykjanes Peninsula</a>. As of December 2007, it produces 76.5 <a href="/wiki/Megawatt" title="Megawatt" class="mw-redirect">MW</a> of energy, and about 475 litres/second of 90&nbsp;°C (194&nbsp;°F) hot water (ca. 80 MWt). Surplus mineral-rich water from the plant fills up the <a href="/wiki/Blue_Lagoon_(geothermal_spa)" title="Blue Lagoon (geothermal spa)">Blue Lagoon</a>, a popular bathing resort.</p> 
+     <p><a href="/wiki/Carbon_Recycling_International" title="Carbon Recycling International">Carbon Recycling International</a>'s first renewable methanol plant is located next to Svartsengi.</p> 
+     <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Svartsengi_Power_Station&amp;action=edit&amp;section=1" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9"> 
+      <tbody>
+       <tr> 
+        <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></td> 
+        <td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="//commons.wikimedia.org/wiki/Category:Svartsengi_power_station" class="extiw" title="commons:Category:Svartsengi power station">Svartsengi power station</a></b></i>.</td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <ul> 
+      <li><a href="/wiki/Geothermal_power_in_Iceland" title="Geothermal power in Iceland">Geothermal power in Iceland</a></li> 
+      <li><a href="/wiki/List_of_largest_power_stations_in_the_world" title="List of largest power stations in the world">List of largest power stations in the world</a></li> 
+      <li><a href="/wiki/Renewable_energy_in_Iceland" title="Renewable energy in Iceland">Renewable energy in Iceland</a></li> 
+     </ul> 
+     <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Svartsengi_Power_Station&amp;action=edit&amp;section=2" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <ul> 
+      <li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.rei.is/Projects/ReykjanesPeninsula/SvartsengiPowerPlant/">Official website</a></span></span></li> 
+      <li><a rel="nofollow" class="external text" href="http://islandsmyndir.is/html_skjol/annad/Virkjanir/Svartsengi_2010-12-11/index.html">Photogallery by islandsmyndir.is 2010-12-11</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://islandsmyndir.is/html_skjol/annad/Virkjanir/Svartsengi-2010-05-11/index.html">Photogallery by islandsmyndir.is 2010-05-11</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://islandsmyndir.is/html_skjol/annad/Virkjanir/Svartsengi-Inni-2013-01-21/index.html">Photogallery by islandsmyndir.is - 2013 Inside</a></li> 
+     </ul> 
+     <p><br></p> 
+     <table class="metadata plainlinks stub" role="presentation" style="background:transparent"> 
+      <tbody>
+       <tr> 
+        <td><a href="/wiki/File:Nuclear_Power_Plant_2.jpg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Nuclear_Power_Plant_2.jpg/36px-Nuclear_Power_Plant_2.jpg" width="36" height="27" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Nuclear_Power_Plant_2.jpg/54px-Nuclear_Power_Plant_2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/db/Nuclear_Power_Plant_2.jpg/72px-Nuclear_Power_Plant_2.jpg 2x" data-file-width="288" data-file-height="218"></a></td> 
+        <td><i>This article about a power station is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Svartsengi_Power_Station&amp;action=edit">expanding it</a>.</i> 
+         <div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"> 
+          <ul> 
+           <li class="nv-view"><a href="/wiki/Template:Powerstation-stub" title="Template:Powerstation-stub"><abbr title="View this template">v</abbr></a></li> 
+           <li class="nv-talk"><a href="/wiki/Template_talk:Powerstation-stub" title="Template talk:Powerstation-stub"><abbr title="Discuss this template">t</abbr></a></li> 
+           <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Powerstation-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li> 
+          </ul> 
+         </div> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <!-- 
+NewPP limit report
+Parsed by mw1023
+Cached time: 20160320084644
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.283 seconds
+Real time usage: 0.398 seconds
+Preprocessor visited node count: 1394/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 27551/2097152 bytes
+Template argument size: 1636/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 3/500
+Lua time usage: 0.148/10.000 seconds
+Lua memory usage: 3 MB/50 MB
+Number of Wikibase entities loaded: 1--> 
+     <!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  355.928      1 - -total
+ 36.50%  129.920      1 - Template:Infobox_power_station
+ 33.53%  119.336      1 - Template:Infobox
+ 24.28%   86.412      1 - Template:Update
+ 17.81%   63.380      1 - Template:Convert
+ 16.95%   60.341      1 - Template:Main_other
+ 15.50%   55.173      1 - Template:Ambox
+ 11.34%   40.375      1 - Template:Geobox_coor
+  8.77%   31.209      1 - Template:Commons_category
+  6.49%   23.083      1 - Template:Location_map
+--> 
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:25651120-0!*!0!!*!4!* and timestamp 20160320084643 and revision id 689181630
+ --> 
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript>
+    </div> 
+    <div class="printfooter">
+      Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Svartsengi_Power_Station&amp;oldid=689181630">https://en.wikipedia.org/w/index.php?title=Svartsengi_Power_Station&amp;oldid=689181630</a>" 
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Geothermal_power_stations_in_Iceland" title="Category:Geothermal power stations in Iceland">Geothermal power stations in Iceland</a></li>
+       <li><a href="/wiki/Category:Reykjanes" title="Category:Reykjanes">Reykjanes</a></li>
+       <li><a href="/wiki/Category:Keflav%C3%ADk" title="Category:Keflavík">Keflavík</a></li>
+       <li><a href="/wiki/Category:Power_station_stubs" title="Category:Power station stubs">Power station stubs</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Wikipedia_articles_in_need_of_updating_from_June_2011" title="Category:Wikipedia articles in need of updating from June 2011">Wikipedia articles in need of updating from June 2011</a></li>
+       <li><a href="/wiki/Category:All_Wikipedia_articles_in_need_of_updating" title="Category:All Wikipedia articles in need of updating">All Wikipedia articles in need of updating</a></li>
+       <li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li>
+       <li><a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">Commons category with local link same as on Wikidata</a></li>
+       <li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li>
+      </ul>
+     </div>
+    </div> 
+    <div class="visualClear"></div> 
+   </div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> 
+    <div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label"> 
+     <h3 id="p-personal-label">Personal tools</h3> 
+     <ul> 
+      <li id="pt-anonuserpage">Not logged in</li>
+      <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+      <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+      <li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Svartsengi+Power+Station&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+      <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Svartsengi+Power+Station" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li> 
+     </ul> 
+    </div> 
+    <div id="left-navigation"> 
+     <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label"> 
+      <h3 id="p-namespaces-label">Namespaces</h3> 
+      <ul> 
+       <li id="ca-nstab-main" class="selected"><span><a href="/wiki/Svartsengi_Power_Station" title="View the content page [c]" accesskey="c">Article</a></span></li> 
+       <li id="ca-talk"><span><a href="/wiki/Talk:Svartsengi_Power_Station" title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span><a href="#"></a> </h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="right-navigation"> 
+     <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label"> 
+      <h3 id="p-views-label">Views</h3> 
+      <ul> 
+       <li id="ca-view" class="selected"><span><a href="/wiki/Svartsengi_Power_Station">Read</a></span></li> 
+       <li id="ca-edit"><span><a href="/w/index.php?title=Svartsengi_Power_Station&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li> 
+       <li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Svartsengi_Power_Station&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch"> 
+        <input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput">
+        <input type="hidden" value="Special:Search" name="title">
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton">
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a>
+    </div> 
+    <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label"> 
+     <h3 id="p-navigation-label">Navigation</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+       <li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label"> 
+     <h3 id="p-interaction-label">Interaction</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label"> 
+     <h3 id="p-tb-label">Tools</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Svartsengi_Power_Station" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Svartsengi_Power_Station" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Svartsengi_Power_Station&amp;oldid=689181630" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Svartsengi_Power_Station&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q2944551" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Svartsengi_Power_Station&amp;id=689181630" title="Information on how to cite this page">Cite this page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label"> 
+     <h3 id="p-coll-print_export-label">Print/export</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Svartsengi+Power+Station">Create a book</a></li>
+       <li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Svartsengi+Power+Station&amp;returnto=Svartsengi+Power+Station&amp;oldid=689181630&amp;writer=rdf2latex">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Svartsengi_Power_Station&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label"> 
+     <h3 id="p-wikibase-otherprojects-label">In other projects</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Svartsengi_power_station" hreflang="en">Wikimedia Commons</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label"> 
+     <h3 id="p-lang-label">Languages</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Centrale_g%C3%A9othermique_de_Svartsengi" title="Centrale géothermique de Svartsengi – French" lang="fr" hreflang="fr">Français</a></li>
+       <li class="interlanguage-link interwiki-hr"><a href="//hr.wikipedia.org/wiki/Geotermalna_elektrana_Svartsengi" title="Geotermalna elektrana Svartsengi – Croatian" lang="hr" hreflang="hr">Hrvatski</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%B9%E3%83%B4%E3%82%A1%E3%83%AB%E3%82%B9%E3%82%A8%E3%82%A4%E3%83%B3%E3%82%AE%E5%9C%B0%E7%86%B1%E7%99%BA%E9%9B%BB%E6%89%80" title="スヴァルスエインギ地熱発電所 – Japanese" lang="ja" hreflang="ja">日本語</a></li>
+       <li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Svartsengi_kraftverk" title="Svartsengi kraftverk – Norwegian" lang="no" hreflang="no">Norsk bokmål</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Elektrownia_geotermalna_Svartsengi" title="Elektrownia geotermalna Svartsengi – Polish" lang="pl" hreflang="pl">Polski</a></li>
+       <li class="interlanguage-link interwiki-sh"><a href="//sh.wikipedia.org/wiki/Svartsengi" title="Svartsengi – Serbo-Croatian" lang="sh" hreflang="sh">Srpskohrvatski / српскохрватски</a></li>
+       <li class="uls-p-lang-dummy"><a href="#"></a></li> 
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q2944551#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last modified on 5 November 2015, at 12:58.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-cookiestatement"><a href="//wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Svartsengi_Power_Station&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"> <a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"></a> </li> 
+    <li id="footer-poweredbyico"> <a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"></a> </li> 
+   </ul> 
+   <div style="clear:both"></div> 
+  </div> 
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.wikimediaEvents","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script>
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.config.set({"wgBackendResponseTime":57,"wgHostname":"mw1245"}); /* @nomin */
+} );</script>   
+ </body>
+</html>

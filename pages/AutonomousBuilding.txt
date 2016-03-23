@@ -1,0 +1,794 @@
+https://en.wikipedia.org/wiki/Autonomous_building
+<!doctype html>
+<html lang="en" dir="ltr" class="client-nojs">
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Autonomous building - Wikipedia, the free encyclopedia</title> 
+  <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script> 
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Autonomous_building","wgTitle":"Autonomous building","wgCurRevisionId":710748702,"wgRevisionId":710748702,"wgArticleId":3022,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from August 2012","All articles needing additional references","All articles with unsourced statements","Articles with unsourced statements from September 2010","Building engineering","Human habitats","Low-energy building","Sustainable architecture","Sustainable building"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Autonomous_building","wgRelevantArticleId":3022,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["zh-cn"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCentralAuthMobileDomain":false,"wgWikibaseItemId":"Q261150","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script> 
+  <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script> 
+  <meta name="generator" content="MediaWiki 1.27.0-wmf.17"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Autonomous_building"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Autonomous_building&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Autonomous_building&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Autonomous_building"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Autonomous_building skin-vector action-view"> 
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> 
+   <a id="top"></a> 
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Autonomous building</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="jump-to-nav" class="mw-jump">
+      Jump to: 
+     <a href="#mw-head">navigation</a>, 
+     <a href="#p-search">search</a> 
+    </div> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <table class="metadata plainlinks ambox ambox-content ambox-Refimprove" role="presentation"> 
+      <tbody>
+       <tr> 
+        <td class="mbox-image"> 
+         <div style="width:52px">
+          <a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="262" data-file-height="204"></a>
+         </div> </td> 
+        <td class="mbox-text"><span class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Autonomous_building&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(August 2012)</i></small></span></td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"> 
+      <tbody>
+       <tr> 
+        <th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em"><a href="/wiki/Anti-consumerism" title="Anti-consumerism">Anti-consumerism</a></th> 
+       </tr> 
+       <tr> 
+        <td style="padding:0 0.1em 0.4em"> 
+         <div class="NavFrame collapsed" style="border:none;padding:0"> 
+          <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#f0de31;padding-left:0.4em;">
+           Ideas and theory
+          </div> 
+          <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"> 
+           <div class="hlist"> 
+            <ul> 
+             <li><a href="/wiki/Advanced_capitalism" title="Advanced capitalism">Advanced capitalism</a></li> 
+             <li><a href="/wiki/Alternative_culture" title="Alternative culture">Alternative culture</a></li> 
+             <li><strong class="selflink">Autonomous building</strong></li> 
+             <li><a href="/wiki/Buy_Nothing_Day" title="Buy Nothing Day">Buy Nothing Day</a></li> 
+             <li><a href="/wiki/Commodity_fetishism" title="Commodity fetishism">Commodity fetishism</a></li> 
+             <li><a href="/wiki/Conspicuous_consumption" title="Conspicuous consumption">Conspicuous consumption</a></li> 
+             <li><a href="/wiki/Consumer_capitalism" title="Consumer capitalism">Consumer capitalism</a></li> 
+             <li><a href="/wiki/Cultural_hegemony" title="Cultural hegemony">Cultural hegemony</a></li> 
+             <li><a href="/wiki/Culture_jamming" title="Culture jamming">Culture jamming</a></li> 
+             <li><a href="/wiki/Degrowth" title="Degrowth">Degrowth</a></li> 
+             <li><a href="/wiki/Do_it_yourself" title="Do it yourself">Do it yourself</a></li> 
+             <li><a href="/wiki/Ethical_consumerism" title="Ethical consumerism">Ethical consumerism</a></li> 
+             <li><a href="/wiki/Freeganism" title="Freeganism">Freeganism</a></li> 
+             <li><a href="/wiki/Microgeneration" title="Microgeneration">Microgeneration</a></li> 
+             <li><a href="/wiki/Simple_living" title="Simple living">Simple living</a></li> 
+             <li><a href="/wiki/Spectacle_(critical_theory)" title="Spectacle (critical theory)">Spectacle</a></li> 
+            </ul> 
+           </div> 
+          </div> 
+         </div> </td> 
+       </tr> 
+       <tr> 
+        <td style="padding:0 0.1em 0.4em"> 
+         <div class="NavFrame collapsed" style="border:none;padding:0"> 
+          <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#f0de31;padding-left:0.4em;">
+           Related 
+           <a href="/wiki/Social_movement" title="Social movement">social movements</a>
+          </div> 
+          <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"> 
+           <div class="hlist"> 
+            <ul> 
+             <li><a href="/wiki/Alter-globalization" title="Alter-globalization">Alter-globalization</a></li> 
+             <li><a href="/wiki/Anti-corporate_activism" title="Anti-corporate activism">Anti-corporate activism</a></li> 
+             <li><a href="/wiki/Anti-globalization_movement" title="Anti-globalization movement">Anti-globalization movement</a></li> 
+             <li><a href="/wiki/Diggers_(theater)" title="Diggers (theater)">Diggers</a></li> 
+             <li><a href="/wiki/Environmentalism" title="Environmentalism">Environmentalism</a></li> 
+             <li><a href="/wiki/Libertarian_socialism" title="Libertarian socialism">Libertarian socialism</a></li> 
+             <li><a href="/wiki/Occupy_Wall_Street" title="Occupy Wall Street">Occupy Wall Street</a></li> 
+             <li><a href="/wiki/Postmodernism" title="Postmodernism">Postmodernism</a></li> 
+             <li><a href="/wiki/Punk_ideologies" title="Punk ideologies">Punk</a></li> 
+             <li><a href="/wiki/Situationist_International" title="Situationist International">Situationist International</a></li> 
+             <li><a href="/wiki/Social_anarchism" title="Social anarchism">Social anarchism</a></li> 
+            </ul> 
+           </div> 
+          </div> 
+         </div> </td> 
+       </tr> 
+       <tr> 
+        <td style="padding:0 0.1em 0.4em"> 
+         <div class="NavFrame collapsed" style="border:none;padding:0"> 
+          <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#f0de31;padding-left:0.4em;">
+           Popular works
+          </div> 
+          <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;font-style:italic;"> 
+           <div class="plainlist"> 
+            <ul> 
+             <li> 
+              <div class="hlist"> 
+               <ul> 
+                <li><a href="/wiki/The_Society_of_the_Spectacle" title="The Society of the Spectacle">The Society of the Spectacle <span style="font-style:normal;">(book</span></a></li> 
+                <li><a href="/wiki/The_Society_of_the_Spectacle_(film)" title="The Society of the Spectacle (film)"><span style="font-style:normal;">film)</span></a></li> 
+               </ul> 
+              </div> </li> 
+             <li><a href="/wiki/Evasion_(book)" title="Evasion (book)">Evasion</a></li> 
+             <li><a href="/wiki/No_Logo" title="No Logo">No Logo</a></li> 
+             <li><a href="/wiki/The_Corporation_(film)" title="The Corporation (film)">The Corporation</a></li> 
+             <li><a href="/wiki/Affluenza" title="Affluenza">Affluenza</a></li> 
+             <li><a href="/wiki/Escape_from_Affluenza" title="Escape from Affluenza">Escape from Affluenza</a></li> 
+             <li><a href="/wiki/The_Theory_of_the_Leisure_Class" title="The Theory of the Leisure Class">The Theory of the Leisure Class</a></li> 
+             <li> 
+              <div class="hlist"> 
+               <ul> 
+                <li><a href="/wiki/Fight_Club_(novel)" title="Fight Club (novel)">Fight Club <span style="font-style:normal;">(novel</span></a></li> 
+                <li><a href="/wiki/Fight_Club" title="Fight Club"><span style="font-style:normal;">film)</span></a></li> 
+               </ul> 
+              </div> </li> 
+             <li><a href="/wiki/Steal_This_Book" title="Steal This Book">Steal This Book</a></li> 
+             <li><a href="/wiki/Surplus:_Terrorized_into_Being_Consumers" title="Surplus: Terrorized into Being Consumers" class="mw-redirect">Surplus: Terrorized into Being Consumers</a></li> 
+             <li> 
+              <div style="padding:0.2em 0.4em; line-height:1.2em;">
+               <a href="/wiki/Profit_over_People:_Neoliberalism_and_Global_Order" title="Profit over People: Neoliberalism and Global Order" class="mw-redirect">Profit over People: Neoliberalism<br> and Global Order</a>
+              </div> </li> 
+             <li><a href="/wiki/So,_What%27s_Your_Price%3F" title="So, What's Your Price?">So, What's Your Price?</a></li> 
+             <li><a href="/wiki/What_Would_Jesus_Buy%3F" title="What Would Jesus Buy?">What Would Jesus Buy?</a></li> 
+             <li><a href="/wiki/The_Atlantic" title="The Atlantic">The Atlantic</a></li> 
+             <li><a href="/wiki/The_Cultural_Creatives" title="The Cultural Creatives">The Cultural Creatives</a></li> 
+             <li><a href="/wiki/One-Dimensional_Man" title="One-Dimensional Man">One-Dimensional Man</a></li> 
+             <li><a href="/wiki/Walden" title="Walden">Walden</a></li> 
+            </ul> 
+           </div> 
+          </div> 
+         </div> </td> 
+       </tr> 
+       <tr> 
+        <td style="padding:0 0.1em 0.4em"> 
+         <div class="NavFrame collapsed" style="border:none;padding:0"> 
+          <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#f0de31;padding-left:0.4em;">
+           Organizations and groups
+          </div> 
+          <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"> 
+           <div class="hlist"> 
+            <ul> 
+             <li><a href="/wiki/Adbusters" title="Adbusters">Adbusters</a></li> 
+             <li><a href="/wiki/The_Freecycle_Network" title="The Freecycle Network">Freecycle</a></li> 
+             <li><a href="/wiki/Green_party" title="Green party">Green party</a></li> 
+             <li><a href="/wiki/CrimethInc." title="CrimethInc.">CrimethInc.</a></li> 
+             <li><a href="/wiki/RTMark" title="RTMark">RTMark</a></li> 
+             <li><a href="/wiki/Rage_Against_the_Machine" title="Rage Against the Machine">Rage Against the Machine</a></li> 
+             <li><a href="/wiki/Reverend_Billy_and_the_Church_of_Life_After_Shopping" title="Reverend Billy and the Church of Life After Shopping" class="mw-redirect">Reverend Billy</a></li> 
+             <li><a href="/wiki/The_Yes_Men" title="The Yes Men">The Yes Men</a></li> 
+             <li><a href="/wiki/Democracy_Now!" title="Democracy Now!">Democracy Now!</a></li> 
+             <li><a href="/wiki/Occupy_Wall_Street" title="Occupy Wall Street">Occupy Wall Street</a></li> 
+             <li><a href="/wiki/The_Venus_Project" title="The Venus Project" class="mw-redirect">The Venus Project</a></li> 
+            </ul> 
+           </div> 
+          </div> 
+         </div> </td> 
+       </tr> 
+       <tr> 
+        <td style="padding:0 0.1em 0.4em"> 
+         <div class="NavFrame collapsed" style="border:none;padding:0"> 
+          <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#f0de31;padding-left:0.4em;">
+           People
+          </div> 
+          <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"> 
+           <div class="hlist"> 
+            <ul> 
+             <li><a href="/wiki/Slavoj_%C5%BDi%C5%BEek" title="Slavoj Žižek">Slavoj Žižek</a></li> 
+             <li><a href="/wiki/Ralph_Nader" title="Ralph Nader">Ralph Nader</a></li> 
+             <li><a href="/wiki/Bernard_Stiegler" title="Bernard Stiegler">Bernard Stiegler</a></li> 
+             <li><a href="/wiki/John_Zerzan" title="John Zerzan">John Zerzan</a></li> 
+             <li><a href="/wiki/Noam_Chomsky" title="Noam Chomsky">Noam Chomsky</a></li> 
+             <li><a href="/wiki/Ron_English_(artist)" title="Ron English (artist)">Ron English</a></li> 
+             <li><a href="/wiki/Above_(artist)" title="Above (artist)">ABOVE</a></li> 
+             <li><a href="/wiki/Naomi_Klein" title="Naomi Klein">Naomi Klein</a></li> 
+             <li><a href="/wiki/Benjamin_Barber" title="Benjamin Barber">Benjamin Barber</a></li> 
+             <li><a href="/wiki/Thorstein_Veblen" title="Thorstein Veblen">Thorstein Veblen</a></li> 
+             <li><a href="/wiki/Hugo_Ch%C3%A1vez" title="Hugo Chávez">Hugo Chávez</a></li> 
+             <li><a href="/wiki/Abbie_Hoffman" title="Abbie Hoffman">Abbie Hoffman</a></li> 
+             <li><a href="/wiki/Guy_Debord" title="Guy Debord">Guy Debord</a></li> 
+             <li><a href="/wiki/Michael_Moore" title="Michael Moore">Michael Moore</a></li> 
+             <li><a href="/wiki/Jos%C3%A9_Bov%C3%A9" title="José Bové">José Bové</a></li> 
+             <li><a href="/wiki/Michel_Foucault" title="Michel Foucault">Michel Foucault</a></li> 
+             <li><a href="/wiki/Jello_Biafra" title="Jello Biafra">Jello Biafra</a></li> 
+             <li><a href="/wiki/Vandana_Shiva" title="Vandana Shiva">Vandana Shiva</a></li> 
+             <li><a href="/wiki/Bill_Hicks" title="Bill Hicks">Bill Hicks</a></li> 
+             <li><a href="/wiki/Anomie_Belle" title="Anomie Belle">Anomie Belle</a></li> 
+             <li><a href="/wiki/Thom_Yorke" title="Thom Yorke">Thom Yorke</a></li> 
+             <li><a href="/wiki/Kurt_Cobain" title="Kurt Cobain">Kurt Cobain</a></li> 
+             <li><a href="/wiki/Alex_Jones_(radio_host)" title="Alex Jones (radio host)">Alex Jones</a></li> 
+             <li><a href="/wiki/Webster_Tarpley" title="Webster Tarpley">Webster Tarpley</a></li> 
+             <li><a href="/wiki/David_Icke" title="David Icke">David Icke</a></li> 
+             <li><a href="/wiki/George_Noory" title="George Noory">George Noory</a></li> 
+             <li><a href="/wiki/Jacque_Fresco" title="Jacque Fresco">Jacque Fresco</a></li> 
+            </ul> 
+           </div> 
+          </div> 
+         </div> </td> 
+       </tr> 
+       <tr> 
+        <td style="padding:0 0.1em 0.4em"> 
+         <div class="NavFrame collapsed" style="border:none;padding:0"> 
+          <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#f0de31;padding-left:0.4em;">
+           Related topics
+          </div> 
+          <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"> 
+           <div class="hlist"> 
+            <ul> 
+             <li><a href="/wiki/Advertising" title="Advertising">Advertising</a></li> 
+             <li><a href="/wiki/Capitalism" title="Capitalism">Capitalism</a></li> 
+             <li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31"> <a href="/wiki/Category:Economic_problems" title="Category:Economic problems">Economic problems</a></li> 
+             <li><a href="/wiki/Left-wing_politics" title="Left-wing politics">Left-wing politics</a></li> 
+             <li><a href="/wiki/Sweatshop" title="Sweatshop">Sweatshops</a></li> 
+             <li><img alt="List-Class article" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" title="List-Class article" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" data-file-width="180" data-file-height="185"> <a href="/wiki/List_of_anti-consumerists" title="List of anti-consumerists">Anti-consumerists</a></li> 
+             <li><img alt="List-Class article" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" title="List-Class article" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" data-file-width="180" data-file-height="185"> <a href="/wiki/List_of_social_movements" title="List of social movements">Social movements</a></li> 
+            </ul> 
+           </div> 
+          </div> 
+         </div> </td> 
+       </tr> 
+       <tr> 
+        <td style="text-align:right;font-size:115%;padding-top: 0.6em;"> 
+         <div class="plainlinks hlist navbar mini"> 
+          <ul> 
+           <li class="nv-view"><a href="/wiki/Template:Anti-consumerism" title="Template:Anti-consumerism"><abbr title="View this template">v</abbr></a></li> 
+           <li class="nv-talk"><a href="/wiki/Template_talk:Anti-consumerism" title="Template talk:Anti-consumerism"><abbr title="Discuss this template">t</abbr></a></li> 
+           <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Anti-consumerism&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li> 
+          </ul> 
+         </div> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <p>An <b>autonomous building</b> is a building designed to be operated independently from <a href="/wiki/Infrastructure" title="Infrastructure">infrastructural</a> support services such as the <a href="/wiki/Electric_power" title="Electric power">electric power</a> grid, <a href="/wiki/Gas_grid" title="Gas grid" class="mw-redirect">gas grid</a>, municipal water systems, <a href="/wiki/Sewage_treatment" title="Sewage treatment">sewage treatment</a> systems, <a href="/wiki/Storm_drain" title="Storm drain">storm drains</a>, communication services, and in some cases, public roads.</p> 
+     <p>Advocates of autonomous building describe advantages that include reduced environmental impacts, increased security, and lower costs of ownership. Some cited advantages satisfy tenets of <a href="/wiki/Green_building" title="Green building">green building</a>, not independence per se (see below). <a href="/wiki/Off-the-grid" title="Off-the-grid">Off-grid</a> buildings often rely very little on civil services and are therefore safer and more comfortable during civil disaster or military attacks. (Off-grid buildings would not lose power or water if public supplies were compromised for some reason.)</p> 
+     <p>Most of the research and published articles concerning autonomous building focus on residential homes.</p> 
+     <p>British architects <a href="/wiki/Brenda_and_Robert_Vale" title="Brenda and Robert Vale">Brenda and Robert Vale</a> have said that, as of 2002,</p> 
+     <blockquote> 
+      <p>"It is quite possible in all parts of Australia to construct a 'house with no bills', which would be comfortable without heating and cooling, which would make its own electricity, collect its own water and deal with its own waste...These houses can be built now, using off-the-shelf techniques. It is possible to build a "house with no bills" for the same price as a conventional house, but it would be (25%) smaller."<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p> 
+     </blockquote> 
+     <p></p> 
+     <div id="toc" class="toc"> 
+      <div id="toctitle"> 
+       <h2>Contents</h2> 
+      </div> 
+      <ul> 
+       <li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li> 
+       <li class="toclevel-1 tocsection-2"><a href="#Advantages"><span class="tocnumber">2</span> <span class="toctext">Advantages</span></a></li> 
+       <li class="toclevel-1 tocsection-3"><a href="#Disadvantages"><span class="tocnumber">3</span> <span class="toctext">Disadvantages</span></a></li> 
+       <li class="toclevel-1 tocsection-4"><a href="#Systems"><span class="tocnumber">4</span> <span class="toctext">Systems</span></a> 
+        <ul> 
+         <li class="toclevel-2 tocsection-5"><a href="#Water"><span class="tocnumber">4.1</span> <span class="toctext">Water</span></a></li> 
+         <li class="toclevel-2 tocsection-6"><a href="#Sewage"><span class="tocnumber">4.2</span> <span class="toctext">Sewage</span></a> 
+          <ul> 
+           <li class="toclevel-3 tocsection-7"><a href="#Resource"><span class="tocnumber">4.2.1</span> <span class="toctext">Resource</span></a></li> 
+           <li class="toclevel-3 tocsection-8"><a href="#Waste"><span class="tocnumber">4.2.2</span> <span class="toctext">Waste</span></a></li> 
+          </ul> </li> 
+         <li class="toclevel-2 tocsection-9"><a href="#Storm_drains"><span class="tocnumber">4.3</span> <span class="toctext">Storm drains</span></a></li> 
+         <li class="toclevel-2 tocsection-10"><a href="#Electricity"><span class="tocnumber">4.4</span> <span class="toctext">Electricity</span></a></li> 
+         <li class="toclevel-2 tocsection-11"><a href="#Heating"><span class="tocnumber">4.5</span> <span class="toctext">Heating</span></a></li> 
+         <li class="toclevel-2 tocsection-12"><a href="#Water_heating"><span class="tocnumber">4.6</span> <span class="toctext">Water heating</span></a></li> 
+         <li class="toclevel-2 tocsection-13"><a href="#Cooling"><span class="tocnumber">4.7</span> <span class="toctext">Cooling</span></a></li> 
+         <li class="toclevel-2 tocsection-14"><a href="#Food_production"><span class="tocnumber">4.8</span> <span class="toctext">Food production</span></a></li> 
+        </ul> </li> 
+       <li class="toclevel-1 tocsection-15"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li> 
+       <li class="toclevel-1 tocsection-16"><a href="#Notes"><span class="tocnumber">6</span> <span class="toctext">Notes</span></a></li> 
+       <li class="toclevel-1 tocsection-17"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li> 
+      </ul> 
+     </div> 
+     <p></p> 
+     <h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Autonomous_building&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>In the 1970s, a group of activists and engineers calling themselves the <a href="/w/index.php?title=New_Alchemists&amp;action=edit&amp;redlink=1" class="new" title="New Alchemists (page does not exist)">New Alchemists</a> believed the warnings of imminent resource depletion and starvation. The New Alchemists were famous for the depth of research effort placed in their projects. Using conventional <a href="/wiki/Construction" title="Construction">construction</a> techniques, they designed a series of "<a href="/wiki/Bioshelter" title="Bioshelter">bioshelter</a>" projects, the most famous of which was the <a href="/w/index.php?title=Ark_Bioshelter&amp;action=edit&amp;redlink=1" class="new" title="Ark Bioshelter (page does not exist)">Ark Bioshelter</a> community for <a href="/wiki/Prince_Edward_Island" title="Prince Edward Island">Prince Edward Island</a>. They published the plans for all of these, with detailed design calculations and blueprints. The Ark used wind based water pumping and electricity, and was self-contained in food production. It had living quarters for people, <a href="/wiki/Fish_farming" title="Fish farming">fish</a> tanks raising <a href="/wiki/Tilapia" title="Tilapia">tilapia</a> for <a href="/wiki/Protein" title="Protein">protein</a>, a <a href="/wiki/Greenhouse" title="Greenhouse">greenhouse</a> watered with fish water and a closed loop sewage reclamation system that recycled human waste into sanitized fertilizer for the fish tanks. As of January 2010, the successor organization to the New Alchemists has a web page up as the "New Alchemy Institute".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> The PEI Ark has been abandoned and partially renovated several times.</p> 
+     <div class="thumb tleft"> 
+      <div class="thumbinner" style="width:222px;">
+       <a href="/wiki/File:PHOENIXBATH.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/PHOENIXBATH.jpg/220px-PHOENIXBATH.jpg" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/PHOENIXBATH.jpg/330px-PHOENIXBATH.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/PHOENIXBATH.jpg/440px-PHOENIXBATH.jpg 2x" data-file-width="1280" data-file-height="853"></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:PHOENIXBATH.jpg" class="internal" title="Enlarge"></a>
+        </div> The bathroom of an 
+        <a href="/wiki/Earthship" title="Earthship">Earthship</a>, featuring a recycled 
+        <a href="/wiki/Bottle_wall" title="Bottle wall">bottle wall</a>
+       </div> 
+      </div> 
+     </div> 
+     <p>The 1990s saw the development of <a href="/wiki/Earthship" title="Earthship">Earthships</a>, similar in intent to the Ark project, but organized as a for-profit venture, with construction details published in a series of 3 books by <a href="/wiki/Mike_Reynolds_(architect)" title="Mike Reynolds (architect)">Mike Reynolds</a>. The building material is <a href="/wiki/Tire" title="Tire">tires</a> filled with <a href="/wiki/Soil" title="Soil">earth</a>. This makes a wall that has large amounts of thermal mass (see <a href="/wiki/Earth_sheltering" title="Earth sheltering">earth sheltering</a>). <a href="/wiki/Berm" title="Berm">Berms</a> are placed on exposed surfaces to further increase the house's temperature stability. The water system starts with rain water, processed for drinking, then washing, then plant watering, then toilet flushing, and finally <a href="/wiki/Blackwater_(waste)" title="Blackwater (waste)">black water</a> is recycled again for more plant watering. The <a href="/wiki/Cistern" title="Cistern">cisterns</a> are placed and used as thermal masses. Power, including electricity, heat and water heating, is from <a href="/wiki/Solar_energy" title="Solar energy">solar power</a>.</p> 
+     <p>1990s architects such as <a href="/wiki/William_McDonough" title="William McDonough">William McDonough</a> and <a href="/wiki/Ken_Yeang" title="Ken Yeang">Ken Yeang</a> applied environmentally responsible building design to large commercial buildings, such as office buildings, making them largely self-sufficient in energy production. One major bank building (<a href="/wiki/ING_Group" title="ING Group">ING's</a> <a href="/wiki/Amsterdam" title="Amsterdam">Amsterdam</a> headquarters) in the <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a> was constructed to be autonomous and artistic as well.</p> 
+     <h2><span class="mw-headline" id="Advantages">Advantages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Autonomous_building&amp;action=edit&amp;section=2" title="Edit section: Advantages">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>As an architect or engineer becomes more concerned with the disadvantages of transportation networks, and dependence on distant resources, their designs tend to include more autonomous elements. The historic path to autonomy was a concern for secure sources of heat, power, water and food. A nearly parallel path toward autonomy has been to start with a concern for environmental impacts, which cause disadvantages.</p> 
+     <p>Autonomous buildings can increase security and reduce environmental impacts by using on-site resources (such as sunlight and rain) that would otherwise be wasted. Autonomy often dramatically reduces the costs and impacts of networks that serve the building, because autonomy short-circuits the multiplying inefficiencies of collecting and transporting resources. Other impacted resources, such as oil reserves and the retention of the local watershed, can often be cheaply conserved by thoughtful designs.</p> 
+     <p>Autonomous buildings are usually <a href="/wiki/Efficient_energy_use" title="Efficient energy use">energy-efficient</a> in operation, and therefore cost-efficient, for the obvious reason that smaller energy needs are easier to satisfy off-grid. But they may substitute energy production or other techniques to avoid diminishing returns in extreme conservation.</p> 
+     <p>An autonomous structure is not always environmentally friendly. The goal of independence from support systems is associated with, but not identical to, other goals of environmentally responsible green building. However, autonomous buildings also usually include some degree of <a href="/wiki/Sustainability" title="Sustainability">sustainability</a> through the use of <a href="/wiki/Renewable_energy" title="Renewable energy">renewable energy</a> and other renewable resources, producing no more <a href="/wiki/Greenhouse_gas" title="Greenhouse gas">greenhouse gases</a> than they consume, and other measures.</p> 
+     <h2><span class="mw-headline" id="Disadvantages">Disadvantages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Autonomous_building&amp;action=edit&amp;section=3" title="Edit section: Disadvantages">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>First and fundamentally, independence is a matter of degree. Self sustainable living, for example, is eliminating dependence on the electrical grid is in fact relatively simple however, obtaining a efficient and reliable food source is a more demanding and time-consuming proposition.</p> 
+     <p>Living within a autonomous shelter may also require that party to make sacrifices with lifestyle choices, personal behavior, and social expectations to name a few. Even the most comfortable and technologically advanced autonomous homes could require some alterations upon the residents psychological behavior(s); while others may adjust easily, others may not. Others describe their experience as inconvenient, irritating, isolating, or even as an unwanted full-time job. A well-designed building can reduce this issue, but usually at the expense of reduced autonomy.</p> 
+     <p>An autonomous house must be custom-built (or extensively retrofitted) to suit the climate and location. Passive solar techniques, alternative toilet and sewage systems, thermal massing designs, basement battery systems, efficient windowing, and the array of other design tactics require some degree of non-standard construction, added expense, ongoing experimentation and maintenance, and also have an effect on the psychology of the space.</p> 
+     <p><a href="/wiki/Brenda_and_Robert_Vale" title="Brenda and Robert Vale">The Vales</a>, among others, have shown that living off-grid can be a practical, logical lifestyle choice—under certain conditions.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (September 2010)">citation needed</span></a></i>]</sup></p> 
+     <h2><span class="mw-headline" id="Systems">Systems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Autonomous_building&amp;action=edit&amp;section=4" title="Edit section: Systems">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>This section includes some minimal descriptions of methods, to give some feel for such a building's practicality, provide indexes to further information, and give a sense of modern trends.</p> 
+     <h3><span class="mw-headline" id="Water">Water</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Autonomous_building&amp;action=edit&amp;section=5" title="Edit section: Water">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:222px;">
+       <a href="/wiki/File:Ceres_rainwater_tank_2_Pengo.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ceres_rainwater_tank_2_Pengo.jpg/220px-Ceres_rainwater_tank_2_Pengo.jpg" width="220" height="293" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ceres_rainwater_tank_2_Pengo.jpg/330px-Ceres_rainwater_tank_2_Pengo.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ceres_rainwater_tank_2_Pengo.jpg/440px-Ceres_rainwater_tank_2_Pengo.jpg 2x" data-file-width="1920" data-file-height="2560"></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Ceres_rainwater_tank_2_Pengo.jpg" class="internal" title="Enlarge"></a>
+        </div> A domestic rainwater harvesting system
+       </div> 
+      </div> 
+     </div> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:222px;">
+       <a href="/wiki/File:Unterirdische_Zisterne.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Unterirdische_Zisterne.jpg/220px-Unterirdische_Zisterne.jpg" width="220" height="180" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Unterirdische_Zisterne.jpg/330px-Unterirdische_Zisterne.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Unterirdische_Zisterne.jpg/440px-Unterirdische_Zisterne.jpg 2x" data-file-width="1989" data-file-height="1629"></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Unterirdische_Zisterne.jpg" class="internal" title="Enlarge"></a>
+        </div> A concrete under-floor cistern being installed.
+       </div> 
+      </div> 
+     </div> 
+     <p>There are many methods of collecting and conserving water. Use reduction is cost-effective.</p> 
+     <p><a href="/wiki/Greywater" title="Greywater">Greywater</a> systems reuse drained wash water to flush <a href="/wiki/Toilet" title="Toilet">toilets</a> or to water lawns and <a href="/wiki/Garden" title="Garden">gardens</a>. Greywater systems can halve the water use of most residential buildings; however, they require the purchase of a sump, greywater pressurization pump, and secondary <a href="/wiki/Plumbing" title="Plumbing">plumbing</a>. Some builders are installing <a href="/wiki/Waterless_urinal" title="Waterless urinal" class="mw-redirect">waterless urinals</a> and even <a href="/wiki/Composting_toilet" title="Composting toilet">composting toilets</a> that completely eliminate water usage in sewage disposal.</p> 
+     <p>The classic solution with minimal life-style changes is using a <a href="/wiki/Water_well" title="Water well">well</a>. Once drilled, a well-foot requires substantial power. However, advanced well-foots can reduce power usage by twofold or more from older models. Well water can be contaminated in some areas. The <a href="/wiki/Sono_arsenic_filter" title="Sono arsenic filter">sono arsenic filter</a> eliminates unhealthy <a href="/wiki/Arsenic" title="Arsenic">arsenic</a> in well water.</p> 
+     <p>However drilling a well is an uncertain activity, with aquifers depleted in some areas. It can also be expensive.</p> 
+     <p>In regions with sufficient rainfall, it is often more economical to design a building to use rain, with supplementary water deliveries in a drought. Rain water makes excellent soft washwater, but needs antibacterial treatment. If used for drinking, mineral supplements or mineralization is necessary.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p> 
+     <p>Most <a href="/wiki/Desert" title="Desert">desert</a> and <a href="/wiki/Temperate" title="Temperate" class="mw-redirect">temperate</a> climates get at least 250 millimetres (9.8&nbsp;in) of <a href="/wiki/Rain" title="Rain">rain</a> per year. This means that a typical one-story <a href="/wiki/House" title="House">house</a> with a greywater system can supply its year-round water needs from its roof alone. In the driest areas, it might require a <a href="/wiki/Cistern" title="Cistern">cistern</a> of 30 cubic metres (7,900&nbsp;US&nbsp;gal). Many areas average 13 millimetres (0.51&nbsp;in) of rain per week, and these can use a cistern as small as 10 cubic metres (2,600&nbsp;US&nbsp;gal).</p> 
+     <p>In many areas, it is difficult to keep a roof clean enough for drinking.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> To reduce dirt and bad tastes, systems use a metal collecting-roof and a "roof cleaner" tank that diverts the first 40 liters. Cistern water is usually <a href="/wiki/Water_chlorination" title="Water chlorination">chlorinated</a>, though <a href="/wiki/Reverse_osmosis" title="Reverse osmosis">reverse osmosis</a> systems provide even better quality drinking water.</p> 
+     <p>Modern cisterns are usually large plastic tanks. Gravity tanks on short towers are reliable, so pump repairs are less urgent. The least expensive bulk cistern is a fenced pond or pool at ground level.</p> 
+     <p>Reducing autonomy reduces the size and expense of cisterns. Many autonomous homes can reduce water use below 10 US gallons (38&nbsp;L) per person per day, so that in a <a href="/wiki/Drought" title="Drought">drought</a> a month of water can be delivered inexpensively via truck. Self-delivery is often possible by installing fabric water tanks that fit the bed of a pick-up truck.</p> 
+     <p>It can be convenient to use the cistern as a heat sink or trap for a <a href="/wiki/Heat_pump" title="Heat pump">heat pump</a> or <a href="/wiki/HVAC" title="HVAC">air conditioning</a> system; however this can make cold drinking water warm, and in drier years may decrease the efficiency of the HVAC system.</p> 
+     <p><a href="/wiki/Solar_still" title="Solar still">Solar stills</a> can efficiently produce drinking water from ditch water or cistern water, especially high-efficiency <a href="/wiki/Multiple_effect_humidification" title="Multiple effect humidification" class="mw-redirect">multiple effect humidification</a> designs, which separate the evaporator(s) and condenser(s).</p> 
+     <p>New technologies, like <a href="/wiki/Reverse_osmosis" title="Reverse osmosis">reverse osmosis</a> can create unlimited amounts of pure water from polluted water, ocean water, and even from humid air. Water makers are available for yachts that convert seawater and electricity into <a href="/wiki/Drinking_water" title="Drinking water">potable water</a> and <a href="/wiki/Brine" title="Brine">brine</a>. <a href="/wiki/Atmospheric_water_generator" title="Atmospheric water generator">Atmospheric water generators</a> extract moisture from dry desert air and filter it to pure water.</p> 
+     <h3><span class="mw-headline" id="Sewage">Sewage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Autonomous_building&amp;action=edit&amp;section=6" title="Edit section: Sewage">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <h4><span class="mw-headline" id="Resource">Resource</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Autonomous_building&amp;action=edit&amp;section=7" title="Edit section: Resource">edit</a><span class="mw-editsection-bracket">]</span></span></h4> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:222px;">
+       <a href="/wiki/File:Nature_Loo_Waterless_Composting_Toilet_Pedestal.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Nature_Loo_Waterless_Composting_Toilet_Pedestal.jpg/220px-Nature_Loo_Waterless_Composting_Toilet_Pedestal.jpg" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Nature_Loo_Waterless_Composting_Toilet_Pedestal.jpg/330px-Nature_Loo_Waterless_Composting_Toilet_Pedestal.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/07/Nature_Loo_Waterless_Composting_Toilet_Pedestal.jpg/440px-Nature_Loo_Waterless_Composting_Toilet_Pedestal.jpg 2x" data-file-width="5184" data-file-height="3456"></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Nature_Loo_Waterless_Composting_Toilet_Pedestal.jpg" class="internal" title="Enlarge"></a>
+        </div> A composting toilet
+       </div> 
+      </div> 
+     </div> 
+     <p>The approaches below treat human excrement as a waste rather than a resource. <a href="/wiki/Composting_toilet" title="Composting toilet">Composting toilets</a> use bacteria to decompose human <a href="/wiki/Feces" title="Feces">feces</a> into useful, odourless, sanitary compost. The process is sanitary because soil bacteria eat the human pathogens as well as most of the mass of the waste. Nevertheless, most health authorities forbid direct use of "<a href="/wiki/Humanure" title="Humanure" class="mw-redirect">humanure</a>" for growing food.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> The risk is microbial and viral contamination. In a dry composting toilet, the waste is evaporated or digested to gas (mostly carbon dioxide) and vented, so a toilet produces only a few pounds of compost every six months. To control the odor, modern toilets use a small fan to keep the toilet under negative pressure, and exhaust the gasses to a vent pipe.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p> 
+     <p>Some home sewage treatment systems use biological treatment, usually beds of plants and aquaria, that absorb nutrients and bacteria and convert greywater and sewage to clear water. This odor- and color-free reclaimed water can be used to flush toilets and water outside plants. When tested, it approaches standards for potable water. In climates that freeze, the plants and aquaria need to be kept in a small greenhouse space. Good systems need about as much care as a large <a href="/wiki/Aquarium" title="Aquarium">aquarium</a>.</p> 
+     <p>Electric <a href="/wiki/Incinerating_toilet" title="Incinerating toilet">incinerating toilets</a> turn excrement into a small amount of ash. They are cool to the touch, have no water and no pipes, and require an air vent in a wall. They are used in remote areas where use of septic tanks is limited, usually to reduce nutrient loads in lakes.</p> 
+     <p><a href="/wiki/NASA" title="NASA">NASA</a>'s <a href="/wiki/Bioreactor" title="Bioreactor">bioreactor</a> is an extremely advanced biological sewage system. It can turn sewage into air and water through microbial action. NASA plans to use it in the manned <a href="/wiki/Mars" title="Mars">Mars</a> mission.</p> 
+     <p>A big disadvantage of complex biological sewage treatment systems is that if the house is empty, the sewage system biota may starve to death.</p> 
+     <p>Another method is NASA's <a href="/wiki/Urine" title="Urine">urine</a>-to-water <a href="/wiki/Distill" title="Distill" class="mw-redirect">distillation</a> system.</p> 
+     <h4><span class="mw-headline" id="Waste">Waste</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Autonomous_building&amp;action=edit&amp;section=8" title="Edit section: Waste">edit</a><span class="mw-editsection-bracket">]</span></span></h4> 
+     <p>Sewage handling is essential for public health. Many <a href="/wiki/Disease" title="Disease">diseases</a> are transmitted by poorly functioning sewage systems.</p> 
+     <p>The standard system is a tiled leach field combined with a <a href="/wiki/Septic_tank" title="Septic tank">septic tank</a>. The basic idea is to provide a small system with primary <a href="/wiki/Sewage_treatment" title="Sewage treatment">sewage treatment</a>. Sludge settles to the bottom of the septic tank, is partially reduced by <a href="/wiki/Anaerobic_digestion" title="Anaerobic digestion">anaerobic digestion</a>, and fluid is dispersed in the leach field. The leach field is usually under a yard growing grass. Septic tanks can operate entirely by gravity, and if well managed, are reasonably safe.</p> 
+     <p>Septic tanks have to be pumped periodically by a <a href="/wiki/Cesspool_emptier" title="Cesspool emptier" class="mw-redirect">vacuum truck</a> to eliminate non reducing solids. Failure to pump a septic tank can cause overflow that damages the leach field, and contaminates ground water. Septic tanks may also require some lifestyle changes, such as not using garbage disposals, minimizing fluids flushed into the tank, and minimizing nondigestible solids flushed into the tank. For example, septic safe toilet paper is recommended.</p> 
+     <p>However, septic tanks remain popular because they permit standard plumbing fixtures, and require few or no lifestyle sacrifices.</p> 
+     <p>Composting or <a href="/w/index.php?title=Packaging_toilet&amp;action=edit&amp;redlink=1" class="new" title="Packaging toilet (page does not exist)">packaging toilets</a> make it economical and sanitary to throw away sewage as part of the normal garbage collection service. They also reduce water use by half, and eliminate the difficulty and expense of septic tanks. However, they require the local landfill to use sanitary practices.</p> 
+     <p>Incinerator systems are quite practical. The ashes are biologically safe, and less than 1/10 the volume of the original waste, but like all incinerator waste, are usually classified as hazardous waste.</p> 
+     <p>Some of the oldest pre-system sewage types are <a href="/wiki/Pit_toilet" title="Pit toilet" class="mw-redirect">pit toilets</a>, <a href="/wiki/Latrine" title="Latrine">latrines</a>, and <a href="/wiki/Outhouse" title="Outhouse">outhouses</a>. These are still used in many developing countries.</p> 
+     <h3><span class="mw-headline" id="Storm_drains">Storm drains</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Autonomous_building&amp;action=edit&amp;section=9" title="Edit section: Storm drains">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>Drainage systems are a crucial compromise between human habitability and a secure, sustainable watershed. Paved areas and lawns or turf do not allow much precipitation to filter through the ground to recharge aquifers. They can cause flooding and damage in neighbourhoods, as the water flows over the surface towards a low point.</p> 
+     <p>Typically, elaborate, capital-intensive <a href="/wiki/Storm_sewer" title="Storm sewer" class="mw-redirect">storm sewer</a> networks are engineered to deal with <a href="/wiki/Stormwater" title="Stormwater">stormwater</a>. In some cities, such as the <a href="/wiki/Victorian_era" title="Victorian era">Victorian era</a> London sewers or much of the old City of <a href="/wiki/Toronto" title="Toronto">Toronto</a>, the storm water system is combined with the sanitary sewer system. In the event of heavy precipitation, the load on the sewage treatment plant at the end of the pipe becomes too great to handle and raw sewage is dumped into holding tanks, and sometimes into surface water.</p> 
+     <p>Autonomous buildings can address precipitation in a number of ways:</p> 
+     <p>If a water absorbing <a href="/wiki/Swale_(geographical_feature)" title="Swale (geographical feature)" class="mw-redirect">swale</a> for each yard is combined with permeable <a href="/wiki/Concrete" title="Concrete">concrete</a> streets, storm drains can be omitted from the neighbourhood. This can save more than $800 per house (1970s) by eliminating storm drains.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> One way to use the savings is to purchase larger lots, which permits more amenities at the same cost. Permeable concrete is an established product in warm climates, and in development for freezing climates. In freezing climates, the elimination of storm drains can often still pay for enough land to construct swales (shallow water collecting ditches) or water impeding berms instead. This plan provides more land for homeowners and can offer more interesting topography for landscaping.</p> 
+     <p>A <a href="/wiki/Green_roof" title="Green roof">green roof</a> captures precipitation and uses the water to grow plants. It can be built into a new building or used to replace an existing roof.</p> 
+     <h3><span class="mw-headline" id="Electricity">Electricity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Autonomous_building&amp;action=edit&amp;section=10" title="Edit section: Electricity">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <div role="note" class="hatnote">
+      Further information: 
+      <a href="/wiki/Microgeneration" title="Microgeneration">Microgeneration</a>
+     </div> 
+     <div role="note" class="hatnote">
+      Further information: 
+      <a href="/wiki/Zero_emissions" title="Zero emissions" class="mw-redirect">Zero emissions</a>
+     </div> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:222px;">
+       <a href="/wiki/File:Green_Building_by_Terry_Farrel_and_Partners_394640345.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Green_Building_by_Terry_Farrel_and_Partners_394640345.jpg/220px-Green_Building_by_Terry_Farrel_and_Partners_394640345.jpg" width="220" height="293" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Green_Building_by_Terry_Farrel_and_Partners_394640345.jpg/330px-Green_Building_by_Terry_Farrel_and_Partners_394640345.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Green_Building_by_Terry_Farrel_and_Partners_394640345.jpg/440px-Green_Building_by_Terry_Farrel_and_Partners_394640345.jpg 2x" data-file-width="1536" data-file-height="2048"></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Green_Building_by_Terry_Farrel_and_Partners_394640345.jpg" class="internal" title="Enlarge"></a>
+        </div> Wind turbine on the roof in Manchester, UK
+       </div> 
+      </div> 
+     </div> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:222px;">
+       <a href="/wiki/File:Solar_panels_on_house_roof.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Solar_panels_on_house_roof.jpg/220px-Solar_panels_on_house_roof.jpg" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Solar_panels_on_house_roof.jpg/330px-Solar_panels_on_house_roof.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Solar_panels_on_house_roof.jpg/440px-Solar_panels_on_house_roof.jpg 2x" data-file-width="3872" data-file-height="2592"></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Solar_panels_on_house_roof.jpg" class="internal" title="Enlarge"></a>
+        </div> A PV-solar system
+       </div> 
+      </div> 
+     </div> 
+     <p>Since electricity is an expensive utility, the first step towards conservation is to design a house and lifestyle to reduce demand. Fluorescent lights, laptop computers and gas-powered refrigerators save electricity, although gas-powered refrigerators are not very efficient.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> There are also superefficient electric refrigerators, such as those produced by the <a href="/w/index.php?title=Sun_Frost&amp;action=edit&amp;redlink=1" class="new" title="Sun Frost (page does not exist)">Sun Frost</a> company, some of which use only about half as much electricity as a mass-market <a href="/wiki/Energy_star" title="Energy star" class="mw-redirect">energy star</a>-rated refrigerator.</p> 
+     <p>Using a solar roof, <a href="/wiki/Solar_cell" title="Solar cell">solar cells</a> can provide electric power. Solar roofs have the potential to be more cost-effective than retrofitted solar power, because buildings need roofs anyway. Modern solar cells last about 40 years, which makes them a reasonable investment in some areas. At a sufficient angle, solar cells are cleaned by run-off rain water and therefore have almost no life-style impact.</p> 
+     <p>A number of areas that lack <a href="/wiki/Sun" title="Sun">sun</a> have <a href="/wiki/Wind" title="Wind">wind</a>. To generate power, the average autonomous house needs only one small <a href="/wiki/Wind_turbine" title="Wind turbine">wind generator</a>, 5 metres or less in diameter. On a 30 metre high tower, this turbine can provide enough power to supplement solar power on cloudy days. Commercially available wind turbines use sealed, one-moving-part AC generators and passive, self-feathering blades for years of operation without service.</p> 
+     <p>The largest advantage of <a href="/wiki/Wind_power" title="Wind power">wind power</a> is that larger wind turbines have a lower per-watt cost than solar cells, provided there is wind. However, location is critical. Just as some locations lack sun for solar cells, some locations lack sufficient wind for an economical turbine installation. In the <a href="/wiki/Great_Plains" title="Great Plains">Great Plains</a> of the <a href="/wiki/United_States" title="United States">United States</a> a 10-metre turbine can supply enough energy to heat and cool a well-built all-electric house. Economic use in other areas requires research, and possibly a site-survey.<sup id="cite_ref-Gipe_9-0" class="reference"><a href="#cite_note-Gipe-9">[9]</a></sup></p> 
+     <p>During times of low demand, excess power can be stored in batteries for future use. However, batteries need to be replaced every few years. In many areas, battery expenses can be eliminated by attaching the building to the <a href="/wiki/Distributed_generation" title="Distributed generation">electric power grid</a> and operating the power system with <a href="/wiki/Net_metering" title="Net metering" class="mw-redirect">net metering</a>. Utility permission is required, but such cooperative generation is legally mandated in some areas (for example, California).<sup id="cite_ref-Gipe_9-1" class="reference"><a href="#cite_note-Gipe-9">[9]</a></sup></p> 
+     <p>A grid-based building is less autonomous, but more economical and sustainable with fewer lifestyle sacrifices. In rural areas the grid's cost and impacts can be reduced by using <a href="/wiki/Single-wire_earth_return" title="Single-wire earth return">single-wire earth return</a> systems (for example, the <a href="/w/index.php?title=MALT_(electricity_system)&amp;action=edit&amp;redlink=1" class="new" title="MALT (electricity system) (page does not exist)">MALT</a>-system).</p> 
+     <p>In areas that lack access to the grid, battery size can be reduced by including a generator to recharge the batteries during extended fogs or other low-power conditions. Auxiliary generators are usually run from <a href="/wiki/Propane" title="Propane">propane</a>, <a href="/wiki/Natural_gas" title="Natural gas">natural gas</a>, or sometimes <a href="/wiki/Diesel_fuel" title="Diesel fuel">diesel</a>. An hour of charging usually provides a day of operation. Modern residential chargers permit the user to set the charging times, so the generator is quiet at night. Some generators automatically test themselves once per week.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p> 
+     <p>Recent advances in <a href="/wiki/Magnetic_levitation" title="Magnetic levitation">passively stable magnetic bearings</a> may someday permit inexpensive storage of power in a <a href="/wiki/Flywheel" title="Flywheel">flywheel</a> in a vacuum. Well-funded groups like Canada's <a href="/wiki/Ballard_Power_Systems" title="Ballard Power Systems">Ballard Power Systems</a> are also working to develop a "<a href="/wiki/Regenerative_fuel_cell" title="Regenerative fuel cell">regenerative fuel cell</a>", a device that can generate hydrogen and oxygen when power is available, and combine these efficiently when power is needed.</p> 
+     <p><a href="/wiki/Earth_battery" title="Earth battery">Earth batteries</a> tap electric currents in the earth called <a href="/wiki/Telluric_current" title="Telluric current">telluric current</a>. They can be installed anywhere in the ground. They provide only low voltages and current. They were used to power <a href="/wiki/Telegraphy" title="Telegraphy">telegraphs</a> in the 19th century. As appliance efficiencies increase, they may become practical.</p> 
+     <p><a href="/wiki/Microbial_fuel_cell" title="Microbial fuel cell">Microbial fuel cells</a> finally allow the generation of electricity from biomass. The plant can be chopped and converted as a whole, or it can be left alive so that waste saps from the plant can be converted by bacteria.</p> 
+     <h3><span class="mw-headline" id="Heating">Heating</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Autonomous_building&amp;action=edit&amp;section=11" title="Edit section: Heating">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:152px;">
+       <a href="/wiki/File:Active_Solar_Water_Heater_Diagram.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Active_Solar_Water_Heater_Diagram.svg/150px-Active_Solar_Water_Heater_Diagram.svg.png" width="150" height="157" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Active_Solar_Water_Heater_Diagram.svg/225px-Active_Solar_Water_Heater_Diagram.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Active_Solar_Water_Heater_Diagram.svg/300px-Active_Solar_Water_Heater_Diagram.svg.png 2x" data-file-width="573" data-file-height="599"></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Active_Solar_Water_Heater_Diagram.svg" class="internal" title="Enlarge"></a>
+        </div> Schematic of an active solar heating system
+       </div> 
+      </div> 
+     </div> 
+     <p>Most autonomous buildings are designed to use insulation, thermal mass and passive solar heating and cooling. Examples of these are <a href="/wiki/Trombe_wall" title="Trombe wall">trombe walls</a> and other technologies as <a href="/wiki/Steve_Baer" title="Steve Baer">skylights</a>.</p> 
+     <p><a href="/wiki/Passive_solar_building_design" title="Passive solar building design">Passive solar heating</a> can heat most buildings in even the coldest climates. In colder climates, extra construction costs can be as little as 15% more than new, conventional buildings. In warm climates, those having less than two weeks of frosty nights per year, there is no cost impact.</p> 
+     <p>The basic requirement for passive solar heating is that the solar collectors must face the prevailing sunlight (south in the <a href="/wiki/Northern_hemisphere" title="Northern hemisphere" class="mw-redirect">northern hemisphere</a>, north in the <a href="/wiki/Southern_hemisphere" title="Southern hemisphere" class="mw-redirect">southern hemisphere</a>), and the building must incorporate <a href="/wiki/Thermal_mass" title="Thermal mass">thermal mass</a> to keep it warm in the night.</p> 
+     <p>A recent, somewhat experimental <a href="/wiki/Solar_heating" title="Solar heating" class="mw-redirect">solar heating</a> system "<a href="/wiki/Annualized_geo_solar" title="Annualized geo solar">Annualized geo solar</a> heating" is practical even in regions that get little or no sunlight in winter.<sup id="cite_ref-Stephens_12-0" class="reference"><a href="#cite_note-Stephens-12">[12]</a></sup> It uses the ground beneath a building for thermal mass. Precipitation can carry away the heat, so the ground is shielded with <span class="nowrap">6 m</span> skirts of plastic insulation. The thermal mass of this system is sufficiently inexpensive and large that it can store enough summer heat to warm a building for the whole winter, and enough winter cold to cool the building in summer.</p> 
+     <p>In annualized geo solar systems, the solar collector is often separate from (and hotter or colder than) the living space. The building may actually be constructed from <a href="/wiki/Thermal_insulation" title="Thermal insulation">insulation</a>, for example, <a href="/wiki/Straw-bale_construction" title="Straw-bale construction">straw-bale construction</a>. Some buildings have been aerodynamically designed so that convection via ducts and interior spaces eliminates any need for electric fans.</p> 
+     <p>A more modest "daily solar" design is very practical. For example, for about a 15% premium in building costs, the <a href="/wiki/Passive_house" title="Passive house">Passivhaus</a> building codes in Europe use high performance insulating windows, R-30 insulation, HRV ventilation, and a small thermal mass. With modest changes in the building's position, modern <a href="/wiki/Krypton" title="Krypton">krypton</a>- or <a href="/wiki/Argon" title="Argon">argon</a>-insulated windows permit normal-looking windows to provide passive solar heat without compromising insulation or structural strength. If a small heater is available for the coldest nights, a slab or basement cistern can inexpensively provide the required <a href="/wiki/Thermal_mass" title="Thermal mass">thermal mass</a>. Passivhaus building codes in particular bring unusually good interior air quality, because the buildings change the air several times per hour, passing it though a heat exchanger to keep heat inside.</p> 
+     <p>In all systems, a small supplementary heater increases personal security and reduces lifestyle impacts for a small reduction of autonomy. The two most popular heaters for ultra-high-efficiency houses are a small <a href="/wiki/Heat_pump" title="Heat pump">heat pump</a>, which also provides <a href="/wiki/Air-conditioning" title="Air-conditioning" class="mw-redirect">air-conditioning</a>, or a central hydronic (radiator) air heater with water recirculating from the <a href="/wiki/Water_heater" title="Water heater" class="mw-redirect">water heater</a>. Passivhaus designs usually integrate the heater with the ventilation system.</p> 
+     <p><a href="/wiki/Earth_sheltering" title="Earth sheltering">Earth sheltering</a> and <a href="/wiki/Windbreak" title="Windbreak">windbreaks</a> can also reduce the absolute amount of heat needed by a building. Several feet below the earth, temperature ranges from 4&nbsp;°C (39&nbsp;°F) in North Dakota to 26&nbsp;°C (79&nbsp;°F),<sup id="cite_ref-Stephens_12-1" class="reference"><a href="#cite_note-Stephens-12">[12]</a></sup> in Southern Florida. Wind breaks reduce the amount of heat carried away from a building.</p> 
+     <p>Rounded, aerodynamic buildings also lose less heat.</p> 
+     <p>An increasing number of commercial buildings use a <a href="/wiki/Combined_cycle" title="Combined cycle">combined cycle</a> with <a href="/wiki/Cogeneration" title="Cogeneration">cogeneration</a> to provide heating, often water heating, from the output of a natural gas <a href="/wiki/Reciprocating_engine" title="Reciprocating engine">reciprocating engine</a>, <a href="/wiki/Gas_turbine" title="Gas turbine">gas turbine</a> or <a href="/wiki/Stirling_engine" title="Stirling engine">stirling</a> <a href="/wiki/Electric_generator" title="Electric generator">electric generator</a>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></p> 
+     <p>Houses designed to cope with interruptions in civil services generally incorporate a <a href="/wiki/Wood_stove" title="Wood stove" class="mw-redirect">wood stove</a>, or heat and power from <a href="/wiki/Diesel_fuel" title="Diesel fuel">diesel fuel</a> or <a href="/wiki/Bottled_gas" title="Bottled gas">bottled gas</a>, regardless of their other heating mechanisms.</p> 
+     <p>Electric heaters and electric stoves may provide pollution-free heat (depending on the power source), but use large amounts of electricity. If enough electricity is provided by solar panels, wind turbines, or other means, then electric heaters and stoves become a practical autonomous design.</p> 
+     <h3><span class="mw-headline" id="Water_heating">Water heating</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Autonomous_building&amp;action=edit&amp;section=12" title="Edit section: Water heating">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <div role="note" class="hatnote">
+      Further information: 
+      <a href="/wiki/Solar_hot_water" title="Solar hot water" class="mw-redirect">Solar hot water</a>
+     </div> 
+     <p><a href="/wiki/Hot_water_heat_recycling" title="Hot water heat recycling" class="mw-redirect">Hot water heat recycling</a> units recover heat from water drain lines. They increase a building's autonomy by decreasing the heat or fuel used to heat water. They are attractive because they have no lifestyle changes.</p> 
+     <p>Current practical, comfortable domestic water-heating systems combine a solar preheating system with a <a href="/wiki/Water_heater#Tankless_heaters" title="Water heater" class="mw-redirect">thermostatic gas-powered flow-through heater</a>, so that the temperature of the water is consistent, and the amount is unlimited. This reduces life-style impacts at some cost in autonomy.</p> 
+     <p><a href="/wiki/Solar_water_heater" title="Solar water heater" class="mw-redirect">Solar water heaters</a> can save large amounts of fuel. Also, small changes in lifestyle, such as doing laundry, dishes and bathing on sunny days, can greatly increase their efficiency. Pure solar heaters are especially useful for laundries, swimming pools and external baths, because these can be scheduled for use on sunny days.</p> 
+     <p>The basic trick in a solar water heating system is to use a well-insulated holding tank. Some systems are <a href="/wiki/Vacuum" title="Vacuum">vacuum</a>- insulated, acting something like large <a href="/wiki/Thermos" title="Thermos" class="mw-redirect">thermos</a> bottles. The tank is filled with hot water on sunny days, and made available at all times. Unlike a conventional tank water heater, the tank is filled only when there is sunlight. Good storage makes a smaller, higher-technology collector feasible. Such collectors can use relatively exotic technologies, such as vacuum insulation, and reflective concentration of sunlight.</p> 
+     <p><a href="/wiki/Cogeneration" title="Cogeneration">cogeneration</a> systems produce hot water from waste heat. They usually get the heat from the exhaust of a generator or fuel cell.</p> 
+     <p>Heat recycling, <a href="/wiki/Cogeneration" title="Cogeneration">cogeneration</a> and solar pre-heating can save 50-75% of the gas otherwise used. Also, some combinations provide redundant reliability by having several sources of heat. Some authorities advocate replacing <a href="/wiki/Bottled_gas" title="Bottled gas">bottled gas</a> or <a href="/wiki/Natural_gas" title="Natural gas">natural gas</a> with <a href="/wiki/Biogas" title="Biogas">biogas</a>. However, this is usually impractical unless live-stock are on-site. The wastes of a single family are usually insufficient to produce enough <a href="/wiki/Methane" title="Methane">methane</a> for anything more than small amounts of cooking.</p> 
+     <h3><span class="mw-headline" id="Cooling">Cooling</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Autonomous_building&amp;action=edit&amp;section=13" title="Edit section: Cooling">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>Annualized geo solar buildings often have buried, sloped water-tight skirts of insulation that extend 6 metres (20&nbsp;ft) from the foundations, to prevent heat leakage between the earth used as thermal mass, and the surface.</p> 
+     <p>Less dramatic improvements are possible. Windows can be shaded in summer. Eaves can be overhung to provide the necessary shade. These also shade the walls of the house, reducing cooling costs.</p> 
+     <p>Another trick is to cool the building's thermal mass at night, and then cool the building from the thermal mass during the day. It helps to be able to route cold air from a sky-facing radiator (perhaps an air heating solar collector with an alternate purpose) or evaporative cooler directly through the thermal mass. On clear nights, even in tropical areas, sky facing radiators can cool below freezing.</p> 
+     <p>If a circular building is aerodynamically smooth, and cooler than the ground, it can be passively cooled by the "dome effect." Many installations have reported that a reflective or light colored dome induces a local vertical heat driven vortex that sucks cooler overhead air downward into a dome if the dome is vented properly (a single overhead vent, and peripheral vents). Some people have reported a temperature differential as high as <span class="nowrap">8 °C</span> (<span class="nowrap">15 °F</span>) between the inside of the dome and the outside. <a href="/wiki/Buckminster_Fuller" title="Buckminster Fuller">Buckminster Fuller</a> discovered this effect with a simple house design adapted from a <a href="/wiki/Grain_silo" title="Grain silo" class="mw-redirect">grain silo</a>, and adapted his <a href="/wiki/Dymaxion_house" title="Dymaxion house">Dymaxion house</a> and <a href="/wiki/Geodesic_dome" title="Geodesic dome">geodesic domes</a> to use it.</p> 
+     <p>Refrigerators and air conditioners operating from the waste heat of a diesel engine exhaust, heater flue or solar collector are entering use. These use the same principles as a gas refrigerator. Normally, the heat from a flue powers an "<a href="/wiki/Absorptive_refrigeration" title="Absorptive refrigeration" class="mw-redirect">absorptive chiller</a>". The cold water or brine from the chiller is used to cool air or a refrigerated space.</p> 
+     <p>Cogeneration is popular in new commercial buildings. In current cogeneration systems small gas turbines or <a href="/wiki/Stirling_engine" title="Stirling engine">stirling engines</a> powered from natural gas produce electricity and their exhaust drives an <a href="/wiki/Absorptive_chiller" title="Absorptive chiller" class="mw-redirect">absorptive chiller</a>.</p> 
+     <p>A truck trailer refrigerator operating from the waste heat of a tractor's diesel exhaust was demonstrated by NRG Solutions, Inc. NRG developed a hydronic <a href="/wiki/Ammonia" title="Ammonia">ammonia</a> gas heat exchanger and vaporizer, the two essential new, not commercially available components of a waste heat driven refrigerator.</p> 
+     <p>A similar scheme (multiphase cooling) can be by a multistage evaporative cooler. The air is passed through a spray of salt solution to dehumidify it, then through a spray of water solution to cool it, then another salt solution to dehumidify it again. The brine has to be regenerated, and that can be done economically with a low temperature solar still. Multiphase evaporative coolers can lower the air's temperature by 50&nbsp;°F (28&nbsp;°C), and still control humidity. If the brine regenerator uses high heat, they also partially sterilise the air.</p> 
+     <p>If enough electric power is available, cooling can be provided by conventional air conditioning using a <a href="/wiki/Heat_pump" title="Heat pump">heat pump</a>.</p> 
+     <h3><span class="mw-headline" id="Food_production">Food production</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Autonomous_building&amp;action=edit&amp;section=14" title="Edit section: Food production">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>Food production has often been included in historic autonomous projects to provide security.<sup id="cite_ref-publications_14-0" class="reference"><a href="#cite_note-publications-14">[14]</a></sup> Skilled, intensive <a href="/wiki/Garden" title="Garden">gardening</a> can support an adult from as little as 100 square meters of land per person,<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> possibly requiring the use of organic farming and <a href="/wiki/Aeroponics" title="Aeroponics">aeroponics</a>. Some proven intensive, low-effort food-production systems include <a href="/wiki/Urban_agriculture" title="Urban agriculture">urban gardening</a> (indoors and outdoors). <a href="/wiki/Grow_house" title="Grow house">Indoor cultivation</a> may be set up using <a href="/wiki/Hydroponics" title="Hydroponics">hydroponics</a>, while outdoor cultivation may be done using <a href="/wiki/Permaculture" title="Permaculture">permaculture</a>, <a href="/wiki/Forest_gardening" title="Forest gardening">forest gardening</a>, <a href="/wiki/No-till_farming" title="No-till farming">no-till farming</a>, and <a href="/wiki/Do_nothing_farming" title="Do nothing farming" class="mw-redirect">do nothing farming</a>.</p> 
+     <p><a href="/wiki/Greenhouse" title="Greenhouse">Greenhouses</a> are also sometimes included.<sup id="cite_ref-publications_14-1" class="reference"><a href="#cite_note-publications-14">[14]</a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> Sometimes they are also outfitted with irrigation systems or <a href="/wiki/Heat_sink" title="Heat sink">heat sink</a>-systems which can respectively irrigate the plants or help to store energy from the sun and redistribute it at night (when the greenhouses starts to cool down).<sup id="cite_ref-publications_14-2" class="reference"><a href="#cite_note-publications-14">[14]</a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></p> 
+     <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Autonomous_building&amp;action=edit&amp;section=15" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <div class="noprint portal tright" style="border:solid #aaa 1px;margin:0.5em 0 0.5em 1em"> 
+      <table style="background:#f9f9f9;font-size:85%;line-height:110%;max-width:175px"> 
+       <tbody>
+        <tr style="vertical-align:middle"> 
+         <td style="text-align:center"><a href="/wiki/File:Sustainable_development.svg" class="image"><img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/32px-Sustainable_development.svg.png" width="32" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/48px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/64px-Sustainable_development.svg.png 2x" data-file-width="800" data-file-height="510"></a></td> 
+         <td style="padding:0 0.2em;vertical-align:middle;font-style:italic;font-weight:bold"><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development portal</a></td> 
+        </tr> 
+       </tbody>
+      </table> 
+     </div> 
+     <div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;"> 
+      <ul> 
+       <li><a href="/wiki/Arcology" title="Arcology">Arcology</a></li> 
+       <li><a href="/wiki/Appropriate_technology" title="Appropriate technology">Appropriate technology</a></li> 
+       <li><a href="/wiki/Architectural_engineering" title="Architectural engineering">Architectural engineering</a></li> 
+       <li><a href="/wiki/Biosphere" title="Biosphere">Biosphere</a></li> 
+       <li><a href="/wiki/Biosphere_2" title="Biosphere 2">Biosphere 2</a></li> 
+       <li><a href="/wiki/BIOS-3" title="BIOS-3">BIOS-3</a></li> 
+       <li><a href="/wiki/Detention_basin" title="Detention basin">Detention basin</a></li> 
+       <li><a href="/wiki/Earthship" title="Earthship">Earthship</a></li> 
+       <li><a href="/wiki/Ecovillage" title="Ecovillage">Ecovillage</a></li> 
+       <li><a href="/wiki/Environmental_engineering" title="Environmental engineering">Environmental engineering</a></li> 
+       <li><a href="/wiki/Hexayurt" title="Hexayurt">Hexayurt</a></li> 
+       <li><a href="/wiki/Hydrogen_station" title="Hydrogen station">Hydrogen station</a></li> 
+       <li><a href="/wiki/In-situ_resource_utilization" title="In-situ resource utilization" class="mw-redirect">In-situ resource utilization</a></li> 
+       <li><a href="/wiki/Microgeneration" title="Microgeneration">Microgeneration</a></li> 
+       <li><a href="/wiki/Passive_house" title="Passive house">Passive house</a></li> 
+       <li><a href="/wiki/Renewable_heat" title="Renewable heat">Renewable heat</a></li> 
+       <li><a href="/wiki/Solar_combisystem" title="Solar combisystem">Solar combisystem</a></li> 
+       <li><a href="/wiki/Vertical_farming" title="Vertical farming">Vertical farming</a></li> 
+       <li><a href="/wiki/Zero_energy_building" title="Zero energy building" class="mw-redirect">Zero energy building</a></li> 
+      </ul> 
+     </div> 
+     <h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Autonomous_building&amp;action=edit&amp;section=16" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <div class="reflist columns references-column-width" style="-moz-column-width: 32em; -webkit-column-width: 32em; column-width: 32em; list-style-type: decimal;"> 
+      <ol class="references"> 
+       <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Brenda_and_Robert_Vale" title="Brenda and Robert Vale">Vale, Brenda and Robert</a> (2000). <i>The New Autonomous House</i>. London: Thames &amp; Hudson Ltd. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/0-500-34176-1" title="Special:BookSources/0-500-34176-1">0-500-34176-1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutonomous+building&amp;rft.aufirst=Brenda+and+Robert&amp;rft.aulast=Vale&amp;rft.btitle=The+New+Autonomous+House&amp;rft.date=2000&amp;rft.genre=book&amp;rft.isbn=0-500-34176-1&amp;rft.place=London&amp;rft.pub=Thames+%26+Hudson+Ltd&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.vsb.cape.com/~nature/greencenter/newalchemy.html">"New Alchemy Institute"</a> (Website). <i>The Green Center</i>. Retrieved on 2010-01-10.</span></li> 
+       <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.who.int/water_sanitation_health/dwq/nutconsensus/en/">WHO | Nutrient minerals in drinking-water and the potential health consequences of consumption of demineralized and remineralized and altered mineral content drinking-water: Consensus of the meeting</a></span></li> 
+       <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.uaf.edu/ces/publications/freepubs/HCM-01557.pdf">Cistern Design, University of Alaska, referenced 2007-12-27</a></span></li> 
+       <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book">Jenkins, J.C. (2005). <a rel="nofollow" class="external text" href="http://www.humanurehandbook.com"><i>The Humanure Handbook: A Guide to Composting Human Manure</i></a>. Grove City, PA: Joseph Jenkins, Inc.; 3rd edition. p.&nbsp;255. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0-9644258-3-5" title="Special:BookSources/978-0-9644258-3-5">978-0-9644258-3-5</a><span class="reference-accessdate">. Retrieved April 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutonomous+building&amp;rft.aufirst=J.C.&amp;rft.aulast=Jenkins&amp;rft.btitle=The+Humanure+Handbook%3A+A+Guide+to+Composting+Human+Manure&amp;rft.date=2005&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.humanurehandbook.com&amp;rft.isbn=978-0-9644258-3-5&amp;rft.pages=255&amp;rft.place=Grove+City%2C+PA&amp;rft.pub=Joseph+Jenkins%2C+Inc.%3B+3rd+edition&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">See <a href="/wiki/Composting_toilet" title="Composting toilet">composting toilet</a> for references.</span></li> 
+       <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Swales replacing drains: <a href="/wiki/Paul_Hawken" title="Paul Hawken">Paul Hawken</a>, <a href="/wiki/Amory_Lovins" title="Amory Lovins">Amory Lovins</a> and <a href="/wiki/Hunter_Lovins" title="Hunter Lovins">Hunter Lovins</a>, "Natural Capitalism," ch. 5, pp83. The cited development is Village Homes, Davis, California, built in the 1970s by Michael and Judy Corbett</span></li> 
+       <li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Sunfrost rates 15&nbsp;cu&nbsp;ft (420&nbsp;L). refrigerators at <a rel="nofollow" class="external text" href="http://www.sunfrost.com/extreme_efficiency.html">0.27 kWh/day</a> (2007-12-27), while Dometic brand (formerly Servel brand) gas refrigerators cool only 8 cubic feet (0.23&nbsp;m<sup>3</sup>) for <a rel="nofollow" class="external text" href="http://www.sunfrost.com/extreme_efficiency.html">325 W continuous</a> (i.e. 7.8 kWh/day) ALternatively, they use about 8 US gallons (30&nbsp;l; 6.7&nbsp;imp&nbsp;gal) of LP gas per month, which in most places is more expensive than the equivalent electricity.(2007-12-27)</span></li> 
+       <li id="cite_note-Gipe-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-Gipe_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Gipe_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Paul Gipe, "Wind Power for Home and Business"</span></li> 
+       <li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.eaton.com">Eaton power</a>; see the specifications and manuals. Referenced 2007-12-27</span></li> 
+       <li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.KohlerSmartPower.com">Kohler Generators</a>; see the specifications and manuals. Referenced 2007-12-27</span></li> 
+       <li id="cite_note-Stephens-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-Stephens_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Stephens_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Stephens, Don. September 2005. <a rel="nofollow" class="external text" href="http://www.greenershelter.com/TokyoPaper.pdf">"'Annualized Geo-Solar Heating' as a Sustainable Residential-scale Solution for Temperate Climates iwht Less than Ideal Daily Heating Season Solar Availability."</a> ("Requested Paper for the Global Sustainable Building Conference 2005, Tokyo, Japan"). Greenershelter.org website. Retrieved on 2007-09-16.</span></li> 
+       <li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.microturbine.com/_docs/WCEMC04.pdf">Capstone Microturbine White-Paper (PDF) Retrieved on 2007-12-28.</a></span></li> 
+       <li id="cite_note-publications-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-publications_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-publications_14-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-publications_14-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://nature.my.cape.com/greencenter/pubonline.html">Publications list of the New Alchemy Institute</a>. Retrieved 2010-02-05.</span></li> 
+       <li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.pathtofreedom.com/urban-homestead#%23Urban%20Homestead%20at%20a%20Glance%23">Path of Freedom</a></span></li> 
+       <li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">How to Grow a Complete Diet in Less Than 1000 Square Feet Dave Duhon &amp; Cindy Gebhard, 1984, 200 pp. Ecology Action GROW BIOINTENSIVE(R) Publications</span></li> 
+       <li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">The PEI Ark was a greenhouse with fishponds and living quarters.</span></li> 
+       <li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">The PEI Ark used its fishponds as both thermal mass and water storage.</span></li> 
+      </ol> 
+     </div> 
+     <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Autonomous_building&amp;action=edit&amp;section=17" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:222px;">
+       <a href="/wiki/File:All_hexayurts_web_dimensions.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/All_hexayurts_web_dimensions.png/220px-All_hexayurts_web_dimensions.png" width="220" height="155" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/All_hexayurts_web_dimensions.png/330px-All_hexayurts_web_dimensions.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dc/All_hexayurts_web_dimensions.png/440px-All_hexayurts_web_dimensions.png 2x" data-file-width="1212" data-file-height="852"></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:All_hexayurts_web_dimensions.png" class="internal" title="Enlarge"></a>
+        </div> Hexayurt dimensions
+       </div> 
+      </div> 
+     </div> 
+     <ul> 
+      <li>The <a rel="nofollow" class="external text" href="http://www.bfi.org">Buckminster Fuller Institute</a> is still in existence. B. Fuller left thousands of pages of notes to the university where he last taught.</li> 
+      <li>There is a section on <a rel="nofollow" class="external text" href="http://reality.sculptors.com/cgi-bin/wiki?Autonomous_Houses">Autonomous Houses</a> in the <a rel="nofollow" class="external text" href="http://reality.sculptors.com/cgi-bin/wiki">Reality Sculptors</a> wiki, including links to a mailing list which frequently discusses autonomous design considerations.</li> 
+      <li>Designs for a <a href="/wiki/Geodesic_dome" title="Geodesic dome">geodesic dome</a> version of an Autonomous House can be found at <a rel="nofollow" class="external text" href="http://reality.sculptors.com/~salsbury/House/">reality.sculptors.com</a></li> 
+      <li>"Wind Power for Home and Business" by Paul Gipe</li> 
+      <li><a rel="nofollow" class="external text" href="http://www.onlineopinion.com.au/view.asp?article=1906">An opinion piece by Brenda and Robert Vale</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.off-grid.net/index.php">Off-grid.net</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.self-sufficiency-guide.com">Self Sufficiency Guide</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.stormbear.com/bagend2/index.php">Bad End 2 - 21st Century Hobbit Hole</a> - Precast concrete in home construction</li> 
+      <li><a rel="nofollow" class="external text" href="http://howtolivewiki.com/hexayurt/">Hexayurt Shelter System</a> - a public domain autonomous building system for refugees and poor villagers</li> 
+      <li><a rel="nofollow" class="external text" href="http://www.cropthornehouse.co.uk/design">The Cropthorne House</a> - Notes on design and comparison with the Vales' Southwell House</li> 
+      <li><a rel="nofollow" class="external text" href="http://www.new-self-sufficient-living.com/how-to-save-water.html">Self Sufficient Living</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.greenspec.co.uk/">GreenSpec</a></li> 
+     </ul> 
+     <!-- 
+NewPP limit report
+Parsed by mw1195
+Cached time: 20160318205224
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.363 seconds
+Real time usage: 0.450 seconds
+Preprocessor visited node count: 1442/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 33525/2097152 bytes
+Template argument size: 2299/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 2/500
+Lua time usage: 0.118/10.000 seconds
+Lua memory usage: 4.59 MB/50 MB
+Number of Wikibase entities loaded: 0--> 
+     <!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  301.685      1 - -total
+ 29.22%   88.163      1 - Template:Reflist
+ 18.46%   55.680      1 - Template:Refimprove
+ 17.33%   52.292     11 - Template:Convert
+ 16.38%   49.411      2 - Template:Cite_book
+ 13.36%   40.311      1 - Template:Anti-consumerism
+ 12.47%   37.619      1 - Template:Sidebar_with_collapsible_lists
+ 11.49%   34.651      1 - Template:Ambox
+  5.89%   17.779      1 - Template:Citation_needed
+  4.67%   14.078      1 - Template:Fix
+--> 
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:3022-0!*!0!!en!4!* and timestamp 20160318205224 and revision id 710748702
+ --> 
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript>
+    </div> 
+    <div class="printfooter">
+      Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Autonomous_building&amp;oldid=710748702">https://en.wikipedia.org/w/index.php?title=Autonomous_building&amp;oldid=710748702</a>" 
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Building_engineering" title="Category:Building engineering">Building engineering</a></li>
+       <li><a href="/wiki/Category:Human_habitats" title="Category:Human habitats">Human habitats</a></li>
+       <li><a href="/wiki/Category:Low-energy_building" title="Category:Low-energy building">Low-energy building</a></li>
+       <li><a href="/wiki/Category:Sustainable_architecture" title="Category:Sustainable architecture">Sustainable architecture</a></li>
+       <li><a href="/wiki/Category:Sustainable_building" title="Category:Sustainable building">Sustainable building</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Articles_needing_additional_references_from_August_2012" title="Category:Articles needing additional references from August 2012">Articles needing additional references from August 2012</a></li>
+       <li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li>
+       <li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li>
+       <li><a href="/wiki/Category:Articles_with_unsourced_statements_from_September_2010" title="Category:Articles with unsourced statements from September 2010">Articles with unsourced statements from September 2010</a></li>
+      </ul>
+     </div>
+    </div> 
+    <div class="visualClear"></div> 
+   </div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> 
+    <div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label"> 
+     <h3 id="p-personal-label">Personal tools</h3> 
+     <ul> 
+      <li id="pt-anonuserpage">Not logged in</li>
+      <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+      <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+      <li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Autonomous+building&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+      <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Autonomous+building" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li> 
+     </ul> 
+    </div> 
+    <div id="left-navigation"> 
+     <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label"> 
+      <h3 id="p-namespaces-label">Namespaces</h3> 
+      <ul> 
+       <li id="ca-nstab-main" class="selected"><span><a href="/wiki/Autonomous_building" title="View the content page [c]" accesskey="c">Article</a></span></li> 
+       <li id="ca-talk"><span><a href="/wiki/Talk:Autonomous_building" title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span><a href="#"></a> </h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="right-navigation"> 
+     <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label"> 
+      <h3 id="p-views-label">Views</h3> 
+      <ul> 
+       <li id="ca-view" class="selected"><span><a href="/wiki/Autonomous_building">Read</a></span></li> 
+       <li id="ca-edit"><span><a href="/w/index.php?title=Autonomous_building&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li> 
+       <li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Autonomous_building&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch"> 
+        <input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput">
+        <input type="hidden" value="Special:Search" name="title">
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton">
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a>
+    </div> 
+    <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label"> 
+     <h3 id="p-navigation-label">Navigation</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+       <li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label"> 
+     <h3 id="p-interaction-label">Interaction</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label"> 
+     <h3 id="p-tb-label">Tools</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Autonomous_building" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Autonomous_building" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Autonomous_building&amp;oldid=710748702" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Autonomous_building&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q261150" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Autonomous_building&amp;id=710748702" title="Information on how to cite this page">Cite this page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label"> 
+     <h3 id="p-coll-print_export-label">Print/export</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Autonomous+building">Create a book</a></li>
+       <li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Autonomous+building&amp;returnto=Autonomous+building&amp;oldid=710748702&amp;writer=rdf2latex">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Autonomous_building&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label"> 
+     <h3 id="p-lang-label">Languages</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D9%85%D8%A8%D9%86%D9%89_%D9%85%D8%B3%D8%AA%D9%82%D9%84_%D8%B0%D8%A7%D8%AA%D9%8A%D8%A7" title="مبنى مستقل ذاتيا – Arabic" lang="ar" hreflang="ar">العربية</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Edificio_aut%C3%B3nomo" title="Edificio autónomo – Spanish" lang="es" hreflang="es">Español</a></li>
+       <li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86_%D9%85%D8%B3%D8%AA%D9%82%D9%84" title="ساختمان مستقل – Persian" lang="fa" hreflang="fa">فارسی</a></li>
+       <li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/Auton%C3%B3m_%C3%A9p%C3%BClet" title="Autonóm épület – Hungarian" lang="hu" hreflang="hu">Magyar</a></li>
+       <li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Uavhengige_bygninger" title="Uavhengige bygninger – Norwegian" lang="no" hreflang="no">Norsk bokmål</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Budynek_autonomiczny" title="Budynek autonomiczny – Polish" lang="pl" hreflang="pl">Polski</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%90%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D0%BE%D0%B5_%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5" title="Автономное здание – Russian" lang="ru" hreflang="ru">Русский</a></li>
+       <li class="interlanguage-link interwiki-ta"><a href="//ta.wikipedia.org/wiki/%E0%AE%A4%E0%AE%BE%E0%AE%A9%E0%AE%BF%E0%AE%AF%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%81_%E0%AE%95%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%BF%E0%AE%9F%E0%AE%AE%E0%AF%8D" title="தானியங்கு கட்டிடம் – Tamil" lang="ta" hreflang="ta">தமிழ்</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%90%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D0%B0_%D0%B1%D1%83%D0%B4%D1%96%D0%B2%D0%BB%D1%8F" title="Автономна будівля – Ukrainian" lang="uk" hreflang="uk">Українська</a></li>
+       <li class="uls-p-lang-dummy"><a href="#"></a></li> 
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q261150#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last modified on 18 March 2016, at 20:52.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-cookiestatement"><a href="//wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Autonomous_building&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"> <a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"></a> </li> 
+    <li id="footer-poweredbyico"> <a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"></a> </li> 
+   </ul> 
+   <div style="clear:both"></div> 
+  </div> 
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.wikimediaEvents","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script>
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.config.set({"wgBackendResponseTime":68,"wgHostname":"mw1213"}); /* @nomin */
+} );</script>   
+ </body>
+</html>

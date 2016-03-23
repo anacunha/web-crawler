@@ -1,0 +1,585 @@
+https://en.wikipedia.org/wiki/World_Green_Building_Council
+<!doctype html>
+<html lang="en" dir="ltr" class="client-nojs">
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>World Green Building Council - Wikipedia, the free encyclopedia</title> 
+  <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script> 
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"World_Green_Building_Council","wgTitle":"World Green Building Council","wgCurRevisionId":706945292,"wgRevisionId":706945292,"wgArticleId":33545345,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with citations lacking titles","Pages with citations having bare URLs","Articles lacking reliable references from July 2015","All articles lacking reliable references","Green Building Councils"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"World_Green_Building_Council","wgRelevantArticleId":33545345,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCentralAuthMobileDomain":false,"wgWikibaseItemId":"Q8035789","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script> 
+  <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script> 
+  <meta name="generator" content="MediaWiki 1.27.0-wmf.17"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/World_Green_Building_Council"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=World_Green_Building_Council&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=World_Green_Building_Council&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/World_Green_Building_Council"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-World_Green_Building_Council skin-vector action-view"> 
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> 
+   <a id="top"></a> 
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">World Green Building Council</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="jump-to-nav" class="mw-jump">
+      Jump to: 
+     <a href="#mw-head">navigation</a>, 
+     <a href="#p-search">search</a> 
+    </div> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <table class="metadata plainlinks ambox ambox-content ambox-Primary_sources" role="presentation"> 
+      <tbody>
+       <tr> 
+        <td class="mbox-image"> 
+         <div style="width:52px">
+          <a href="/wiki/File:Question_book-new.svg" class="image"><img alt="Question book-new.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="262" data-file-height="204"></a>
+         </div> </td> 
+        <td class="mbox-text"><span class="mbox-text-span">This article <b>relies too much on <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">references</a> to <a href="/wiki/Wikipedia:No_original_research#Primary.2C_secondary_and_tertiary_sources" title="Wikipedia:No original research">primary sources</a></b>. <span class="hide-when-compact">Please improve this by adding <a href="/wiki/Wikipedia:No_original_research#Primary.2C_secondary_and_tertiary_sources" title="Wikipedia:No original research">secondary or tertiary sources</a>.</span> <small><i>(July 2015)</i></small></span></td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <table class="metadata plainlinks ambox ambox-content" role="presentation"> 
+      <tbody>
+       <tr> 
+        <td class="mbox-image"> 
+         <div style="width:52px">
+          <a href="/wiki/File:Question_book-new.svg" class="image"><img alt="Question book-new.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="262" data-file-height="204"></a>
+         </div> </td> 
+        <td class="mbox-text"><span class="mbox-text-span">This article <b>may rely excessively on sources too closely associated with the subject</b>, potentially preventing the article from being <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verifiable</a> and <a href="/wiki/Wikipedia:Neutral_point_of_view" title="Wikipedia:Neutral point of view">neutral</a>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=World_Green_Building_Council&amp;action=edit">improve it</a> by replacing them with more appropriate <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">citations</a> to <a href="/wiki/Wikipedia:Independent_sources" title="Wikipedia:Independent sources">reliable, independent, third-party sources</a>.</span> <small><i>(July 2015)</i></small></span></td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <table class="infobox" style="width:22em;width:20em"> 
+      <caption>
+       World Green Building Council
+      </caption> 
+      <tbody>
+       <tr> 
+        <th scope="row" style="width:33%">Abbreviation</th> 
+        <td>WorldGBC</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="width:33%">Formation</th> 
+        <td>2002</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="width:33%">Type</th> 
+        <td>Organization</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="width:33%">Head</th> 
+        <td>Jane Henley</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="width:33%">Website</th> 
+        <td><a rel="nofollow" class="external text" href="http://www.worldgbc.org/">www.worldgbc.org</a></td> 
+       </tr> 
+       <tr> 
+        <td colspan="2" style="text-align:right"> 
+         <div class="plainlinks hlist navbar mini"> 
+          <ul> 
+           <li class="nv-view"><a href="/w/index.php?title=Template:World_Green_Building_Council&amp;action=edit&amp;redlink=1" class="new" title="Template:World Green Building Council (page does not exist)"><abbr title="View this template">v</abbr></a></li> 
+           <li class="nv-talk"><a href="/w/index.php?title=Template_talk:World_Green_Building_Council&amp;action=edit&amp;redlink=1" class="new" title="Template talk:World Green Building Council (page does not exist)"><abbr title="Discuss this template">t</abbr></a></li> 
+           <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:World_Green_Building_Council&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li> 
+          </ul> 
+         </div> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <p>The <b>World Green Building Council</b> (<b>WorldGBC</b>) is a non-profit organization and a coalition of national <a href="/wiki/Green_Building_Council" title="Green Building Council">Green Building Councils</a> (GBCs). With member organizations in over 80 countries, it is the largest international organization influencing the <a href="/wiki/Green_building" title="Green building">green building</a> marketplace. It also represents over 30,000 property and construction companies.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> The WorldGBC supports existing and emerging GBCs, and provides them with tools and strategies to promote green building across the globe. The WorldGBC also addresses global issues such as <a href="/wiki/Climate_change" title="Climate change">climate change</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-sabine_3-0" class="reference"><a href="#cite_note-sabine-3"><span>[</span>3<span>]</span></a></sup></p> 
+     <p></p> 
+     <div id="toc" class="toc"> 
+      <div id="toctitle"> 
+       <h2>Contents</h2> 
+      </div> 
+      <ul> 
+       <li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li> 
+       <li class="toclevel-1 tocsection-2"><a href="#Mission"><span class="tocnumber">2</span> <span class="toctext">Mission</span></a></li> 
+       <li class="toclevel-1 tocsection-3"><a href="#Structure"><span class="tocnumber">3</span> <span class="toctext">Structure</span></a> 
+        <ul> 
+         <li class="toclevel-2 tocsection-4"><a href="#Corporate_Advisory_Board"><span class="tocnumber">3.1</span> <span class="toctext">Corporate Advisory Board</span></a></li> 
+         <li class="toclevel-2 tocsection-5"><a href="#Partners"><span class="tocnumber">3.2</span> <span class="toctext">Partners</span></a></li> 
+         <li class="toclevel-2 tocsection-6"><a href="#Member_Councils"><span class="tocnumber">3.3</span> <span class="toctext">Member Councils</span></a></li> 
+         <li class="toclevel-2 tocsection-7"><a href="#Committees"><span class="tocnumber">3.4</span> <span class="toctext">Committees</span></a></li> 
+        </ul> </li> 
+       <li class="toclevel-1 tocsection-8"><a href="#Activities"><span class="tocnumber">4</span> <span class="toctext">Activities</span></a> 
+        <ul> 
+         <li class="toclevel-2 tocsection-9"><a href="#World_Green_Building_Week"><span class="tocnumber">4.1</span> <span class="toctext">World Green Building Week</span></a></li> 
+         <li class="toclevel-2 tocsection-10"><a href="#WorldGBC_Congress"><span class="tocnumber">4.2</span> <span class="toctext">WorldGBC Congress</span></a></li> 
+         <li class="toclevel-2 tocsection-11"><a href="#Rating_Tools"><span class="tocnumber">4.3</span> <span class="toctext">Rating Tools</span></a></li> 
+         <li class="toclevel-2 tocsection-12"><a href="#The_Business_Case_for_Green_Building"><span class="tocnumber">4.4</span> <span class="toctext">The Business Case for Green Building</span></a></li> 
+         <li class="toclevel-2 tocsection-13"><a href="#Health.2C_Wellbeing_and_Productivity_in_Offices"><span class="tocnumber">4.5</span> <span class="toctext">Health, Wellbeing and Productivity in Offices</span></a></li> 
+         <li class="toclevel-2 tocsection-14"><a href="#Global_Coalition_for_Green_School"><span class="tocnumber">4.6</span> <span class="toctext">Global Coalition for Green School</span></a></li> 
+         <li class="toclevel-2 tocsection-15"><a href="#Sustainable_Cities_Initiative"><span class="tocnumber">4.7</span> <span class="toctext">Sustainable Cities Initiative</span></a></li> 
+         <li class="toclevel-2 tocsection-16"><a href="#EDGE_Certification_System"><span class="tocnumber">4.8</span> <span class="toctext">EDGE Certification System</span></a></li> 
+         <li class="toclevel-2 tocsection-17"><a href="#MIT_Climate_CoLab_Contest"><span class="tocnumber">4.9</span> <span class="toctext">MIT Climate CoLab Contest</span></a></li> 
+         <li class="toclevel-2 tocsection-18"><a href="#WorldGBC_Awards"><span class="tocnumber">4.10</span> <span class="toctext">WorldGBC Awards</span></a></li> 
+         <li class="toclevel-2 tocsection-19"><a href="#Government_Leadership_Awards"><span class="tocnumber">4.11</span> <span class="toctext">Government Leadership Awards</span></a></li> 
+        </ul> </li> 
+       <li class="toclevel-1 tocsection-20"><a href="#Impact"><span class="tocnumber">5</span> <span class="toctext">Impact</span></a> 
+        <ul> 
+         <li class="toclevel-2 tocsection-21"><a href="#Regional_networks"><span class="tocnumber">5.1</span> <span class="toctext">Regional networks</span></a></li> 
+        </ul> </li> 
+       <li class="toclevel-1 tocsection-22"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li> 
+       <li class="toclevel-1 tocsection-23"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li> 
+      </ul> 
+     </div> 
+     <p></p> 
+     <h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Green_Building_Council&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>The WorldGBC was founded at a meeting of representatives from eight national GBCs in November 1999 in <a href="/wiki/California" title="California">California</a>. The countries represented were <a href="/wiki/Green_Building_Council_of_Australia" title="Green Building Council of Australia">Australia</a>, <a href="/wiki/Canada_Green_Building_Council" title="Canada Green Building Council">Canada</a>, Japan, Spain, Russia, United Arab Emirates, <a href="/wiki/UK_Green_Building_Council" title="UK Green Building Council">United Kingdom</a> and the <a href="/wiki/U.S._Green_Building_Council" title="U.S. Green Building Council">United States</a>. This meeting predated the creation of Green Buildings Councils in most of the countries in attendance.<sup id="cite_ref-history_4-0" class="reference"><a href="#cite_note-history-4"><span>[</span>4<span>]</span></a></sup></p> 
+     <p>The WorldGBC was formally incorporated in 2002. Its primary role was to formalize international communications, help industry leaders access emerging markets, and provide an international voice for green building initiatives. A secretariat was established in 2007 to respond to the growing international interest in green buildings. The secretariat was based in <a href="/wiki/Toronto" title="Toronto">Toronto</a>, <a href="/wiki/Canada" title="Canada">Canada</a> where it worked in conjunction with the <a href="/wiki/Toronto_and_Region_Conservation_Authority" title="Toronto and Region Conservation Authority">Toronto and Region Conservation Authority</a> (TRCA), an organization that also focused on environmental conservation.<sup id="cite_ref-history_4-1" class="reference"><a href="#cite_note-history-4"><span>[</span>4<span>]</span></a></sup></p> 
+     <p>The founding officers of the WorldGBC were:</p> 
+     <ul> 
+      <li>Ché Wall, of Lincolne Scott Pty Ltd. and the Green Building Council of Australia</li> 
+      <li>Rick Fedrizzi, of Greenthink, LLC. and the founding chair of the US Green Building Council</li> 
+      <li>Nellie Cheng, of the Canada Housing Mortgage Corporation and the Canada Green Building Council</li> 
+      <li>Huston Eubank, of Rock Mountain Institute Green Development Services</li> 
+      <li>Dan Slone, of McGuire Woods</li> 
+      <li>David Gottfried, of WorldBuild Technologies Inc.<sup id="cite_ref-history_4-2" class="reference"><a href="#cite_note-history-4"><span>[</span>4<span>]</span></a></sup></li> 
+     </ul> 
+     <h2><span class="mw-headline" id="Mission">Mission</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Green_Building_Council&amp;action=edit&amp;section=2" title="Edit section: Mission">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <dl> 
+      <dd>
+       "To facilitate the global transformation of the building industry towards sustainability through market driven mechanisms"
+       <sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup>
+      </dd> 
+     </dl> 
+     <p>The WorldGBC is dedicated to creating a vast network of GBCs that meet a comparable standard and promote green building practices, strategies, and education throughout the world. The WorldGBC provides each member council with the framework and necessary resources for its implementation and operation.<sup id="cite_ref-sabine_3-1" class="reference"><a href="#cite_note-sabine-3"><span>[</span>3<span>]</span></a></sup> These green building councils are dedicated to improving building practices across the globe. Buildings are one of the primary consumers of energy and use 40% of raw global materials, which results in 3 billion tons per year.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></p> 
+     <h2><span class="mw-headline" id="Structure">Structure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Green_Building_Council&amp;action=edit&amp;section=3" title="Edit section: Structure">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>The WorldGBC has a 16 member Board of Directors as well as a 6 member chief team that oversee the entire organization. The chief team includes the CEO, Vice President of International and Communications, the Membership and Europe Network Manager, the Senior Policy Advisor of the Europe Regional Network, the Communications and Operations Coordinator, and Public Relations.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup> Total, the WorldGBC is composed of 720 staff members across the globe.<sup id="cite_ref-impact_9-0" class="reference"><a href="#cite_note-impact-9"><span>[</span>9<span>]</span></a></sup></p> 
+     <h3><span class="mw-headline" id="Corporate_Advisory_Board">Corporate Advisory Board</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Green_Building_Council&amp;action=edit&amp;section=4" title="Edit section: Corporate Advisory Board">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>In 2012, the WorldGBC created a Corporate Advisory Board to aid them in their future progress. Companies are invited based on diverse and global interests. Current board members include <a href="/w/index.php?title=City_Developments_Limited&amp;action=edit&amp;redlink=1" class="new" title="City Developments Limited (page does not exist)">City Developments Limited</a>, <a href="/wiki/Keppel_Corporation" title="Keppel Corporation">Keppel Land</a>, <a href="/wiki/Philips" title="Philips">Philips</a>, <a href="/wiki/UL_(safety_organization)" title="UL (safety organization)">UL</a>, <a href="/wiki/United_Technologies_Corporation" title="United Technologies Corporation" class="mw-redirect">UTC Building &amp; Industrial Systems</a>, <a href="/wiki/Lend_Lease_Group" title="Lend Lease Group">Lend Lease Group</a>, <a href="/wiki/McGraw_Hill_Financial" title="McGraw Hill Financial">McGraw Hill Construction</a>, <a href="/wiki/Saint-Gobain" title="Saint-Gobain">Saint-Gobain</a>, <a href="/wiki/Shaw_Industries" title="Shaw Industries">Shaw Contract Group</a>, <a href="/wiki/UBM_plc" title="UBM plc">UBM Built Environment</a>. City Developments, Keppel Land, Philips, UL, and UTC were also the founding members of the Corporate Advisory Board.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></p> 
+     <h3><span class="mw-headline" id="Partners">Partners</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Green_Building_Council&amp;action=edit&amp;section=5" title="Edit section: Partners">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>The WorldGBC is partnered with ten other organizations and corporations to assist in its endeavors. These partners are Philips, the Toronto and Region Conservation Authority, the <a href="/wiki/United_Nations_Environment_Programme" title="United Nations Environment Programme">United Nations Environment Programme</a> Sustainable Buildings and Climate Initiative (UNEP-SBCI), the <a href="/wiki/C40_Cities_Climate_Leadership_Group" title="C40 Cities Climate Leadership Group">C40 Cities Climate Leadership Group</a>, <a href="/wiki/McGuireWoods" title="McGuireWoods">McGuireWoods</a>, the <a href="/wiki/ICLEI" title="ICLEI">ICLEI</a>, the government of <a href="/wiki/Ontario" title="Ontario">Ontario</a>, the <a href="/wiki/Regional_Municipality_of_Peel" title="Regional Municipality of Peel">Region of Peel</a>, Lend Lease, and the <a href="/wiki/World_Business_Council_for_Sustainable_Development" title="World Business Council for Sustainable Development">World Business Council for Sustainable Development</a>.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup></p> 
+     <h3><span class="mw-headline" id="Member_Councils">Member Councils</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Green_Building_Council&amp;action=edit&amp;section=6" title="Edit section: Member Councils">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>The WorldGBC is divided into five regions: Africa, the Americas (includes North America, South America, and the Caribbean), Europe, Asia/Pacific, and MENA (the Middle East and North Africa). Europe has the largest regional network of GBCs at 34%, followed by the Americas at 23%, Asia/Pacific at 18%, MENA at 15%, and Africa at 10%.<sup id="cite_ref-impact_9-1" class="reference"><a href="#cite_note-impact-9"><span>[</span>9<span>]</span></a></sup> Member councils, which include GBCs and other associated groups, are assigned to their corresponding region. There are currently 100 member councils that include over 80 countries.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></p> 
+     <h3><span class="mw-headline" id="Committees">Committees</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Green_Building_Council&amp;action=edit&amp;section=7" title="Edit section: Committees">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>The WorldGBC has created multiple committees to assist in the governance of this large organization.</p> 
+     <p>There are five committees that operate under the title of "“World GBC Committees"” that focus on guidance and leadership in specific areas of the WorldGBC’s operations.<sup id="cite_ref-committees_13-0" class="reference"><a href="#cite_note-committees-13"><span>[</span>13<span>]</span></a></sup></p> 
+     <p>The <b>Policy Task Force (PTF)</b> enables the WorldGBC to speak as an international organization on global issues and policies by building a strong community of GBCs and by working with industry leaders and governments to show the value and positive impact of green buildings. The PTF focuses on sustainable cities, communities, and affordable housing as well as incentives and funding for green buildings. The PTF is composed of up to 18 individuals selected from existing member councils, and led by a chair who must be approved by the WorldGBC CEO and Board of Directors.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup></p> 
+     <p>The <b>Rating Tool Task Group (RTTG)</b> focuses on green building rating tools by researching the <a href="/wiki/Quality_assurance" title="Quality assurance">quality assurance</a> of existing tools, creating a forum to share ideas and information on tools, and identifying potential research and development opportunities as well as overseeing the socio-economic work being done by WorldGBC members. The RTTG is composed of a WorldGBC board as well as staff representative, and also members from existing GBCs who work with rating tools. The RTTG is led by a chair who must be approved by the WorldGBC CEO and Board of Directors.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup></p> 
+     <p>The <b>Council Development Committee</b> focuses on the development of GBCs by maintaining the Council Creation Framework, assisting in the development of growth strategies for the regional networks, and by monitoring the integrity of existing GBCs. The committee is composed of existing GBC members that serve a two year term and are selected by the current chair and membership manager. Members must also be approved by the WorldGBC Board of Directors.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup></p> 
+     <p>The <b>Audit Committee</b> oversees the financial operations of the WorldGBC by review financial performance against the budget, assisting with annual budgets as well as budget reviews, improving financial management, providing feedback to the CEO, and ensuring that members are operating as not-for-profit organizations. The committee is composed of the WorldGBC Treasurer and CEO as well as members from existing GBCs who are involved with account administrations or have related financial experience. The WorldGBC Treasurer acts as the chair of the committee.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup></p> 
+     <p>The WorldGBC created <b>Regional Network Committees</b> to assist in guiding the five regions (Africa, the Americas, Asia Pacific, Europe, and MENA). Each region has a Network Steering Committee that guides the regional network and its taskforces and also works with the WorldGBC Board of Directors to ensure that all members are maintained informed.<sup id="cite_ref-committees_13-1" class="reference"><a href="#cite_note-committees-13"><span>[</span>13<span>]</span></a></sup> Europe also has a Policy Taskforce Committee and an Education Committee; the former focuses on providing resources and support to governments and businesses.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup></p> 
+     <p>The <b>Marketing and Communications Committee</b> focuses on tasks related to the organization’s outward facing activities. It is composed of members from existing GBCs that work in related areas. This committee is still in development.</p> 
+     <h2><span class="mw-headline" id="Activities">Activities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Green_Building_Council&amp;action=edit&amp;section=8" title="Edit section: Activities">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <h3><span class="mw-headline" id="World_Green_Building_Week">World Green Building Week</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Green_Building_Council&amp;action=edit&amp;section=9" title="Edit section: World Green Building Week">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>Beginning in 2009, the WorldGBC promotes World Green Building Week each year, during which member organizations deliver special events promoting public awareness of sustainability and green building. Each GBC creates a program of events to host in their respective country. and the WorldGBC provides a global platform through which events can be showcased internationally. The WorldGBC also selects a theme for each week.</p> 
+     <ul> 
+      <li>World Green Building Week 2011 took place 19–23 of September and had 129 events in 27 countries. Its theme was “Green Buildings in the New Green Economy”.</li> 
+      <li>The 2012 World Green Building Week took place during 17-21 of September and had 130 events across 30 countries. Its theme was “Green Buildings for Great Communities”.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup><sup id="cite_ref-impact_9-2" class="reference"><a href="#cite_note-impact-9"><span>[</span>9<span>]</span></a></sup></li> 
+      <li>The 2013 World Green Building Week took place 16-20 of September and had 220 events across 33 countries. Its theme was “Greener Buildings, Better Places, Healthier People”.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>20<span>]</span></a></sup></li> 
+      <li>World Green Building Week 2014 took place on 22-27 of September, and its theme was “Get Up, Green Up,” which focused on encouraging others to take action on sustainable efforts.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>21<span>]</span></a></sup></li> 
+     </ul> 
+     <h3><span class="mw-headline" id="WorldGBC_Congress">WorldGBC Congress</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Green_Building_Council&amp;action=edit&amp;section=10" title="Edit section: WorldGBC Congress">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>Each year, the WorldGBC hosts a congress that provides delegates with connections to GBC members as well as tools and tactics that assist with GBC strategies. The 2014 congress took place in <a href="/wiki/S%C3%A3o_Paulo" title="São Paulo">São Paulo</a>, <a href="/wiki/Brazil" title="Brazil">Brazil</a> on 3-8 of August. The 2015 congress will take place in <a href="/wiki/Hong_Kong" title="Hong Kong">Hong Kong</a> on 27-30 of October.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup></p> 
+     <h3><span class="mw-headline" id="Rating_Tools">Rating Tools</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Green_Building_Council&amp;action=edit&amp;section=11" title="Edit section: Rating Tools">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>The WorldGBC has developed rating tools to analyze green building performance as well as the socio-economic issues that are involved in green building. Currently, the WorldGBC has two rating systems.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>23<span>]</span></a></sup></p> 
+     <p>The <b>Quality Assurance for Green Building Rating Tools</b> is a guide for GBCs that provides a development as well as implementation process of nationally recognized green building rating tools. The guide addresses general quality assurance processes, criteria development, pilot projects, certification, impartiality and transparency, feedback, and internal audits.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>24<span>]</span></a></sup></p> 
+     <p>The <b>Socio-Economic Framework for Rating Tools</b> is a joint project between the WorldGBC and the GBC of <a href="/wiki/South_Africa" title="South Africa">South Africa</a> that focuses on incorporating <a href="/wiki/Environmental_justice" title="Environmental justice">environmental justice</a> into the activities of the WorldGBC and its member councils. The guide addresses five themes that can be affected by sustainability efforts, especially green buildings. These themes are employment and economic opportunity, education and skills development, health and safety, equality, and community engagement and benefit. In order to create employment, the guide suggests using labor intensive construction methods whenever possible as well as creating a facility that provides long-term economic opportunities. The guide suggests utilizing local and small business for goods and services as well as continued support in order to create economic opportunities. Green building projects must also dedicate a percentage of their expenditure toward education and skill development programs. The guide also suggests improving occupational health and safety practices and managing disease risk control as well as providing health awareness. Projects must incorporate equal access to employment for marginalized groups, affordable housing so that all socio-economic classes have opportunities for green housing, and creating equal access for those with disabilities, the elderly, and the infirmed. Finally, the guide suggests that projects engage with all stakeholders, especially local communities, and provide community facilities that meet the needs that are addressed by stakeholders (including the community).<sup id="cite_ref-25" class="reference"><a href="#cite_note-25"><span>[</span>25<span>]</span></a></sup></p> 
+     <h3><span class="mw-headline" id="The_Business_Case_for_Green_Building">The Business Case for Green Building</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Green_Building_Council&amp;action=edit&amp;section=12" title="Edit section: The Business Case for Green Building">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>The WorldGBC released <i>The Business Case for Green Building</i> in 2013. The report synthesizes and reviews the existing published information on the costs and benefits associated with green building for developers, investors, and building occupants. It includes examples from across the globe as well as thoughts by leading experts in green building. The report is divided into five categories: design and construction cost, asset value, operating costs, workplace productivity and health, and risk mitigation. There is also a follow-up section on how to scale up from green buildings to green cities. The report is available in English, Spanish, and Chinese.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26"><span>[</span>26<span>]</span></a></sup><sup id="cite_ref-autogenerated2003_27-0" class="reference"><a href="#cite_note-autogenerated2003-27"><span>[</span>27<span>]</span></a></sup></p> 
+     <h3><span class="mw-headline" id="Health.2C_Wellbeing_and_Productivity_in_Offices">Health, Wellbeing and Productivity in Offices</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Green_Building_Council&amp;action=edit&amp;section=13" title="Edit section: Health, Wellbeing and Productivity in Offices">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>The WorldGBC released <i>Health, Wellbeing and Productivity in Offices: The Next Chapter for Green Building</i> in 2014. The report provides that latest information on building design and how it affects the health, wellbeing, and productivity of the occupants of office buildings. It also provides a framework for tracking the impacts of buildings on those three aspects. The report findings indicate that strategies that maximize employee health, wellbeing, and productivity are largely compatible with green building strategies.<sup id="cite_ref-autogenerated1_28-0" class="reference"><a href="#cite_note-autogenerated1-28"><span>[</span>28<span>]</span></a></sup> Since approximately 90% of a business’s operating costs come from their employees, it is critical for businesses to maintain a healthy environment that encourages productivity.<sup id="cite_ref-autogenerated1_28-1" class="reference"><a href="#cite_note-autogenerated1-28"><span>[</span>28<span>]</span></a></sup><sup id="cite_ref-29" class="reference"><a href="#cite_note-29"><span>[</span>29<span>]</span></a></sup><sup id="cite_ref-autogenerated2003_27-1" class="reference"><a href="#cite_note-autogenerated2003-27"><span>[</span>27<span>]</span></a></sup><sup id="cite_ref-30" class="reference"><a href="#cite_note-30"><span>[</span>30<span>]</span></a></sup></p> 
+     <h3><span class="mw-headline" id="Global_Coalition_for_Green_School">Global Coalition for Green School</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Green_Building_Council&amp;action=edit&amp;section=14" title="Edit section: Global Coalition for Green School">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <dl> 
+      <dd>
+       “By bringing together the leaders in the global green schools movement, the Global Coalition aims to ensure every child learns in a green school within this generation.”
+       <sup id="cite_ref-schools_31-0" class="reference"><a href="#cite_note-schools-31"><span>[</span>31<span>]</span></a></sup>
+      </dd> 
+     </dl> 
+     <p>The Global Coalition for Green Schools is composed of GBCs and other related organizations that work to provide communities with the resources and support needed to create green schools. This coalition stems from the 1.2 billion students that are currently attending school in buildings that are poorly lit, ventilated, and heated – factors that can hinder a child’s learning by up to 25%. The creation of green schools is not only a healthier alternative for students, but also for the environment.<sup id="cite_ref-schools_31-1" class="reference"><a href="#cite_note-schools-31"><span>[</span>31<span>]</span></a></sup></p> 
+     <h3><span class="mw-headline" id="Sustainable_Cities_Initiative">Sustainable Cities Initiative</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Green_Building_Council&amp;action=edit&amp;section=15" title="Edit section: Sustainable Cities Initiative">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>In partnership with C40 Cities, the Sustainable Cities Initiative works in conjunction with GBCs and local governments to create more sustainable cities. Current projects include City Market Briefs and Green City Tours. City Market Briefs are snapshots of cities around the world and their green building policies. These briefs serve as an example for other cities in their development of green building practices.<sup id="cite_ref-worldgbc1_32-0" class="reference"><a href="#cite_note-worldgbc1-32"><span>[</span>32<span>]</span></a></sup> The current City Market Briefs include <a href="/wiki/Abu_Dhabi" title="Abu Dhabi">Abu Dhabi</a>, <a href="/wiki/Bogota" title="Bogota" class="mw-redirect">Bogota</a>, <a href="/wiki/Buenos_Aires" title="Buenos Aires">Buenos Aires</a>, <a href="/wiki/Dubai" title="Dubai">Dubai</a>, <a href="/wiki/Hong_Kong" title="Hong Kong">Hong Kong</a>, <a href="/wiki/Lima" title="Lima">Lima</a>, <a href="/wiki/Mexico_City" title="Mexico City">Mexico City</a>, <a href="/wiki/Rio_de_Janeiro" title="Rio de Janeiro">Rio de Janeiro</a>, <a href="/wiki/Santiago" title="Santiago">Santiago</a>, <a href="/wiki/S%C3%A3o_Paulo" title="São Paulo">São Paulo</a>, <a href="/wiki/Seoul" title="Seoul">Seoul</a>, and <a href="/wiki/Tokyo" title="Tokyo">Tokyo</a>.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33"><span>[</span>33<span>]</span></a></sup> Green City Tours organize tours of green buildings and communities for GBC members, government representatives, and also local community members.<sup id="cite_ref-worldgbc1_32-1" class="reference"><a href="#cite_note-worldgbc1-32"><span>[</span>32<span>]</span></a></sup></p> 
+     <h3><span class="mw-headline" id="EDGE_Certification_System">EDGE Certification System</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Green_Building_Council&amp;action=edit&amp;section=16" title="Edit section: EDGE Certification System">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>In 2013, the <a href="/wiki/International_Finance_Corporation" title="International Finance Corporation">International Finance Corporation</a> (IFC), a member of the World Bank Group, and the World Green Building Council (WorldGBC) announced that they will collaborate to rapidly scale up the construction of green buildings in emerging markets. The new partnership demonstrates a shared commitment to playing a leadership role in transforming the built environment and mitigating climate change.</p> 
+     <p>The WorldGBC has agreed to connect its network of national green building councils to IFC’s investment and advisory program. The WorldGBC’s local affiliate councils will certify green buildings through IFC’s <a rel="nofollow" class="external text" href="http://www.ifc.org/edge">EDGE</a>, a new web application that reveals solutions at the early design stage to reduce energy, water, and material consumption by twenty percent.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34"><span>[</span>34<span>]</span></a></sup><sup id="cite_ref-35" class="reference"><a href="#cite_note-35"><span>[</span>35<span>]</span></a></sup></p> 
+     <h3><span class="mw-headline" id="MIT_Climate_CoLab_Contest">MIT Climate CoLab Contest</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Green_Building_Council&amp;action=edit&amp;section=17" title="Edit section: MIT Climate CoLab Contest">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>The WorldGBC partnered with the MIT Climate CoLab contest seeking proposals on how to create public demand for green buildings. Proposals were received until July 20, 2014.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36"><span>[</span>36<span>]</span></a></sup></p> 
+     <h3><span class="mw-headline" id="WorldGBC_Awards">WorldGBC Awards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Green_Building_Council&amp;action=edit&amp;section=18" title="Edit section: WorldGBC Awards">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>Every year, the WorldGBC recognizes individuals who have been key contributors to the green building movement.</p> 
+     <p>The <b>David Gottfried Global Green Building Entrepreneurship Award</b> was first presented in 2011 and named for its winner, David Gottfried, who was one of the founders of the USGBC as well as WorldGBC. The award is presented to an individual who has been a pioneer in green building by helping transform or advance the green building mission. Other winners include Professor Siegbert Zanettini (a Brazilian architect) in 2012, Karim Elgendy (founder of the sustainability advocacy initiative, Carboun) in 2013,<sup id="cite_ref-37" class="reference"><a href="#cite_note-37"><span>[</span>37<span>]</span></a></sup> and Nils Kok (co-founder of the Global Real Estate Sustainability Benchmark) in 2014.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38"><span>[</span>38<span>]</span></a></sup></p> 
+     <p>The <b>WorldGBC Chairman Awards</b> were first presented in 2011 to individuals who were instrumental in advancing the global sustainability movement as well as raised awareness for global issues.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39"><span>[</span>39<span>]</span></a></sup></p> 
+     <p>The <b>GBC Awards</b> are given to members of the WorldGBC who have provided a significant contribution to their respective GBCs.<sup id="cite_ref-40" class="reference"><a href="#cite_note-40"><span>[</span>40<span>]</span></a></sup></p> 
+     <h3><span class="mw-headline" id="Government_Leadership_Awards">Government Leadership Awards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Green_Building_Council&amp;action=edit&amp;section=19" title="Edit section: Government Leadership Awards">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>The Government Leadership Awards recognize government leaders who have shown excellence in creating city policies for green building. The award is given every other year in partnership with ICLEI and UN-Habitat.<sup id="cite_ref-41" class="reference"><a href="#cite_note-41"><span>[</span>41<span>]</span></a></sup></p> 
+     <h2><span class="mw-headline" id="Impact">Impact</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Green_Building_Council&amp;action=edit&amp;section=20" title="Edit section: Impact">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p>In June 2014, the WorldGBC released an impact report for 2013 to 2014.The WorldGBC now has 100 GBCs worldwide with over 27,000 member companies and organizations. This has led to more than 1.2 billion square meters of green building area that is registered by the WorldGBC rating systems. The WorldGBC has also educated over 400,000 people and has more than 32,000 volunteers worldwide. The World GBC has provided global tools and resources through their activities, and is a leader in green building across the globe. Their <i>Health, Wellbeing and Productivity in the Office Buildings</i> report has promoted the importance and connection of building design to its occupants. Also, their "Socio-Economic Framework for Rating Tools" is one of the few key resources on incorporating environmental justice into sustainability. The WorldGBC provided multiple resources on quality assurance and market research for green buildings. The WorldGBC also made a commitment to engage the public through their Global Coalition for Green Schools and their partnership with the MIT ClimateCoLab contest.<sup id="cite_ref-impact_9-3" class="reference"><a href="#cite_note-impact-9"><span>[</span>9<span>]</span></a></sup></p> 
+     <h3><span class="mw-headline" id="Regional_networks">Regional networks</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Green_Building_Council&amp;action=edit&amp;section=21" title="Edit section: Regional networks">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>The Americas regional network succeeded in achieving LEED Certification in all soccer stadiums for the 2014 FIFA World Cup in Brazil. Also, nine countries in the network collaborated with UNEP to produce <i>The State of Play of Sustainable Building in Latin America</i>. The Europe network hosted their first WorldGBC Europe Region Leadership Awards, acknowledging pioneers in green building across Europe. The network also submitted their first collaborative project proposal for the <a href="/wiki/European_Union" title="European Union">European Union</a> (BUILD UPON). The Sing Yin Secondary School in Hong Kong was deemed winner of the Greenest School on Earth along with the Uaso Nyiro Primary School in Kenya. The Africa regional network also achieved 50 Green Star SA certified projects in South Africa.<sup id="cite_ref-impact_9-4" class="reference"><a href="#cite_note-impact-9"><span>[</span>9<span>]</span></a></sup></p> 
+     <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Green_Building_Council&amp;action=edit&amp;section=22" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <div class="reflist references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;"> 
+      <ol class="references"> 
+       <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite id="CITEREF2011" class="citation">"The world’s green buildings progress – an interview with Tony Arnel", <i>Ecos Magazine</i>, December 2011</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Green+Building+Council&amp;rft.atitle=The+world%99s+green+buildings+progress+%93+an+interview+with+Tony+Arnel&amp;rft.date=2011-12&amp;rft.genre=article&amp;rft.jtitle=Ecos+Magazine&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.worldgbc.org/worldgbc/about/">"WorldGBC 3&nbsp;:: About WorldGBC"</a>. Worldgbc.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-07-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Green+Building+Council&amp;rft.btitle=WorldGBC+3+%3A%3A+About+WorldGBC&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.worldgbc.org%2Fworldgbc%2Fabout%2F&amp;rft.pub=Worldgbc.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-sabine-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-sabine_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-sabine_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFSedlacek2014" class="citation"><a href="/w/index.php?title=Sabine_Sedlacek&amp;action=edit&amp;redlink=1" class="new" title="Sabine Sedlacek (page does not exist)">Sedlacek, Sabine</a> (January 2014), "Non-Governmental Organizations as Governance Actors for Sustainable Development: The Case for Green Building Councils", <i>Environmental Policy and Governance</i> <b>24</b>: 247–261</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Green+Building+Council&amp;rft.atitle=Non-Governmental+Organizations+as+Governance+Actors+for+Sustainable+Development%3A+The+Case+for+Green+Building+Councils&amp;rft.aufirst=Sabine&amp;rft.aulast=Sedlacek&amp;rft.date=2014-01&amp;rft.genre=article&amp;rft.jtitle=Environmental+Policy+and+Governance&amp;rft.pages=247-261&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=24" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-history-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-history_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-history_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-history_4-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.worldgbc.org/worldgbc/history/">"WorldGBC 3&nbsp;:: History"</a>. Worldgbc.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-07-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Green+Building+Council&amp;rft.btitle=WorldGBC+3+%3A%3A+History&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.worldgbc.org%2Fworldgbc%2Fhistory%2F&amp;rft.pub=Worldgbc.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external free" href="https://web.archive.org/20111018135954/http://www.worldgbc.org/site2/index.php?cID=83">https://web.archive.org/20111018135954/http://www.worldgbc.org/site2/index.php?cID=83</a>. Archived from <a rel="nofollow" class="external text" href="http://www.worldgbc.org/site2/index.php?cID=83">the original</a> on October 18, 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">October 27,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Green+Building+Council&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.worldgbc.org%2Fsite2%2Findex.php%3FcID%3D83&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span> <span style="font-size:100%" class="error citation-comment">Missing or empty <code style="color:inherit; border:inherit; padding:inherit;">|title=</code> (<a href="/wiki/Help:CS1_errors#citation_missing_title" title="Help:CS1 errors">help</a>)</span></span></li> 
+       <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite id="CITEREFGottfriedMalik2009" class="citation"><a href="/w/index.php?title=David_Gottfried&amp;action=edit&amp;redlink=1" class="new" title="David Gottfried (page does not exist)">Gottfried, David</a>; <a href="/w/index.php?title=Hriday_Malki&amp;action=edit&amp;redlink=1" class="new" title="Hriday Malki (page does not exist)">Malik, Hriday</a> (December 2009), "Perspectives on Green Building", <i>Renewable Energy Focus</i> <b>10</b> (6): 38–41</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Green+Building+Council&amp;rft.atitle=Perspectives+on+Green+Building&amp;rft.aufirst=David&amp;rft.aulast=Gottfried&amp;rft.au=Malik%2C+Hriday&amp;rft.date=2009-12&amp;rft.genre=article&amp;rft.issue=6&amp;rft.jtitle=Renewable+Energy+Focus&amp;rft.pages=38-41&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=10" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.worldgbc.org/worldgbc/board/">"WorldGBC 3&nbsp;:: Our Board"</a>. Worldgbc.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-07-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Green+Building+Council&amp;rft.btitle=WorldGBC+3+%3A%3A+Our+Board&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.worldgbc.org%2Fworldgbc%2Fboard%2F&amp;rft.pub=Worldgbc.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.worldgbc.org/worldgbc/team/">"WorldGBC 3&nbsp;:: The Team"</a>. Worldgbc.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-07-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Green+Building+Council&amp;rft.btitle=WorldGBC+3+%3A%3A+The+Team&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.worldgbc.org%2Fworldgbc%2Fteam%2F&amp;rft.pub=Worldgbc.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-impact-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-impact_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-impact_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-impact_9-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-impact_9-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-impact_9-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREF2014" class="citation"><i>Impact Report 2012-2013</i>, World Green Building Council, June 2014</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Green+Building+Council&amp;rft.btitle=Impact+Report+2012-2013&amp;rft.date=2014-06&amp;rft.genre=book&amp;rft.pub=World+Green+Building+Council&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.worldgbc.org/worldgbc/corporate-advisory-board/">"WorldGBC 3&nbsp;:: Corporate Advisory Board"</a>. Worldgbc.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-07-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Green+Building+Council&amp;rft.btitle=WorldGBC+3+%3A%3A+Corporate+Advisory+Board&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.worldgbc.org%2Fworldgbc%2Fcorporate-advisory-board%2F&amp;rft.pub=Worldgbc.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.worldgbc.org/worldgbc/partners/">"WorldGBC 3&nbsp;:: Our Partners"</a>. Worldgbc.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-07-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Green+Building+Council&amp;rft.btitle=WorldGBC+3+%3A%3A+Our+Partners&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.worldgbc.org%2Fworldgbc%2Fpartners%2F&amp;rft.pub=Worldgbc.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.worldgbc.org/worldgbc/members/">"WorldGBC 3&nbsp;:: Member Councils"</a>. Worldgbc.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-07-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Green+Building+Council&amp;rft.btitle=WorldGBC+3+%3A%3A+Member+Councils&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.worldgbc.org%2Fworldgbc%2Fmembers%2F&amp;rft.pub=Worldgbc.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-committees-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-committees_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-committees_13-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.worldgbc.org/worldgbc/committees/">"WorldGBC 3&nbsp;:: Committees"</a>. Worldgbc.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-07-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Green+Building+Council&amp;rft.btitle=WorldGBC+3+%3A%3A+Committees&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.worldgbc.org%2Fworldgbc%2Fcommittees%2F&amp;rft.pub=Worldgbc.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.worldgbc.org/worldgbc/committees/policy-taskforce/">"WorldGBC 3&nbsp;:: Policy Task Force"</a>. Worldgbc.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-07-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Green+Building+Council&amp;rft.btitle=WorldGBC+3+%3A%3A+Policy+Task+Force&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.worldgbc.org%2Fworldgbc%2Fcommittees%2Fpolicy-taskforce%2F&amp;rft.pub=Worldgbc.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.worldgbc.org/worldgbc/committees/rating-tool-task-group/">"WorldGBC 3&nbsp;:: Rating Tool Task Group"</a>. Worldgbc.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-07-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Green+Building+Council&amp;rft.btitle=WorldGBC+3+%3A%3A+Rating+Tool+Task+Group&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.worldgbc.org%2Fworldgbc%2Fcommittees%2Frating-tool-task-group%2F&amp;rft.pub=Worldgbc.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.worldgbc.org/worldgbc/committees/council-development/">"WorldGBC 3&nbsp;:: Council Development"</a>. Worldgbc.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-07-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Green+Building+Council&amp;rft.btitle=WorldGBC+3+%3A%3A+Council+Development&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.worldgbc.org%2Fworldgbc%2Fcommittees%2Fcouncil-development%2F&amp;rft.pub=Worldgbc.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.worldgbc.org/worldgbc/committees/audit/">"WorldGBC 3&nbsp;:: Audit Committee"</a>. Worldgbc.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-07-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Green+Building+Council&amp;rft.btitle=WorldGBC+3+%3A%3A+Audit+Committee&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.worldgbc.org%2Fworldgbc%2Fcommittees%2Faudit%2F&amp;rft.pub=Worldgbc.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.worldgbc.org/worldgbc/committees/europe-ptf">"WorldGBC 3&nbsp;:: Europe Policy Task Force"</a>. Worldgbc.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-07-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Green+Building+Council&amp;rft.btitle=WorldGBC+3+%3A%3A+Europe+Policy+Task+Force&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.worldgbc.org%2Fworldgbc%2Fcommittees%2Feurope-ptf&amp;rft.pub=Worldgbc.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite id="CITEREF2013" class="citation"><i>World Green Building Week in Previous Years</i>, UK Green Building Council, 2013</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Green+Building+Council&amp;rft.btitle=World+Green+Building+Week+in+Previous+Years&amp;rft.date=2013&amp;rft.genre=book&amp;rft.pub=UK+Green+Building+Council&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite id="CITEREF2013" class="citation"><i>World Green Building Week</i>, World Green Building Council, 23 September 2013</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Green+Building+Council&amp;rft.btitle=World+Green+Building+Week&amp;rft.date=2013-09-23&amp;rft.genre=book&amp;rft.pub=World+Green+Building+Council&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.worldgbc.org/activities/wgbweek/">"WorldGBC 3&nbsp;:: World Green Building Week"</a>. Worldgbc.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-07-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Green+Building+Council&amp;rft.btitle=WorldGBC+3+%3A%3A+World+Green+Building+Week&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.worldgbc.org%2Factivities%2Fwgbweek%2F&amp;rft.pub=Worldgbc.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.worldgbc.org/activities/congress/">"WorldGBC 3&nbsp;:: Congress"</a>. Worldgbc.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-07-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Green+Building+Council&amp;rft.btitle=WorldGBC+3+%3A%3A+Congress&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.worldgbc.org%2Factivities%2Fcongress%2F&amp;rft.pub=Worldgbc.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.worldgbc.org/activities/rating-tools/">"WorldGBC 3&nbsp;:: Rating Tools"</a>. Worldgbc.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-07-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Green+Building+Council&amp;rft.btitle=WorldGBC+3+%3A%3A+Rating+Tools&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.worldgbc.org%2Factivities%2Frating-tools%2F&amp;rft.pub=Worldgbc.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite id="CITEREFTowell2013" class="citation"><a href="/w/index.php?title=Benjamin_Henry_Towell&amp;action=edit&amp;redlink=1" class="new" title="Benjamin Henry Towell (page does not exist)">Towell, Benjamin Henry</a> (2013), <i>Quality Assurance Guide for Green Building Rating Tools</i> (1st ed.), World Green Building Council Rating Tools Task Group</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Green+Building+Council&amp;rft.aufirst=Benjamin+Henry&amp;rft.aulast=Towell&amp;rft.btitle=Quality+Assurance+Guide+for+Green+Building+Rating+Tools&amp;rft.date=2013&amp;rft.edition=1st&amp;rft.genre=book&amp;rft.pub=World+Green+Building+Council+Rating+Tools+Task+Group&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite id="CITEREFGreen_Building_Council_of_South_Africa2013" class="citation"><a href="/w/index.php?title=Green_Building_Council_of_South_Africa&amp;action=edit&amp;redlink=1" class="new" title="Green Building Council of South Africa (page does not exist)">Green Building Council of South Africa</a> (2013), <i>Socio-Economic Framework for Rating Tools</i> (1st ed.), Old Mutual Properties</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Green+Building+Council&amp;rft.au=Green+Building+Council+of+South+Africa&amp;rft.btitle=Socio-Economic+Framework+for+Rating+Tools&amp;rft.date=2013&amp;rft.edition=1st&amp;rft.genre=book&amp;rft.pub=Old+Mutual+Properties&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite id="CITEREFWorld_Green_Building_Council2013" class="citation">World Green Building Council (2013), <i>The Business Case for Green Building</i>, World Green Building Council</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Green+Building+Council&amp;rft.au=World+Green+Building+Council&amp;rft.btitle=The+Business+Case+for+Green+Building&amp;rft.date=2013&amp;rft.genre=book&amp;rft.pub=World+Green+Building+Council&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-autogenerated2003-27"><span class="mw-cite-backlink">^ <a href="#cite_ref-autogenerated2003_27-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-autogenerated2003_27-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFBernstein2003" class="citation"><a href="/w/index.php?title=Harvey_M._Bernstein&amp;action=edit&amp;redlink=1" class="new" title="Harvey M. Bernstein (page does not exist)">Bernstein, Harvey M.</a> (2003), <i>World Green Building Trends: Business Benefits Driving New and Retrofit Market Opportunities in Over 60 Countries</i>, McGraw-Hill Construction</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Green+Building+Council&amp;rft.aufirst=Harvey+M.&amp;rft.aulast=Bernstein&amp;rft.btitle=World+Green+Building+Trends%3A+Business+Benefits+Driving+New+and+Retrofit+Market+Opportunities+in+Over+60+Countries&amp;rft.date=2003&amp;rft.genre=book&amp;rft.pub=McGraw-Hill+Construction&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-autogenerated1-28"><span class="mw-cite-backlink">^ <a href="#cite_ref-autogenerated1_28-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-autogenerated1_28-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFAlkerMalancaPottageO.E2.80.99Brien2014" class="citation"><a href="/wiki/John_Alker" title="John Alker">Alker, John</a>; <a href="/w/index.php?title=Michelle_Malanca&amp;action=edit&amp;redlink=1" class="new" title="Michelle Malanca (page does not exist)">Malanca, Michelle</a>; <a href="/w/index.php?title=Chris_Pottage&amp;action=edit&amp;redlink=1" class="new" title="Chris Pottage (page does not exist)">Pottage, Chris</a>; <a href="/w/index.php?title=Rachael_O%E2%80%99Brien&amp;action=edit&amp;redlink=1" class="new" title="Rachael O’Brien (page does not exist)">O’Brien, Rachael</a> (2014), <i>Health, Wellbeing and Productivity in Offices: The Next Chapter for Green Building</i>, World Green Building Council</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Green+Building+Council&amp;rft.aufirst=John&amp;rft.aulast=Alker&amp;rft.au=Malanca%2C+Michelle&amp;rft.au=O%99Brien%2C+Rachael&amp;rft.au=Pottage%2C+Chris&amp;rft.btitle=Health%2C+Wellbeing+and+Productivity+in+Offices%3A+The+Next+Chapter+for+Green+Building&amp;rft.date=2014&amp;rft.genre=book&amp;rft.pub=World+Green+Building+Council&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite id="CITEREFLockwood2006" class="citation"><a href="/wiki/Charles_Lockwood" title="Charles Lockwood" class="mw-disambig">Lockwood, Charles</a> (June 2006), "Building the Green Way", <i>Harvard Business Review</i>: 1–10</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Green+Building+Council&amp;rft.atitle=Building+the+Green+Way&amp;rft.aufirst=Charles&amp;rft.aulast=Lockwood&amp;rft.date=2006-06&amp;rft.genre=article&amp;rft.jtitle=Harvard+Business+Review&amp;rft.pages=1-10&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite id="CITEREFBernstein2014" class="citation"><a href="/w/index.php?title=Harvey_M._Bernstein&amp;action=edit&amp;redlink=1" class="new" title="Harvey M. Bernstein (page does not exist)">Bernstein, Harvey M.</a> (2014), <i>The Drive Toward Healthier Buildings: The Market Drivers and Impact of Building Design and Construction on Occupant Health, Well-Being and Productivity</i>, McGraw Hill Construction</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Green+Building+Council&amp;rft.aufirst=Harvey+M.&amp;rft.aulast=Bernstein&amp;rft.btitle=The+Drive+Toward+Healthier+Buildings%3A+The+Market+Drivers+and+Impact+of+Building+Design+and+Construction+on+Occupant+Health%2C+Well-Being+and+Productivity&amp;rft.date=2014&amp;rft.genre=book&amp;rft.pub=McGraw+Hill+Construction&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-schools-31"><span class="mw-cite-backlink">^ <a href="#cite_ref-schools_31-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-schools_31-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.worldgbc.org/activities/global-coalition-green-schools/">"WorldGBC 3&nbsp;:: Global Coalition for Green Schools"</a>. Worldgbc.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-07-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Green+Building+Council&amp;rft.btitle=WorldGBC+3+%3A%3A+Global+Coalition+for+Green+Schools&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.worldgbc.org%2Factivities%2Fglobal-coalition-green-schools%2F&amp;rft.pub=Worldgbc.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-worldgbc1-32"><span class="mw-cite-backlink">^ <a href="#cite_ref-worldgbc1_32-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-worldgbc1_32-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.worldgbc.org/activities/sustainable-cities-initiative/">"WorldGBC 3&nbsp;:: Sustainable Cities Initiative"</a>. Worldgbc.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-07-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Green+Building+Council&amp;rft.btitle=WorldGBC+3+%3A%3A+Sustainable+Cities+Initiative&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.worldgbc.org%2Factivities%2Fsustainable-cities-initiative%2F&amp;rft.pub=Worldgbc.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.worldgbc.org/infohub/city-market-briefs">"WorldGBC 3&nbsp;:: City Market Briefs"</a>. Worldgbc.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-07-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Green+Building+Council&amp;rft.btitle=WorldGBC+3+%3A%3A+City+Market+Briefs&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.worldgbc.org%2Finfohub%2Fcity-market-briefs&amp;rft.pub=Worldgbc.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.worldgbc.org/activities/news/global-news/ifc-and-world-green-building-council-announce-global-partnership/">"WorldGBC 3&nbsp;:: IFC and World Green Building Council Announce Global Partnership"</a>. Worldgbc.org. 2013-07-16<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-07-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Green+Building+Council&amp;rft.btitle=WorldGBC+3+%3A%3A+IFC+and+World+Green+Building+Council+Announce+Global+Partnership&amp;rft.date=2013-07-16&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.worldgbc.org%2Factivities%2Fnews%2Fglobal-news%2Fifc-and-world-green-building-council-announce-global-partnership%2F&amp;rft.pub=Worldgbc.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite id="CITEREFInternational_Finance_Group" class="citation"><a href="/w/index.php?title=International_Finance_Group&amp;action=edit&amp;redlink=1" class="new" title="International Finance Group (page does not exist)">International Finance Group</a>, <i>Introducing: The Edge</i></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Green+Building+Council&amp;rft.au=International+Finance+Group&amp;rft.btitle=Introducing%3A+The+Edge&amp;rft.genre=book&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.worldgbc.org/activities/mit-climate-colab-contest/">"WorldGBC 3&nbsp;:: MIT Climate CoLab Contest"</a>. Worldgbc.org. 2014-07-20<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-07-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Green+Building+Council&amp;rft.btitle=WorldGBC+3+%3A%3A+MIT+Climate+CoLab+Contest&amp;rft.date=2014-07-20&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.worldgbc.org%2Factivities%2Fmit-climate-colab-contest%2F&amp;rft.pub=Worldgbc.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.carboun.com/analysis/carboun-recognized-by-world-green-building-council">"recognized by World Green Building Council | Carboun: Advocating Sustainable Cities in the Middle East"</a>. Carboun. 2013-12-01<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-07-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Green+Building+Council&amp;rft.btitle=recognized+by+World+Green+Building+Council+%26%23124%3B+Carboun%3A+Advocating+Sustainable+Cities+in+the+Middle+East&amp;rft.date=2013-12-01&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.carboun.com%2Fanalysis%2Fcarboun-recognized-by-world-green-building-council&amp;rft.pub=Carboun&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.worldgbc.org/activities/worldgbc-awards/david-gottfried-award">"WorldGBC 3&nbsp;:: David Gottfried Award"</a>. Worldgbc.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-07-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Green+Building+Council&amp;rft.btitle=WorldGBC+3+%3A%3A+David+Gottfried+Award&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.worldgbc.org%2Factivities%2Fworldgbc-awards%2Fdavid-gottfried-award&amp;rft.pub=Worldgbc.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.worldgbc.org/activities/worldgbc-awards/chairmans-awards">"WorldGBC 3&nbsp;:: Chairman's Awards"</a>. Worldgbc.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-07-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Green+Building+Council&amp;rft.btitle=WorldGBC+3+%3A%3A+Chairman%27s+Awards&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.worldgbc.org%2Factivities%2Fworldgbc-awards%2Fchairmans-awards&amp;rft.pub=Worldgbc.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.worldgbc.org/activities/worldgbc-awards/">"WorldGBC 3&nbsp;:: WorldGBC Awards"</a>. Worldgbc.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-07-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Green+Building+Council&amp;rft.btitle=WorldGBC+3+%3A%3A+WorldGBC+Awards&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.worldgbc.org%2Factivities%2Fworldgbc-awards%2F&amp;rft.pub=Worldgbc.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.worldgbc.org/activities/govt-leadership-awards/">"WorldGBC 3&nbsp;:: Government Leadership Awards"</a>. Worldgbc.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-07-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Green+Building+Council&amp;rft.btitle=WorldGBC+3+%3A%3A+Government+Leadership+Awards&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.worldgbc.org%2Factivities%2Fgovt-leadership-awards%2F&amp;rft.pub=Worldgbc.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+      </ol> 
+     </div> 
+     <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Green_Building_Council&amp;action=edit&amp;section=23" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <ul> 
+      <li><a rel="nofollow" class="external text" href="http://www.worldgbc.org/">Official website</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.worldgreenbuildingweek.org/">World Green Building Week</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://citybuildco.com.au/green-building-council-of-australia/">Green Building Council of Australia</a></li> 
+     </ul> 
+     <table class="navbox" style="border-spacing:0"> 
+      <tbody>
+       <tr> 
+        <td style="padding:2px"> 
+         <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"> 
+          <tbody>
+           <tr> 
+            <th scope="col" class="navbox-title" colspan="2"> 
+             <div class="plainlinks hlist navbar mini"> 
+              <ul> 
+               <li class="nv-view"><a href="/wiki/Template:U.S._Green_Building_Council" title="Template:U.S. Green Building Council"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li> 
+               <li class="nv-talk"><a href="/w/index.php?title=Template_talk:U.S._Green_Building_Council&amp;action=edit&amp;redlink=1" class="new" title="Template talk:U.S. Green Building Council (page does not exist)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li> 
+               <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:U.S._Green_Building_Council&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li> 
+              </ul> 
+             </div> 
+             <div style="font-size:114%">
+              <a href="/wiki/U.S._Green_Building_Council" title="U.S. Green Building Council">U.S. Green Building Council</a>
+             </div> </th> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Centers</th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/Green_Business_Certification_Inc." title="Green Business Certification Inc.">Green Business Certification Inc.</a></li> 
+               <li><strong class="selflink">World Green Building Council</strong></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">LEED</th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/Leadership_in_Energy_and_Environmental_Design" title="Leadership in Energy and Environmental Design">Leadership in Energy and Environmental Design</a></li> 
+               <li><a href="/wiki/LEED_Professional_Exams#LEED_Green_Associate" title="LEED Professional Exams">LEED Green Associate</a></li> 
+               <li><a href="/wiki/LEED_Professional_Exams#LEED_AP_with_Specialty" title="LEED Professional Exams">LEED AP</a></li> 
+               <li><a href="/wiki/LEED_Professional_Exams#LEED_Fellow" title="LEED Professional Exams">LEED Fellow</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Rating Systems</th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li>LEED for New Construction</li> 
+               <li>LEED for Core &amp; Shell</li> 
+               <li>LEED for Schools</li> 
+               <li>LEED for Retail: New Construction and Major Renovations</li> 
+               <li>LEED for Healthcare</li> 
+               <li>LEED for Commercial Interiors</li> 
+               <li>LEED for Retail: Commercial Interiors</li> 
+               <li>LEED for Existing Buildings: Operations &amp; Maintenance</li> 
+               <li><a href="/wiki/LEED_for_Neighborhood_Development" title="LEED for Neighborhood Development">LEED for Neighborhood Development</a></li> 
+               <li>LEED for Homes</li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px"> 
+            <td colspan="2"></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">People</th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"> 
+             <div style="padding:0em 0.25em"> 
+              <ul> 
+               <li><a href="/w/index.php?title=Rick_Fedrizzi&amp;action=edit&amp;redlink=1" class="new" title="Rick Fedrizzi (page does not exist)">Rick Fedrizzi</a></li> 
+               <li><a href="/wiki/Robert_K._Watson" title="Robert K. Watson">Robert K. Watson</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+          </tbody>
+         </table> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <!-- 
+NewPP limit report
+Parsed by mw1207
+Cached time: 20160226042835
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.427 seconds
+Real time usage: 0.494 seconds
+Preprocessor visited node count: 2413/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 78434/2097152 bytes
+Template argument size: 330/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Lua time usage: 0.206/10.000 seconds
+Lua memory usage: 3.73 MB/50 MB
+Number of Wikibase entities loaded: 0--> 
+     <!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  437.719      1 - -total
+ 60.25%  263.734      1 - Template:Reflist
+ 23.41%  102.473     27 - Template:Cite_web
+ 21.89%   95.817     14 - Template:Citation
+ 14.01%   61.334      1 - Template:Primary_sources
+  9.48%   41.515      2 - Template:Ambox
+  5.63%   24.623      1 - Template:Third-party
+  5.25%   22.977      1 - Template:Infobox
+  3.90%   17.059      1 - Template:U.S._Green_Building_Council
+  3.89%   17.036      1 - Template:DMCA
+--> 
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:33545345-0!*!0!!en!4!* and timestamp 20160226042835 and revision id 706945292
+ --> 
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript>
+    </div> 
+    <div class="printfooter">
+      Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=World_Green_Building_Council&amp;oldid=706945292">https://en.wikipedia.org/w/index.php?title=World_Green_Building_Council&amp;oldid=706945292</a>" 
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Green_Building_Councils" title="Category:Green Building Councils">Green Building Councils</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Pages_with_citations_lacking_titles" title="Category:Pages with citations lacking titles">Pages with citations lacking titles</a></li>
+       <li><a href="/wiki/Category:Pages_with_citations_having_bare_URLs" title="Category:Pages with citations having bare URLs">Pages with citations having bare URLs</a></li>
+       <li><a href="/wiki/Category:Articles_lacking_reliable_references_from_July_2015" title="Category:Articles lacking reliable references from July 2015">Articles lacking reliable references from July 2015</a></li>
+       <li><a href="/wiki/Category:All_articles_lacking_reliable_references" title="Category:All articles lacking reliable references">All articles lacking reliable references</a></li>
+      </ul>
+     </div>
+    </div> 
+    <div class="visualClear"></div> 
+   </div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> 
+    <div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label"> 
+     <h3 id="p-personal-label">Personal tools</h3> 
+     <ul> 
+      <li id="pt-anonuserpage">Not logged in</li>
+      <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+      <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+      <li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=World+Green+Building+Council&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+      <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=World+Green+Building+Council" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li> 
+     </ul> 
+    </div> 
+    <div id="left-navigation"> 
+     <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label"> 
+      <h3 id="p-namespaces-label">Namespaces</h3> 
+      <ul> 
+       <li id="ca-nstab-main" class="selected"><span><a href="/wiki/World_Green_Building_Council" title="View the content page [c]" accesskey="c">Article</a></span></li> 
+       <li id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:World_Green_Building_Council&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span><a href="#"></a> </h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="right-navigation"> 
+     <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label"> 
+      <h3 id="p-views-label">Views</h3> 
+      <ul> 
+       <li id="ca-view" class="selected"><span><a href="/wiki/World_Green_Building_Council">Read</a></span></li> 
+       <li id="ca-edit"><span><a href="/w/index.php?title=World_Green_Building_Council&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li> 
+       <li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=World_Green_Building_Council&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch"> 
+        <input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput">
+        <input type="hidden" value="Special:Search" name="title">
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton">
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a>
+    </div> 
+    <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label"> 
+     <h3 id="p-navigation-label">Navigation</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+       <li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label"> 
+     <h3 id="p-interaction-label">Interaction</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label"> 
+     <h3 id="p-tb-label">Tools</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/World_Green_Building_Council" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/World_Green_Building_Council" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=World_Green_Building_Council&amp;oldid=706945292" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=World_Green_Building_Council&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q8035789" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=World_Green_Building_Council&amp;id=706945292" title="Information on how to cite this page">Cite this page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label"> 
+     <h3 id="p-coll-print_export-label">Print/export</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=World+Green+Building+Council">Create a book</a></li>
+       <li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=World+Green+Building+Council&amp;returnto=World+Green+Building+Council&amp;oldid=706945292&amp;writer=rdf2latex">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=World_Green_Building_Council&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label"> 
+     <h3 id="p-lang-label">Languages</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3_%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A_%D9%84%D9%84%D8%A3%D8%A8%D9%86%D9%8A%D8%A9_%D8%A7%D9%84%D8%AE%D8%B6%D8%B1%D8%A7%D8%A1" title="المجلس العالمي للأبنية الخضراء – Arabic" lang="ar" hreflang="ar">العربية</a></li>
+       <li class="uls-p-lang-dummy"><a href="#"></a></li> 
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q8035789#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last modified on 26 February 2016, at 04:28.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-cookiestatement"><a href="//wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=World_Green_Building_Council&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"> <a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"></a> </li> 
+    <li id="footer-poweredbyico"> <a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"></a> </li> 
+   </ul> 
+   <div style="clear:both"></div> 
+  </div> 
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.wikimediaEvents","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script>
+  <script>(window.RLQ = window.RLQ || []).push(function () {
+mw.config.set({"wgBackendResponseTime":76,"wgHostname":"mw1170"}); /* @nomin */
+} );</script>   
+ </body>
+</html>
