@@ -1,5 +1,6 @@
 package crawler;
 
+import org.apache.commons.lang3.text.WordUtils;
 import org.jsoup.Connection;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -13,10 +14,10 @@ import java.util.regex.Pattern;
 
 public class Crawler {
 
+    private static final int MAX_DEPTH_TO_CRAWL = 5;
     private static final int MAX_PAGES_TO_CRAWL = 1000;
     private Map<String, String> crawledPages;
     private List<String> requestQueue;
-    private WebGraph webGraph;
     private StringBuilder urlsList;
 
     public Crawler(String seed) {
@@ -24,10 +25,10 @@ public class Crawler {
         crawledPages = new TreeMap<>(String.CASE_INSENSITIVE_ORDER);
         requestQueue = new LinkedList<>();
         requestQueue.add(seed);
-        webGraph = new WebGraph("WG1");
+        crawl();
     }
 
-    public WebGraph crawl() {
+    private void crawl() {
         // Stop once you've crawled 1000 unique URLs
         while(crawledPages.size() < MAX_PAGES_TO_CRAWL) {
 
@@ -41,7 +42,7 @@ public class Crawler {
                 // Add current page to tree of crawled pages
                 crawledPages.put(currentPage, document.html());
                 urlsList.append(currentPage).append("\n");
-                webGraph.addPage(getDocID(currentPage));
+                //System.out.println("Page Crawled: " + currentPage);
 
                 for(Element link : anchorElements) {
                     // Get the absolute URL from link
@@ -54,13 +55,6 @@ public class Crawler {
                         // Remove # from URLs
                         url = url.split("#")[0];
                         requestQueue.add(url);
-
-                        // Add incoming link to graph
-                        webGraph.addIncomingLink(getDocID(url),
-                                                 getDocID(currentPage));
-                        // Add outgoing link to graph
-                        webGraph.addOutgoingLink(getDocID(url),
-                                                 getDocID(currentPage));
                     }
                 }
             }
@@ -69,16 +63,10 @@ public class Crawler {
             }
         }
 
-        // Clear incoming links not in pages
-        webGraph.cleanInLinks();
-        // Save Graph
-        webGraph.saveGraph();
         // Save URLs
         saveURLs();
         // Save Documents
         saveDocuments();
-
-        return webGraph;
     }
 
     private String getNextPage() {
@@ -93,10 +81,9 @@ public class Crawler {
 
     private void saveURLs() {
         try {
-            FileWriter fileWriter = new FileWriter("output/WG1_urls.txt");
-            BufferedWriter bufferedWriter = new BufferedWriter(fileWriter);
-            bufferedWriter.write(urlsList.toString());
-            bufferedWriter.close();
+            FileWriter urlsFile = new FileWriter("urls_task1.txt");
+            urlsFile.write(urlsList.toString());
+            urlsFile.close();
         }
         catch(IOException e) {
             e.printStackTrace();
@@ -104,22 +91,27 @@ public class Crawler {
     }
 
     private void saveDocuments() {
-        try {
-            FileWriter fileWriter = new FileWriter("output/WG1_docs.txt");
-            BufferedWriter bufferedWriter = new BufferedWriter(fileWriter);
+        FileWriter docsFile;
+        BufferedWriter docsBuffer;
 
-            for (Map.Entry<String, String> entry : crawledPages.entrySet()) {
-                bufferedWriter.write(entry.getKey() + "\n");
-                bufferedWriter.write(entry.getValue() + "\n\n");
+        try {
+            for (Map.Entry<String, String> pairs : crawledPages.entrySet()) {
+                docsFile = new FileWriter("pages/" + getDocID(pairs.getValue()) + ".txt");
+                docsBuffer = new BufferedWriter(docsFile);
+                docsBuffer.write(pairs.getKey() + "\n");
+                docsBuffer.write(pairs.getValue());
+                docsBuffer.close();
             }
-            bufferedWriter.close();
         }
         catch (IOException e) {
             e.printStackTrace();
         }
     }
 
-    private String getDocID(String url) {
-        return url.replace("https://en.wikipedia.org/wiki/", "").toLowerCase();
+    private String getDocID(String content) {
+        Document doc = Jsoup.parse(content);
+        String docID = doc.select("h1#firstHeading").text().replaceAll("[-.]"," ");
+               docID = WordUtils.capitalize(docID).replaceAll("\\s+","");
+        return docID;
     }
 }
