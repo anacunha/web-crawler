@@ -45,16 +45,21 @@ public class Crawler {
                 //System.out.println("Page Crawled: " + currentPage);
 
                 for(Element link : anchorElements) {
-                    // Get the absolute URL from link
-                    String url = link.absUrl("href");
 
-                    // Only follow links with prefix http://en.wikipedia.org/wiki
-                    // Do not include administrative links containing :
-                    if(Pattern.matches("^https?://en\\.wikipedia\\.org/wiki/[^:]*", url)) {
+                    // Only add if it's not a redirect
+                    if (!link.hasClass("mw-redirect")) {
 
-                        // Remove # from URLs
-                        url = url.split("#")[0];
-                        requestQueue.add(url);
+                        // Get the absolute URL from link
+                        String url = link.absUrl("href");
+
+                        // Only follow links with prefix http://en.wikipedia.org/wiki
+                        // Do not include administrative links containing :
+                        if (Pattern.matches("^https?://en\\.wikipedia\\.org/wiki/[^:]*", url)) {
+
+                            // Remove # from URLs
+                            url = url.split("#")[0];
+                            requestQueue.add(url);
+                        }
                     }
                 }
             }
@@ -81,7 +86,7 @@ public class Crawler {
 
     private void saveURLs() {
         try {
-            FileWriter urlsFile = new FileWriter("urls_task1.txt");
+            FileWriter urlsFile = new FileWriter("urls.txt");
             urlsFile.write(urlsList.toString());
             urlsFile.close();
         }
@@ -91,10 +96,10 @@ public class Crawler {
     }
 
     private void saveDocuments() {
-        FileWriter docsFile;
-        BufferedWriter docsBuffer;
-
         try {
+            FileWriter docsFile;
+            BufferedWriter docsBuffer;
+
             for (Map.Entry<String, String> pairs : crawledPages.entrySet()) {
                 docsFile = new FileWriter("pages/" + getDocID(pairs.getValue()) + ".txt");
                 docsBuffer = new BufferedWriter(docsFile);
@@ -112,6 +117,7 @@ public class Crawler {
         Document doc = Jsoup.parse(content);
         String docID = doc.select("h1#firstHeading").text().replaceAll("[-.]"," ");
                docID = WordUtils.capitalize(docID).replaceAll("\\s+","");
+
         return docID;
     }
 }
