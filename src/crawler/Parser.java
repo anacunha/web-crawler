@@ -92,6 +92,7 @@ public class Parser {
         parsedDocStr = parsedDocStr.replaceAll("[()]","");
         parsedDocStr = parsedDocStr.replaceAll("([^\\d])(?![\\-%])\\p{P}+", "$1");
         parsedDocStr = parsedDocStr.replaceAll("([\\d])(?![\\-%])\\p{P}([^\\d])", "$1$2");
+        parsedDocStr = parsedDocStr.replaceAll("\\s+", " ");
 
         // System.out.println(parsedDocStr);
 
