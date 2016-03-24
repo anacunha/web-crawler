@@ -6,6 +6,7 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 
 import java.io.BufferedWriter;
+import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.nio.file.Files;
@@ -16,6 +17,7 @@ public class Parser {
 
     public static void parse() {
         try {
+            createParsedDocsDir();
             Files.walk(Paths.get("pages_downloaded/")).forEach(filePath -> {
                 if (Files.isRegularFile(filePath) && isTextFile(filePath)) {
                     try {
@@ -130,5 +132,17 @@ public class Parser {
 
     private static String removeFirstLine(String string) {
         return string.substring(string.indexOf("\n") + 1);
+    }
+
+    private static void createParsedDocsDir() {
+        File dir = new File("pages_parsed/");
+        if (!dir.exists()) {
+            try {
+                dir.mkdir();
+            }
+            catch (SecurityException e) {
+                e.printStackTrace();
+            }
+        }
     }
 }
