@@ -60,9 +60,9 @@ public class Indexer {
 
         // For each term in document
         for (String term : doc) {
-
-            term.trim();
+            
             // Count number of times it appears on the document
+            term.trim();
 
             if (!isPunctuation(term)) {
                 // If we haven't encountered that term yet, we add it to the map

@@ -96,8 +96,10 @@ public class Parser {
 
         // Remove punctuation from text, but preserve hyphens and punctuation within digits
         parsedDocStr = parsedDocStr.replaceAll("[()]","");
+        parsedDocStr = parsedDocStr.replaceAll("–", "-");
         parsedDocStr = parsedDocStr.replaceAll("([^\\d])(?![\\-%])\\p{P}+", "$1");
         parsedDocStr = parsedDocStr.replaceAll("([\\d])(?![\\-%])\\p{P}([^\\d])", "$1$2");
+        parsedDocStr = parsedDocStr.replaceAll("\u00A0"," ");
         parsedDocStr = parsedDocStr.replaceAll("\\p{javaWhitespace}+", " ");
 
         // System.out.println(parsedDocStr);
