@@ -5,6 +5,8 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 
+import java.io.BufferedWriter;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
@@ -17,7 +19,7 @@ public class Parser {
             Files.walk(Paths.get("pages_downloaded/")).forEach(filePath -> {
                 if (Files.isRegularFile(filePath) && isTextFile(filePath)) {
                     try {
-                        parse(new String(Files.readAllBytes(filePath)));
+                        parse(filePath.getFileName().toString(), new String(Files.readAllBytes(filePath)));
                     }
                     catch (IOException e) {
                         e.printStackTrace();
@@ -30,7 +32,7 @@ public class Parser {
         }
     }
 
-    private static void parse(String document) {
+    private static void parse(String fileName, String document) {
         StringBuilder parsedDoc = new StringBuilder();
 
         // Remove first line from document (contains the URL)
@@ -81,12 +83,34 @@ public class Parser {
         if (furtherReading != null)
             removeAllAfter(furtherReading);
 
-        // System.out.println(parsedDoc.toString());
-
         // Get Plain Textual Content
         parsedDoc.append(doc.select("div#mw-content-text").text());
 
-        // System.out.println(parsedDoc.toString() + "\n");
+        String parsedDocStr = parsedDoc.toString().toLowerCase();
+
+        // Remove punctuation from text, but preserve hyphens and punctuation within digits
+        parsedDocStr = parsedDocStr.replaceAll("([^\\d])(?![\\-%])\\p{P}+", "$1");
+        parsedDocStr = parsedDocStr.replaceAll("([\\d])(?![\\-%])\\p{P}([^\\d])", "$1$2");
+
+        // System.out.println(parsedDocStr);
+
+        // Save document file
+        saveDocumentFile(fileName, parsedDocStr);
+    }
+
+    private static void saveDocumentFile(String fileName, String document) {
+        try {
+            FileWriter docFile;
+            BufferedWriter docBuffer;
+
+            docFile = new FileWriter("pages_parsed/" + fileName);
+            docBuffer = new BufferedWriter(docFile);
+            docBuffer.write(document);
+            docBuffer.close();
+        }
+        catch (IOException e) {
+            e.printStackTrace();
+        }
     }
 
     private static void removeAllAfter(Element element) {
