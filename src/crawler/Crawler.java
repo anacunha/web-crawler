@@ -101,7 +101,7 @@ public class Crawler {
             BufferedWriter docsBuffer;
 
             for (Map.Entry<String, String> pairs : crawledPages.entrySet()) {
-                docsFile = new FileWriter("pages/" + getDocID(pairs.getValue()) + ".txt");
+                docsFile = new FileWriter("pages_downloaded/" + getDocID(pairs.getValue()) + ".txt");
                 docsBuffer = new BufferedWriter(docsFile);
                 docsBuffer.write(pairs.getKey() + "\n");
                 docsBuffer.write(pairs.getValue());

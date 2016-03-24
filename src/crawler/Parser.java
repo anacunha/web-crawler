@@ -1,11 +1,9 @@
 package crawler;
 
 import org.apache.commons.io.FilenameUtils;
-import org.apache.commons.io.IOUtils;
-import org.apache.commons.lang3.StringUtils;
-import org.apache.commons.lang3.text.WordUtils;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
+import org.jsoup.nodes.Element;
 
 import java.io.IOException;
 import java.nio.file.Files;
@@ -16,10 +14,9 @@ public class Parser {
 
     public static void parse() {
         try {
-            Files.walk(Paths.get("pages/")).forEach(filePath -> {
+            Files.walk(Paths.get("pages_downloaded/")).forEach(filePath -> {
                 if (Files.isRegularFile(filePath) && isTextFile(filePath)) {
                     try {
-                        //System.out.println(filePath.getFileName());
                         parse(new String(Files.readAllBytes(filePath)));
                     }
                     catch (IOException e) {
@@ -39,32 +36,66 @@ public class Parser {
         // Remove first line from document (contains the URL)
         Document doc = Jsoup.parse(removeFirstLine(document));
 
-        // Title
+        // Get title
         parsedDoc.append(doc.select("h1#firstHeading").text()).append("\n");
 
         // Remove table of contents
         doc.getElementsByClass("toc").remove();
 
+        // Remove images
+        doc.select("img").remove();
+
         // Remove edit links
         doc.getElementsByClass("mw-editsection").remove();
 
-        // Remove tables
-        // Selecionar o contrario?
-        // Tables que não são da classe wikitable ???
-        doc.select("table").remove();
+        // Remove tables that are not of 'wikitable' class
+        for (Element table : doc.select("table")) {
+            if (!table.hasClass("wikitable")) {
+                table.remove();
+            }
+        }
 
-        // Remove references
+        // Remove links to references
         doc.getElementsByClass("reference").remove();
 
         // Remove thumbnails
         doc.getElementsByClass("thumb").remove();
 
-        // Plain Textual Content
+        // Remove 'See Also'
+        Element seeAlso = doc.getElementById("See_also");
+        if (seeAlso != null)
+            removeAllAfter(seeAlso);
+
+        // Remove 'References'
+        Element references = doc.getElementById("References");
+        if (references != null)
+            removeAllAfter(references);
+
+        // Remove 'External Links'
+        Element externalLinks = doc.getElementById("External_links");
+        if (externalLinks != null)
+            removeAllAfter(externalLinks);
+
+        // Remove 'Further Reading'
+        Element furtherReading = doc.getElementById("Further_reading");
+        if (furtherReading != null)
+            removeAllAfter(furtherReading);
+
+        // System.out.println(parsedDoc.toString());
+
+        // Get Plain Textual Content
         parsedDoc.append(doc.select("div#mw-content-text").text());
 
+        // System.out.println(parsedDoc.toString() + "\n");
+    }
 
-
-        System.out.println(parsedDoc.toString());
+    private static void removeAllAfter(Element element) {
+        Element e = element.parent();
+        while (e != null) {
+            Element sibling = e.nextElementSibling();
+            e.remove();
+            e = sibling;
+        }
     }
 
     private static boolean isTextFile(Path filePath) {
