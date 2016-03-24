@@ -89,6 +89,7 @@ public class Parser {
         String parsedDocStr = parsedDoc.toString().toLowerCase();
 
         // Remove punctuation from text, but preserve hyphens and punctuation within digits
+        parsedDocStr = parsedDocStr.replaceAll("[()]","");
         parsedDocStr = parsedDocStr.replaceAll("([^\\d])(?![\\-%])\\p{P}+", "$1");
         parsedDocStr = parsedDocStr.replaceAll("([\\d])(?![\\-%])\\p{P}([^\\d])", "$1$2");
 
@@ -122,7 +123,7 @@ public class Parser {
         }
     }
 
-    private static boolean isTextFile(Path filePath) {
+    public static boolean isTextFile(Path filePath) {
         return FilenameUtils.getExtension(filePath.getFileName().toString()).equals("txt");
     }
 
