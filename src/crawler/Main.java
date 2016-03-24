@@ -10,5 +10,10 @@ public class Main {
         System.out.println("...");
         Parser.parse();
 
+        System.out.println("\nTask 2: Implementing an inverted indexer and creating inverted indexes");
+        System.out.println("...");
+        Indexer indexer = new Indexer();
+        indexer.index();
+
     }
 }
