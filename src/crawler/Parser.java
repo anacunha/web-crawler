@@ -53,11 +53,12 @@ public class Parser {
         doc.getElementsByClass("mw-editsection").remove();
 
         // Remove tables that are not of 'wikitable' class
-        for (Element table : doc.select("table")) {
-            if (!table.hasClass("wikitable")) {
-                table.remove();
-            }
-        }
+        doc.select("table").remove();
+        //for (Element table : doc.select("table")) {
+        //    if (!table.hasClass("wikitable")) {
+        //        table.remove();
+        //    }
+        //}
 
         // Remove links to references
         doc.getElementsByClass("reference").remove();
@@ -85,6 +86,9 @@ public class Parser {
         if (furtherReading != null)
             removeAllAfter(furtherReading);
 
+        // Remove pronunciation
+        doc.getElementsByClass("IPA").remove();
+
         // Get Plain Textual Content
         parsedDoc.append(doc.select("div#mw-content-text").text());
 
@@ -94,7 +98,7 @@ public class Parser {
         parsedDocStr = parsedDocStr.replaceAll("[()]","");
         parsedDocStr = parsedDocStr.replaceAll("([^\\d])(?![\\-%])\\p{P}+", "$1");
         parsedDocStr = parsedDocStr.replaceAll("([\\d])(?![\\-%])\\p{P}([^\\d])", "$1$2");
-        parsedDocStr = parsedDocStr.replaceAll("\\s+", " ");
+        parsedDocStr = parsedDocStr.replaceAll("\\p{javaWhitespace}+", " ");
 
         // System.out.println(parsedDocStr);
 

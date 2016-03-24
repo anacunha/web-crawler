@@ -53,13 +53,15 @@ public class Indexer {
         }
     }
 
-    public void indexDocument(String docID, String document, int n) {
+    private void indexDocument(String docID, String document, int n) {
         Map<String, Integer> docTermMap = new HashMap<>();
-        String[] doc = document.split("\\s");
+        String[] doc = document.split("\\p{javaWhitespace}");
+        //String[] doc = document.split("\\s");
 
         // For each term in document
         for (String term : doc) {
 
+            term.trim();
             // Count number of times it appears on the document
 
             if (!isPunctuation(term)) {
