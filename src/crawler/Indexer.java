@@ -16,18 +16,18 @@ public class Indexer {
     private Map<String, List<Pair<String, Integer>>> indexUniGram;
     private Map<String, List<Pair<String, Integer>>> indexBiGram;
     private Map<String, List<Pair<String, Integer>>> indexTriGram;
-    private Map<String, Integer> uniGramVocabularySize;
-    private Map<String, Integer> biGramVocabularySize;
-    private Map<String, Integer> triGramVocabularySize;
+    private Map<String, Integer> uniGramWordOccurrences;
+    private Map<String, Integer> biGramWordOccurrences;
+    private Map<String, Integer> triGramWordOccurrences;
 
     public Indexer() {
         indexUniGram = new TreeMap<>(String.CASE_INSENSITIVE_ORDER);
         indexBiGram  = new TreeMap<>(String.CASE_INSENSITIVE_ORDER);
         indexTriGram = new TreeMap<>(String.CASE_INSENSITIVE_ORDER);
 
-        uniGramVocabularySize = new TreeMap<>(String.CASE_INSENSITIVE_ORDER);
-        biGramVocabularySize  = new TreeMap<>(String.CASE_INSENSITIVE_ORDER);
-        triGramVocabularySize = new TreeMap<>(String.CASE_INSENSITIVE_ORDER);
+        uniGramWordOccurrences = new TreeMap<>(String.CASE_INSENSITIVE_ORDER);
+        biGramWordOccurrences  = new TreeMap<>(String.CASE_INSENSITIVE_ORDER);
+        triGramWordOccurrences = new TreeMap<>(String.CASE_INSENSITIVE_ORDER);
     }
 
     public void index() {
@@ -37,8 +37,12 @@ public class Indexer {
             Files.walk(Paths.get("pages_parsed/")).forEach(filePath -> {
                 if (Files.isRegularFile(filePath) && Parser.isTextFile(filePath)) {
                     try {
-                        indexDocument(FilenameUtils.removeExtension(filePath.getFileName().toString()),
-                                      new String(Files.readAllBytes(filePath)), 1);
+                        String docID = FilenameUtils.removeExtension(filePath.getFileName().toString());
+                        String document = new String(Files.readAllBytes(filePath));
+
+                        indexDocument(docID, document, 1);
+                        indexDocument(docID, document, 3);
+                        indexDocument(docID, document, 2);
                     }
                     catch (IOException e) {
                         e.printStackTrace();
@@ -46,7 +50,9 @@ public class Indexer {
                 }
             });
 
-            printIndex();
+            // printIndex(1);
+            // printIndex(2);
+            // printIndex(3);
         }
         catch(IOException e) {
             e.printStackTrace();
@@ -56,15 +62,24 @@ public class Indexer {
     private void indexDocument(String docID, String document, int n) {
         Map<String, Integer> docTermMap = new HashMap<>();
         String[] doc = document.split("\\p{javaWhitespace}");
-        //String[] doc = document.split("\\s");
+        int wordOccurrences = 0;
 
         // For each term in document
-        for (String term : doc) {
-            
-            // Count number of times it appears on the document
-            term.trim();
+        for (int i = 0; i <= doc.length - n; i++) {
 
+            String term = doc[i];
+
+            // Check if first term of word is punctuation
             if (!isPunctuation(term)) {
+
+                // Create n-grams
+                for (int t = 1; t < n; t++) {
+                    term = term + " " + doc[i + t];
+                }
+
+                term = term.trim();
+
+                // Count number of times it appears on the document
                 // If we haven't encountered that term yet, we add it to the map
                 if (!docTermMap.containsKey(term)) {
                     docTermMap.put(term, 1);
@@ -73,25 +88,63 @@ public class Indexer {
                 else {
                     docTermMap.put(term, docTermMap.get(term) + 1);
                 }
+
+                wordOccurrences++;
             }
         }
 
         // Now we add the document's terms and frequencies to the indexer
         for (Map.Entry<String, Integer> term : docTermMap.entrySet()) {
+            addTermToIndex(docID, term, n);
+        }
 
-            // If term doesn't exist on indexer yet, we add it
-            if (!indexUniGram.containsKey(term.getKey())) {
-                indexUniGram.put(term.getKey(), new ArrayList<>());
-            }
+        storeWordOccurrences(docID, wordOccurrences, n);
+    }
 
-            // If indexer already contains that term, we add the term frequency
-            // information for the document to the indexer's inverted list
-            // Add <docID, tf> to HashMap entry for that term
-            indexUniGram.get(term.getKey()).add(new ImmutablePair<>(docID, term.getValue()));
+    private void addTermToIndex(String docID, Map.Entry<String, Integer> term, int n) {
+        Map<String, List<Pair<String, Integer>>> index = getIndex(n);
+
+        // If term doesn't exist on indexer yet, we add it
+        if (index != null && !index.containsKey(term.getKey())) {
+            index.put(term.getKey(), new ArrayList<>());
+        }
+
+        // If indexer already contains that term, we add the term frequency
+        // information for the document to the indexer's inverted list
+        // Add <docID, tf> to HashMap entry for that term
+        if (index != null) {
+            index.get(term.getKey()).add(new ImmutablePair<>(docID, term.getValue()));
         }
 
         // Size of the HashMap will be equal to size of document's vocabulary
-        uniGramVocabularySize.put(docID, docTermMap.size());
+    }
+
+    private void storeWordOccurrences(String docID, int count, int n) {
+        Map<String, Integer> wordOccurrences;
+
+        switch (n) {
+            case 1: wordOccurrences = uniGramWordOccurrences;
+                    break;
+            case 2: wordOccurrences = biGramWordOccurrences;
+                    break;
+            case 3: wordOccurrences = triGramWordOccurrences;
+                    break;
+            default: return;
+        }
+
+        wordOccurrences.put(docID, count);
+    }
+
+    private Map<String, List<Pair<String, Integer>>> getIndex(int n) {
+        if (n == 1) {
+            return indexUniGram;
+        } else if (n == 2) {
+            return indexBiGram;
+        } else if (n == 3) {
+            return indexTriGram;
+        } else {
+            return null;
+        }
     }
 
     private boolean isPunctuation(String s) {
@@ -114,10 +167,12 @@ public class Indexer {
         return invertedList.toString();
     }
 
-    private void printIndex() {
-        for (Map.Entry<String, List<Pair<String, Integer>>> index : indexUniGram.entrySet()) {
-            System.out.print(index.getKey() + " -> ");
-            System.out.println(getInvertedList(index.getValue()));
+    private void printIndex(int n) {
+        Map<String, List<Pair<String, Integer>>> index = getIndex(n);
+
+        for (Map.Entry<String, List<Pair<String, Integer>>> indexEntry : index.entrySet()) {
+            System.out.print(indexEntry.getKey() + " -> ");
+            System.out.println(getInvertedList(indexEntry.getValue()));
         }
     }
 }
