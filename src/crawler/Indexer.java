@@ -4,6 +4,8 @@ import org.apache.commons.io.FilenameUtils;
 import org.apache.commons.lang3.tuple.ImmutablePair;
 import org.apache.commons.lang3.tuple.Pair;
 
+import java.io.File;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
@@ -50,9 +52,14 @@ public class Indexer {
                 }
             });
 
-            // printIndex(1);
-            // printIndex(2);
-            // printIndex(3);
+            createTablesDir();
+            getTermFrequencyTable(1);
+            getTermFrequencyTable(2);
+            getTermFrequencyTable(3);
+
+            //printIndex(1);
+            //printIndex(2);
+            //printIndex(3);
         }
         catch(IOException e) {
             e.printStackTrace();
@@ -173,6 +180,54 @@ public class Indexer {
         for (Map.Entry<String, List<Pair<String, Integer>>> indexEntry : index.entrySet()) {
             System.out.print(indexEntry.getKey() + " -> ");
             System.out.println(getInvertedList(indexEntry.getValue()));
+        }
+    }
+
+    private void getTermFrequencyTable(int n) {
+        Map<String, List<Pair<String, Integer>>> index = getIndex(n);
+
+        if (index != null) {
+            // Table in csv format
+            StringBuilder table = new StringBuilder("term,tf\n");
+
+            // For each term
+            for (Map.Entry<String, List<Pair<String, Integer>>> indexEntry : index.entrySet()) {
+
+                // Total term frequency incrementer
+                int tf = 0;
+
+                // Go through inverted list of (DocID, tf)
+                for (Pair<String, Integer> post : indexEntry.getValue()) {
+
+                    // Sum document term frequency to total term frequency
+                    tf = tf + post.getValue();
+                }
+
+                table.append('"').append(indexEntry.getKey()).append('"').append(',').append(tf).append('\n');
+            }
+
+            // Save in file
+            try {
+                FileWriter fileWriter = new FileWriter("tables/term_frenquency_" + n + "_gram.csv");
+                fileWriter.write(table.toString());
+                fileWriter.close();
+                //System.out.println(table.toString());
+
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+        }
+    }
+
+    private static void createTablesDir() {
+        File dir = new File("tables/");
+        if (!dir.exists()) {
+            try {
+                dir.mkdir();
+            }
+            catch (SecurityException e) {
+                e.printStackTrace();
+            }
         }
     }
 }
