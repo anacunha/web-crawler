@@ -51,15 +51,6 @@ public class Indexer {
                     }
                 }
             });
-
-            createTablesDir();
-            getTermFrequencyTable(1);
-            getTermFrequencyTable(2);
-            getTermFrequencyTable(3);
-
-            //printIndex(1);
-            //printIndex(2);
-            //printIndex(3);
         }
         catch(IOException e) {
             e.printStackTrace();
@@ -142,6 +133,28 @@ public class Indexer {
         wordOccurrences.put(docID, count);
     }
 
+    private void getTotalWordOccurrences(Map<String, Integer> wordOccurrences, int n) {
+
+        int totalWordOccurrences = 0;
+
+        if (wordOccurrences != null) {
+            // Table in csv format
+            // StringBuilder table = new StringBuilder("docID,number of tokens\n");
+
+            // For each document
+            for (Map.Entry<String, Integer> entry : wordOccurrences.entrySet()) {
+
+                // Get number of tokens
+                totalWordOccurrences = totalWordOccurrences + entry.getValue();
+                // table.append('"').append(entry.getKey()).append('"').append(',').append(entry.getValue()).append('\n');
+            }
+
+            // Save in file
+            // saveTable("number_of_tokens_" + n + "_gram.csv", table.toString());
+            System.out.println("Total Word Occurrences for " + n + "-gram corpus: " + totalWordOccurrences);
+        }
+    }
+
     private Map<String, List<Pair<String, Integer>>> getIndex(int n) {
         if (n == 1) {
             return indexUniGram;
@@ -207,19 +220,59 @@ public class Indexer {
             }
 
             // Save in file
-            try {
-                FileWriter fileWriter = new FileWriter("tables/term_frenquency_" + n + "_gram.csv");
-                fileWriter.write(table.toString());
-                fileWriter.close();
-                //System.out.println(table.toString());
-
-            } catch (IOException e) {
-                e.printStackTrace();
-            }
+            saveTable("tables/term_frequency_" + n + "_gram.csv", table.toString());
         }
     }
 
-    private static void createTablesDir() {
+    private void getDocumentFrequencyTable(int n) {
+        Map<String, List<Pair<String, Integer>>> index = getIndex(n);
+
+        if (index != null) {
+            // Table in csv format
+            StringBuilder table = new StringBuilder("term,docID,df\n");
+
+            // For each term
+            for (Map.Entry<String, List<Pair<String, Integer>>> indexEntry : index.entrySet()) {
+
+                // Total term frequency incrementer
+                StringBuilder docs = new StringBuilder("{");
+
+                // Go through inverted list of (DocID, tf)
+                for (Pair<String, Integer> post : indexEntry.getValue()) {
+
+                    docs.append(post.getKey()).append(", ");
+                }
+
+                docs.delete(docs.length() - 2, docs.length());
+                docs.append("}");
+
+                // term
+                table.append('"').append(indexEntry.getKey()).append('"').append(',');
+                // docID
+                table.append('"').append(docs.toString()).append('"').append(',');
+                // df
+                table.append(indexEntry.getValue().size()).append('\n');
+            }
+
+            // Save in file
+            saveTable("tables/document_frequency_" + n + "_gram.csv", table.toString());
+        }
+    }
+
+    private void saveTable(String fileName, String document) {
+        // Save in file
+        try {
+            FileWriter fileWriter = new FileWriter(fileName);
+            fileWriter.write(document);
+            fileWriter.close();
+            //System.out.println(table.toString());
+
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    private void createTablesDir() {
         File dir = new File("tables/");
         if (!dir.exists()) {
             try {
@@ -229,5 +282,18 @@ public class Indexer {
                 e.printStackTrace();
             }
         }
+    }
+
+    public void statistics() {
+        createTablesDir();
+        getTermFrequencyTable(1);
+        getTermFrequencyTable(2);
+        getTermFrequencyTable(3);
+        getDocumentFrequencyTable(1);
+        getDocumentFrequencyTable(2);
+        getDocumentFrequencyTable(3);
+        //getTotalWordOccurrences(uniGramWordOccurrences, 1);
+        //getTotalWordOccurrences(biGramWordOccurrences, 2);
+        //getTotalWordOccurrences(triGramWordOccurrences, 3);
     }
 }
