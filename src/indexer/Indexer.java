@@ -1,8 +1,9 @@
-package crawler;
+package indexer;
 
 import org.apache.commons.io.FilenameUtils;
 import org.apache.commons.lang3.tuple.ImmutablePair;
 import org.apache.commons.lang3.tuple.Pair;
+import parser.Parser;
 
 import java.io.File;
 import java.io.FileWriter;

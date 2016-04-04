@@ -1,4 +1,4 @@
-package crawler;
+package parser;
 
 import org.apache.commons.io.FilenameUtils;
 import org.jsoup.Jsoup;
