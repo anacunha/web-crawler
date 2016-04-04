@@ -1,6 +1,5 @@
 package score;
 
-import java.util.HashMap;
 import java.util.Map;
 
 public class BM25 {
@@ -12,15 +11,13 @@ public class BM25 {
     private static final double b = 0.75;
 
     public static double score(String query, double dl, double avdl, double N,
-                               Map<String, Integer> n, Map<String, Integer> f) {
+                               Map<String, Integer> n, Map<String, Integer> f, Map<String, Integer> qf) {
         double score = 0.0;
         double K = computeK(dl, avdl);
-        Map<String, Integer> qf = getQueryTermFrequency(query);
 
         for (String term : query.split(" ")) {
-
             double ni = n.get(term);
-            double fi = f.get(term);
+            double fi = fi(f, term);
             double qfi = qf.get(term);
 
             score += Math.log(((ri + 0.5) / (R - ri + 0.5)) / ((ni - ri + 0.5) / (N - ni - R + ri + 0.5))) *
@@ -35,17 +32,10 @@ public class BM25 {
         return k1 * ((1 - b) + (b * (dl/avdl)));
     }
 
-    private static Map<String, Integer> getQueryTermFrequency(String query) {
-        Map<String, Integer> termFrequency = new HashMap<>();
-
-        for (String term : query.split(" ")) {
-            if (termFrequency.get(term) == null) {
-                termFrequency.put(term, 1);
-            }
-            else {
-                termFrequency.put(term, termFrequency.get(term) + 1);
-            }
-        }
-        return termFrequency;
+    private static double fi(Map<String, Integer> f, String term) {
+        if(!f.containsKey(term))
+            return 0.0;
+        else
+            return f.get(term);
     }
 }
